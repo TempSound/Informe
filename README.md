@@ -261,8 +261,8 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
     <td style="border: 1px solid #dddddd; padding: 8px;">
         <a href="https://ibb.co/55MPLJC"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" alt="Foto-Victor" border="0"></a>
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Victor</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
   </tr>
    <tr>
