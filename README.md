@@ -15,9 +15,9 @@
 **StartUp Name:** TempoSound
 
 **Product Name:** MusicTime
-### Team Members
-
 <div align='center'>
+  
+**Team Members**
   
 |   Members     |   User    |
 |:-------------:|:---------:|
