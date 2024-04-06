@@ -27,9 +27,8 @@
 |Cipriano Chumbes, Bruce Andres     |u20211d640|
 |Pingus Rodrigez, Carlos Daniel     |u202113280|
 
-</div>
-
  ## 2024-1
+ </div>
 </center>
 
  # Registros de versiones del Informe
