@@ -7,21 +7,21 @@
 
 # Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
-### App web 
-### WS53
-### Angel Augusto Velasquez Nuñez
-### "Informe de Trabajo Final"
-### StartUp Name: CODEX
+### Desarrollo de aplicaciones Open Source 
+### WS52
+### Elio Jefferson  Navarrete Vilca
+### "Informe de TB 1"
+### StartUp Name: TempoSound
 ### Product Name: MusicTime
 ### Team Members
 
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Ballona Blas, Naggit German        |u20201b895|
+|Loarte Matos, Anthony Brahan       |u20211d563|
 |Herrera Castillo, Victor Raul      |u20201e188|
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
-|Muñoz Salcedo, Piero Jhoynner      |u202224446|
-|Manco Cuellar Anthony Ramon        |u201810954|
+|Cipriano Chumbes, Bruce Andres     |u20211d640|
+|Pingus Rodrigez, Carlos Daniel     |u202113280|
 
  ## 2024-1
 </center>
@@ -46,25 +46,25 @@
     <tr>
         <td><strong> 0.2 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Cabrera Camizan, Jeferson Smith
       <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
     </td>
     <tr>
         <td><strong> 0.3 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Pingus Rodrigez, Carlos Daniel 
       <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
     </td>
     <tr>
         <td><strong> 0.4 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Loarte Matos, Anthony Brahan 
       <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
         <td><strong> 0.5 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Cipriano Chumbes, Bruce Andres  
       <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
     </td>
     <tr>
@@ -76,13 +76,13 @@
     <tr>
         <td><strong> 0.7 </strong></td>
           <td> 04/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Cabrera Camizan, Jeferson Smith 
       <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
     </td>
     <tr>
         <td><strong> 0.8 </strong></td>
           <td> 04/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Cipriano Chumbes, Bruce Andres  
       <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
     </td>
     </tr>
@@ -246,8 +246,8 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
-Somos una startup innovadora llamada “Codex” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
-Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
+Somos una startup innovadora llamada “TempoSound” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
+Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
 #### 1.1.2. Perfiles de integrantes del equipo
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -259,7 +259,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" width="800" height="100" style="border-radius: 25%;">
+        <a href="https://ibb.co/55MPLJC"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" alt="Foto-Victor" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
@@ -273,15 +273,8 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
-  </tr>
-     <tr>
-     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_FotoPiero/wnam0ir6cr8z407ck6em.jpg" width="800" height="250" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Muñoz Salcedo Piero Jhoynner</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202224446</td>
+
+   
   </tr>
   
 </table>
