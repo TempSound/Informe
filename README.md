@@ -5,8 +5,7 @@
 </tr>
 <center>
   
-<tr>
-  <div align='center'>
+
 # Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
 ### Desarrollo de aplicaciones Open Source 
@@ -16,7 +15,7 @@
 ### StartUp Name: TempoSound
 ### Product Name: MusicTime
 ### Team Members
-
+<div align='center'>
 |   Members     |   User    |
 |:-------------:|:---------:|
 |Loarte Matos, Anthony Brahan       |u20211d563|
@@ -24,9 +23,7 @@
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
 |Cipriano Chumbes, Bruce Andres     |u20211d640|
 |Pingus Rodrigez, Carlos Daniel     |u202113280|
-    </div>
-</tr>
-<center>
+</div>
  ## 2024-1
 </center>
 
