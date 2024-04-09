@@ -345,7 +345,93 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
+Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
 #### 2.2.1. Diseño de entrevistas.
+**SEGMENTO DE CLIENTE GENERAL**
+
+Preguntas generales:
+
+* ¿Cuál es tu nombre?
+* Cuántos años tienes?
+* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
+* ¿Qué géneros de música le gustan?
+
+Preguntas específicas:
+
+* ¿Con qué frecuencia organizan eventos que requieren entretenimiento musical?
+* ¿Qué criterios utilizan para seleccionar grupos musicales o solistas para sus eventos?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar y contratar talento musical para sus eventos?
+* ¿Qué información consideran crucial al buscar artistas en una plataforma de catálogo de música?
+* ¿Qué características valoran más al utilizar una plataforma de contratación de eventos?
+* ¿Qué tipo de eventos suelen organizar y qué tipo de música prefieren para cada ocasión?
+* ¿Qué herramientas o funciones les gustaría ver en una plataforma para facilitar la organización de eventos y la contratación de artistas?
+* ¿Qué servicios adicionales o recursos creen que serían útiles al planificar eventos que requieran entretenimiento musical?
+
+Preguntas relacionadas al proyecto:
+
+* ¿Qué características de la plataforma encuentran más útiles y por qué?
+* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
+* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
+* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
+* ¿Qué sugerencias tienen para mejorar esa función?
+* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
+
+**SEGMENTO DE BANDAS MUSICALES**
+
+Preguntas generales:
+
+* ¿Cuál es tu nombre?
+* ¿Cuántos años tienes?
+* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
+* ¿Qué géneros de música le gustan?
+
+Preguntas específicas:
+
+* ¿Qué tipo de eventos suelen realizar con más frecuencia?
+* ¿Qué aspectos consideran más importantes al decidir participar en un evento?
+* ¿Qué características valoran más en una plataforma de contratación de eventos?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
+* ¿Cómo gestionan actualmente la promoción de sus eventos y conciertos?
+* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
+* ¿Qué herramientas o funciones les gustaría ver en una plataforma para simplificar la gestión de contratos y eventos?
+* ¿Qué tipo de servicios adicionales o recursos creen que serían útiles para mejorar su carrera musical?
+
+Preguntas relacionadas al proyecto:
+
+* ¿Qué características de la plataforma encuentran más útiles y por qué?
+* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
+* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
+* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
+* ¿Qué sugerencias tienen para mejorar esa función?
+* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
+
+**SEGMENTO DE SOLISTAS**
+
+Preguntas generales:
+* ¿Cuál es tu nombre?
+* ¿Cuántos años tienes?
+* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
+* ¿Qué géneros de música le gustan?
+
+Preguntas específicas:
+
+* ¿Qué tipo de eventos prefieren participar como solistas?
+* ¿Cuáles son los aspectos más importantes que consideran al elegir trabajar con una plataforma de contratación de eventos?
+* ¿Cómo manejan actualmente la promoción de sus actuaciones individuales?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
+* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
+* ¿Qué características o herramientas esperan encontrar en una plataforma para facilitar la gestión de contratos y eventos?
+* ¿Cómo preferirían comunicarse con los clientes potenciales a través de la plataforma?
+* ¿Qué servicios adicionales o recursos creen que podrían beneficiar su carrera como solista?
+
+Preguntas relacionadas al proyecto:
+
+* ¿Qué características de la plataforma encuentran más útiles y por qué?
+* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
+* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
+* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
+* ¿Qué sugerencias tienen para mejorar esa función?
+* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 #### 2.2.2. Registro de entrevistas.
 #### 2.2.3. Análisis de entrevistas.
 
