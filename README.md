@@ -264,10 +264,10 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
+        <a href="https://ibb.co/55MPLJC"><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=6623fa25&is=66118525&hm=e5512b0d61fc42916c162df9ce8c4240d43b15f67c0f67f86c7cdec32bd102af&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Victor</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
   </tr>
    <tr>
