@@ -361,18 +361,14 @@ Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
 
 ### 1.3. Segmentos objetivo.
-**Bandas Musicales de Distintos Géneros:** <br>
-Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
-<br>
 
-**Músicos Independientes:** <br>
-En este segmento están los artistas individuales que trabajan de manera independiente sin pertenecer a una banda o sello discográfico específico. Suelen componer, grabar y producir su propia música, y buscan oportunidades para difundir su trabajo, obtener reconocimiento y establecer colaboraciones con otros músicos y profesionales de la industria. La gestión eficiente de contratos y acuerdos es crucial para su carrera y crecimiento en la industria musical.
-<br>
+**Bandas Musicales de Distintos Géneros y Músicos Independientes:** 
 
-**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:**<br>
-Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, festivales, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. La eficiencia en la gestión contractual y la colaboración con artistas son aspectos clave de su negocio.
+Incluye grupos de músicos, tanto bandas como artistas individuales, que buscan oportunidades para promover su música, obtener oportunidades para presentarse en conciertos y eventos, obtener reconocimiento y gestionar eficientemente contratos y acuerdos en la industria musical.
 
-<br>
+**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:** 
+
+Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. 
 
 ## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
 
