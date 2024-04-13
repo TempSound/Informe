@@ -294,27 +294,69 @@ Tras el análisis sobre diversas oportunidades de negocio que fueron planteadas 
 Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha problematica.
 | Who (Quién)| What (Qué)| When (Cuándo)| Where (Dónde)| Why (Por qué)|
 |--------------------------|-----------------------------------------------------------------|--------------------------|-----------------------------------------------------------------|--------------------------|
-| ¿Quiénes son los miembros de la banda o artistas involucrados en la gestión de contratos? | ¿Qué tipo de contratos suelen firmar las bandas musicales?| ¿Cuándo suelen firmar las bandas musicales contratos con sellos discográficos o agencias de gestión? | ¿Dónde se llevan a cabo las negociaciones y la firma de contratos para las bandas musicales? | ¿Por qué es importante para las bandas musicales tener contratos bien gestionados? |
-| ¿Quienes desempeñan los representantes, agentes o managers en la negociación y firma de contratos? | ¿Qué elementos clave se incluyen en estos contratos?|¿Cuándo comienzan a regir estos contratos y cuál es su duración típica?|¿En qué negocios operan las bandas y dónde se aplican los contratos?| ¿Por qué pueden surgir problemas si los contratos no están claros o equitativos para todas las partes involucradas? |
+| Who are the band members or artists involved in contract management? | What types of contracts do musical bands usually sign?| When do bands usually sign contracts with record labels or management agencies? | Where do negotiations and signing of contracts for musical bands take place? | Why is it important for music bands to have well-managed contracts?|
+| Usualmente cuando son bandas pequeñas el que gestiona los contratos es el líder o guía de la banda que igualmente toca en el grupo, si son cantantes grandes o bandas muy conocidas contratan a un manager para hacer ese proceso. | Pueden hacer contratos por evento o por horas de trabajo que hacen en un evento. | Antes del evento o presentación para establecer los pagos y al culminar se realiza el pago incluso se puede hacer adelantos para confirmar la presentación. | Se llevan de manera presencial con un representante de la banda o el cantante donde se da detalles del evento al cual va participar y como sera el proceso de su pago. | Para no tener dificultades al realizar la presentación y tener bien en claro como se va realizar dicho evento y el proceso de pago.|
+| Who do the representatives, agents or managers play in the negotiation and signing of contracts? | What key elements are included in these contracts?|When do these contracts come into force and what is their typical duration?|Where businesses do the gangs operate in and where do contracts apply?| Why can problems arise if contracts are not clear or equitable for all parties involved? |
+| Puede ser el mismo cantante o alguna empresa que este gestionando el proceso de contratos del grupo o cantante. | Lugar del evento, pago por la presentación, tiempo de la presentación, que elementos adicionales se le brinda como viáticos o que recursos necesita la presentación como luces o estrado.|Dependiendo del evento si es un evento corto se espera que la duración del cumplimiento del contrato sea corto, si es un evento grande como giras o festivales la culminación del contrato puede demorar mucho tiempo.|Operan de manera presencial ya sea teniendo una oficina donde pueda acercarse el cliente, o de manera digital como las redes sociales.| Mala gestión en los eventos o una mala presentación del grupo, como también problemas al recibir el pago si no se queda bien el monto y como pagarlo.|
 
 | How (Cómo)| How much (Cuánto)|
 |----------------------------|--------------------------|
-| ¿Cómo se lleva a cabo el proceso de negociación de contratos para las bandas musicales? | ¿Cuánto dinero suelen implicar los contratos para las bandas musicales?|
-| ¿Cómo se redactan y revisan los contratos para asegurar que reflejen los intereses y derechos de la banda? | ¿Cuántos contratos suelen firmar las bandas en el transcurso de sus carreras y en qué frecuencia? |
+| How is the contract negotiation process for musical bands carried out? | How much money do contracts for musical bands usually involve?|
+| Se lleva de forma de manera tradicional de manera presencial entre cliente y músico, aunque con el avance tecnológico se hace el contacto mediante redes sociales | Es dependiente del publico y al evento que va el músico o banda musical, si son muy conocidos en precio sera alto si están iniciando el precio sera bajo|
+| How are contracts drafted and reviewed to ensure they reflect the interests and rights of the band? | How many contracts do bands typically sign over the course of their careers and at what frequency? |
+| Se redactan de acuerdo a las políticas que tenga el músico o banda musical, viendo el precio y el entorno donde se dará la presentación evidentemente con una reunion con el cliente.| Si son bandas muy conocidas estimamos que pueden recibir mas de 20 contratos al año, para diversos eventos si son poco conocido podría ser de 5 a 10 eventos.|
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
+**Problem Statement 1:** <br>
+Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
+¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
+
+**Problem Statement 2:** <br>
+La misión de nuestra startup era aumentar la eficacia y proactividad en la gestión contractual a través de MusicTime. Sin embargo, hemos notado que la plataforma no está cumpliendo con proporcionar las características avanzadas necesarias, como notificaciones automatizadas y seguimiento de pagos, lo que resulta en una falta de seguimiento adecuado de los contratos y una disminución en la productividad. 
+¿Qué acciones podemos tomar para que los usuarios logren más éxito en la gestión contractual, mediante la implementación de características avanzadas y relevantes?
+
+**Problem Statement 3:** <br>
+Nuestro objetivo con esta startup era generar confianza entre los usuarios y fomentar la adopción continua de la plataforma con MusicTime. Sin embargo, hemos observado que la plataforma no está cumpliendo con garantizar la seguridad de los datos ni ofrecer una experiencia de usuario intuitiva, lo que genera una falta de confianza y reticencia por parte de los usuarios a utilizar la plataforma de manera continua.
 #### 1.2.2.2. Lean UX Assumptions.
+1. Los profesionales de la industria musical están buscando una solución tecnológica integral y fácil de usar para gestionar sus contratos de música de manera más eficiente.
+2. Existe una demanda en el mercado de la industria musical para una plataforma web que centralice y simplifique la gestión de contratos, eliminando procesos manuales y dispersos.
+3. Los usuarios de MusicTime valorarán las características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real para mejorar su eficacia en la gestión contractual.
+4. La usabilidad y la seguridad de los datos son aspectos críticos para los profesionales de la música al elegir una herramienta de gestión de contratos.
+5. MusicTime será percibido como una solución innovadora y necesaria para optimizar la gestión de contratos en la industria de la música, independientemente del tamaño de la empresa o del rol del usuario.
+
+<br> **Business Outcome:** <br>
+* Buscamos la optimización de la gestión de contratos de música para profesionales de la industria musical.
+* Mejoramos la eficiencia en el seguimiento y control de acuerdos contractuales.
+* Queremos incrementar la productividad al eliminar procesos * manuales y dispersos.
+Buscamos la potenciación del éxito y la colaboración en la industria de la música.
+
+<br> **Users:** <br>
+* Músicos independientes.
+* Representantes de bandas musicales.
+* Discográficas multinacionales.
+* Personas en general.
+* Personas que se dedican al negocio de discotecas.
+
+<br> **Features:** <br>
+* Notificaciones automatizadas
+* Recordatorios de vencimiento
+* Seguimiento de pagos
+* Colaboración en tiempo real
+* Almacenamiento centralizado de contratos
+* Interfaz fácil de usar y segura
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
 Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.
 Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
 <br> **Hipótesis 2:** <br>
-Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.
+Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactiva en la gestión contractual de los usuarios.
 Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
 <br> **Hipótesis 3:** <br>
 Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.
 Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
+
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
 
@@ -533,7 +575,7 @@ Tras la entrevista de los segmentos de usuarios el grupo realizo una investigaci
 
 20. *Clearance*: Proceso de obtención de autorización legal para el uso de muestras musicales, fragmentos de canciones u otros elementos protegidos por derechos de autor en la música de la banda.
 
-Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion web de manera mas dinamica y entendible para este sector de negocio en la cual entablamos el proyecto que es la musica.
+Con todos estos terminos y sus definiciones se podra desarrollar la aplicación web de manera mas dinamica y entendible para este sector de negocio en la cual entablamos el proyecto que es la musica.
 
 <br>
 
@@ -555,7 +597,7 @@ Este color representa la frescura y claridad asociadas con la industria musical 
 <br>
 <br>
 Botones de Unirse, Suscribete y Planes: Azul Medio (#4A90E2) y Azul Oscuro (#0073B1)<br>
-Estos tonos de azul transmiten acción y facilitan la navegación, invitando a los usuarios a interactuar con la plataforma desde el primer momento, es por eso que se utilzaran en botones importantes.
+Estos tonos de azul transmiten acción y facilitan la navegación, invitando a los usuarios a interactuar con la plataforma desde el primer momento, es por eso que se utilizaran en botones importantes.
 <br>
 <br>
 Texto: Blanco (#F1F9FF) y Negro (#0F0F0F)<br>
@@ -576,7 +618,7 @@ Este color se utilizará para resaltar aspectos relacionados con la seguridad de
 #### 4.1.2. Web Style Guidelines.
 Tipografía:<br>
 Se utilizará Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)
+![Imagen de letra](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)
 <br>
 <br>
 Imágenes y Gráficos:<br>
@@ -611,7 +653,7 @@ Por Tópicos: Categorizaremos las bandas por género musical, ubicación geográ
 
 Según Audiencia (Grupos de Usuarios): Los diferentes tipos de usuarios, como músicos, promotores y fans, tendrán acceso a secciones específicas diseñadas para satisfacer sus necesidades particulares.
 
-![Esquema de organizacion](https://res.cloudinary.com/djia8bsvr/image/upload/v1712347338/Sistema_de_organizasion_iggeny.png)
+![Esquema de organización](https://res.cloudinary.com/djia8bsvr/image/upload/v1712347338/Sistema_de_organizasion_iggeny.png)
 
 *Página Principal:*
 
