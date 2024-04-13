@@ -414,7 +414,7 @@ Preguntas relacionadas al proyecto:
 * ¿Qué sugerencias tienen para mejorar esa función?
 * En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
-**SEGMENTO DE BANDAS MUSICALES**
+**SEGMENTO DE BANDAS MUSICALES Y MÚSICOS INDEPENDIENTES**
 
 Preguntas generales:
 
@@ -433,26 +433,6 @@ Preguntas específicas:
 * ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
 * ¿Qué herramientas o funciones les gustaría ver en una plataforma para simplificar la gestión de contratos y eventos?
 * ¿Qué tipo de servicios adicionales o recursos creen que serían útiles para mejorar su carrera musical?
-
-Preguntas relacionadas al proyecto:
-
-* ¿Qué características de la plataforma encuentran más útiles y por qué?
-* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
-* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
-* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
-* ¿Qué sugerencias tienen para mejorar esa función?
-* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
-
-**SEGMENTO DE SOLISTAS**
-
-Preguntas generales:
-* ¿Cuál es tu nombre?
-* ¿Cuántos años tienes?
-* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
-* ¿Qué géneros de música le gustan?
-
-Preguntas específicas:
-
 * ¿Qué tipo de eventos prefieren participar como solistas?
 * ¿Cuáles son los aspectos más importantes que consideran al elegir trabajar con una plataforma de contratación de eventos?
 * ¿Cómo manejan actualmente la promoción de sus actuaciones individuales?
@@ -462,6 +442,7 @@ Preguntas específicas:
 * ¿Cómo preferirían comunicarse con los clientes potenciales a través de la plataforma?
 * ¿Qué servicios adicionales o recursos creen que podrían beneficiar su carrera como solista?
 
+
 Preguntas relacionadas al proyecto:
 
 * ¿Qué características de la plataforma encuentran más útiles y por qué?
@@ -470,7 +451,9 @@ Preguntas relacionadas al proyecto:
 * ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
 * ¿Qué sugerencias tienen para mejorar esa función?
 * En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
+
 #### 2.2.2. Registro de entrevistas.
+
 #### 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
