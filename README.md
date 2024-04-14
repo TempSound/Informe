@@ -741,7 +741,13 @@ en el análisis de entrevistas y de la competencia.
 
 #### 2.3.3. User Journey Mapping.
 
+**Segmento 1: Usuarios Individuales (Bandas y Solistas Musicales)**
 <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
+
+**Segmento 2: Empresas y Negocios Relacionados con la Industria Musical**
+
+<img src="https://res.cloudinary.com/dv8a4ngw4/image/upload/v1713085875/Customer_journey_map_1_2_lupyne.png" border="0"></a>
+
 
 #### 2.3.4. Empathy Mapping.
 
