@@ -1241,23 +1241,24 @@ La configuración del entorno de software que usamos en el trabajo es el editor 
 | --------- | --------- |
 |Jeferson Smith Cabrera Camizan  |jeferson11C          |
 |Victor Raul Herrera Castillo    |VictorHerrera10      |
-|Naggit German Ballona Blas      | pieroms210          |
-|Piero Jhoynner Muñoz Salcedo    | NaggitBallona       |
-|Anthony Ramon Manco Cuellar     | x5Anthony           |
+|Loarte Matos, Anthony Brahan      |Anthony07LG       |
+|Cipriano Chumbes, Bruce Andres  | BruceACC      |
+|Pingus Rodrigez, Carlos Daniel    | Kazuto64          |
 
 Evidencia de la creacion del repositorio de trabajo.
-**Enlace del repossitorio:** https://github.com/NaggitBallona/Codex
+**Enlace de la organizacion general:**https://github.com/TempSound
 
+**Enlace del repositorio del informe:** https://github.com/TempSound/Informe/tree/develop
 
-![git](https://res.cloudinary.com/drkelnilg/image/upload/v1713056764/gkzznrkicgwvbntmxr3b.png)
+![git](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo-1_vcnem7.png)
 
 Creacion de las ramas de trabajo (branchs).
 
-![git2](https://res.cloudinary.com/drkelnilg/image/upload/v1713056900/vcyz1nanwhbajbaq10bi.png)
+![git2](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo_2_u4xdlh.png)
 
 Commits de evidencia del trabajo
 
-![git3](https://res.cloudinary.com/drkelnilg/image/upload/v1713056965/yr3l5q20wzabjcly4q5r.png)
+![git3](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo_4_ctiehv.png)
 
 
 
@@ -1328,8 +1329,12 @@ Se  a subido todos los archivos que conforman en landign Page, tanto como los ar
 Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page.
 ![pages2](https://res.cloudinary.com/drkelnilg/image/upload/v1713064253/ziqqlwlsxh5cnxp468wm.png)
 
-**Enlace del landing Page**
+**Enlace del repositorio de landing Page:**
 https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
+
+**Enlace del landing Page:**
+https://tempsound.github.io/MusicTime-lading-page/
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 #### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
