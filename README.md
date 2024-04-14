@@ -877,80 +877,9 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicación 
 ## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
 
 ### 3.1. To-Be Scenario Mapping.
-
-![TO-BE Artista 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712993395/p1dlyktmhht5a1mkoakr.png)
-Se plantea el cuadro y se separa el contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
-
-![TO-BE Artista 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712993978/s1rztujibeljr8kquvzd.png)
-Después de realizar entrevistas con el público objetivo y basándonos en las respuestas obtenidas, hemos formulado una lluvia de ideas sobre lo que busca un artista en el proceso de establecer un contrato con un cliente, considerando aspectos de "doing", "thinking" y "feeling":
-
-![TO-BE Artista 6](https://res.cloudinary.com/drkelnilg/image/upload/v1712994034/dw13it88lmbxwyqxrc0z.png)
-Para finalizar, organizamos e identificamos las ideas formuladas anteriormente según las fases propuestas en el cuadro, que incluyen la preparación del artista para un evento, la presentación en el evento y los resultados posteriores, como el pago por el contrato y la opinión del público.
-
 ### 3.2. User Stories.
-| EP01 | Como organizador de eventos, quiero poder encontrar y contratar músicos de manera eficiente y satisfactoria a través de la  plataforma musical. |
-| --------- | ------------- |
-
-| ID | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACION |
-| ---- | ------ | ----------- | ----------------------- |
-| US01 | Búsqueda de artistas por Género y Disponibilidad | Como organizador de eventos, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | **Escenario 1** Búsqueda Efectiva de Músicos:<br>Dado que un organizador de eventos necesita contratar músicos para un evento, Cuando utiliza la plataforma para buscar músicos, Entonces puede filtrar fácilmente por género musical y disponibilidad. Y como resultado, obtiene una lista precisa de músicos que coinciden con sus criterios de búsqueda.  <br> **Escenario 2** Problemas en la Búsqueda de Músicos: <br>Dado que un organizador de eventos necesita contratar músicos para un evento, Cuando intenta filtrar músicos por género y disponibilidad en la plataforma, Entonces encuentra que el sistema no proporciona resultados precisos. Y el organizador termina contratando a un músico que no cumple con los requisitos necesarios.  |
-| US02 | Acceso Completo a Portfolios de Músicos | Como organizador de eventos, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | **Escenario 1** Acceso Completo a Portfolios de Músicos: <br>Dado que un organizador de eventos necesita evaluar músicos para un evento, Cuando navega por los perfiles de los músicos en la plataforma, Entonces puede acceder fácilmente a sus portfolios, que incluyen videos y grabaciones de alta calidad. Y puede seleccionar al músico perfecto para el evento. <br> **Escenario 2** Problemas de Acceso a Portfolios de Músicos: <br> Dado que un organizador de eventos necesita evaluar músicos para un evento, Cuando intenta acceder al portfolio de un músico en la plataforma, Encuentra que no hay suficiente información disponible. entonces le resulta difícil evaluar la calidad de los músicos |
-| US03 | Comunicación Efectiva con Músicos | Como organizador de eventos, quiero poder enviar mensajes a músicos seleccionados para discutir detalles del evento y negociar términos. | **Escenario 1** Comunicación Efectiva con Músicos: <br>Dado que un organizador de eventos necesita discutir detalles con músicos seleccionados, Cuando utiliza la función de mensajería en la plataforma Entonces puede comunicarse con ellos. Y Los músicos reciben y responden a los mensajes dentro de un plazo razonable. <br> **Escenario 2** Problemas en la Comunicación con Músicos: <br>Dado que un organizador de eventos necesita discutir detalles con músicos seleccionados, Cuando intenta enviar mensajes a través de la plataforma. Entonces los mensajes no se entregan correctamente. Y le resulta imposible comunicarse con los músicos. |
-| US04 | Programación Exitosa de Audiciones con Músicos | Como organizador de eventos, quiero poder programar audiciones con músicos seleccionados para evaluar su talento en persona. | **Escenario 1** Programación Exitosa de Audiciones : <br>Dado que un organizador de eventos necesita evaluar el talento de músicos seleccionados, Cuando utiliza la plataforma para programar audiciones. Entonces recibe confirmaciones detalladas de la fecha, hora y ubicación. Y Las audiciones se llevan a cabo sin problemas. <br> **Escenario 2** Problemas en la Programación de Audiciones: <br> Dado que un organizador de eventos necesita evaluar el talento de músicos seleccionados, Cuando intenta programar una audición a través de la plataforma. Entonces no recibe confirmación de la fecha, hora y ubicación. Y la audición no se lleva a cabo según lo planeado. |
-| US05 | Acceso a Reseñas y Testimonios Auténticos | Como organizador de eventos, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas. | **Escenario 1** Acceso a Reseñas y Testimonios Auténticos: <br>Dado que un organizador de eventos necesita tomar decisiones informadas sobre músicos, Cuando utiliza la plataforma para buscar músicos. Entonces puede acceder fácilmente a reseñas y testimonios auténticos de clientes anteriores sobre cada músico. Y tomar decisiones informadas sobre qué músico contratar. <br> **Escenario 2** Problemas de Acceso a Reseñas y Testimonios: <br> Dado que un organizador de eventos necesita tomar decisiones informadas sobre músicos, Cuando intenta acceder a las reseñas en la plataforma. Entonces no encuentra información disponible. Y le resulta difícil tomar una decisión sobre qué músico contratar. |
-| US06 | Gestión Eficiente de Contratos con Músicos | Como organizador de eventos, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | **Escenario 1** Gestión Eficiente de Contratos con Músicos: <br>Dado que un organizador de eventos necesita formalizar acuerdos con músicos, Cuando utiliza la plataforma para gestionar contratos. Entonces puede acceder fácilmente a contratos personalizables y firmarlos digitalmente. Y garantiza la seguridad y validez de los acuerdos. <br> **Escenario 2** Problemas en la Gestión de Contratos: <br> Dado que un organizador de eventos necesita formalizar acuerdos con músicos, Cuando intenta acceder a los contratos en la plataforma. Entonces no encuentra opciones disponibles. Y tiene dificultades para formalizar acuerdos con los músicos. |
-| US07 | Dejar Feedback Público sobre Actuaciones | Como organizador de eventos, quiero poder dejar feedback sobre la actuación de los músicos después del evento para ayudar a otros organizadores a tomar decisiones informadas. | **Escenario 1** Dejar Feedback Público sobre Actuaciones: <br> Dado que un organizador de eventos desea proporcionar feedback sobre actuaciones de músicos, Cuando utiliza la plataforma para dejar feedback. Entoces este feedback es público y visible para otros organizadores. Y ayuda a otros organizadores a evaluar la calidad y el profesionalismo de los músicos . <br> **Escenario 2** Problemas en la Dejada de Feedback: <br>Dado que un organizador de eventos desea proporcionar feedback sobre actuaciones de músicos, Cuando intenta dejar feedback en la plataforma, Entonces ve que la función no está disponible o no funciona correctamente. Y no puede proporcionar información útil a otros organizadores. |
-| US08 | Recepción de Notificaciones Automáticas sobre Disponibilidad de Músicos | Como organizador de eventos, quiero recibir notificaciones automáticas sobre la disponibilidad de músicos que coincidan con mis criterios de búsqueda, para estar al tanto de nuevas oportunidades. | **Escenario 1** Recepción de Notificaciones Automáticas : <br>Dado que un organizador de eventos desea estar al tanto de nuevas oportunidades, Cuando configura sus preferencias de búsqueda de músicos (género, disponibilidad, ubicación, etc.). Entonces recibe notificaciones automáticas cuando nuevos músicos compatibles se registran en la plataforma. Y asi contactar a músicos para futuros eventos. <br> **Escenario 2** Problemas con Notificaciones sobre Disponibilidad de Músicos: <br> Dado que un organizador de eventos espera recibir notificaciones sobre músicos disponibles. Cuando ingresa al apartdo de notificaciones.Entonces estan no se muestran Y pierde oportunidades de contratar músicos  |
-| US09 | Gestión de Pagos a Músicos de Manera Segura y Oportuna | Como organizador de eventos, quiero poder gestionar los pagos a los músicos directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | **Escenario 1** Gestión de Pagos a Músicos : <br>Dado que un organizador de eventos necesita gestionar pagos a músicos, Cuando utiliza la plataforma para gestionar pagos. Entonces puede ver claramente las tarifas acordadas y realizar pagos de manera segura y oportuna. <br> **Escenario 2** Problemas en la Gestión de Pagos a Músicos: <br> Dado que un organizador de eventos necesita gestionar pagos a músicos, Cuando intenta gestionar pagos en la plataforma, Entonces encuentra dificultades técnicas que impiden realizar transacciones. Y esto genera retrasos en los pagos  |
-| US10 | Soporte Técnico Eficiente en la Plataforma | Como organizador de eventos, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de músicos. | **Escenario 1** Soporte Técnico Eficiente en la Plataforma: <br> Dado que un organizador de eventos necesita asistencia técnica durante el proceso de contratación de músicos, Cuando necesita asistencia técnica en la plataforma, Entonces puede contactar fácilmente con el equipo de soporte técnico Y recibe respuestas rápidas y soluciones efectivas a sus problemas. <br> **Escenario 2** Problemas con el Soporte Técnico en la Plataforma: <br>Dado que un organizador de eventos necesita asistencia técnica en la plataforma, Cuando intenta obtener soporte técnico, No encuentra un canal claro para solicitar ayuda o las respuestas son lentas e ineficaces. Entonces esto genera frustración y dificulta la experiencia en la plataforma. |
-
-
-| EP02 | Como banda, queremos tener acceso a una plataforma de promoción musical robusta y eficiente para potenciar mi carrera artística y aumentar mis oportunidades de contratación. |
-| --------- | ------------- |
-
-| ID  | TITULO                                       | DESCRIPCION                                                                                                         | CRITERIOS DE ACEPTACION                                                                                                                                                                                                                                                                                                                             |
-|-----|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US11 | Creación de Perfil de la banda               | Como banda, queremos crear un perfil en la plataforma para promocionar nuestra música y servicios, completando fácilmente el formulario de registro con información relevante.     | **Escenario 1:** Creación de perfil exitosa <br> Dado que una banda desea promocionar su música y servicios en la plataforma, Cuando proceden a crear un perfil, Entonces pueden completar fácilmente el formulario de registro con la información relevante. Y el perfil es visible para los organizadores de eventos. <br> **Escenario 2:** Registro no disponible <br> Dado que una banda intenta crear un perfil en la plataforma, Cuando encuentran que la función de registro no está disponible o no funciona correctamente, Entonces el perfil no se vuelve visible para los organizadores de eventos. Y la afecta negativamente en su capacidad para conseguir contratos. |
-| US12 | Actualización de Disponibilidad y Calendario  | Como banda, queremos poder actualizar nuestra disponibilidad y calendario de eventos en nuestro perfil para que los organizadores puedan ver fácilmente nuestra agenda al buscarnos.      | **Escenario 1:** Actualización de Disponibilidad y Calendario Exitosa. <br> Dado que una banda busca mantener actualizada su disponibilidad y calendario de eventos en la plataforma, Cuando intentan actualizar esta información en su perfil, Entonces los cambios se registran correctamente en la plataforma. Y los organizadores de eventos pueden ver su disponibilidad actualizada. <br> **Escenario 2:** Falta de Actualización de Información. <br> Dado que una banda intenta actualizar su disponibilidad y calendario de eventos en la plataforma, Cuando los cambios no se reflejan correctamente, Entonces los organizadores de eventos no pueden acceder a la información actualizada, Y dificulta la contratación adecuada de músicos. |
-| US13 | Gestión de Mensajes con Organizadores       | Como banda, queremos recibir y responder mensajes de organizadores de eventos interesados en nuestra música de manera efectiva a través de la plataforma.                             | **Escenario 1:** Comunicación con Organizadores Efectiva. <br> Dado que una banda espera recibir y responder mensajes de organizadores, Cuando esperan utilizar la plataforma para esta comunicación, Entonces reciben notificaciones y los mensajes se entregan correctamente. Y esto facilita la comunicación efectiva con los organizadores. <br> **Escenario 2:** Problemas de Comunicación. <br> Dado que una banda espera comunicarse con organizadores interesados a través de la plataforma, Cuando los mensajes no se entregan adecuadamente o no reciben notificaciones, Entonces enfrentan dificultades para mantener una comunicación efectiva. Y afecta negativamente su capacidad para asegurar contratos. |
-| US14 | Programación de Audiciones y Reuniones       | Como banda, queremos poder programar audiciones o reuniones con organizadores de eventos interesados para discutir detalles y términos del evento.                                 | **Escenario 1:** Programación de Audiciones Exitosa. <br> Dado que una banda desea programar audiciones o reuniones con organizadores interesados, Cuando utilizan la plataforma para este propósito, Entonces reciben confirmaciones detalladas de fecha, hora y ubicación. Y las reuniones se llevan a cabo según lo planeado. <br> **Escenario 2:** Problemas con la Programación. <br> Dado que una banda intenta programar audiciones o reuniones con organizadores a través de la plataforma, Cuando no reciben confirmación o detalles sobre la reunión, Entonces la interacción no se lleva a cabo correctamente, lo que impacta negativamente en sus oportunidades de contratación. |
-| US15 | Gestión y Firma de Contratos                  | Como banda, queremos gestionar y firmar contratos con organizadores de eventos directamente desde la plataforma, accediendo a contratos personalizables y utilizando la función de firma digital. | **Escenario 1:** Gestión y Firma de Contratos Exitosa. <br> Dado que una banda desea gestionar y firmar contratos con organizadores de eventos, Cuando utilizan la plataforma con este fin, Entonces encuentran disponible la función de gestión de contratos. Esto facilita formalizar acuerdos y afecta positivamente su capacidad para conseguir conciertos. <br> **Escenario 2:** Acceso Limitado a Contratos. <br> Dado que una banda intenta acceder a la función de gestión de contratos en la plataforma, Cuando encuentran que no está disponible o no funciona correctamente, Entonces tienen dificultades para formalizar acuerdos con los organizadores, Y perjudica en su capacidad para asegurar contratos. |
-| US16 | Recepción de Feedback y Evaluación            | Como banda, queremos recibir feedback de los organizadores después de nuestras actuaciones para mejorar nuestro trabajo y servicios.                                                  | **Escenario 1:** Recepción de Feedback Exitosa. <br> Dado que una banda espera recibir feedback después de sus actuaciones en la plataforma, Cuando utilizan la plataforma para esto, Entonces encuentran disponible la función para recibir feedback. Como resultado, pueden mejorar su trabajo y servicios en base a las evaluaciones. <br> **Escenario 2:** Limitaciones en la Retroalimentación <br> Dado que una banda espera recibir feedback después de sus actuaciones en la plataforma, Cuando la función de feedback no está disponible o no funciona correctamente, Entonces enfrentan dificultades para mejorar su trabajo y reputación, Y afecta su capacidad para conseguir contratos. |
-| US17 | Promoción de Música y Eventos                | Como banda, queremos poder promocionar nuestra música y eventos en la plataforma mediante la creación y compartición de publicaciones que aumenten nuestra visibilidad.               | **Escenario 1:** Promoción Efectiva. <br> Dado que una banda busca promocionar su música y eventos en la plataforma, Cuando utilizan la función de publicaciones para este propósito, Entonces las publicaciones se crean y comparten correctamente, aumentando su visibilidad y llegando a nuevos organizadores de eventos. <br> **Escenario 2:** Problemas con la Promoción. <br> Dado que una banda busca promocionar su música y eventos en la plataforma, Cuando encuentran problemas técnicos al crear publicaciones, Entonces tienen dificultades para llegar a nuevos organizadores, Y perjudica sus oportunidades de contratación. |
-| US18 | Visualización de Estadísticas Detalladas     | Como banda, queremos visualizar estadísticas detalladas sobre el desempeño de nuestras publicaciones y eventos en la plataforma para comprender el alcance de nuestra promoción.     | **Escenario 1:** Acceso a Estadísticas de Desempeño. <br> Dado que una banda desea visualizar estadísticas detalladas sobre el desempeño de sus publicaciones y eventos en la plataforma, Cuando acceden a las estadísticas, Entonces las métricas se cargan correctamente y son útiles para comprender el alcance de la promoción. Como resultado, pueden tomar decisiones informadas para mejorar su visibilidad. <br> **Escenario 2:** Problemas con las Estadísticas. <br> Dado que una banda intenta acceder a las estadísticas de su perfil en la plataforma, Cuando las métricas no se cargan correctamente o son inexactas, Entonces enfrentan dificultades para evaluar el rendimiento de sus promociones, Y disminuye su visibilidad. |
-| US19 | Creación de Ofertas y Descuentos Personalizados | Como banda, queremos crear ofertas y descuentos personalizados para promocionar nuestros servicios musicales y aumentar nuestras oportunidades de contratación.               | **Escenario 1:** Creación de Ofertas y Descuentos Exitosa. <br> Dado que una banda desea crear ofertas y descuentos personalizados en la plataforma, Cuando utilizan la función de creación de ofertas, Entonces las ofertas se crean correctamente y están disponibles para promocionar sus servicios. Y esto aumenta sus oportunidades de contratación. <br> **Escenario 2:** Problemas con Ofertas y Descuentos. <br> Dado que una banda intenta crear ofertas y descuentos en la plataforma, Cuando encuentran que la función no está disponible o no opera correctamente, Entonces tienen dificultades para implementar estrategias de promoción efectivas, Y no puede atraer nuevos contratos. |
-| US20 | Integración de Perfiles de Streaming Musical  | Como banda, queremos integrar nuestros perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con nuestro perfil en la plataforma de promoción para permitir a los organizadores de eventos escuchar fácilmente nuestro trabajo. | **Escenario 1:** Integración de Streaming Exitosa. <br> Dado que una banda desea integrar sus perfiles de streaming en la plataforma de promoción, Cuando realizan la integración, Entonces los perfiles de streaming se muestran correctamente en su perfil, permitiendo a los organizadores de eventos escuchar fácilmente su trabajo. Y aumenta la visibilidad de su música y las oportunidades de contratación. <br> **Escenario 2:** Problemas con la Integración de Streaming. <br> Dado que una banda intenta conectar sus perfiles de streaming en la plataforma de promoción, Cuando la integración no se realiza correctamente o los perfiles no se muestran adecuadamente, Entonces su música no está disponible. Y no podrá ser escuchada por los organizadores de eventos. |
-
-
-| EP03 |Como solista, quiero una plataforma optimizada para organizar actuaciones, recibir notificaciones relevantes, gestionar mis finanzas de forma transparente, acceder a estadísticas detalladas y participar en redes de colaboración creativa.|
-| --------- | ------------- |
-
-| ID | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACION |
-| ---- | ------ | ----------- | ----------------------- |
-| US21 | Creación de Setlists Personalizados | Como solista, quiero crear setlists personalizados en la plataforma para organizar mis actuaciones y presentaciones de manera eficiente. | **Escenario 1:** Creación de Setlists Exitosa.<br> Dado que un solista desea organizar sus actuaciones, Cuando crea un setlist personalizado en la plataforma, Entonces puede agregar y reorganizar canciones fácilmente. Y el solista puede prepararse mejor para sus presentaciones. <br> **Escenario 2:** Problemas con la Creación de Setlists.<br> Dado que un solista intenta crear un setlist en la plataforma, Cuando encuentra errores en la función de edición o la lista no se guarda correctamente, Entonces el solista no puede organizar sus actuaciones de manera efectiva. Y afecta la calidad de sus presentaciones. |
-| US22 | Recepción de Notificaciones de Oportunidades | Como solista, quiero recibir notificaciones automáticas sobre nuevas oportunidades de actuación y colaboración en la plataforma. | **Escenario 1:** Recepción de Notificaciones Efectivas.<br> Dado que un solista espera estar al tanto de nuevas oportunidades, Cuando configura sus preferencias de notificación en la plataforma, Entonces recibe notificaciones oportunas sobre actuaciones y colaboraciones relevantes. Y el solista puede responder rápidamente a nuevas oportunidades. <br> **Escenario 2:** Problemas con las Notificaciones.<br> Dado que un solista espera recibir notificaciones sobre nuevas oportunidades, Cuando las notificaciones no se entregan o son poco claras, Entonces el solista puede perder oportunidades importantes debido a la falta de información actualizada. |
-| US23 | Gestión de Finanzas y Pagos | Como solista, quiero gestionar mis finanzas y pagos de actuaciones directamente desde la plataforma para una mayor transparencia y eficiencia. | **Escenario 1:** Gestión de Finanzas Exitosa.<br> Dado que un solista desea administrar sus pagos, Cuando utiliza la función de gestión financiera en la plataforma, Entonces puede ver claramente las transacciones y pagos realizados.  <br> **Escenario 2:** Problemas con la Gestión de Pagos.<br> Dado que un solista intenta gestionar sus finanzas en la plataforma, Cuando encuentra errores en la función de pago o las transacciones no se registran correctamente, Entonces el solista enfrenta dificultades para mantener un registro financiero preciso, Y le puede afectar su estabilidad económica. |
-| US24 | Visualización de Estadísticas de Audiencia | Como solista, quiero acceder a estadísticas detalladas sobre el rendimiento de mis actuaciones y presentaciones en la plataforma. | **Escenario 1:** Visualización de Estadísticas Exitosa.<br> Dado que un solista desea evaluar el rendimiento de sus actuaciones, Cuando accede a estadísticas detalladas en la plataforma, Entonces puede ver métricas como audiencia, interacción y feedback recibido. Y asi obtiene información valiosa para mejorar su trabajo y promoción. <br> **Escenario 2:** Problemas con las Estadísticas.<br> Dado que un solista intenta acceder a estadísticas de audiencia en la plataforma, Cuando las métricas no se cargan correctamente o no son precisas, Entonces el solista no puede evaluar adecuadamente su rendimiento. Y lo limita las oportunidades de mejora. |
-| US25 | Participación en Redes de Colaboración | Como solista, quiero unirme a redes de colaboración en la plataforma para conectar con otros músicos y explorar nuevas oportunidades creativas. | **Escenario 1:** Participación en Redes de Colaboración Exitosa.<br> Dado que un solista desea colaborar con otros músicos, Cuando solicita unirse a redes de colaboración en la plataforma, Entonces recibe acceso a nuevas oportunidades creativas y conexiones con otros artistas. Y,el puede ampliar su red profesional y explorar proyectos colaborativos. <br> **Escenario 2:** Problemas con la Participación en Redes.<br> Dado que un solista intenta unirse a redes de colaboración en la plataforma, Cuando encuentra dificultades técnicas o su solicitud no es procesada correctamente, Entonces el solista no puede acceder a nuevas oportunidades de colaboración. |
-
-
-
 ### 3.3. Impact Mapping.
-
-En este segmento se presentarán el user goal tanto como para los musicos como para el organizador de eventos.
-<br><br>
-En primer lugar tenemos el user goal 1: Lograr una tasa de contratación de músicos del 80% en eventos organizados en la plataforma en un plazo de 8 meses.<br>
-User persona 1: Organizador de eventos.<br>
-<br>
-Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de músicos en la plataforma un 30% cada trimestre.<br>
-User persona 2: Banda o Músico independiente.
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
-
 ### 3.4. Product Backlog.
-El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.<br>
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_product/lcmwkgbby24misie6lip.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_impact2/xhh31t5uj5xwbjcdjjd7.jpg)
-<br>
 
 <br>
 
@@ -1296,28 +1225,60 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ![web 19](https://res.cloudinary.com/drkelnilg/image/upload/v1712998820/mcv1voezdq8r1bkjjlpw.png)
 
 ![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
-#### 4.4.2. Web Applications Wireflow Diagrams.
-
-
-
-#### 4.4.2. Web Applications Mock-ups.
-#### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
+
+![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
+
+Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI-(Copy)-(Copy)-(Copy)?type=design&node-id=45816-969&t=HXSzEJFodMR3vk47-0&scaling=min-zoom&page-id=45348%3A1263&starting-point-node-id=45816%3A969
+
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
-<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083546119835840/74a58c53-0845-4a3e-8576-2b206bababd6.png?ex=662e6440&is=661bef40&hm=f4db0fc77b225fb7f5e806a5e6f736f142ea4886bb0077902719498be47b8b6e&=&format=webp&quality=lossless&width=719&height=603"></a>
+
+<img src="https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png" alt="structurizr-90691-Context" border="0">
+
 #### 4.6.2. Software Architecture Container Diagrams.
-<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083576767615107/cb9491d1-7f83-41f3-8f51-a2390b6a7392.png?ex=662e6447&is=661bef47&hm=70f2621704698e110ee32290b95472c16178ebed74f46e9dc29ceb70d3a882c7&=&format=webp&quality=lossless&width=474&height=350"></a>
+
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069021/Untitled_x1j7ly.png) 
+
 #### 4.6.3. Software Architecture Components Diagrams.
-<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083603955224678/a7fd0841-69e1-4d2d-91ef-f0cacb736da6.png?ex=662e644e&is=661bef4e&hm=ebb1ce425990ba4659fc4786b78a8131eb44c6583e65698038157dbbef14dd4a&=&format=webp&quality=lossless&width=509&height=350"></a>
+
+![SACD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069840/Untitled_1_rzpcpf.png)
+
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
-#### 4.7.2. Class Dictionary.
+
+**Diagrama de clase de bounded context "Identity and Access Management"**
+
+![DC-IAM](https://res.cloudinary.com/djia8bsvr/image/upload/v1713059291/IAM-MusicTime_i7ocxm.png)
+
+Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en la cual podemos gestionar el registro de usuarios y clientes dentro de la plataforma de esta manera identificar y separa quienes pertenecen a clientes normales a empresas que realizan contratos continuos habilitando con el plan esas funciones.
+
+**Diagrama de clase de bounded context "Suscripcion and payment"**
+
+![DC-SP](https://res.cloudinary.com/djia8bsvr/image/upload/v1713051544/WhatsApp_Image_2024-04-13_at_12.58.39_AM_zclpbg.jpg)
+Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
+
+**Diagrama de clase de bounded context "Social Interaction and Feedback"**
+
+![DC-SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1713064605/SocialInteraction_mdlu1v.png)
+Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
+
+**Diagrama de clase de bounded context "Managment of musician profiles"**
+
+![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
+Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
+
+**Diagrama de clase de bounded context "Contract Managment"**
+
+![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
+Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
+
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
-<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083102496690186/62d3dde9-2054-4bc6-bd3e-ba78a236f648.png?ex=662e63d6&is=661beed6&hm=212813c36b1bcc93979f5704934acf70952cacbd0357923ef40ce3cecdadad8b&=&format=webp&quality=lossless&width=725&height=603"></a>
 
+![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/MusicTime-2024-04-13_21-27_twem3q.png)
 <br>
+
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
@@ -1336,8 +1297,7 @@ La configuración del entorno de software que usamos en el trabajo es el editor 
 |Pingus Rodrigez, Carlos Daniel    | Kazuto64          |
 
 Evidencia de la creacion del repositorio de trabajo.
-
-**Enlace de la organizacion general:** https://github.com/TempSound
+**Enlace de la organizacion general:**https://github.com/TempSound
 
 **Enlace del repositorio del informe:** https://github.com/TempSound/Informe/tree/develop
 
@@ -1350,6 +1310,8 @@ Creacion de las ramas de trabajo (branchs).
 Commits de evidencia del trabajo
 
 ![git3](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo_4_ctiehv.png)
+
+
 
 
 #### 5.1.3. Source Code Style Guide & Conventions.
@@ -1425,12 +1387,19 @@ https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
 https://tempsound.github.io/MusicTime-lading-page/
 
 ### 5.2. Landing Page, Services & Applications Implementation.
+
 #### 5.2.1. Sprint n
+
 #### 5.2.1.1. Sprint Planning n.
+
 #### 5.2.1.2. Sprint Backlog n.
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
