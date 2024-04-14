@@ -1234,17 +1234,17 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
+<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083546119835840/74a58c53-0845-4a3e-8576-2b206bababd6.png?ex=662e6440&is=661bef40&hm=f4db0fc77b225fb7f5e806a5e6f736f142ea4886bb0077902719498be47b8b6e&=&format=webp&quality=lossless&width=719&height=603"></a>
 #### 4.6.2. Software Architecture Container Diagrams.
+<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083576767615107/cb9491d1-7f83-41f3-8f51-a2390b6a7392.png?ex=662e6447&is=661bef47&hm=70f2621704698e110ee32290b95472c16178ebed74f46e9dc29ceb70d3a882c7&=&format=webp&quality=lossless&width=474&height=350"></a>
 #### 4.6.3. Software Architecture Components Diagrams.
+<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083603955224678/a7fd0841-69e1-4d2d-91ef-f0cacb736da6.png?ex=662e644e&is=661bef4e&hm=ebb1ce425990ba4659fc4786b78a8131eb44c6583e65698038157dbbef14dd4a&=&format=webp&quality=lossless&width=509&height=350"></a>
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 #### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
-
-<div align='center'>
-    <img src="https://media.discordapp.net/attachments/1065461786301714483/1229083102496690186/62d3dde9-2054-4bc6-bd3e-ba78a236f648.png?ex=662e63d6&is=661beed6&hm=212813c36b1bcc93979f5704934acf70952cacbd0357923ef40ce3cecdadad8b&=&format=webp&quality=lossless&width=725&height=603">
-    </div>
+<img src="https://media.discordapp.net/attachments/1065461786301714483/1229083102496690186/62d3dde9-2054-4bc6-bd3e-ba78a236f648.png?ex=662e63d6&is=661beed6&hm=212813c36b1bcc93979f5704934acf70952cacbd0357923ef40ce3cecdadad8b&=&format=webp&quality=lossless&width=725&height=603"></a>
 
 <br>
 
