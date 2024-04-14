@@ -386,7 +386,22 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 
 </center> 
 
-#### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+* **Diferenciación a través de Características Avanzadas:** Adoptaremos una estrategia centrada en resaltar las características únicas y avanzadas de MusicTime en comparación con nuestros competidores. Nuestras tácticas incluirán la promoción activa de funciones como notificaciones automatizadas, seguimiento de pagos y almacenamiento centralizado de contratos, destacando cómo estas características proporcionan una experiencia superior para los usuarios.
+
+* **Marketing Centrado en la Seguridad y Confianza:** Desarrollaremos una estrategia de marketing que se centre en la seguridad de datos y la confianza del usuario. Nuestras tácticas incluirán la creación de campañas publicitarias que destaquen nuestra dedicación a la protección de la privacidad del usuario y la seguridad de la información, estableciendo así una ventaja competitiva en un mercado donde la confianza es fundamental.
+
+* **Enfoque en la Experiencia del Usuario:** Implementaremos una estrategia que priorice la experiencia del usuario en todas las etapas de su interacción con la plataforma. Nuestras tácticas incluirán la personalización de la interfaz de usuario para adaptarse a las preferencias individuales de cada usuario, así como la provisión de un servicio de atención al cliente receptivo y eficiente para abordar rápidamente cualquier problema o inquietud.
+
+* **Colaboraciones Estratégicas:** Buscaremos establecer colaboraciones estratégicas con artistas, sellos discográficos y promotores de eventos musicales para aumentar nuestra visibilidad y credibilidad en la industria musical. Nuestras tácticas incluirán la organización de eventos conjuntos, la creación de contenido promocional en colaboración y la participación en asociaciones con organizaciones relevantes en el sector musical.
+
+* **Flexibilidad de Precios y Planes:** Desarrollaremos una estrategia de precios que ofrezca flexibilidad y opciones atractivas para nuestros usuarios. Nuestras tácticas incluirán la introducción de planes de suscripción con diferentes niveles de funcionalidad, así como la exploración de modelos de precios innovadores que se ajusten a las necesidades y presupuestos de nuestros diversos segmentos de usuarios.
+
+* **Desarrollo Ágil y Mejora Continua:** Implementaremos una estrategia de desarrollo ágil que nos permita adaptarnos rápidamente a los cambios en el mercado y las necesidades de los usuarios. Nuestras tácticas incluirán la implementación de ciclos de desarrollo cortos y la recopilación activa de comentarios de los usuarios para impulsar mejoras continuas en la plataforma.
+
+Estas estrategias y tácticas están diseñadas para posicionar a MusicTime como líder en el mercado de la gestión de contratos de música, diferenciándonos de nuestros competidores y brindando un valor excepcional a nuestros usuarios.
+
 ### 2.2. Entrevistas.
 Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
 #### 2.2.1. Diseño de entrevistas.
