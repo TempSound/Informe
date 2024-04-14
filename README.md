@@ -248,45 +248,7 @@
 <br>
 
 ## CAPITULO 1: INTRODUCCIÓN
-
 ### 1.1. Startup Profile
-#### 1.1.1. Descripción de la Startup
-Somos una startup innovadora llamada “TempoSound” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
-Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
-#### 1.1.2. Perfiles de integrantes del equipo
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
-  </tr> 
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-        <a href="https://ibb.co/55MPLJC"><img src="https://media.discordapp.net/attachments/1226220586057994354/1226220834721366056/1712424218919.jpg?ex=6623fa25&is=66118525&hm=e5512b0d61fc42916c162df9ce8c4240d43b15f67c0f67f86c7cdec32bd102af&=&format=webp&width=452&height=603" alt="Foto-Carlos" border="0"></a>
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
-  </tr>
-   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
-  </tr>
-       <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="[https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/drkelnilg/image/upload/v1713055510/oa9dtwwobytypir1vpnc.png" alt="Foto-Jeff" border="0"></a>
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Cabrera Camizan, Jeferson Smith</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estudiante universitario de la carrera de ingeniería de software. Me gusta trabajar en conjunto para el desarrollo del proyecto. cuento con conocimientos en lenguajes html, css, js, c++ y Agile Project Managment. 
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211c211</td>
-  ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
 Somos una startup innovadora llamada “TempoSound” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
 Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
