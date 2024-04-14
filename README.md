@@ -621,6 +621,21 @@ Preguntas relacionadas al proyecto:
 * En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
 #### 2.2.2. Registro de entrevistas.
+**Entrevista #1:**
+
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229078493476950127/image.png?ex=662e5f8c&is=661bea8c&hm=5d80279fa1ec5503837499cbd13a1de2efd26d85629f0182ad2f6b58e6b29594&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Rey Alejandro
+- Edad:  20
+- Ubicación: lima
+- Duración de la entrevista: 12.27 minutos
+- Breve descripción: <br><br>
+	 está buscando emprender un negocio relacionado con la contratación de artistas musicales. Su idea es crear una plataforma que facilite la conexión entre artistas y quienes deseen contratarlos. Quiere agregar funciones de filtrado y seguridad para garantizar transacciones exitosas. Además, planea incluir la opción de ver el portafolio de los artistas y permitir colaboraciones en tiempo real. Edgar Quispe Vargas, un músico de 48 años de Puno, Perú, expresó interés en la propuesta de negocio de Rey Alejandro, pero señaló que el precio podría ser un obstáculo para grupos musicales con menos recursos.<br><br>
+
+
+Link de la entrevista: limk:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
+---
+
  **Entrevista #2:**
 
 <a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
