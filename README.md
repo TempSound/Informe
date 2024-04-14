@@ -1682,7 +1682,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 
 <tr>
     <td>US03</td>
-    <td>Mostrar sobre nosotros</td>
+    <td>Mostrar sobre nuestro producto</td>
     <td>T06</td>
     <td>Mostrar información sobre nuestra startup</td>
     <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
@@ -1693,7 +1693,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 
 <tr>
     <td>US04</td>
-    <td>Mostrar sobre nuestro producto</td>
+    <td>Mostrar la seccion unete</td>
     <td>T07</td>
     <td>Mostrar tarjetas de nuestro producto</td>
     <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
@@ -1704,7 +1704,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 
 <tr>
     <td>US05</td>
-    <td>Mostrar sección de reseñas de usuario</td>
+    <td>Mostrar opcion de cambio de idioma</td>
     <td>T08</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
     <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
