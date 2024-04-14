@@ -630,10 +630,11 @@ Preguntas relacionadas al proyecto:
 - Ubicación: lima
 - Duración de la entrevista: 12.27 minutos
 - Breve descripción: <br><br>
-	 está buscando emprender un negocio relacionado con la contratación de artistas musicales. Su idea es crear una plataforma que facilite la conexión entre artistas y quienes deseen contratarlos. Quiere agregar funciones de filtrado y seguridad para garantizar transacciones exitosas. Además, planea incluir la opción de ver el portafolio de los artistas y permitir colaboraciones en tiempo real. Edgar Quispe Vargas, un músico de 48 años de Puno, Perú, expresó interés en la propuesta de negocio de Rey Alejandro, pero señaló que el precio podría ser un obstáculo para grupos musicales con menos recursos.<br><br>
+	 está buscando emprender un negocio relacionado con la contratación de artistas musicales. Su idea es crear una plataforma que facilite la conexión entre artistas y quienes deseen contratarlos. Quiere agregar funciones de filtrado y seguridad para garantizar transacciones exitosas. Además, planea incluir la opción de ver el portafolio de los artistas y permitir colaboraciones en tiempo real. recursos.<br><br>
 
 
-Link de la entrevista: limk:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
+
 ---
 
  **Entrevista #2:**
@@ -1528,15 +1529,14 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 **Contributors**
 
-![Page 8](https://cdn.discordapp.com/attachments/891176117204054068/1228893722545094676/image.png?ex=662db377&is=661b3e77&hm=72d756976687040d87ab0d3c046ec5b6417938215520a12c2621186acc8e491c&)
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
 
 **Network graph**
 
-![Page 9]( https://cdn.discordapp.com/attachments/891176117204054068/1228893839570505848/1a8dc710-1d20-48bb-8db8-f49d3a27eeff.png?ex=662db393&is=661b3e93&hm=3195070bdcc356d921cca79e337eabcd83e046d4e92b3fd24bd6d260bdc74065&)
-![Page 9]( https://cdn.discordapp.com/attachments/891176117204054068/1228893882411126824/0fa8d7e1-6512-437e-b8d8-728abfaae517.png?ex=662db39d&is=661b3e9d&hm=07df3f5ab253a9f474ed3068dd4d30b897fcb1fa1add2e35b279ce065d2e174a&)
-![Page 9](https://cdn.discordapp.com/attachments/891176117204054068/1228893915298398269/036ec3ab-5073-4fd0-bc2a-e396edd0e9bd.png?ex=662db3a5&is=661b3ea5&hm=08461e4248d4b88ff734512776b825cc7c8413309109655949483ff3b042595e& )
-![Page 9](https://cdn.discordapp.com/attachments/891176117204054068/1228893946017484940/e9d5f2e0-1fc5-4042-bd34-af2820956462.png?ex=662db3ac&is=661b3eac&hm=55d9ac84c8febc88fd5f952ad0a0e3a1dbec1a72b81fde22ff9fdee2ba4a90f0& )
-![Page 9](https://cdn.discordapp.com/attachments/891176117204054068/1228893972022431745/8c983039-d22e-4e0a-a8c3-fe8eda024d86.png?ex=662db3b2&is=661b3eb2&hm=99092ffa7c4a29a0ce53daed7d039eda3eb29742adb029eef061aa8ccf528a56& )
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+
+
 
 <br>
 
