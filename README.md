@@ -755,6 +755,22 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e
 
 ---
 
+**Entrevista #4:**
+
+<a><img src="https://cdn.discordapp.com/attachments/1065461786301714483/1229142360324313169/image.png?ex=662e9b07&is=661c2607&hm=e214c77149de8e95d7af0f6a4c2c75ce6e361fc883c1a86c014ab01b5d132a90&"></a>
+
+- Nombre y apellidos: Kesia Alexandra Pingus Rodriguez
+- Edad:  16
+- Ubicación: lima
+- Duración de la entrevista: 5.35 minutos
+- Breve descripción: <br><br>
+	 Esstudiante universitaria busca una manera de poder ayudar a sus padres al momento de organizar reuniones familiares. Cree que nuestra aplicación tiene lo que busca y también nos ofrece su punto de vista sobre ciertas funcionalidades que le podrían beneficiar al momento de buscar bandas, o solistas.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
+
+---
+
 #### 2.2.3. Análisis de entrevistas.
 
 Después de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en común que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
