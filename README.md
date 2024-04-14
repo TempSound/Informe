@@ -1773,38 +1773,25 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 | US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
 | US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
 
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505490359521290/image.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105860177821878/image.png?ex=662e7908&is=661c0408&hm=34edcedb84a386f1c2a33ff64df170b81a1b6ec2b2d691a4ef406b2dec2cc1b5&" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505519610613850/image.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105928419283138/image.png?ex=662e7919&is=661c0419&hm=84789a5c7479d8f72d65f7dea56658eafc3a7073a5f41b7e2d7f0fbf925e7b40&" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505588313305108/image.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105993447637093/image.png?ex=662e7928&is=661c0428&hm=f11a0213c62580f323184dbb2214870827110c87c9c3e177940491c3532efc49&" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505616247373884/image.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229106116592668712/image.png?ex=662e7945&is=661c0445&hm=1a52f124cb41de6ec0ba98466c685755b2908bc5013203bddb8c85cf61b5e197&" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505751262023782/image.png" alt="landing 5" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505805636964403/image.png" alt="landing 6" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505819746619435/image.png" alt="landing 7" style="margin-bottom: 3px;" width="1080px">
-</p>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
