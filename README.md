@@ -1623,7 +1623,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Insertar logo</td>
     <td>Mostrar el logo de nuestro proyecto</td>
     <td>0.3</td>
-    <td>Diego Esquivel</td>
+    <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1632,7 +1632,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar secciones de la landing page</td>
     <td>Crear etiquetas por cada sección de la landing page</td>
     <td>0.5</td>
-    <td>Diego Esquivel</td>
+    <td>Victor herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1641,7 +1641,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar Ingresar y Registrar</td>
     <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
     <td>0.5</td>
-    <td>Diego Esquivel</td>
+    <td>Victor herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1672,7 +1672,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar información sobre nuestra startup</td>
     <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
     <td>1</td>
-    <td>Cristian Andrés</td>
+    <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
 
@@ -1683,7 +1683,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar tarjetas de nuestro producto</td>
     <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
     <td>2</td>
-    <td>Cristian Andrés</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
@@ -1694,7 +1694,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar reseñas de nuestros usuarios</td>
     <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
     <td>2</td>
-    <td>Aldo Baldeon</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
@@ -1705,7 +1705,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar tarjetas de nuestros planes</td>
     <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
     <td>1</td>
-    <td>Aldo Baldeon</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
@@ -1716,7 +1716,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar formulario de contactanos</td>
     <td>Crear formulario donde solicite el nombre, email y el plan a escoger junto a un botón de enviar</td>
     <td>1</td>
-    <td>Cristian Andrés Quito Igreda</td>
+    <td>Anthony Loarte</td>
     <td>Done</td>
  </tr>
 
@@ -1740,7 +1740,6 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Done</td>
  </tr>
 </table>
-
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
