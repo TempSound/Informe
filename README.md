@@ -1745,23 +1745,23 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 #### 5.2.1.3. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 19/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 19/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 25/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from Odyssey-UPC/feature/add-chatting-section | feat: chatting section added | 25/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 26/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from Odyssey-UPC/feature/add-advertisement | feat: advertisement added | 26/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 27/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from Odyssey-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 27/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from Odyssey-UPC/feature/US10 | feat: home added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from Odyssey-UPC/feature/add_navbar | feat: navbar added | 29/09/2023 |
+| https://github.com/TempSound/MusicTime-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 03/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 04/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 06/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from TempSound-UPC/feature/add-chatting-section | feat: chatting section added | 07/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from TempSound-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 12/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from TempSound-UPC/feature/US10 | feat: home added | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from TempSound-UPC/feature/add_navbar | feat: navbar added | 14/04/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
