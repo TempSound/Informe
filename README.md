@@ -278,7 +278,15 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
-
+  </tr>
+     <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dv8a4ngw4/image/upload/v1713078837/Diseño_sin_título_chpzpr.jpg" alt="Foto-Victor" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Bruce Andres Cipriano Chumbes</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Bruce, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211d640</td>
    
   </tr>
   
