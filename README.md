@@ -679,6 +679,66 @@ En esta sección presentaremos dos fichas de User Persona segun nuestro publico 
 en el análisis de entrevistas y de la competencia.
 
 #### 2.3.2. User Task Matrix.
+
+<table align="center">
+    <thead>
+        <tr>
+            <th rowspan=2>User Task Matrix</th>
+            <th colspan=2>Artistas Musicales Emergentes</th>
+            <th colspan=2>Promotores de Eventos Musicales</th>
+         <tr>
+            <th rowspan=1 align="center">Frecuencia</th>
+            <th rowspan=1 align="center">Importancia</th>
+            <th rowspan=1 align="center">Frecuencia</th>
+            <th rowspan=1 align="center">Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">Crear y gestionar perfil de artista</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Subir música y videos</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Gestionar contratos y acuerdos</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Promocionar eventos y actuaciones</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Medium</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Conectar con fans y audiencia</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Acceder a análisis de rendimiento</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 2.3.3. User Journey Mapping.
 
 <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
