@@ -536,8 +536,7 @@ en el análisis de entrevistas y de la competencia.
 
 **Musico o banda:**
 
-<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712964235/kzunrdwgxdhsxiyuygtq.png
-" border="0"></a>
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712964235/kzunrdwgxdhsxiyuygtq.png" border="0"></a>
 
 
 Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
