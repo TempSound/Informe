@@ -1628,19 +1628,19 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 <br>
 
 ## Conclusiones
-*Los diagramas C4, tanto de base de datos como de clases, nos brindan una visión detallada y estructurada de las entidades en nuestra aplicación y de cómo interactúan entre sí a diferentes niveles.
+* Los diagramas C4, tanto de base de datos como de clases, nos brindan una visión detallada y estructurada de las entidades en nuestra aplicación y de cómo interactúan entre sí a diferentes niveles.
 
-*La adopción del método Lean UX en la comprensión de nuestro problema y en la formulación de nuestra idea de negocio nos facilitó realizar un análisis profundo de nuestros competidores y definir de manera clara nuestros grupos de interés.
+* La adopción del método Lean UX en la comprensión de nuestro problema y en la formulación de nuestra idea de negocio nos facilitó realizar un análisis profundo de nuestros competidores y definir de manera clara nuestros grupos de interés.
 
-*Las entrevistas fueron esenciales para desarrollar perfiles de usuario (user personas) y para descubrir sus necesidades y opiniones sobre el problema en cuestión.
+* Las entrevistas fueron esenciales para desarrollar perfiles de usuario (user personas) y para descubrir sus necesidades y opiniones sobre el problema en cuestión.
 
-*Utilizar GitHub para la colaboración y gestión de versiones fue crucial, permitiéndonos superar desafíos relacionados con la coordinación entre equipos y problemas de compatibilidad de versiones.
+* Utilizar GitHub para la colaboración y gestión de versiones fue crucial, permitiéndonos superar desafíos relacionados con la coordinación entre equipos y problemas de compatibilidad de versiones.
 
-*La adopción de GitFlow mejoró la gestión de nuestras ramas, asignándoles funciones específicas y ofreciendo una estructura clara para los commits mediante la convención de mensajes de Git commit.
+* La adopción de GitFlow mejoró la gestión de nuestras ramas, asignándoles funciones específicas y ofreciendo una estructura clara para los commits mediante la convención de mensajes de Git commit.
 
-*Las Historias de Usuario nos dieron una visión directa de las necesidades del usuario, ayudándonos a establecer criterios de aceptación claros para cada historia y garantizando así su correcta implementación.
+* Las Historias de Usuario nos dieron una visión directa de las necesidades del usuario, ayudándonos a establecer criterios de aceptación claros para cada historia y garantizando así su correcta implementación.
 
-*Mediante el análisis competitivo, identificamos nuestras fortalezas y áreas de mejora, lo que nos permitirá ofrecer un servicio más completo que satisfaga plenamente las necesidades de nuestra aplicación.
+* Mediante el análisis competitivo, identificamos nuestras fortalezas y áreas de mejora, lo que nos permitirá ofrecer un servicio más completo que satisfaga plenamente las necesidades de nuestra aplicación.
 
 ### Video About-the-Team.
 
