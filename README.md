@@ -767,8 +767,7 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e
 	 Esstudiante universitaria busca una manera de poder ayudar a sus padres al momento de organizar reuniones familiares. Cree que nuestra aplicación tiene lo que busca y también nos ofrece su punto de vista sobre ciertas funcionalidades que le podrían beneficiar al momento de buscar bandas, o solistas.<br><br>
 
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
-
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2
 ---
 
 #### 2.2.3. Análisis de entrevistas.
