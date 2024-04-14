@@ -104,6 +104,93 @@
 <br><br>
 
 # Índice
+# Student Outcome
+<table align="center" border="1" width="90%">
+
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+
+  <tr>
+    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó dos de nuestros segmentos objetivos.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+    </td>
+    <td>
+      - Las desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Lean UX Problem Statements.</br>
+      - Se realizó Lean UX Assumptions.</br>
+      - Se realizó Lean UX Hypothesis Statements.</br>
+      - Se realizó Lean UX Canvas.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos</br>
+      - Se realizó User Personas.</br>
+      - Se realizó User Task Matrix.</br>
+      - Se realizó User Journey Mapping.</br>
+      - Se realizó Empathy Mapping.</br>
+      - Se realizó As-is Scenario Mapping.</br>
+      - Se realizó To-Be Scenario Mapping.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Landing Page Wireframe.</br>
+      - Se realizó Landing Page Mock-up.</br>
+      - Se realizó Web Applications Wireframes.</br>
+      - Se realizó Web Applications Wireflow Diagrams.</br>
+      - Se realizó Web Applications Mock-ups.</br>
+      - Se realizó Web Applications User Flow Diagrams.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó Análisis competitivo </br>
+      - Se realizó Estrategias y tácticas frente a competidores.</br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Organization Systems.</br>
+      - Se redactó Labeling Systems.</br>
+      - Se realizó SEO Tags and Meta Tags</br>
+      - Se realizó Searching Systems.</br>
+      - Se realizó Navigation Systems.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB1:</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Software Architecture Context Diagram.</br>
+      - Se realizó Software Architecture Container Diagrams.</br>
+      - Se realizó Software Architecture Components Diagrams.</br>
+    </td>
+    <td>
+      - Con las secciones desarrolladas, podemos concluir que el trabajo en equipo, la división de trabajos y la verificación de las partes de cada integrante fueron crucial durante el proceso de documentación de nuestro proyecto.
+    </td>
+  </tr>
+</table>
 
 ## 1. Capítulo I: Introducción
 
