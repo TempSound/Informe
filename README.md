@@ -1059,12 +1059,48 @@ Meta Tags:
 **Author:**
 "CODEX-MusicTime"
 
-#### 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems.
 
-#### 4.2.5. Navigation Systems.
+**El sistema de búsqueda propuesto para "MusicTime" permitirá a los usuarios personalizar su experiencia de contratación de artistas musicales de acuerdo a sus preferencias y necesidades. Este sistema de búsqueda facilitará la búsqueda de artistas, ajustando filtros como género musical, ubicación y tarifa. Además, permitirá a los usuarios evaluar y calificar a los artistas basándose en sus experiencias previas, proporcionando así una referencia adicional al momento de contratar. Este enfoque personalizado asegura que los usuarios puedan encontrar y contratar artistas que se alineen perfectamente con sus eventos y necesidades, haciendo que el proceso de contratación sea más eficiente y efectivo.**
 
-### 4.3. Landing Page UI Design.
-#### 4.3.1. Landing Page Wireframe.
+**El sistema de búsqueda contará con los siguientes filtros:**
+
+| Nombre del filtro     | Descripción                                                                                                         |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|
+| Género Musical         | Los usuarios podrán seleccionar el género musical que desean para el evento, como pop, rock, jazz, etc.                  |
+| Ubicación               | Los usuarios podrán elegir la ciudad, región o país donde se realizará el evento musical.                                           |
+| Experiencia del Artista  | Los usuarios podrán indicar el nivel de experiencia del artista, ya sea emergente, establecido o legendario.           |
+| Tarifa          | Los usuarios podrán establecer un rango de tarifa para la contratación del artista.                                            |
+| Duración del Evento    | Los usuarios podrán especificar la duración del evento, ya sea en horas o días.                              |
+| Tipo de Evento| Los usuarios podrán seleccionar el tipo de evento musical, como concierto, festival, boda, etc.                       |
+| Artistas Destacados| Los usuarios podrán elegir entre artistas que cuenten con recomendaciones o valoraciones positivas.        |
+| Contacto Directo con Artistas| Los usuarios podrán contactar directamente con los artistas para discutir detalles del evento.                         |
+| Historial de Contrataciones   | Los usuarios podrán acceder a su historial de contrataciones anteriores y utilizarlo como referencia. |
+
+
+### 4.2.5. Navigation Systems.
+
+**El sistema de navegación de la plataforma "MusicTime" guiará a los usuarios a través de las diferentes secciones y funcionalidades de la página web, proporcionándoles la información y herramientas necesarias para gestionar contratos de música de manera eficiente. A continuación, se detallan las acciones técnicas que facilitarán la navegación de los usuarios:**
+
+| Nombre               | Descripción                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Inicio               | Enlace que redirige al usuario a la página de inicio, donde se presentará una visión general de la plataforma y sus características principales para gestionar contratos de música. |
+| Servicio | Enlace que permitirá al usuario explorar los diferentes itinerarios de viaje disponibles, basados en sus preferencias y necesidades. |
+| Planes  | Enlace que dirigirá al usuario a los planes de contratación predeterminados, con detalles sobre tarifas y servicios adicionales. |
+| Unirse             | Enlace que redirige al usuario a la sección de unirse, donde a traves de un mensaje amigable, invita a los usuarios a unirse a la plataforma.  |
+| Mayor información      | Para mayor información, contáctanos mediante correo electrónico o usando las redes sociales. Aquí encontrarás asistencia y soporte para cualquier duda o problema que tengas. |
+
+
+**Este sistema de navegación asegurará que los usuarios puedan encontrar fácilmente la información y herramientas necesarias para organizar sus viajes de forma eficiente y adaptada a sus necesidades.**
+
+
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+
+
+**Será una idea de la representación de cómo se verá nuestra landing page.**
+
+**El landing page se compone de varias secciones que guiarán a los usuarios a través de la página web y les proporcionarán la información necesaria sobre nuestra plataforma de contratación de artistas musicales.**
 
 Sección de Únete!, que se usará en el desarrollo del Landing Page.
 ![wireframe 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712994811/betis6k49eude4ewip4g.png)
