@@ -21,11 +21,11 @@
   
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Loarte Matos, Anthony Brahan       |u20211d563|
-|Herrera Castillo, Victor Raul      |u20201e188|
-|Cabrera Camizan, Jeferson Smith    |u20211c211|
-|Cipriano Chumbes, Bruce Andres     |u20211d640|
-|Pingus Rodrigez, Carlos Daniel     |u202113280|
+|Cabrera Camizan, Jeferson Smith       |u20211c211|
+|Cipriano Chumbes, Bruce Andres      |u20211d640|
+|Herrera Castillo, Victor Raul    |u20201e188|
+|Loarte Matos, Anthony Brahan     |u20211d563|
+|Pingus Rodriguez, Carlos Daniel     |u2021132800|
 
  ## 2024-1
  </div>
