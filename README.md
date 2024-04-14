@@ -1242,6 +1242,10 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
 
+<div align='center'>
+    <img src="https://media.discordapp.net/attachments/1065461786301714483/1229083102496690186/62d3dde9-2054-4bc6-bd3e-ba78a236f648.png?ex=662e63d6&is=661beed6&hm=212813c36b1bcc93979f5704934acf70952cacbd0357923ef40ce3cecdadad8b&=&format=webp&quality=lossless&width=725&height=603">
+    </div>
+
 <br>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
