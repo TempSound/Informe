@@ -278,9 +278,14 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
-
-   
   </tr>
+       <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="[https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/drkelnilg/image/upload/v1713055510/oa9dtwwobytypir1vpnc.png" alt="Foto-Jeff" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Cabrera Camizan, Jeferson Smith</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estudiante universitario de la carrera de ingeniería de software. Me gusta trabajar en conjunto para el desarrollo del proyecto. cuento con conocimientos en lenguajes html, css, js, c++ y Agile Project Managment. 
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211c211</td>
   
 </table>
 
@@ -453,7 +458,58 @@ Preguntas relacionadas al proyecto:
 * En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
 #### 2.2.2. Registro de entrevistas.
+ **Entrevista #2:**
 
+<a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Gabriel Yheferson Quispe Saraza
+- Edad:  22
+- Ubicación: Arequipa
+- Duración de la entrevista: 12.38 minutos
+- Breve descripción: <br><br>
+	 Gabriel tiene 22 años, es conocido por ser cantante y musico en instrumentos de viento para diversos grupos de la region de Puno, no pertenece a un grupo en especifico trabaja de manera independiente ya que tambien estudia en la ciudad de arequipa, el piensa que la plataforma seria de gran apoyo al sector de musicos que no disponen del tiempo suficiente para buscar eventos o conseguir un contratista de esta manera se le haría mas fácil conseguir mas presentaciones.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZHXITo8gAZMhGiPcQX6OK0BDCibVr-yCBQC47pWhlnFpg?e=3aGvga&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+**Entrevista #3:**
+
+<a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713050480/Entrevista_Edgar_he81q4.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Edgar Quispe Vargas
+- Edad:  48
+- Ubicación: Puno
+- Duración de la entrevista: 12.27 minutos
+- Breve descripción: <br><br>
+	 Edgar Quispe es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/ESj4b1DISKZOgITl3q44ORABkwd1HLMQAj_NNOKEzj_FmQ?e=4SxygV
+
+---
+
+#### 2.2.3. Análisis de entrevistas.
+
+Después de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en común que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
+
+**Segmento 1: Evento del User**
+ 
+* ¿Qué tipo de eventos suelen realizar con más frecuencia nuestros usuarios?
+
+Según el 80% de empresarios nuestros entrevistados suelen realizar eventos con regularidad. Estos pueden incluir presentaciones en discotecas, festivales de música, eventos corporativos, bodas y otros eventos privados.  
+
+* ¿Qué características valoran más en una plataforma de contratación de eventos para nuestros Users?
+
+Segun el 90%, nuestros users valoran mas una plataforma de contratación de eventos en la que se encuentre una facilidad de uso, la transparencia en la información, la seguridad en las transacciones financieras y la posibilidad de conectar con una amplia gama de artistas.
+
+* ¿Cómo gestionan actualmente la promoción de sus eventos ?(User dueños)
+
+El 60% de nuestros users gestionar la promoción de sus eventos y conciertos a través de redes sociales, plataformas de streaming de música, sitios web personales y colaboraciones con otros artistas o marcas. 
+
+* ¿Qué herramientas o funciones les gustaría ver a nuestros Users en una plataforma para simplificar la gestión de contratos y eventos?
+
+El 100% de nuestros users apreciarían herramientas y funciones en una plataforma que simplifiquen la gestión de contratos y eventos, como la automatización de procesos, la firma electrónica de contratos, la gestión de calendarios y la integración con sistemas de pago seguro. 
 #### 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
@@ -469,6 +525,23 @@ en el análisis de entrevistas y de la competencia.
 
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
+
+#### 2.3.4. Empathy Mapping.
+
+**Organizador:**
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963418/gmvwpyxerj8nctf7w56h.png" border="0"></a>
+
+**Musico o banda:**
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712964235/kzunrdwgxdhsxiyuygtq.png
+" border="0"></a>
+
+
+Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
+
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
 Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
