@@ -873,7 +873,6 @@ en el análisis de entrevistas y de la competencia.
 
 Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
 
-#### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
 Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
 
@@ -1486,7 +1485,8 @@ La configuración del entorno de software que usamos en el trabajo es el editor 
 |Pingus Rodrigez, Carlos Daniel    | Kazuto64          |
 
 Evidencia de la creacion del repositorio de trabajo.
-**Enlace de la organizacion general:**https://github.com/TempSound
+
+**Enlace de la organizacion general:** https://github.com/TempSound
 
 **Enlace del repositorio del informe:** https://github.com/TempSound/Informe/tree/develop
 
@@ -1648,7 +1648,34 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 ## Bibliografía
 
+1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+2. Design thinking activities and tools - Enterprise Design Thinking. (s/f-b). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
 <br>
 
 ## Anexos
+Links videos del trabajo.
+
+ |Exposiciones del trabajo|Link de video|
+|---------|---------|
+| TB1     | Link     | 
+| TP      | Link     |
+| TB2     | Link     | 
+| TF      | Link     |
+
+<center>
+
+**REPOSITORIOS GIT HUB**
+
+</center>
+
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage Vista   | https://tempsound.github.io/MusicTime-lading-page/   | 
+| LandingPage   | https://github.com/TempSound/MusicTime-lading-page   | 
+| Diagramas C4    | Link     |
+| Servicios   | Link     | 
+| Proyecto     | https://github.com/TempSound  |
+
  
