@@ -4,7 +4,7 @@
 
 **TF** - Desarrllo de Aplicaciones Open Source.
 
-Este proyecto se enfoca en la creación de una plataforma web utilizando las tecnologías Vue y Vite. La combinación de estas dos tecnologías permite aprovechar las fortalezas de cada una para ofrecer una experiencia de usuario excepcional y un desarrollo eficiente.
+Este proyecto se enfoca en la creación de una plataforma web utilizando las tecnologías Angular y Typescript. La combinación de estas dos tecnologías permite aprovechar las fortalezas de cada una para ofrecer una experiencia de usuario excepcional y un desarrollo eficiente.
 
 #### Objetivos Principales:
 - Desarrollar una plataforma web intuitiva y de alto rendimiento.
