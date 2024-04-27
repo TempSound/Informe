@@ -419,43 +419,84 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
-**Problem Statement 1:** <br>
-Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
-¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
+<br>
+Cuando lanzamos nuestra plataforma para músicos y organizadores de eventos, el mercado estaba caracterizado por métodos tradicionales de gestión de contratos y acuerdos en la industria musical. En este contexto, la plataforma se destacó como una solución digital innovadora que ofrecía una forma más eficiente y centralizada de gestionar contratos en la industria musical. Sin embargo, con la rápida evolución del panorama tecnológico y la entrada de nuevas soluciones digitales en el mercado, nuestra posición diferenciada se ha diluido y el mercado se ha vuelto cada vez más competitivo. Esto ha resultado en un aumento de los costos de adquisición de clientes, una disminución de nuestra participación en el mercado y un aumento en los costos de soporte al cliente.
+<br>
+¿Cómo podríamos diseñar nuestra plataforma para músicos y organizadores de eventos de manera que nuestros usuarios perciban que estamos diseñados específicamente para satisfacer sus necesidades en la era digital de la industria musical, lo que a su vez reduciría nuestros costos de adquisición y aumentaría nuestra participación en el mercado?
 
-**Problem Statement 2:** <br>
-La misión de nuestra startup era aumentar la eficacia y proactividad en la gestión contractual a través de MusicTime. Sin embargo, hemos notado que la plataforma no está cumpliendo con proporcionar las características avanzadas necesarias, como notificaciones automatizadas y seguimiento de pagos, lo que resulta en una falta de seguimiento adecuado de los contratos y una disminución en la productividad. 
-¿Qué acciones podemos tomar para que los usuarios logren más éxito en la gestión contractual, mediante la implementación de características avanzadas y relevantes?
 
-**Problem Statement 3:** <br>
-Nuestro objetivo con esta startup era generar confianza entre los usuarios y fomentar la adopción continua de la plataforma con MusicTime. Sin embargo, hemos observado que la plataforma no está cumpliendo con garantizar la seguridad de los datos ni ofrecer una experiencia de usuario intuitiva, lo que genera una falta de confianza y reticencia por parte de los usuarios a utilizar la plataforma de manera continua.
+
+
 #### 1.2.2.2. Lean UX Assumptions.
-1. Los profesionales de la industria musical están buscando una solución tecnológica integral y fácil de usar para gestionar sus contratos de música de manera más eficiente.
-2. Existe una demanda en el mercado de la industria musical para una plataforma web que centralice y simplifique la gestión de contratos, eliminando procesos manuales y dispersos.
-3. Los usuarios de MusicTime valorarán las características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real para mejorar su eficacia en la gestión contractual.
-4. La usabilidad y la seguridad de los datos son aspectos críticos para los profesionales de la música al elegir una herramienta de gestión de contratos.
-5. MusicTime será percibido como una solución innovadora y necesaria para optimizar la gestión de contratos en la industria de la música, independientemente del tamaño de la empresa o del rol del usuario.
+
+Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo. 
+
+<br> **User Assumptions**<br>
+<br>¿Quién es el usuario?<br>
+El usuario es cualquier músico, representante de banda, discográfica o persona involucrada en el negocio de la música que busque una solución integral para gestionar contratos de manera eficiente y segura.
+
+<br>¿Dónde encaja nuestro producto en su trabajo o vida?<br>
+MusicTime se integra en la vida diaria de los usuarios al proporcionarles una plataforma eficiente y segura para gestionar sus contratos musicales. Les permite evitar confusiones y conflictos, y satisfacer sus necesidades de gestión contractual de manera satisfactoria.
+
+<br>¿Qué problemas tiene que resolver nuestro producto?<br>
+ Nustro producto debe resolver los problemas de falta de transparencia, riesgo de errores en la gestión contractual, y dificultades para mantener registros organizados y seguros de los acuerdos musicales.
+
+<br>¿Cuándo y cómo es nuestro producto usado?<br>
+El producto es utilizado por los usuarios cuando necesitan gestionar contratos musicales, ya sea al firmar nuevos acuerdos, realizar seguimiento de pagos, o colaborar en proyectos musicales. Se puede utilizar en cualquier momento en que los usuarios estén trabajando en aspectos contractuales de la industria musical.
+
+<br>¿Cómo debe verse nuestro producto y cómo comportarse?<br>
+Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz fácil de usar que guíe a los usuarios a través del proceso de gestión contractual. Debe comportarse de manera confiable y segura, garantizando la protección de los datos del usuario y facilitando una experiencia fluida en la gestión de contratos musicales.
+
+<br>**Business Assumptions:**<br>
+* Existe una demanda significativa en la industria musical para una solución integral de gestión contractual que simplifique y centralice el proceso de manejo de contratos.
+
+* La plataforma enfrenta competencia de otras soluciones similares en el mercado, sin embargo, se espera que su propuesta de valor única la diferencie y la posicione como líder en el sector.
+
+* Los usuarios percibirán el valor de la solución como una herramienta innovadora y necesaria para optimizar la gestión de contratos en la industria musical, independientemente del tamaño de la empresa o del rol del usuario.
+
+* Se espera que el modelo de negocio sea rentable, basado en la capacidad de adquirir usuarios de manera efectiva, retenerlos a largo plazo y ofrecer servicios premium o complementarios para generar ingresos adicionales.
+
+* Se espera que la plataforma facilite la colaboración y el éxito en la industria de la música al proporcionar una herramienta que fomente la transparencia, la eficiencia y la confianza entre los profesionales del sector.
+
+* La evolución tecnológica continuará ofreciendo oportunidades para mejorar y expandir las funcionalidades de la plataforma, lo que permitirá adaptarse a las cambiantes necesidades y demandas de la industria musical.
+
+* Se espera que la satisfacción del cliente y la fidelización sean fundamentales para el éxito a largo plazo de la plataforma, ya que clientes satisfechos pueden convertirse en defensores de la marca y contribuir a la adquisición de nuevos usuarios.
+
 
 <br> **Business Outcome:** <br>
-* Buscamos la optimización de la gestión de contratos de música para profesionales de la industria musical.
-* Mejoramos la eficiencia en el seguimiento y control de acuerdos contractuales.
-* Queremos incrementar la productividad al eliminar procesos * manuales y dispersos.
-Buscamos la potenciación del éxito y la colaboración en la industria de la música.
+* **Aumento en la Retención de Usuarios:** Al ofrecer una plataforma intuitiva y accesible para la gestión contractual en la industria musical, se espera que los usuarios estén más satisfechos y sean más propensos a seguir utilizando la plataforma en el futuro.
 
-<br> **Users:** <br>
-* Músicos independientes.
-* Representantes de bandas musicales.
-* Discográficas multinacionales.
-* Personas en general.
-* Personas que se dedican al negocio de discotecas.
+* **Mejora en la Reputación y Confianza:** Al satisfacer las necesidades de los usuarios y proporcionarles una experiencia satisfactoria, se espera que la reputación de la plataforma en el mercado mejore, lo que resultará en una mayor confianza por parte de los profesionales de la industria musical.
+
+* **Aumento en los Ingresos:** Al ofrecer una solución que satisfaga eficazmente las necesidades de gestión contractual de los usuarios, se espera que aumente el número de transacciones y, por lo tanto, los ingresos generados por la plataforma.
+
+* **Mayor Visibilidad en el Mercado:** Al proporcionar una solución única y eficaz para la gestión contractual en la industria musical, se espera que la plataforma gane mayor visibilidad y reconocimiento en el mercado, atrayendo así a más usuarios potenciales.
+
+<br> **User Outcome:** <br>
+
+* **Gestión de Contratos Simplificada:** Los usuarios podrán administrar sus contratos musicales de manera más sencilla y eficiente, reduciendo la complejidad y el tiempo dedicado a tareas administrativas.
+
+* **Mayor Control y Organización:** Los usuarios podrán mantener un registro centralizado y organizado de todos sus contratos y acuerdos, lo que les permitirá tener un mejor control sobre sus compromisos y fechas importantes.
+
+* **Colaboración Efectiva:** Los usuarios podrán colaborar de manera más efectiva con otros profesionales de la industria musical, facilitando la comunicación y el intercambio de información en tiempo real.
+
+* **Seguridad y Confianza:** Los usuarios podrán tener mayor seguridad en la gestión de sus datos y contratos, lo que les proporcionará una mayor confianza al utilizar la plataforma para sus actividades comerciales.
+
+* **Oportunidades Ampliadas:** Los usuarios podrán aprovechar al máximo las oportunidades en la industria musical al optimizar la gestión de sus contratos, lo que les permitirá alcanzar sus metas artísticas y comerciales de manera más efectiva.
+
 
 <br> **Features:** <br>
-* Notificaciones automatizadas
-* Recordatorios de vencimiento
-* Seguimiento de pagos
-* Colaboración en tiempo real
-* Almacenamiento centralizado de contratos
-* Interfaz fácil de usar y segura
+* Interfaz fácil de usar y segura, diseñada para que los usuarios puedan navegar y utilizar todas las funcionalidades de manera sencilla y eficiente
+
+* Notificaciones automatizadas que permiten a los usuarios configurar y recibir alertas automáticas sobre eventos importantes relacionados con sus contratos
+
+* Recordatorios de vencimiento que ayuda a los usuarios a realizar un seguimiento efectivo de los plazos y vencimientos de sus contratos
+
+* Colaboración en tiempo real que permiten a los usuarios interactuar y trabajar de manera colaborativa y en tiempo real
+
+* Almacenamiento centralizado de contratos que proporciona a los usuarios un repositorio seguro y centralizado para almacenar y organizar todos sus contratos musicales. 
+
+* Asistente Virtual y Soporte Integrado para brindar ayuda y orientación a los usuarios en el uso de la plataforma
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
@@ -1463,6 +1504,7 @@ Si acepta una de sus notificaciones se le llevara a un chat con un organizador y
 
 Al final, el artista podra aplicar para el evento y se le mostrara una pantalla de confirmacion del evento, con la descripcion y fecha de este mismo.
 
+**Enlace del figma:** https://www.figma.com/file/1hjHtZs3A8vRyrcncRGeie/Untitled?type=design&node-id=0-1&mode=design&t=AhuQWcpWSDWc6aF2-0
 
 ### 4.5. Web Applications Prototyping.
 
