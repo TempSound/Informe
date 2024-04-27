@@ -1428,6 +1428,42 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ![web 19](https://res.cloudinary.com/drkelnilg/image/upload/v1712998820/mcv1voezdq8r1bkjjlpw.png)
 
 ![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams.
+ 
+
+![diagram1](https://res.cloudinary.com/drkelnilg/image/upload/v1714172465/yrcwq9noxk4pplufl169.png)
+
+Al iniciar la aplicaión, el usuario encuentra un formulario de registro y tambien opciones para que se registre con una cuenta de Facebook o Google. Una ves registrado va a iniciar sesion y en caso sea un artista pagara una suscripcion e iniciaria sesion.
+
+![diagram2](https://res.cloudinary.com/drkelnilg/image/upload/v1714172999/zqz2tdbyoqcglhgjjdn4.png)
+
+Cuando ya haya iniciado sesion con su cuenta, el cliente podra observar la lista de artistas y escoger el de su preferencia. Tambien podra ver una descripcion de l artista, sus notificciones y buscar artistas por filtros.
+
+![diagram3](https://res.cloudinary.com/drkelnilg/image/upload/v1714173544/u8seek7trbaz7jxjepx5.png)
+
+Si un artista le llama la atencion, podra contactarlo mediante un chat en tiempo real. Y tambien podra dejar una reseña al artista y calificarlo con una cantidad de estrellas.
+
+![diagram4](https://res.cloudinary.com/drkelnilg/image/upload/v1714173693/tq9wbzdsfsigfdghxhx7.png)
+
+Si llego a un acuerdo con el artista mediante el chat entonces podra contratarlo para su evento, y se le mostrara una pantalla de confirmacion con la descripcion del artista y fecha de evento.
+
+**Artistas**
+
+![diagram5](https://res.cloudinary.com/drkelnilg/image/upload/v1714175069/dfbcsc6dxkbyxht7gj2i.png)
+
+Cuando al artista entra a la plataforma con su cuenta, se le mostratra su informacion y cuantas visitas a temido su perfil en el transcurso de los dias. Tmabien podria ir a la pantalla de notificaciones y la pantalla de My music para editar informacion de su musica.
+
+![diagram6](https://res.cloudinary.com/drkelnilg/image/upload/v1714175291/jccelie2yigqon3mrgae.png)
+
+Si acepta una de sus notificaciones se le llevara a un chat con un organizador y podran acordar sobre el evento.
+
+![diagram7](https://res.cloudinary.com/drkelnilg/image/upload/v1714175514/pu2bktfjygnh45wl44so.png)
+
+Al final, el artista podra aplicar para el evento y se le mostrara una pantalla de confirmacion del evento, con la descripcion y fecha de este mismo.
+
+
 ### 4.5. Web Applications Prototyping.
 
 ![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
