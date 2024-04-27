@@ -1738,7 +1738,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td rowspan="3">US01</td>
+    <td rowspan="3">US11</td>
     <td rowspan="3">Mostrar barra de navegación</td>
     <td>T01</td>
     <td>Insertar logo</td>
@@ -1767,7 +1767,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
  <tr>
-    <td rowspan="2">US02</td>
+    <td rowspan="2">US12</td>
     <td rowspan="2">Mostrar hero section</td>
     <td>T04</td>
     <td>Mostrar elementos atractivos y minimalistas</td>
@@ -1787,7 +1787,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
 <tr>
-    <td>US03</td>
+    <td>US13</td>
     <td>Mostrar sobre nuestro producto</td>
     <td>T06</td>
     <td>Mostrar información sobre nuestra startup</td>
@@ -1798,7 +1798,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
 <tr>
-    <td>US04</td>
+    <td>US14</td>
     <td>Mostrar la seccion unete</td>
     <td>T07</td>
     <td>Mostrar tarjetas de nuestro producto</td>
@@ -1809,7 +1809,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
 <tr>
-    <td>US05</td>
+    <td>US15</td>
     <td>Mostrar opcion de cambio de idioma</td>
     <td>T08</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
@@ -1820,7 +1820,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
  <tr>
-    <td>US06</td>
+    <td>US16</td>
     <td>Mostrar sección de nuestros planes</td>
     <td>T09</td>
     <td>Mostrar tarjetas de nuestros planes</td>
@@ -1830,36 +1830,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Done</td>
  </tr>
 
- <tr>
-    <td>US07</td>
-    <td>Mostrar sección de "Contáctanos"</td>
-    <td>T10</td>
-    <td>Mostrar formulario de contactanos</td>
-    <td>Crear formulario donde solicite el nombre, email y el plan a escoger junto a un botón de enviar</td>
-    <td>1</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td rowspan="2">US08</td>
-    <td rowspan="2">Crear footer</td>
-    <td>T11</td>
-    <td>Ver enlaces de redes sociales</td>
-    <td>Mostrar los logos de nuestras redes sociales (Facebook, Twitter y Instagram) que permitan redirección a las mismas </td>
-    <td>0.5</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-   <td>T12</td>
-    <td>Mostrar dirección de nuestra sede</td>
-    <td>Mostrar detalladamente la dirección de nuestro grupo</td>
-    <td>0.3</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
+ 
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
