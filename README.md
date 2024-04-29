@@ -419,43 +419,84 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
-**Problem Statement 1:** <br>
-Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
-¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
+<br>
+Cuando lanzamos nuestra plataforma para músicos y organizadores de eventos, el mercado estaba caracterizado por métodos tradicionales de gestión de contratos y acuerdos en la industria musical. En este contexto, la plataforma se destacó como una solución digital innovadora que ofrecía una forma más eficiente y centralizada de gestionar contratos en la industria musical. Sin embargo, con la rápida evolución del panorama tecnológico y la entrada de nuevas soluciones digitales en el mercado, nuestra posición diferenciada se ha diluido y el mercado se ha vuelto cada vez más competitivo. Esto ha resultado en un aumento de los costos de adquisición de clientes, una disminución de nuestra participación en el mercado y un aumento en los costos de soporte al cliente.
+<br>
+¿Cómo podríamos diseñar nuestra plataforma para músicos y organizadores de eventos de manera que nuestros usuarios perciban que estamos diseñados específicamente para satisfacer sus necesidades en la era digital de la industria musical, lo que a su vez reduciría nuestros costos de adquisición y aumentaría nuestra participación en el mercado?
 
-**Problem Statement 2:** <br>
-La misión de nuestra startup era aumentar la eficacia y proactividad en la gestión contractual a través de MusicTime. Sin embargo, hemos notado que la plataforma no está cumpliendo con proporcionar las características avanzadas necesarias, como notificaciones automatizadas y seguimiento de pagos, lo que resulta en una falta de seguimiento adecuado de los contratos y una disminución en la productividad. 
-¿Qué acciones podemos tomar para que los usuarios logren más éxito en la gestión contractual, mediante la implementación de características avanzadas y relevantes?
 
-**Problem Statement 3:** <br>
-Nuestro objetivo con esta startup era generar confianza entre los usuarios y fomentar la adopción continua de la plataforma con MusicTime. Sin embargo, hemos observado que la plataforma no está cumpliendo con garantizar la seguridad de los datos ni ofrecer una experiencia de usuario intuitiva, lo que genera una falta de confianza y reticencia por parte de los usuarios a utilizar la plataforma de manera continua.
+
+
 #### 1.2.2.2. Lean UX Assumptions.
-1. Los profesionales de la industria musical están buscando una solución tecnológica integral y fácil de usar para gestionar sus contratos de música de manera más eficiente.
-2. Existe una demanda en el mercado de la industria musical para una plataforma web que centralice y simplifique la gestión de contratos, eliminando procesos manuales y dispersos.
-3. Los usuarios de MusicTime valorarán las características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real para mejorar su eficacia en la gestión contractual.
-4. La usabilidad y la seguridad de los datos son aspectos críticos para los profesionales de la música al elegir una herramienta de gestión de contratos.
-5. MusicTime será percibido como una solución innovadora y necesaria para optimizar la gestión de contratos en la industria de la música, independientemente del tamaño de la empresa o del rol del usuario.
+
+Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo. 
+
+<br> **User Assumptions**<br>
+<br>¿Quién es el usuario?<br>
+El usuario es cualquier músico, representante de banda, discográfica o persona involucrada en el negocio de la música que busque una solución integral para gestionar contratos de manera eficiente y segura.
+
+<br>¿Dónde encaja nuestro producto en su trabajo o vida?<br>
+MusicTime se integra en la vida diaria de los usuarios al proporcionarles una plataforma eficiente y segura para gestionar sus contratos musicales. Les permite evitar confusiones y conflictos, y satisfacer sus necesidades de gestión contractual de manera satisfactoria.
+
+<br>¿Qué problemas tiene que resolver nuestro producto?<br>
+ Nustro producto debe resolver los problemas de falta de transparencia, riesgo de errores en la gestión contractual, y dificultades para mantener registros organizados y seguros de los acuerdos musicales.
+
+<br>¿Cuándo y cómo es nuestro producto usado?<br>
+El producto es utilizado por los usuarios cuando necesitan gestionar contratos musicales, ya sea al firmar nuevos acuerdos, realizar seguimiento de pagos, o colaborar en proyectos musicales. Se puede utilizar en cualquier momento en que los usuarios estén trabajando en aspectos contractuales de la industria musical.
+
+<br>¿Cómo debe verse nuestro producto y cómo comportarse?<br>
+Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz fácil de usar que guíe a los usuarios a través del proceso de gestión contractual. Debe comportarse de manera confiable y segura, garantizando la protección de los datos del usuario y facilitando una experiencia fluida en la gestión de contratos musicales.
+
+<br>**Business Assumptions:**<br>
+* Existe una demanda significativa en la industria musical para una solución integral de gestión contractual que simplifique y centralice el proceso de manejo de contratos.
+
+* La plataforma enfrenta competencia de otras soluciones similares en el mercado, sin embargo, se espera que su propuesta de valor única la diferencie y la posicione como líder en el sector.
+
+* Los usuarios percibirán el valor de la solución como una herramienta innovadora y necesaria para optimizar la gestión de contratos en la industria musical, independientemente del tamaño de la empresa o del rol del usuario.
+
+* Se espera que el modelo de negocio sea rentable, basado en la capacidad de adquirir usuarios de manera efectiva, retenerlos a largo plazo y ofrecer servicios premium o complementarios para generar ingresos adicionales.
+
+* Se espera que la plataforma facilite la colaboración y el éxito en la industria de la música al proporcionar una herramienta que fomente la transparencia, la eficiencia y la confianza entre los profesionales del sector.
+
+* La evolución tecnológica continuará ofreciendo oportunidades para mejorar y expandir las funcionalidades de la plataforma, lo que permitirá adaptarse a las cambiantes necesidades y demandas de la industria musical.
+
+* Se espera que la satisfacción del cliente y la fidelización sean fundamentales para el éxito a largo plazo de la plataforma, ya que clientes satisfechos pueden convertirse en defensores de la marca y contribuir a la adquisición de nuevos usuarios.
+
 
 <br> **Business Outcome:** <br>
-* Buscamos la optimización de la gestión de contratos de música para profesionales de la industria musical.
-* Mejoramos la eficiencia en el seguimiento y control de acuerdos contractuales.
-* Queremos incrementar la productividad al eliminar procesos * manuales y dispersos.
-Buscamos la potenciación del éxito y la colaboración en la industria de la música.
+* **Aumento en la Retención de Usuarios:** Al ofrecer una plataforma intuitiva y accesible para la gestión contractual en la industria musical, se espera que los usuarios estén más satisfechos y sean más propensos a seguir utilizando la plataforma en el futuro.
 
-<br> **Users:** <br>
-* Músicos independientes.
-* Representantes de bandas musicales.
-* Discográficas multinacionales.
-* Personas en general.
-* Personas que se dedican al negocio de discotecas.
+* **Mejora en la Reputación y Confianza:** Al satisfacer las necesidades de los usuarios y proporcionarles una experiencia satisfactoria, se espera que la reputación de la plataforma en el mercado mejore, lo que resultará en una mayor confianza por parte de los profesionales de la industria musical.
+
+* **Aumento en los Ingresos:** Al ofrecer una solución que satisfaga eficazmente las necesidades de gestión contractual de los usuarios, se espera que aumente el número de transacciones y, por lo tanto, los ingresos generados por la plataforma.
+
+* **Mayor Visibilidad en el Mercado:** Al proporcionar una solución única y eficaz para la gestión contractual en la industria musical, se espera que la plataforma gane mayor visibilidad y reconocimiento en el mercado, atrayendo así a más usuarios potenciales.
+
+<br> **User Outcome:** <br>
+
+* **Gestión de Contratos Simplificada:** Los usuarios podrán administrar sus contratos musicales de manera más sencilla y eficiente, reduciendo la complejidad y el tiempo dedicado a tareas administrativas.
+
+* **Mayor Control y Organización:** Los usuarios podrán mantener un registro centralizado y organizado de todos sus contratos y acuerdos, lo que les permitirá tener un mejor control sobre sus compromisos y fechas importantes.
+
+* **Colaboración Efectiva:** Los usuarios podrán colaborar de manera más efectiva con otros profesionales de la industria musical, facilitando la comunicación y el intercambio de información en tiempo real.
+
+* **Seguridad y Confianza:** Los usuarios podrán tener mayor seguridad en la gestión de sus datos y contratos, lo que les proporcionará una mayor confianza al utilizar la plataforma para sus actividades comerciales.
+
+* **Oportunidades Ampliadas:** Los usuarios podrán aprovechar al máximo las oportunidades en la industria musical al optimizar la gestión de sus contratos, lo que les permitirá alcanzar sus metas artísticas y comerciales de manera más efectiva.
+
 
 <br> **Features:** <br>
-* Notificaciones automatizadas
-* Recordatorios de vencimiento
-* Seguimiento de pagos
-* Colaboración en tiempo real
-* Almacenamiento centralizado de contratos
-* Interfaz fácil de usar y segura
+* Interfaz fácil de usar y segura, diseñada para que los usuarios puedan navegar y utilizar todas las funcionalidades de manera sencilla y eficiente
+
+* Notificaciones automatizadas que permiten a los usuarios configurar y recibir alertas automáticas sobre eventos importantes relacionados con sus contratos
+
+* Recordatorios de vencimiento que ayuda a los usuarios a realizar un seguimiento efectivo de los plazos y vencimientos de sus contratos
+
+* Colaboración en tiempo real que permiten a los usuarios interactuar y trabajar de manera colaborativa y en tiempo real
+
+* Almacenamiento centralizado de contratos que proporciona a los usuarios un repositorio seguro y centralizado para almacenar y organizar todos sus contratos musicales. 
+
+* Asistente Virtual y Soporte Integrado para brindar ayuda y orientación a los usuarios en el uso de la plataforma
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
@@ -753,6 +794,21 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/ESj4b1DISKZOgITl3q44ORABkwd1HLMQAj_NNOKEzj_FmQ?e=4SxygV
 
+---
+
+**Entrevista #4:**
+
+<a><img src="https://cdn.discordapp.com/attachments/1065461786301714483/1229142360324313169/image.png?ex=662e9b07&is=661c2607&hm=e214c77149de8e95d7af0f6a4c2c75ce6e361fc883c1a86c014ab01b5d132a90&"></a>
+
+- Nombre y apellidos: Kesia Alexandra Pingus Rodriguez
+- Edad:  16
+- Ubicación: lima
+- Duración de la entrevista: 5.35 minutos
+- Breve descripción: <br><br>
+	 Esstudiante universitaria busca una manera de poder ayudar a sus padres al momento de organizar reuniones familiares. Cree que nuestra aplicación tiene lo que busca y también nos ofrece su punto de vista sobre ciertas funcionalidades que le podrían beneficiar al momento de buscar bandas, o solistas.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2
 ---
 
 #### 2.2.3. Análisis de entrevistas.
@@ -1066,10 +1122,38 @@ User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 
 ### 3.4. Product Backlog.
-El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.<br>
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_product/lcmwkgbby24misie6lip.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_impact2/xhh31t5uj5xwbjcdjjd7.jpg)
-<br>
+
+| Codigo | Descripcion | Story points (1,2,3,5,8) |
+|-----------------|------------|-------------|
+|US01| Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | 3 |
+|US02| Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | 3 |
+|US03| Como cliente, quiero poder enviar mensajes a músicos seleccionados para discutir detalles del evento y negociar términos. | 3 |
+|US04| Como cliente, quiero poder programar audiciones con músicos seleccionados para evaluar su talento en persona. | 5 |
+|US05| Como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas | 2 |
+|US06| Como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | 8 |
+|US07| Como cliente, quiero poder dejar feedback sobre la actuación de los músicos después del evento para ayudar a otros organizadores a tomar decisiones informadas. | 3 |
+|US08| Como cliente, quiero recibir notificaciones automáticas sobre la disponibilidad de músicos que coincidan con mis criterios de búsqueda, para estar al tanto de nuevas oportunidades. | 3 |
+|US09| Como cliente, quiero poder gestionar los pagos a los músicos directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | 8 |
+|US010| Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de músicos. | 3 |
+|US011| Como musico, quiero poder acceder fácilmente a la barra de navegación para poder explorar diferentes secciones de la landing page. | 8 |
+|US012| Como musico, quiero acceder a información detallada sobre las características y funcionalidades del servicio sin necesidad de registrarme.| 2 |
+|US013| Como musico, necesito encontrar rápidamente cómo ponerme en contacto con el equipo de soporte sin tener que registrarme. | 3 |
+|US014| Como musico, quiero tener la posibilidad de cambiar el idioma de la página de inglés a español para una mejor comprensión. | 5 |
+|US015| Como musico, quiero poder registrarme en la plataforma utilizando mi dirección de correo electrónico y una contraseña segura. | 5 |
+|US016| Como musico, quiero poder acceder y visualizar los planes de suscripción disponibles para tener una idea clara de las opciones y beneficios. | 3 |
+|US017| Como solista o banda, quiero crear un perfil en la plataforma para promocionar mi música y servicios. | 3 |
+|US018| Como solista o banda, quiero poder actualizar mi disponibilidad y calendario de eventos en mi perfil. | 3 |
+|US019| Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. | 3 |
+|US020| Como solista o banda, quiero poder programar audiciones o reuniones con organizadores de eventos interesados para discutir detalles del evento. | 5 |
+|US021| Como solista o banda, quiero poder gestionar y firmar contratos con organizadores de eventos directamente desde la plataforma. | 8 |
+|US022| Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo. | 2 |
+|US023| Como solista o banda, quiero poder promocionar mi música y eventos en la plataforma para llegar a más organizadores de eventos potenciales. | 3 |
+|US024| Como músico, quiero poder visualizar estadísticas detalladas sobre el desempeño de mis publicaciones y eventos en la plataforma. | 5 |
+|US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 2 |
+|US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 3 |
+
+**Total de story points:** 104
+4 sprints = 26 task por cada sprint.
 
 ## CAPÍTULO 4: PRODUCT DESIGN
 
@@ -1413,6 +1497,43 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ![web 19](https://res.cloudinary.com/drkelnilg/image/upload/v1712998820/mcv1voezdq8r1bkjjlpw.png)
 
 ![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams.
+ 
+
+![diagram1](https://res.cloudinary.com/drkelnilg/image/upload/v1714172465/yrcwq9noxk4pplufl169.png)
+
+Al iniciar la aplicaión, el usuario encuentra un formulario de registro y tambien opciones para que se registre con una cuenta de Facebook o Google. Una ves registrado va a iniciar sesion y en caso sea un artista pagara una suscripcion e iniciaria sesion.
+
+![diagram2](https://res.cloudinary.com/drkelnilg/image/upload/v1714172999/zqz2tdbyoqcglhgjjdn4.png)
+
+Cuando ya haya iniciado sesion con su cuenta, el cliente podra observar la lista de artistas y escoger el de su preferencia. Tambien podra ver una descripcion de l artista, sus notificciones y buscar artistas por filtros.
+
+![diagram3](https://res.cloudinary.com/drkelnilg/image/upload/v1714173544/u8seek7trbaz7jxjepx5.png)
+
+Si un artista le llama la atencion, podra contactarlo mediante un chat en tiempo real. Y tambien podra dejar una reseña al artista y calificarlo con una cantidad de estrellas.
+
+![diagram4](https://res.cloudinary.com/drkelnilg/image/upload/v1714173693/tq9wbzdsfsigfdghxhx7.png)
+
+Si llego a un acuerdo con el artista mediante el chat entonces podra contratarlo para su evento, y se le mostrara una pantalla de confirmacion con la descripcion del artista y fecha de evento.
+
+**Artistas**
+
+![diagram5](https://res.cloudinary.com/drkelnilg/image/upload/v1714175069/dfbcsc6dxkbyxht7gj2i.png)
+
+Cuando al artista entra a la plataforma con su cuenta, se le mostratra su informacion y cuantas visitas a temido su perfil en el transcurso de los dias. Tmabien podria ir a la pantalla de notificaciones y la pantalla de My music para editar informacion de su musica.
+
+![diagram6](https://res.cloudinary.com/drkelnilg/image/upload/v1714175291/jccelie2yigqon3mrgae.png)
+
+Si acepta una de sus notificaciones se le llevara a un chat con un organizador y podran acordar sobre el evento.
+
+![diagram7](https://res.cloudinary.com/drkelnilg/image/upload/v1714175514/pu2bktfjygnh45wl44so.png)
+
+Al final, el artista podra aplicar para el evento y se le mostrara una pantalla de confirmacion del evento, con la descripcion y fecha de este mismo.
+
+**Enlace del figma:** https://www.figma.com/file/1hjHtZs3A8vRyrcncRGeie/Untitled?type=design&node-id=0-1&mode=design&t=AhuQWcpWSDWc6aF2-0
+
 ### 4.5. Web Applications Prototyping.
 
 ![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
@@ -1422,15 +1543,43 @@ Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png" alt="structurizr-90691-Context" border="0">
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163814/structurizr-90691-Context_goryk6.png)
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069021/Untitled_x1j7ly.png) 
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Containers_imjtmy.png) 
 
 #### 4.6.3. Software Architecture Components Diagrams.
+**Component Diagram "Identity and Access Management"**
 
-![SACD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069840/Untitled_1_rzpcpf.png)
+Se realizo el Component Diagram en base al Bounded Context "Identity and Access Management" donde el cliente y el musico se registran dento de la plataforma.
+
+![IM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_1_l9sl1l.png)
+
+**Component Diagram "Suscripcion and payment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Suscripcion and payment" donde se puede observar el proceso de la suscripción y los pagos dentro de la plataforma.
+
+![SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_3_cei7ti.png)
+
+**Component Diagram "Social Interaction and Feedback"**
+
+Se realizo el Component Diagram en base al Bounded Context "Social Interaction and Feedback" se puede observar el método para las publicaciones de los artistas y la calificación de los clientes hacia los artistas.
+
+![SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_2_fgjq3w.png)
+
+**Component Diagram "Managment of musician profiles"**
+
+Se realizo el Component Diagram en base al Bounded Context "Managment of musician profiles" donde los usuarios editan su perfil público asi como la opcion de agregar grupos.
+
+![MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_4_dlmzsv.png)
+
+**Component Diagram "Contract Managment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Contract Managment" donde se puede ver el funcionamiento del contrato dentro de la aplicación.
+
+![CM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Component_microservice_5_esmbki.png)
+
 
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
@@ -1617,13 +1766,13 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td rowspan="3">US01</td>
+    <td rowspan="3">US11</td>
     <td rowspan="3">Mostrar barra de navegación</td>
     <td>T01</td>
     <td>Insertar logo</td>
     <td>Mostrar el logo de nuestro proyecto</td>
     <td>0.3</td>
-    <td>Diego Esquivel</td>
+    <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1632,7 +1781,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar secciones de la landing page</td>
     <td>Crear etiquetas por cada sección de la landing page</td>
     <td>0.5</td>
-    <td>Diego Esquivel</td>
+    <td>Victor herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1641,12 +1790,12 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
     <td>Mostrar Ingresar y Registrar</td>
     <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
     <td>0.5</td>
-    <td>Diego Esquivel</td>
+    <td>Victor herrera</td>
     <td>Done</td>
  </tr>
 
  <tr>
-    <td rowspan="2">US02</td>
+    <td rowspan="2">US12</td>
     <td rowspan="2">Mostrar hero section</td>
     <td>T04</td>
     <td>Mostrar elementos atractivos y minimalistas</td>
@@ -1666,81 +1815,51 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
  </tr>
 
 <tr>
-    <td>US03</td>
-    <td>Mostrar sobre nosotros</td>
+    <td>US13</td>
+    <td>Mostrar sobre nuestro producto</td>
     <td>T06</td>
     <td>Mostrar información sobre nuestra startup</td>
     <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
     <td>1</td>
-    <td>Cristian Andrés</td>
+    <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US04</td>
-    <td>Mostrar sobre nuestro producto</td>
+    <td>US14</td>
+    <td>Mostrar la seccion unete</td>
     <td>T07</td>
     <td>Mostrar tarjetas de nuestro producto</td>
     <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
     <td>2</td>
-    <td>Cristian Andrés</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US05</td>
-    <td>Mostrar sección de reseñas de usuario</td>
+    <td>US15</td>
+    <td>Mostrar opcion de cambio de idioma</td>
     <td>T08</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
     <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
     <td>2</td>
-    <td>Aldo Baldeon</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
  <tr>
-    <td>US06</td>
+    <td>US16</td>
     <td>Mostrar sección de nuestros planes</td>
     <td>T09</td>
     <td>Mostrar tarjetas de nuestros planes</td>
     <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
     <td>1</td>
-    <td>Aldo Baldeon</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
- <tr>
-    <td>US07</td>
-    <td>Mostrar sección de "Contáctanos"</td>
-    <td>T10</td>
-    <td>Mostrar formulario de contactanos</td>
-    <td>Crear formulario donde solicite el nombre, email y el plan a escoger junto a un botón de enviar</td>
-    <td>1</td>
-    <td>Cristian Andrés Quito Igreda</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td rowspan="2">US08</td>
-    <td rowspan="2">Crear footer</td>
-    <td>T11</td>
-    <td>Ver enlaces de redes sociales</td>
-    <td>Mostrar los logos de nuestras redes sociales (Facebook, Twitter y Instagram) que permitan redirección a las mismas </td>
-    <td>0.5</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-   <td>T12</td>
-    <td>Mostrar dirección de nuestra sede</td>
-    <td>Mostrar detalladamente la dirección de nuestro grupo</td>
-    <td>0.3</td>
-    <td>Anthony Loarte</td>
-    <td>Done</td>
- </tr>
+ 
 </table>
-
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
