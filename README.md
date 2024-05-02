@@ -506,7 +506,7 @@ Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz 
 
 <br> **Hipótesis 2:** <br>
 * **Declaración de hipótesis:** Creemos que al implementar notificaciones automatizadas, mejoraremos la eficiencia en la gestión de contratos al mantener a los usuarios informados sobre eventos importantes de manera oportuna, lo que resultará en una toma de decisiones más rápida y precisa,.<br>
-Razón: Esta hipótesis se basa en la idea de que al mantener a los usuarios actualizados con notificaciones automáticas, se reducirán los retrasos en la toma de decisiones, lo que conducirá a una gestión más eficiente de los contratos
+* **Razón:** Esta hipótesis se basa en la idea de que al mantener a los usuarios actualizados con notificaciones automáticas, se reducirán los retrasos en la toma de decisiones, lo que conducirá a una gestión más eficiente de los contratos
 <br>
 
 <br> **Hipótesis 3:** <br>
@@ -516,15 +516,15 @@ Razón:Esta hipótesis parte de la premisa de que los recordatorios de vencimien
 
 <br> **Hipótesis 4:** <br>
 * **Declaración de hipótesis:** Creemos que mejoraremos la comunicación y la toma de decisiones entre clientes y músicos si éstos obtienen la capacidad de interactuar en tiempo real, lo que les permitirá trabajar de manera más eficiente y concertar acuerdos de manera más rápida y precisa.<br>
-* * **Razón:**  La colaboración en tiempo real facilitará la comunicación entre clientes y músicos, lo que permitirá resolver rápidamente cualquier duda o problema que surja durante el proceso de contratación.<br>
+* **Razón:**  La colaboración en tiempo real facilitará la comunicación entre clientes y músicos, lo que permitirá resolver rápidamente cualquier duda o problema que surja durante el proceso de contratación.<br>
 
 <br> **Hipótesis 5:** <br>
-* **Declaración de hipótesis:**Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
-* * **Razón:** El soporte multilingüe garantizará que los clientes de diferentes regiones y culturas puedan acceder a la plataforma en su idioma preferido, lo que eliminará barreras lingüísticas y promoverá la inclusión.<br>
+* **Declaración de hipótesis:** Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
+* **Razón:** El soporte multilingüe garantizará que los clientes de diferentes regiones y culturas puedan acceder a la plataforma en su idioma preferido, lo que eliminará barreras lingüísticas y promoverá la inclusión.<br>
 
 <br> **Hipótesis 6:** <br>
-* **Declaración de hipótesis:**Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
-* * **Razón:** Un asistente virtual y soporte integrado proporcionará a los clientes ayuda instantánea durante su experiencia en la plataforma, lo que resolverá rápidamente cualquier problema o pregunta que puedan tener<br>
+* **Declaración de hipótesis:** Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
+* **Razón:** Un asistente virtual y soporte integrado proporcionará a los clientes ayuda instantánea durante su experiencia en la plataforma, lo que resolverá rápidamente cualquier problema o pregunta que puedan tener<br>
 
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
