@@ -1033,10 +1033,10 @@ Se desarrollo 3 cuadros usando el formato TO-BE en los 2 sectores de usuarios qu
 ![TO-BE Cliente 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712993395/p1dlyktmhht5a1mkoakr.png)
 Se plantea el cuadro y se separa el contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 
-![TO-BE Cliente 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712993553/mxesj2odyxldos6fwqkr.png)
+![TO-BE Cliente 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714631790/mkoz1zjh4rhaypz9xmlq.png)
 Basándonos en las respuestas obtenidas durante las entrevistas con el público objetivo, hemos formulado una lluvia de ideas que refleja lo que los clientes buscan en una presentación de una banda musical o solista, abordando los aspectos de "doing", "thinking" y "feeling":
 
-![TO-BE Cliente 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712993604/bv1iho4rb9oku3zd3moo.png)
+![TO-BE Cliente 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714631811/voymk9md5qbgewmkm0pr.png)
 Para finalizar, organizamos y clasificamos las ideas según las fases propuestas en el cuadro, que incluyen buscar una banda, realizar el evento con la banda contratada y concluir el evento cumpliendo con el contrato establecido.
 
 <center>
@@ -1049,12 +1049,11 @@ Para finalizar, organizamos y clasificamos las ideas según las fases propuestas
 ![TO-BE Artista 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712993395/p1dlyktmhht5a1mkoakr.png)
 Se plantea el cuadro y se separa el contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 
-![TO-BE Artista 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712993978/s1rztujibeljr8kquvzd.png)
+![TO-BE Artista 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714631963/pkottcdl4hrjarkpfonf.png)
 Después de realizar entrevistas con el público objetivo y basándonos en las respuestas obtenidas, hemos formulado una lluvia de ideas sobre lo que busca un artista en el proceso de establecer un contrato con un cliente, considerando aspectos de "doing", "thinking" y "feeling":
 
-![TO-BE Artista 6](https://res.cloudinary.com/drkelnilg/image/upload/v1712994034/dw13it88lmbxwyqxrc0z.png)
+![TO-BE Artista 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714631997/a2enjwwdvqmxvwcjrmpp.png)
 Para finalizar, organizamos e identificamos las ideas formuladas anteriormente según las fases propuestas en el cuadro, que incluyen la preparación del artista para un evento, la presentación en el evento y los resultados posteriores, como el pago por el contrato y la opinión del público.
-
 
 ### 3.2. User Stories.
 
