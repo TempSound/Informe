@@ -918,13 +918,13 @@ en el análisis de entrevistas y de la competencia.
 
 #### 2.3.4. Empathy Mapping.
 
-**Organizador:**
+**Artista:** https://uxpressia.com/w/TqH0M/p/NuwuW?tagId=noTag
 
-<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963418/gmvwpyxerj8nctf7w56h.png" border="0"></a>
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714497175/wi72lggq0khxljbxb0xt.png" border="0"></a>
 
-**Musico o banda:**
+**Customer:** https://uxpressia.com/w/TqH0M/p/NuwuW?tagId=noTag
 
-<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712964235/kzunrdwgxdhsxiyuygtq.png" border="0"></a>
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714496200/xpomxvtqujl9m4hrx9xj.png" border="0"></a>
 
 
 Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
