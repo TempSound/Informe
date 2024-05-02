@@ -1416,20 +1416,21 @@ Y por ultimo la seccion de contacto, donde el usuario podra contactarse con noso
 
 #### 4.3.2. Landing Page Mock-up. 
 Sección de Únete!, como vista final en Landing Page.
-![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712995673/eeaef1be19rfujm08ttn.png)
+![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1714675335/clqiln3m3ws2fs7qwtep.png)
 
 Sección de servicios, como vista final en Landing Page, donde el usuario podra ver todo lo que le ofrecemos en nuestra plataforma
-![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712995708/d4aka8ftsfznzvyko0o2.png)
+![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714675394/jqzkub8hpmoobiktnocz.png)
 
-Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usa¿uarios.
-![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712995720/xbktfpagscygllkcfb1w.png)
+Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usuarios.
+![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714675397/ia0nt0zpbwqm1e5a2qy3.png)
 
 
-![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712995747/vd7kv4uqj3j6o8ejrjnl.png)
+![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1714675419/wfepzdeh5iokrdq6p4hn.png)
 
-Sección Uneté, como vista final en Landing Page.
-![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712995750/sqmd0ygoi4vlyy43eovj.png)
+Sección Uneté y contacto, como vista final en Landing Page.
+![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714675434/t7mdvpaog0tpyvwjwtjy.png)
 
+![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714675451/pacpxjszk1byaiekz1z8.png)
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 
