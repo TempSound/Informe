@@ -1896,24 +1896,28 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.
 | US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105860177821878/image.png?ex=662e7908&is=661c0408&hm=34edcedb84a386f1c2a33ff64df170b81a1b6ec2b2d691a4ef406b2dec2cc1b5&" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105928419283138/image.png?ex=662e7919&is=661c0419&hm=84789a5c7479d8f72d65f7dea56658eafc3a7073a5f41b7e2d7f0fbf925e7b40&" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229105993447637093/image.png?ex=662e7928&is=661c0428&hm=f11a0213c62580f323184dbb2214870827110c87c9c3e177940491c3532efc49&" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1150323978628509696/1229106116592668712/image.png?ex=662e7945&is=661c0445&hm=1a52f124cb41de6ec0ba98466c685755b2908bc5013203bddb8c85cf61b5e197&" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
-
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
