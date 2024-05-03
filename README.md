@@ -2160,16 +2160,81 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 03/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 04/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 06/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from TempSound-UPC/feature/add-chatting-section | feat: chatting section added | 07/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from TempSound-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 12/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from TempSound-UPC/feature/US10 | feat: home added | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from TempSound-UPC/feature/add_navbar | feat: navbar added | 14/04/2024 |
 #### 5.2.2.4. Testing Suite Evidence for Srint Review
-
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | c9da4d6  | add gherkin US01 | 12/04/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | c9da4d6 | add gherkin US02 | 12/04/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US03.feature | Cabrera.jeferson-feature-Sprint1-US03 | c9da4d6 | add gherkin US03 | 12/04/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
 #### 5.2.2.8. Team Collaboration Insights During Sprint
+
+**Contributors**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
 
 
 ## Conclusiones
