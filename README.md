@@ -1822,7 +1822,7 @@ Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera ver
 del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
 
 
-Enlace del Jira :[Sprint Backlog 1 - TempSound](https://tempsound-upc.atlassian.net/jira/software/projects/TEM/boards/1/backlog?assignee=unassigned))
+Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.net/jira/software/projects/TRAV/boards/1?atlOrigin=eyJpIjoiNWEwYTg5ZGNhZGJhNDMwYzg3YzJkOThjZTgwYTVhNGIiLCJwIjoiaiJ9))
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
