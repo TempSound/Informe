@@ -1431,6 +1431,24 @@ Sección Uneté y contacto, como vista final en Landing Page.
 ![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714675434/t7mdvpaog0tpyvwjwtjy.png)
 
 ![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714675451/pacpxjszk1byaiekz1z8.png)
+<br>
+**Mobile**
+Vista Home 
+![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1714755155/imagen_2024-05-03_115233108_ngrb69.png)
+
+![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714755180/imagen_2024-05-03_115246715_g9aj0d.png)
+
+![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714755185/imagen_2024-05-03_115303348_gu38gx.png)
+
+![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1714755211/imagen_2024-05-03_115321751_lwddey.png)
+
+![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714755215/imagen_2024-05-03_115333324_yedngn.png)
+
+![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714755241/imagen_2024-05-03_115357664_ur6xf8.png)
+
+**Enlace del figma:** https://www.figma.com/file/PPlG9908PDr3KqBEKkH3We/Untitled?type=design&node-id=3-102&mode=design&t=xp0ZW0dNVYVVW5I4-0
+
+
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 
