@@ -1431,9 +1431,11 @@ Sección Uneté y contacto, como vista final en Landing Page.
 ![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714675434/t7mdvpaog0tpyvwjwtjy.png)
 
 ![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714675451/pacpxjszk1byaiekz1z8.png)
-<br>
+
+
 **Mobile**
 Vista Home 
+
 ![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1714755155/imagen_2024-05-03_115233108_ngrb69.png)
 
 ![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714755180/imagen_2024-05-03_115246715_g9aj0d.png)
