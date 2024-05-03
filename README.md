@@ -2191,27 +2191,28 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+Para este segundo sprint se realizo un avance del proyecto considerando los features sobre el product backlog en la cual estamos trabajando.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760789/Captura_de_pantalla_2024-05-03_132456_zlqien.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760839/Captura_de_pantalla_2024-05-03_132652_qyoxzz.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132701_zvrfxw.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132643_pbap9w.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
-En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132707_ld3olm.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, se esta usando el fake API para lograr desplegar el programa cabe mencionar que es un avance parcial y que se estima mejorar en el aspecto de diseño.
+LINK DE DESPLIEGUE: https://music-time-opensource.web.app/home
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
