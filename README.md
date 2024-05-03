@@ -263,21 +263,91 @@
 
 ## 5. Capítulo V: Product Implementation, Validation & Deployment
 
-  - [5.1. Software Configuration Management.](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-      - [Project Mangement](#project-mangement)
-      - [Requirements Management](#requirements-management)
-      - [Product UX/UI Design](#product-uxui-design)
-      - [Software Development](#software-development)
-      - [Software Testing](#software-testing)
-      - [Software Documentation](#software-documentation)
+- [Universidad Peruana de Ciencias Aplicadas.](#universidad-peruana-de-ciencias-aplicadas)
+    - [Ingeniería de Software.](#ingeniería-de-software)
+    - [Desarrollo de aplicaciones Open Source](#desarrollo-de-aplicaciones-open-source)
+    - [WS52](#ws52)
+    - [Elio Jefferson  Navarrete Vilca](#elio-jefferson--navarrete-vilca)
+    - ["Informe de TB 1"](#informe-de-tb-1)
+  - [2024-1](#2024-1)
+- [Registros de versiones del Informe](#registros-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Índice](#índice)
+- [Student Outcome](#student-outcome)
+  - [1. Capítulo I: Introducción](#1-capítulo-i-introducción)
+  - [2. Capítulo II: Requirements Elicitation \& Analysis](#2-capítulo-ii-requirements-elicitation--analysis)
+  - [3. Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)
+  - [4. Capítulo IV: Product Design](#4-capítulo-iv-product-design)
+  - [5. Capítulo V: Product Implementation, Validation \& Deployment](#5-capítulo-v-product-implementation-validation--deployment)
+- [Student Outcome](#student-outcome-1)
+  - [CAPITULO 1: INTRODUCCIÓN](#capitulo-1-introducción)
+    - [1.1. Startup Profile](#11-startup-profile)
+      - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+      - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+      - [1.2.1 Antecedentes y problemática.](#121-antecedentes-y-problemática)
+      - [1.2.2 Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+  - [CAPÍTULO 2: REQUIREMENTS ELICITATION \& ANALYSIS](#capítulo-2-requirements-elicitation--analysis)
+    - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas.](#22-entrevistas)
+      - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+      - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+  - [Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280\_upc\_edu\_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2](#link-de-la-entrevista-httpsupcedupe-mysharepointcomvgpersonalu202113280_upc_edu_peet7y2frwyazcuwjvrrzyu4kb6kxqlnprmztfmhkdx7s90qenqzne2)
+  - [Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH\_u-X/view](#link-de-la-entrevista-httpsdrivegooglecomfiled12r-zeenam2rwownlcwfotxwmyrwh_u-xview)
+      - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+      - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas-1)
+    - [2.3. Needfinding.](#23-needfinding)
+      - [2.3.1. User Personas.](#231-user-personas)
+      - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+      - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+      - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+      - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+    - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+  - [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#capítulo-3-requirements-specification)
+    - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+    - [3.2. User Stories.](#32-user-stories)
+    - [3.3. Impact Mapping.](#33-impact-mapping)
+    - [3.4. Product Backlog.](#34-product-backlog)
+  - [CAPÍTULO 4: PRODUCT DESIGN](#capítulo-4-product-design)
+    - [4.1. Style Guidelines.](#41-style-guidelines)
+      - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+    - [4.2. Information Architecture.](#42-information-architecture)
+      - [4.2.1. Organization Systems.](#421-organization-systems)
+      - [4.2.2. Labeling Systems.](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+      - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+      - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+      - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+      - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.8. Database Design.](#48-database-design)
+      - [4.8.1. Database Diagram.](#481-database-diagram)
+  - [CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION \& DEPLOYMENT](#capítulo-5-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management.](#51-software-configuration-management)
+      - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
       - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.2. Source Code Management.](#512-source-code-management-1)
-    - [Gitflow](#gitflow)
-    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+      - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
@@ -286,46 +356,19 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint planning 2](#5221-sprint-planning-2)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-    - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning.](#5231-sprint-planning)
-      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning.](#5241-sprint-planning)
-    - [5.2.4.2. Sprint Backlog 4.](#5242-sprint-backlog-4)
-    - [5.2.4.3 Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
-    - [5.2.4.4.Testing Suite Evidence for Sprint Review.](#5244testing-suite-evidence-for-sprint-review)
-    - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
-  - [Web service commit details](#web-service-commit-details)
-        - [Link del repositorio:](#link-del-repositorio)
-    - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
-    - [5.2.4.8 Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-    - [5.3.1. Diseño de entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de entrevistas.](#532-registro-de-entrevistas)
-    - [Segmento 1: Clientes que suelen ir a frecuentar un bar](#segmento-1-clientes-que-suelen-ir-a-frecuentar-un-bar-1)
-    - [Entrevista 1:](#entrevista-1-1)
-    - [Entrevista 2:](#entrevista-2-1)
-    - [Segmento 2: Empresarios del manejo bares](#segmento-2-empresarios-del-manejo-bares-1)
-    - [Entrevista 3:](#entrevista-3-1)
-    - [Evaluaciones según heurísticas.](#evaluaciones-según-heurísticas)
-  - [5.4. Video About-The-Product.](#54-video-about-the-product)
-    - [Video About-the-Product.](#video-about-the-product)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Srint Review](#5224-testing-suite-evidence-for-srint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights During Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [Conclusiones](#conclusiones)
+    - [Video About-the-Team.](#video-about-the-team)
+  - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
 
 <br><br>
 
@@ -829,6 +872,20 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2
 ---
+**Entrevista #5:**
+
+<a><img src="https://cdn.discordapp.com/attachments/1065461786301714483/1229142360324313169/image.png?ex=662e9b07&is=661c2607&hm=e214c77149de8e95d7af0f6a4c2c75ce6e361fc883c1a86c014ab01b5d132a90&"></a>
+
+- Nombre y apellidos: Agustin Aguilar
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 05:04minutos
+- Breve descripción: <br><br>
+	 Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+---
 
 #### 2.2.3. Análisis de entrevistas.
 
@@ -928,7 +985,7 @@ en el análisis de entrevistas y de la competencia.
 #### 2.3.3. User Journey Mapping.
 
 **Segmento 1: Usuarios Individuales (Bandas y Solistas Musicales)**
-<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
+<img src="https://cdn.discordapp.com/attachments/891082394310946867/1236025203981553684/Customer_journey_map_1.png?ex=663681ac&is=6635302c&hm=b664a418db13efb333c7aa9f4cf4620878ec32f10bd95dd4296b95d288cfcd97&" border="0"></a>
 
 **Segmento 2: Empresas y Negocios Relacionados con la Industria Musical**
 
@@ -2191,43 +2248,50 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Para este segundo sprint se realizo un avance del proyecto considerando los features sobre el product backlog en la cual estamos trabajando.
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760789/Captura_de_pantalla_2024-05-03_132456_zlqien.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760839/Captura_de_pantalla_2024-05-03_132652_qyoxzz.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132701_zvrfxw.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132643_pbap9w.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132707_ld3olm.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
-En el alcance del presente sprint, se esta usando el fake API para lograr desplegar el programa cabe mencionar que es un avance parcial y que se estima mejorar en el aspecto de diseño.
-LINK DE DESPLIEGUE: https://music-time-opensource.web.app/home
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el desarrollo del sprint 2 se considero el avance del product backlog tomando en cuenta las historias de usuario y los puntos de importancia que se tenia para elaborar el proyecto de la misma forma se considero los distintos commit de los integrantes de equipo.
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
 #### 5.2.2.8. Team Collaboration Insights During Sprint
 
 **Contributors**
 
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
 
 **Network graph**
 
-![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
-
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
 
 
 ## Conclusiones
