@@ -1581,41 +1581,131 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
 
 
-#### 4.4.2. Web Applications Wireflow Diagrams.
- 
+#### 4.4.2. Web Applications Mock-ups.
 
-![diagram1](https://res.cloudinary.com/drkelnilg/image/upload/v1714172465/yrcwq9noxk4pplufl169.png)
+Aca se mostrara el inicio del login: <br>
 
-Al iniciar la aplicaión, el usuario encuentra un formulario de registro y tambien opciones para que se registre con una cuenta de Facebook o Google. Una ves registrado va a iniciar sesion y en caso sea un artista pagara una suscripcion e iniciaria sesion.
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393776580198411/image.png?ex=6630924a&is=662f40ca&hm=ec729ce104a2bcc33139dbcb8b5cfe4675e980753f97bb14aba86de83fad1fd7& )  
 
-![diagram2](https://res.cloudinary.com/drkelnilg/image/upload/v1714172999/zqz2tdbyoqcglhgjjdn4.png)
+Aca se registran los usuarios nuevos: <br>
 
-Cuando ya haya iniciado sesion con su cuenta, el cliente podra observar la lista de artistas y escoger el de su preferencia. Tambien podra ver una descripcion de l artista, sus notificciones y buscar artistas por filtros.
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
 
-![diagram3](https://res.cloudinary.com/drkelnilg/image/upload/v1714173544/u8seek7trbaz7jxjepx5.png)
+Perfil de Usuario: <br>
 
-Si un artista le llama la atencion, podra contactarlo mediante un chat en tiempo real. Y tambien podra dejar una reseña al artista y calificarlo con una cantidad de estrellas.
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234393897724018719/image.png?ex=66309267&is=662f40e7&hm=5a9b3490ed9fc299449f5d8bec79d843483dea3cade7135cf5fd550841722771&) 
 
-![diagram4](https://res.cloudinary.com/drkelnilg/image/upload/v1714173693/tq9wbzdsfsigfdghxhx7.png)
+Los planes que tiene el usuario para Upgradearse: <br>
 
-Si llego a un acuerdo con el artista mediante el chat entonces podra contratarlo para su evento, y se le mostrara una pantalla de confirmacion con la descripcion del artista y fecha de evento.
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
 
-**Artistas**
+La seccion de pagar con tarjeta:
 
-![diagram5](https://res.cloudinary.com/drkelnilg/image/upload/v1714175069/dfbcsc6dxkbyxht7gj2i.png)
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394027848368219/image.png?ex=66309286&is=662f4106&hm=69d6b678dce6663a200cd823b55ebf1f7e65818cc93b63d4ed2f3ca6bde43557& ) 
 
-Cuando al artista entra a la plataforma con su cuenta, se le mostratra su informacion y cuantas visitas a temido su perfil en el transcurso de los dias. Tmabien podria ir a la pantalla de notificaciones y la pantalla de My music para editar informacion de su musica.
+El inicio del Usuario:
 
-![diagram6](https://res.cloudinary.com/drkelnilg/image/upload/v1714175291/jccelie2yigqon3mrgae.png)
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=66339533&is=663243b3&hm=10f4ecb7dd864f762ad844c9a6e43ada56ae0f252b8e6bcf4a76209a5e83ab48&) 
 
-Si acepta una de sus notificaciones se le llevara a un chat con un organizador y podran acordar sobre el evento.
+El buscador de genero del usuario: 
 
-![diagram7](https://res.cloudinary.com/drkelnilg/image/upload/v1714175514/pu2bktfjygnh45wl44so.png)
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
 
-Al final, el artista podra aplicar para el evento y se le mostrara una pantalla de confirmacion del evento, con la descripcion y fecha de este mismo.
+Los artistas mas frecuentes del Usuario: 
 
-**Enlace del figma:** https://www.figma.com/file/1hjHtZs3A8vRyrcncRGeie/Untitled?type=design&node-id=0-1&mode=design&t=AhuQWcpWSDWc6aF2-0
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394268697624667/image.png?ex=663092bf&is=662f413f&hm=14d92d0ec5578808fcfead6b09f6cd2fb60050917ff14974129882e1cacf86e8&)
 
+El perfil del cantante o banda: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+
+La pagina para contratar al cantante o banda: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+
+LA confirmacion del contrato con el cantante o banda: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
+
+El Incio del artista: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394579617447947/image.png?ex=66309309&is=662f4189&hm=65c728ba60b44f181686870eb91e05d27c6999a85f027bf04966c3d78a2b1e1d&) 
+
+El evento a detalle del artista: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394644419317832/image.png?ex=66309319&is=662f4199&hm=7e03089b5ed7762cf5b6b5d080767c290a9c6e83244ad5b978f1f99af2afb34f& ) 
+
+Las solisitudes del Artista:
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394704389345310/image.png?ex=66309327&is=662f41a7&hm=3f639badf9231765bb97addf2d977088a26d2b7fcac2787e0a05f7f1b3704d86& ) 
+
+La pagina para aceptar o denegar solicitudes del artista: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+
+La musica del artista: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
+
+La pagina de contactanos para usarios y artistas: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
+
+#### 4.4.3. Web Applications User Flow Diagrams.
+
+En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
+
+**Segmento objetivo Cliente:**
+
+
+**User Goal:** Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento.   
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
+
+**User Goal:** Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su 
+calidad. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+
+**User Goal:** como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+
+**User Goal:** como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& )
+
+**User Goal:** Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente 
+cualquier problema o duda durante el proceso de contratación de músicos.  
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
+
+**Segmento objetivo Artistas:**
+
+
+**User Goal:** Como musico, quiero poder registrarme en la plataforma utilizando mi dirección de correo electrónico y una contraseña segura.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
+
+**User Goal:** Como musico, quiero poder acceder y visualizar los planes de suscripción disponibles para tener una idea clara de las opciones y beneficios.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
+
+**User Goal:** Como solista o banda, quiero crear un perfil en la plataforma para promocionar mi música y servicios. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
+
+**User Goal:** Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+
+**User Goal:** Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
 ### 4.5. Web Applications Prototyping.
 
 ![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
