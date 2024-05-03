@@ -2216,26 +2216,18 @@ LINK DE DESPLIEGUE: https://music-time-opensource.web.app/home
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
-
-Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
-Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
-Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
-
-Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
-GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
-Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+Para el desarrollo del sprint 2 se considero el avance del product backlog tomando en cuenta las historias de usuario y los puntos de importancia que se tenia para elaborar el proyecto de la misma forma se considero los distintos commit de los integrantes de equipo.
 
 #### 5.2.2.8. Team Collaboration Insights During Sprint
 
 **Contributors**
 
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
 
 **Network graph**
 
-![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
-![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
+
 
 
 ## Conclusiones
