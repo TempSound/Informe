@@ -105,7 +105,6 @@
 
 <br><br>
 
-# Índice
 # Student Outcome
 <table align="center" border="1" width="90%">
 
@@ -189,14 +188,18 @@
       - Se realizó Software Architecture Context Diagram.</br>
       - Se realizó Software Architecture Container Diagrams.</br>
       - Se realizó Software Architecture Components Diagrams.</br>
+      <b>TP:</b></br>
+      - </br>
     </td>
     <td>
       - La conclusión derivada del análisis de las secciones desarrolladas en nuestro proyecto de ingeniería resalta la importancia fundamental del trabajo en equipo, la asignación adecuada de tareas y la verificación rigurosa de las contribuciones individuales. Estos elementos se revelan como pilares para el éxito del proceso de documentación. El reconocimiento de la interdependencia entre los miembros del equipo y la necesidad de una distribución eficiente de responsabilidades demuestra una profunda comprensión de los principios fundamentales de la gestión de proyectos en ingeniería. Asimismo, la atención meticulosa a la verificación de cada componente del proyecto enfatiza el compromiso con la precisión y la excelencia en la ejecución, aspectos cruciales para garantizar la integridad y la confiabilidad de los resultados obtenidos.</br></br>
-	Este análisis también subraya la importancia de la comunicación efectiva dentro del equipo de trabajo y con las partes interesadas externas. La documentación del proyecto no solo sirve como un registro detallado de los esfuerzos y logros alcanzados, sino también como un medio para transmitir de manera clara y objetiva los resultados y las conclusiones a diversos públicos, incluidos aquellos con diferentes niveles de especialización y jerarquía. La capacidad para comunicar ideas y resultados de manera objetiva y comprensible es fundamental en el contexto del desarrollo de proyectos de ingeniería, ya que facilita la colaboración entre equipos multidisciplinarios y promueve una comprensión común de los objetivos y las estrategias adoptadas.</br>< /br>
+	Este análisis también subraya la importancia de la comunicación efectiva dentro del equipo de trabajo y con las partes interesadas externas. La documentación del proyecto no solo sirve como un registro detallado de los esfuerzos y logros alcanzados, sino también como un medio para transmitir de manera clara y objetiva los resultados y las conclusiones a diversos públicos, incluidos aquellos con diferentes niveles de especialización y jerarquía. La capacidad para comunicar ideas y resultados de manera objetiva y comprensible es fundamental en el contexto del desarrollo de proyectos de ingeniería, ya que facilita la colaboración entre equipos multidisciplinarios y promueve una comprensión común de los objetivos y las estrategias adoptadas.</br></br>
 	Además, este análisis refuerza la necesidad de una mentalidad orientada hacia la calidad y la mejora continua en el desarrollo de proyectos de ingeniería. La reflexión crítica sobre el proceso de documentación permite identificar áreas de oportunidad y buenas prácticas que pueden ser aplicadas en proyectos futuros. Esta actitud de aprendizaje y adaptación constante es esencial para impulsar la innovación y la excelencia en el campo de la ingeniería, asegurando que los resultados entregados cumplan con los más altos estándares de calidad y satisfagan las expectativas de todas las partes involucradas.</br> </br>
     </td>
   </tr>
 </table>
+
+# Índice
 
 ## 1. Capítulo I: Introducción
 
