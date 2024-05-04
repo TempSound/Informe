@@ -2178,6 +2178,59 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 #### 5.2.2.1. Sprint Planning 2
 
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-21</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:00 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar y poner en funcionamiento nuestra página de aterrizaje en Github Pages.</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Retrospective Summary</td>
+    <td>En cuanto a las áreas de mejora identificadas, se discutió la necesidad de gestionar el tiempo de manera más efectiva y mejorar la comunicación entre los integrantes del equipo en los próximos sprints. También, se recabaron las opiniones individuales de cada miembro sobre su experiencia durante este primer sprint.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Goal</td>
+    <td>El objetivo del equipo para el segundo sprint es crear la primera iteración de nuestra aplicación web frontend y lanzarla en Firebase. Esto permitirá que la aplicación sea accesible para cualquier persona conectada a Internet.</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
+
 #### 5.2.2.2. Sprint Backlog 2
 
 Para el desarrollo del segundo sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y nuestro segmento clave que son los artistas, para asi tener desarrollado una primera version de la plataforma web.
