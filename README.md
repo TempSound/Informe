@@ -2468,8 +2468,7 @@ Para el desarrollo de la primera parte del programa y la mejora básica del Land
 Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
 
 **Contributors**
-
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+<img width="923" alt="Screenshot 2024-05-04 at 13 57 17" src="https://github.com/TempSound/Informe/assets/107071662/73f340d4-4b00-4733-9eb0-2e3d1a89488b">
 
 **Network graph**
 
