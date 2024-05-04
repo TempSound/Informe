@@ -2196,10 +2196,10 @@ Para el desarrollo del segundo sprint, el grupo considero trabajar de acuerdo a 
 
 Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramienta Trello, en la cual se asigno tareas asi avanzar para la entrega de dicho sprint.
 
-![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714365902/Sprint_2_Trello_uqg574.png)
+![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714829364/Captura_de_pantalla_2024-05-04_082459_qihn10.png)
 
 
-**Enlace del Trello:** [Sprint Backlog 2-codex] https://trello.com/b/lwGoUNUN
+**Enlace del Trello:** [Sprint Backlog 2-TempSound] https://trello.com/b/9qakTFTk
 
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
@@ -2229,7 +2229,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Crear opcion de registro de proximos eventos que se muestre</td>
     <td>0.5</td>
     <td>Anthony Loarte</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
    <tr>
     <td>US020.2</td>
@@ -2239,7 +2239,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de modificacion de eventos.</td>
     <td>0.5</td>
     <td>Anthony Loarte</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
    <tr>
     <td>US020.3</td>
@@ -2249,7 +2249,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de eliminacion de eventos.</td>
     <td>0.5</td>
     <td>Anthony Loarte</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
    <tr>
     <td>US020.4</td>
@@ -2259,7 +2259,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de interfaz de eventos.</td>
     <td>0.5</td>
     <td>Anthony Loarte</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
 
 
@@ -2272,7 +2272,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Desarrollar opcion de vista de contratos para el musico con opcion de confirmacion de contrato o rechazo.</td>
     <td>1</td>
     <td>Bruce Cipriano</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
  <tr>
     <td>US021.2</td>
@@ -2283,7 +2283,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     </td>
     <td>0.5</td>
     <td>Bruce Cipriano</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
 
 
@@ -2344,7 +2344,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     </td>
     <td>0.5</td>
     <td>Carlos Pingus</td>
-    <td>Done</td>
+    <td>To-Do</td>
  </tr>
 
 
@@ -2378,23 +2378,23 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 #### 5.2.2.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/TempSound/MusicTime-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 03/04/2024 | 
-| https://github.com/TempSound/MusicTime-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 04/04/2024 | 
-| https://github.com/TempSound/MusicTime-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 06/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from TempSound-UPC/feature/add-chatting-section | feat: chatting section added | 07/04/2024 | 
-| https://github.com/TempSound/MusicTime-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from TempSound-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 11/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 11/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 12/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 13/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from TempSound-UPC/feature/US10 | feat: home added | 13/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 13/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 14/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 14/04/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from TempSound-UPC/feature/add_navbar | feat: navbar added | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 255465160cc36a96130888a2b0dfa39974c06557 | Create: Proyect open source in music time TF. | Create: Proyect open source in music time TF. | 02/05/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | ed2d643b6a036317c304e968962587589f7215e6 | Update: Delete pages for new pages in public and add DB | Update: Delete pages for new pages in public and add DB | 02/05/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | da465d41fe2f47ed51f9f367e3809c8a52386871 | Update: Enviroments element for API. | Update: Enviroments element for API. | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2450b851772ea6507e19fd5282d4af6ffeb97f21 | Create: Toolbar content component and pages "Home-About" | Create: Toolbar content component and pages "Home-About" | 02/05/2024| 
+| https://github.com/TempSound/MusicTime-Frontend | master | ad6bbfca900baa2321400f979a972884fb04a87e | Create: Roting component about home and about | Create: Roting component about home and about | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Create: Roting component about home and about | Create: Roting component about home and about | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Musician view to elements | Create: Musician view to elements | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Create: Musician view in toolbar. | Create: Musician view in toolbar. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Create: Musicias card and grups see. | Create: Musicias card and grups see. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | Create: Added style and functionality to subscription buttons and aircraft descriptions. | Create: Added style and functionality to subscription buttons and aircraft descriptions. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: profile musician add. | Create: profile musician add. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Update: all elements for the proyect. | Update: all elements for the proyect. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Update: create musician tu db. | Update: create musician tu db. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Update: all the proyect and update musician-content | Update: all the proyect and update musician-content | 04/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Create: new API to json server for the proyect | Create: new API to json server for the proyect | 04/05/2024|
+| https://github.com/TempSound/MusicTime-Frontend | master | d1cf77e87138190ac094ceba299b660de7374f6f | Chore: Title changes in Toolbar component | Chore: Title changes in Toolbar component | 04/05/2024 |
 #### 5.2.2.4. Testing Suite Evidence for Srint Review
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
