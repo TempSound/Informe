@@ -6,6 +6,8 @@
 
 Este proyecto se enfoca en la creación de una plataforma web utilizando las tecnologías Angular y Typescript. La combinación de estas dos tecnologías permite aprovechar las fortalezas de cada una para ofrecer una experiencia de usuario excepcional y un desarrollo eficiente.
 
+Angular, un framework de desarrollo frontend basado en TypeScript, ofrece una arquitectura robusta y modular que facilita la construcción de aplicaciones web complejas. Por otro lado, TypeScript, como un superconjunto tipado de JavaScript, proporciona beneficios como la detección temprana de errores y el aumento de la productividad gracias a su capacidad de ofrecer un código más limpio y mantenible. La sinergia entre Angular y TypeScript permite al equipo de desarrollo crear una plataforma web dinámica y escalable, cumpliendo con los estándares de calidad y rendimiento esperados.
+
 #### Objetivos Principales:
 - Desarrollar una plataforma web intuitiva y de alto rendimiento.
 - Implementar funcionalidades avanzadas utilizando las capacidades de Angular y typescrtip
