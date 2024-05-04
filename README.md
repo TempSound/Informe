@@ -2398,12 +2398,12 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 #### 5.2.2.4. Testing Suite Evidence for Srint Review
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
-| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | c9da4d6  | add gherkin US01 | 12/04/2024 |
-| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | c9da4d6 | add gherkin US02 | 12/04/2024 |
-| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US03.feature | Cabrera.jeferson-feature-Sprint1-US03 | c9da4d6 | add gherkin US03 | 12/04/2024 |
-| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
-| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
-| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
+| US020/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US020.feature | herrera.victor-feature-Sprint1-US020 | a3e234 | add festures US020 | 04/05/2024 |
+| US021/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US021.feature | herrera.victor-feature-Sprint1-US021 | a3e234 | add festures US021 | 04/05/2024 |
+| US024/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US024.feature | herrera.victor-feature-Sprint1-US024 | a3e234 | add festures US024 | 04/05/2024 |
+| US026/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US026.feature | herrera.victor-feature-Sprint1-US026 | a3e234 | add festures US026 | 04/05/2024 |
+| US027/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US027.feature | herrera.victor-feature-Sprint1-US027 | a3e234 | add festures US027 | 04/05/2024 |
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
