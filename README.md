@@ -11,10 +11,10 @@
 ### Desarrollo de aplicaciones Open Source 
 ### WS52
 ### Elio Jefferson  Navarrete Vilca
-### "Informe de TB 1"
+### "Informe de Trabaajo Parcial"
 **Team**: 03
 
-**StartUp Name:** TempoSound
+**StartUp Name:** TempSound
 
 **Product Name:** MusicTime
 <div align='center'>
@@ -27,7 +27,7 @@
 |Cipriano Chumbes, Bruce Andres      |u20211d640|
 |Herrera Castillo, Victor Raul    |u20201e188|
 |Loarte Matos, Anthony Brahan     |u20211d563|
-|Pingus Rodriguez, Carlos Daniel     |u2021132800|
+|Pingus Rodriguez, Carlos Daniel     |u202113280|
 
  ## 2024-1
  </div>
