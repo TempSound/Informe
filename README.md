@@ -1912,11 +1912,11 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
-    <td>6</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>6</td>
+    <td>26</td>
   </tr>
 </table>
 
