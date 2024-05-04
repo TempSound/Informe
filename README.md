@@ -1750,7 +1750,7 @@ En esta sección, nuestro equipo de desarrollo proporcionará una descripción e
 - <b>Jira:</b> Una herramienta de gestión de proyectos basada en tarjetas y tableros que facilita la organización de tareas y proyectos, así como la colaboración en equipo.
 - <b>Structurizr:</b> Una herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
 - <b>Canvas:</b> Una plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
-- 
+
 #### 5.1.2. Source Code Management.
 
 | Nombre completo | Nombre de la cuenta |
@@ -2117,7 +2117,9 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 **Contributors**
 
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
+![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
+
+![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
 
 **Network graph**
 
