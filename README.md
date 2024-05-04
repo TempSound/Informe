@@ -1906,9 +1906,62 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 
 #### 5.2.1.1. Sprint Planning 1.
 
-![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint1/mku7psichkyaqmiwlmuj.jpg)
+Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comienzo de cada sprint y tiene como objetivo definir las actividades a realizar durante ese período específico.
 
-![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint/erpny5ru3pu3pc1ulqmt.jpg)
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-01</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>20:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>Desarrollamos la primera version de nuestra landing page para nuestro proyecto, aplicando las sugerencias que nuestro publico objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción.</br></br>
+	Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente “sprint” nos comunicaremos con el segmento objetivo para que nos continue brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>En cuanto a las opiniones que tuvimos cada uno de los integrantes del startup, acordamos que el primer boceto de la landing page cumple con las expectativas del diseño aplicado, tenemos en cuenta que aun nos falta implementar algunos iconos y añadir algunas funcionalidades, pero aun seguimos en constante comunicación para mejorar en ello. </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>El objetivo para este Sprint se enfoco en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma	incorporado , tanto en ingles como en español.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>6</td>
+  </tr>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1.
 
