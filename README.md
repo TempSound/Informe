@@ -2462,53 +2462,76 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 | US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
 | US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
 | US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
-Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+
+Para este segundo sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760789/Captura_de_pantalla_2024-05-03_132456_zlqien.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760839/Captura_de_pantalla_2024-05-03_132652_qyoxzz.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132701_zvrfxw.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132707_ld3olm.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
-En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132643_pbap9w.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Para el desarrollo del sprint 2 se plasmo como prueba el avance de las feature mas relevantes para nuestro bussines como son la vista de grupos para los clientes y el manejo del data sobre estos que sera limitado dentro de las cuentas de acuerdo a las suscripciones que se otorgo.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
+
+Durante este sprint, hemos trabajado en la construcción de la primera parte de nuestra plataforma de música, que permite a los usuarios buscar y contratar grupos para sus eventos. Aquí están los servicios clave que hemos desarrollado y la evidencia de su funcionamiento:
+
+Servicio de Búsqueda de Grupos: Este servicio permite a los usuarios buscar grupos por género, ubicación, precio y disponibilidad. Hemos implementado este servicio utilizando Angular para la interfaz de usuario y Node.js para el servidor. La evidencia de su funcionamiento se puede encontrar en las capturas de pantalla y los registros de la consola en el repositorio de GitHub.
+
+Servicio de Contratación de Grupos: Este servicio permite a los usuarios contratar grupos para sus eventos. Hemos implementado este servicio utilizando Java para la lógica del servidor y TypeScript para la lógica de la aplicación. La evidencia de su funcionamiento se puede encontrar en las pruebas unitarias y los registros de la consola en el repositorio de GitHub.
+
+Mejora del Landing Page: Hemos realizado mejoras en el Landing Page para hacerlo más atractivo y fácil de usar. Hemos utilizado CSS para mejorar los estilos y Angular para mejorar la interactividad. La evidencia de estas mejoras se puede encontrar en las capturas de pantalla antes y después en el repositorio de GitHub.
+
+Todos estos servicios y mejoras se han desarrollado siguiendo el modelo de flujo de trabajo de Git Flow, y el código y la documentación se han almacenado en GitHub para su revisión.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
 
-Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
-Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
-Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+**Angular:** Un marco de trabajo para la construcción de aplicaciones web en HTML, CSS y TypeScript, que nos ayudó a desarrollar la lógica de la aplicación y a mejorar la interactividad del Landing Page.
 
-Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
-GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
-Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+**Node.js:** Un entorno de ejecución para JavaScript construido en el motor de JavaScript V8 de Chrome, que nos permitió construir el servidor de la aplicación.
+
+**Java:** Lenguaje de programación de propósito general, concurrente, orientado a objetos, que se utilizó para desarrollar la lógica del servidor y la interacción con la base de datos.
+
+**TypeScript:** Un superconjunto de JavaScript que añade tipado estático y objetos basados en clases, que nos ayudó a desarrollar la lógica de la aplicación de manera más segura y eficiente.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
 #### 5.2.2.8. Team Collaboration Insights During Sprint
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
 
 **Contributors**
 
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_3_zcuads.png)
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
 
 **Network graph**
 
-![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
-![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
 
 ## Conclusiones
@@ -2561,5 +2584,7 @@ Links videos del trabajo.
 | Diagramas C4    | Link     |
 | Servicios   | Link     | 
 | Proyecto     | https://github.com/TempSound  |
+
+ 
 
  
