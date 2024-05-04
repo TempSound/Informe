@@ -1796,9 +1796,26 @@ Se realizo el diagrama de clase del bounded context de el proceso de contrato de
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 ### 5.1. Software Configuration Management.
+
 En esta sección se establece las convenciones en las cuales el grupo organizara el desarrollo del producto como también la descripción de algunas herramientas que usara el startup para la gestión del avance del proyecto y todo su ciclo de vida.
+
 #### 5.1.1. Software Development Environment Configuration.
-La configuración del entorno de software que usamos en el trabajo es el editor de código Webstorm perteneciente a JetBrains, apoyado del IDE visual estudio para los commits del Readme.md con la cual podemos manejar lenguajes de programación como java principalmente para elaborar los módulos y clases del proyecto, y como sistema para control de versiones usamos el Git así mismo usamos distintos plugin dentro del editor de código para la corrección y lograr algunos atajos al desarrollar el código, para el diseño de las funciones de la plataforma se usó herramientas digitales como Figma o Lucichat para detallar el orden de las clases del código presente y tener una vista del prototipo del producto final. teniendo en cuenta que las licencias que se usó en algunas herramientas son educativas que se nos brindó por la universidad.
+
+En esta sección, nuestro equipo de desarrollo proporcionará una descripción exhaustiva de las herramientas de software que utilizamos para colaborar en todas las etapas del ciclo de vida de nuestro producto digital. Detallaremos los nombres de las herramientas, su propósito y dónde se pueden encontrar o consultar.
+
+- <b>WhatsApp:</b> Una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Se emplea comúnmente para la comunicación tanto personal como empresarial.
+- <b>Discord:</b> Una plataforma de comunicación en línea que integra chat de texto, voz y video. Aunque es popular en la comunidad de jugadores, también se utiliza para la comunicación en grupos y equipos.
+- <b>Google Drive:</b> Un servicio de almacenamiento en la nube de Google que posibilita a los usuarios guardar y compartir archivos en línea. Además, ofrece herramientas de colaboración como Google Docs y Google Sheets.
+- <b>GitHub:</b> Una plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Su principal función es alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
+- <b>Visual Studio Code:</b> Un editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
+- <b>Uxpressia:</b> Una herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
+- <b>Vertabelo:</b> Una plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
+- <b>LucidChart:</b> Una herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos para visualizar procesos y conceptos.
+- <b>Figma:</b> Una aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
+- <b>Jira:</b> Una herramienta de gestión de proyectos basada en tarjetas y tableros que facilita la organización de tareas y proyectos, así como la colaboración en equipo.
+- <b>Structurizr:</b> Una herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
+- <b>Canvas:</b> Una plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
+- 
 #### 5.1.2. Source Code Management.
 
 | Nombre completo | Nombre de la cuenta |
