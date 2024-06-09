@@ -1951,7 +1951,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T01</td>
     <td>Insertar logo</td>
     <td>Mostrar el logo de nuestro proyecto</td>
-    <td>0.3</td>
+    <td>2</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
@@ -1960,8 +1960,8 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T02</td>
     <td>Mostrar secciones de la landing page</td>
     <td>Crear etiquetas por cada sección de la landing page</td>
-    <td>0.5</td>
-    <td>Victor herrera</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1969,8 +1969,8 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T03</td>
     <td>Mostrar Ingresar y Registrar</td>
     <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
-    <td>0.5</td>
-    <td>Victor herrera</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
 
@@ -1980,7 +1980,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T04</td>
     <td>Mostrar elementos atractivos y minimalistas</td>
     <td>Mostrar imagen referencial, logo y descripción concisa</td>
-    <td>0.5</td>
+    <td>4</td>
     <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
@@ -1989,7 +1989,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T05</td>
     <td>Mostrar Call to action</td>
     <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
-    <td>1</td>
+    <td>6</td>
     <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
@@ -2000,7 +2000,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T06</td>
     <td>Mostrar información sobre nuestra startup</td>
     <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
-    <td>1</td>
+    <td>6</td>
     <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
@@ -2010,8 +2010,8 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>Mostrar la seccion unete</td>
     <td>T07</td>
     <td>Mostrar tarjetas de nuestro producto</td>
-    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
-    <td>2</td>
+    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más información</td>
+    <td>8</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
@@ -2022,7 +2022,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T08</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
     <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
-    <td>2</td>
+    <td>8</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
@@ -2033,7 +2033,7 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
     <td>T09</td>
     <td>Mostrar tarjetas de nuestros planes</td>
     <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
-    <td>1</td>
+    <td>6</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
