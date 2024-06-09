@@ -2464,6 +2464,59 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 
 #### 5.2.3.1. Sprint Planning.
 
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-05-26</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:00 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td>Se mejoró la gestión del tiempo desde el Sprint 2, se identificó la necesidad de optimizar las herramientas de gestión y establecer plazos más realistas. También es crucial mejorar la comunicación entre los integrantes del equipo para finalizr el frontend, así como la documentación del código. Cada miembro compartió sus experiencias, destacando la importancia de las revisiones de código y las reuniones de sincronización.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td>
+    <td>Para el tercer sprint, el objetivo principal del equipo es desarrollar el backend, asegurándose de implementar todos los Bounded Context previamente identificados. Este proceso incluye la definición y refinamiento de requisitos para cada Bounded Context, garantizando una comprensión clara y precisa de las funcionalidades esperadas. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
+
 #### 5.2.3.2. Sprint Backlog 3.
 
 Para el desarrollo del tercer sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y las historias pendientes para asi tener el desarrollo del programa en una gran mayoria.
