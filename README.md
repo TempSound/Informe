@@ -352,7 +352,7 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/890103037010522132/1229055380441661560/Imagen.jpeg?ex=662e4a05&is=661bd505&hm=5a7043f6c1154f4e43038cf97538e8a18117792d1c9bcd0a13126094bd9da0a7&" alt="Anthony Loarte" border="0"></a>
+      <img src="https://github.com/TempSound/Informe/assets/107071662/d8eb40d2-6761-4e16-aa74-809bebdeded2" alt="Anthony Loarte" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Anthony Brahan Loarte Matos</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Anthony Brahan Loarte Matos, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos intermedios en C++, SQL Server, Html y CSS.
