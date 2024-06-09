@@ -3118,8 +3118,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-*UX Heuristics & Principles Evaluation*  
-Usability – Inclusive Design – Information Architecture  
+## *UX Heuristics & Principles Evaluation*  
+# Usability – Inclusive Design – Information Architecture  
 *Carrera:* Ingeniería de Software  
 *Curso:* Desarrollo de Aplicaciones Open Source  
 *Sección:* WS52  
@@ -3132,10 +3132,10 @@ Usability – Inclusive Design – Information Architecture
               Victor Raul Herrera Castillo    
 
 
-*SITE O APP A EVALUAR:*  
+### SITE O APP A EVALUAR  
 MusicTime
 
-### Tareas a Evaluar
+### TAREAS A EVALUAR
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas en la plataforma Tempsound:
 
@@ -3152,7 +3152,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. *Gestionar eventos*
 2. *Enviar ofertas de contratación*
 
-### Escala de Severidad
+### ESCALA DE SEVERIDAD
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
@@ -3163,7 +3163,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
 
-### Tabla de Resumen
+### TABLA DE RESUMEN
 
 La siguiente tabla resume los resultados de la evaluación:
 
