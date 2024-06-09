@@ -2220,8 +2220,8 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Informacion de eventos</td>
     <td>T01</td>
     <td>Registro de eventos</td>
-    <td>Crear opcion de registro de proximos eventos que se muestre</td>
-    <td>0.5</td>
+    <td>Crear opción de registro de próximos eventos que se muestre</td>
+    <td>2</td>
     <td>Anthony Loarte</td>
     <td>To-Do</td>
  </tr>
@@ -2229,9 +2229,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US020.2</td>
     <td>Informacion de eventos</td>
     <td>T02</td>
-    <td>Modificacion de eventos</td>
-    <td>Implementar opcion de modificacion de eventos.</td>
-    <td>0.5</td>
+    <td>Modificación de eventos</td>
+    <td>Implementar opción de modificación de eventos.</td>
+    <td>2</td>
     <td>Anthony Loarte</td>
     <td>To-Do</td>
  </tr>
@@ -2239,9 +2239,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US020.3</td>
     <td>Informacion de eventos</td>
     <td>T03</td>
-    <td>Eliminacion de eventos</td>
-    <td>Implementar opcion de eliminacion de eventos.</td>
-    <td>0.5</td>
+    <td>Eliminación de eventos</td>
+    <td>Implementar opción de eliminación de eventos.</td>
+    <td>2</td>
     <td>Anthony Loarte</td>
     <td>To-Do</td>
  </tr>
@@ -2250,8 +2250,8 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td >Informacion de eventos</td>
     <td>T04</td>
     <td>Interfaz de eventos</td>
-    <td>Implementar opcion de interfaz de eventos.</td>
-    <td>0.5</td>
+    <td>Implementar opción de interfaz de eventos.</td>
+    <td>2</td>
     <td>Anthony Loarte</td>
     <td>To-Do</td>
  </tr>
@@ -2263,8 +2263,8 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Seccion de contratos</td>
     <td>T01</td>
     <td>Vista de contratos</td>
-    <td>Desarrollar opcion de vista de contratos para el musico con opcion de confirmacion de contrato o rechazo.</td>
-    <td>1</td>
+    <td>Desarrollar opción de vista de contratos para el músico con opción de confirmación de contrato o rechazo.</td>
+    <td>4</td>
     <td>Bruce Cipriano</td>
     <td>To-Do</td>
  </tr>
@@ -2272,10 +2272,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US021.2</td>
     <td>Seccion de contratos</td>
     <td>T02</td>
-    <td>Eliminacion de contratos</td>
-    <td>Implementar opcion de borrar contratos de la lista que tiene pendiente.
-    </td>
-    <td>0.5</td>
+    <td>Eliminación de contratos</td>
+    <td>Implementar opción de borrar contratos de la lista que tiene pendiente.</td>
+    <td>2</td>
     <td>Bruce Cipriano</td>
     <td>To-Do</td>
  </tr>
@@ -2285,10 +2284,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US024.1</td>
     <td>Informacion de artistas</td>
     <td>T01</td>
-    <td>Agregar informacion</td>
-    <td>Crear opcion para agregar informacion del musico o su banda dentro de la base de datos.
-    </td>
-    <td>0.5</td>
+    <td>Agregar información</td>
+    <td>Crear opción para agregar información del músico o su banda dentro de la base de datos.</td>
+    <td>2</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
@@ -2296,10 +2294,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US024.2</td>
     <td>Informacion de artistas</td>
     <td>T02</td>
-    <td>Modificacion de informacion</td>
-    <td>Implementar opcion de modificacion de datos del musico o su banda.
-    </td>
-    <td>0.5</td>
+    <td>Modificación de información</td>
+    <td>Implementar opción de modificación de datos del músico o su banda.</td>
+    <td>2</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
@@ -2307,10 +2304,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US024.3</td>
     <td>Informacion de artistas</td>
     <td>T03</td>
-    <td>Eliminacion de informacion</td>
-    <td>Implementar opcion de eliminacion de datos del musico.
-    </td>
-    <td>0.5</td>
+    <td>Eliminación de información</td>
+    <td>Implementar opción de eliminación de datos del músico.</td>
+    <td>2</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
@@ -2318,10 +2314,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US024.4</td>
     <td>Informacion de artistas</td>
     <td>T04</td>
-    <td>Interfaz para informacion de musicos</td>
-    <td>Desarrollar una interfaz de muestra de la informacion del musico para los clientes.
-    </td>
-    <td>1</td>
+    <td>Interfaz para información de músicos</td>
+    <td>Desarrollar una interfaz de muestra de la información del músico para los clientes.</td>
+    <td>4</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
@@ -2333,10 +2328,9 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>US026.1</td>
     <td>Perfil de redes sociales</td>
     <td>T01</td>
-    <td>Implementar informacion de redes sociales de musicos</td>
-    <td>Implementar opcion e interfaz de agregar datos sobre redes sociales al perfil del musico.
-    </td>
-    <td>0.5</td>
+    <td>Implementar información de redes sociales de músicos</td>
+    <td>Implementar opción e interfaz de agregar datos sobre redes sociales al perfil del músico.</td>
+    <td>2</td>
     <td>Carlos Pingus</td>
     <td>To-Do</td>
  </tr>
@@ -2344,30 +2338,27 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 
   <tr>
     <td>US027.1</td>
-    <td>Suscripcion de la plataforma</td>
+    <td>Suscripción de la plataforma</td>
     <td>T01</td>
-    <td>Primera version de suscripcion</td>
-    <td>Implementar primera version del sistema de suscripcion para acceso de las cuentas de musico.
-    </td>
-    <td>1</td>
+    <td>Primera versión de suscripción</td>
+    <td>Implementar primera versión del sistema de suscripción para acceso de las cuentas de músico.</td>
+    <td>4</td>
     <td>Jeferson Camizan</td>
     <td>Done</td>
  </tr>
    <tr>
     <td>US027.2</td>
-    <td>Suscripcion de la plataforma</td>
+    <td>Suscripción de la plataforma</td>
     <td>T02</td>
-    <td>Interfaz de suscripcion</td>
-    <td>Desarrollo de la interfaz para primera version de suscripcion de la cuenta de musico.
-    </td>
-    <td>0.5</td>
+    <td>Interfaz de suscripción</td>
+    <td>Desarrollo de la interfaz para primera versión de suscripción de la cuenta de músico.</td>
+    <td>2</td>
     <td>Jeferson Camizan</td>
     <td>Done</td>
  </tr>
 
 
 </table>
-
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
