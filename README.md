@@ -3395,6 +3395,23 @@ En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro
 
 ### 5.3.1. Diseño de Entrevistas.
 
+---
+**Entrevista:**
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+
+- Nombre y apellidos: Godofredo Quispe
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 06:02minutos
+- Breve descripción: <br><br>
+	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
 #### Preguntas Generales:
 
 1. ¿Cómo te llamas?
