@@ -92,6 +92,102 @@
       <td>Cipriano Chumbes, Bruce Andres  
       <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
     </td>
+    <tr>
+        <td><strong> 1.1 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 1.2 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+    </td>
+    <tr>
+        <td><strong> 1.3 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task designados.
+    </td>
+    <tr>
+        <td><strong> 1.4 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo del frontend designado.
+    </td>
+    <tr>
+        <td><strong> 1.5 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Aporte a la culminacion del landing page en su totalidad.
+    </td>
+    <tr>
+        <td><strong> 1.6 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creacion de elementos necesarios para el repositorio.
+    </td>
+    <tr>
+        <td><strong> 1.7 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Analisis de las historias de usuario aplicadas en el trabajo.
+    </td>
+    <tr>
+        <td><strong> 1.8 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Analisis de los commit enviados y desarrollo del informe.
+    </td>
+    <tr>
+        <td><strong> 2.1 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo y apertura del sprint 2.
+    </td>
+    <tr>
+        <td><strong> 2.2 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y apertura del backend.
+    </td>
+    <tr>
+        <td><strong> 2.3 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.4 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.5 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.6 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.7 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 2.8 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo del informe para la entrega.
+    </td>
     </tr>
     </tr>
     
