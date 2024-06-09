@@ -3322,9 +3322,20 @@ Para este tercer sprint se realizo el avance de acuerdo a los features determina
 
 Para el desarrollo del sprint 3 se plasmo como prueba el avance de la mayoria de historias planteadas y su funcionamiento aplciado considerando asi que se esta acabando el 100% de parte del front end y avance del front end.
 
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
 
+Durante este sprint, nos hemos centrado en mejorar el backend y corregir aspectos del frontend de nuestra plataforma de música.
+
+Para el Servicio de Búsqueda de Grupos, hemos fortalecido su funcionalidad, permitiendo a los usuarios buscar grupos según género, ubicación, precio y disponibilidad. Implementamos esta solución utilizando Java para la lógica del servidor y aprovechamos las capacidades de desarrollo avanzadas proporcionadas por IntelliJ. La evidencia de su correcto funcionamiento se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+En cuanto al Servicio de Contratación de Grupos, hemos desarrollado una solución eficiente que simplifica el proceso de reserva de grupos para eventos. Java fue la elección para la lógica del backend, permitiéndonos aprovechar las herramientas de desarrollo integrales de IntelliJ. La evidencia de su correcto funcionamiento también se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+Aunque este sprint se ha centrado principalmente en el backend, también hemos realizado ajustes menores en el frontend para mejorar su rendimiento y usabilidad. Estas mejoras se han documentado en nuestro repositorio en GitHub para su revisión y seguimiento.
+
+El desarrollo del backend se llevó a cabo utilizando IntelliJ, lo que nos permitió una mayor eficiencia y colaboración en el equipo. Todos los cambios, tanto en el backend como en el frontend, se han integrado en nuestro flujo de trabajo de Git Flow, con el código y la documentación correspondiente disponibles en GitHub.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
