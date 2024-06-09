@@ -358,7 +358,7 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://github.com/HealthyL/Informe/assets/107071662/6b24285d-6e18-4c23-ad33-7ead49619275" alt="Anthony Loarte" border="0"></a>
+      <img src="https://cdn.discordapp.com/attachments/890103037010522132/1229055380441661560/Imagen.jpeg?ex=662e4a05&is=661bd505&hm=5a7043f6c1154f4e43038cf97538e8a18117792d1c9bcd0a13126094bd9da0a7&" alt="Anthony Loarte" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Anthony Brahan Loarte Matos</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Anthony Brahan Loarte Matos, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos intermedios en C++, SQL Server, Html y CSS.
@@ -1912,11 +1912,11 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
-    <td>10</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>26</td>
+    <td>6</td>
   </tr>
 </table>
 
@@ -2468,14 +2468,613 @@ Para el desarrollo de la primera parte del programa y la mejora básica del Land
 Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
 
 **Contributors**
-<img width="923" alt="Screenshot 2024-05-04 at 13 57 17" src="https://github.com/TempSound/Informe/assets/107071662/73f340d4-4b00-4733-9eb0-2e3d1a89488b">
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
 
 **Network graph**
 
 ![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
+#### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning.
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+Para el desarrollo del tercer sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y las historias pendientes para asi tener el desarrollo del programa en una gran mayoria.
+
+Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramienta Trello.
+
+![Trello-3](https://res.cloudinary.com/djia8bsvr/image/upload/v1714365902/Sprint_2_Trello_uqg574.png)
+
+
+**Enlace del Trello:** [Sprint Backlog 3-codex] https://trello.com/b/ZLNFlhWp
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+<tr>
+    <td>US01.1</td>
+    <td>Buscar músicos por género</td>
+    <td>T01</td>
+    <td>Crear base de datos de géneros musicales</td>
+    <td>Crear una base de datos para almacenar información sobre los géneros musicales.</td>
+    <td>1</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+  <tr>
+    <td>US01.2</td>
+    <td>Buscar músicos por género</td>
+    <td>T02</td>
+    <td>Diseñar frontend del filtro de género</td>
+    <td>Diseñar el frontend del filtro de búsqueda por género.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US01.3</td>
+    <td>Buscar músicos por género</td>
+    <td>T03</td>
+    <td>Implementar búsqueda por género</td>
+    <td>Implementar la funcionalidad de búsqueda por género en el backend.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US01.4</td>
+    <td>Buscar músicos por disponibilidad</td>
+    <td>T04</td>
+    <td>Crear calendario de disponibilidad</td>
+    <td>Crear un calendario interactivo para la disponibilidad de músicos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US01.5</td>
+    <td>Buscar músicos por disponibilidad</td>
+    <td>T05</td>
+    <td>Diseñar frontend del filtro de disponibilidad</td>
+    <td>Diseñar el frontend del filtro de búsqueda por disponibilidad.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US01.6</td>
+    <td>Buscar músicos por disponibilidad</td>
+    <td>T06</td>
+    <td>Implementar búsqueda por disponibilidad</td>
+    <td>Implementar la funcionalidad de búsqueda por disponibilidad en el backend.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US02.1</td>
+    <td>Ver portafolio de músicos</td>
+    <td>T01</td>
+    <td>Implementar subida de videos y audio</td>
+    <td>Implementar la subida de videos y grabaciones de audio.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US02.2</td>
+    <td>Ver portafolio de músicos</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de portafolio</td>
+    <td>Diseñar la interfaz de usuario para visualizar videos y grabaciones.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US02.3</td>
+    <td>Ver portafolio de músicos</td>
+    <td>T03</td>
+    <td>Crear almacenamiento seguro</td>
+    <td>Crear un sistema de almacenamiento seguro para los archivos multimedia.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US03.1</td>
+    <td>Enviar mensajes a músicos</td>
+    <td>T01</td>
+    <td>Diseñar interfaz de mensajería</td>
+    <td>Diseñar la interfaz de usuario para el sistema de mensajería.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US03.2</td>
+    <td>Enviar mensajes a músicos</td>
+    <td>T02</td>
+    <td>Implementar envío y recepción de mensajes</td>
+    <td>Implementar la funcionalidad de envío y recepción de mensajes en el backend.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US03.3</td>
+    <td>Enviar mensajes a músicos</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de mensajes</td>
+    <td>Configurar notificaciones para nuevos mensajes.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US04.1</td>
+    <td>Programar audiciones</td>
+    <td>T01</td>
+    <td>Crear calendario de audiciones</td>
+    <td>Crear un calendario interactivo para programar audiciones.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US04.2</td>
+    <td>Programar audiciones</td>
+    <td>T02</td>
+    <td>Implementar solicitud y confirmación de audiciones</td>
+    <td>Implementar la funcionalidad de solicitud y confirmación de audiciones.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US04.3</td>
+    <td>Programar audiciones</td>
+    <td>T03</td>
+    <td>Diseñar interfaz de audiciones</td>
+    <td>Diseñar la interfaz de usuario para la programación de audiciones.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US05.1</td>
+    <td>Ver reseñas y testimonios</td>
+    <td>T01</td>
+    <td>Crear base de datos de reseñas</td>
+    <td>Crear una base de datos para almacenar reseñas y testimonios.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US05.2</td>
+    <td>Ver reseñas y testimonios</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de reseñas</td>
+    <td>Diseñar la interfaz de usuario para la visualización de reseñas.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US05.3</td>
+    <td>Ver reseñas y testimonios</td>
+    <td>T03</td>
+    <td>Implementar escritura y publicación de reseñas</td>
+    <td>Implementar la funcionalidad de escritura y publicación de reseñas.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US06.1</td>
+    <td>Gestionar y firmar contratos</td>
+    <td>T01</td>
+    <td>Crear base de datos de contratos</td>
+    <td>Crear una base de datos para almacenar contratos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US06.2</td>
+    <td>Gestionar y firmar contratos</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de gestión de contratos</td>
+    <td>Diseñar la interfaz de usuario para la gestión y firma de contratos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US06.3</td>
+    <td>Gestionar y firmar contratos</td>
+    <td>T03</td>
+    <td>Implementar firma electrónica</td>
+    <td>Implementar la funcionalidad de firma electrónica.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US07.1</td>
+    <td>Dejar feedback post-evento</td>
+    <td>T01</td>
+    <td>Crear interfaz de feedback</td>
+    <td>Crear una interfaz para dejar feedback sobre actuaciones.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US07.2</td>
+    <td>Dejar feedback post-evento</td>
+    <td>T02</td>
+    <td>Implementar almacenamiento y visualización de feedback</td>
+    <td>Implementar la funcionalidad de almacenamiento y visualización de feedback.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US07.3</td>
+    <td>Dejar feedback post-evento</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de feedback</td>
+    <td>Configurar notificaciones para recordar a los clientes que dejen feedback.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US08.1</td>
+    <td>Notificaciones automáticas</td>
+    <td>T01</td>
+    <td>Configurar lógica de notificaciones</td>
+    <td>Configurar la lógica para enviar notificaciones basadas en la disponibilidad de músicos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US08.2</td>
+    <td>Notificaciones automáticas</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de notificaciones</td>
+    <td>Diseñar la interfaz de usuario para la configuración de notificaciones.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US08.3</td>
+    <td>Notificaciones automáticas</td>
+    <td>T03</td>
+    <td>Implementar envío de notificaciones</td>
+    <td>Implementar la funcionalidad de envío de notificaciones.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US09.1</td>
+    <td>Gestionar pagos</td>
+    <td>T01</td>
+    <td>Integrar pasarela de pago</td>
+    <td>Integrar una pasarela de pago segura.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US09.2</td>
+    <td>Gestionar pagos</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de gestión de pagos</td>
+    <td>Diseñar la interfaz de usuario para la gestión de pagos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US09.3</td>
+    <td>Gestionar pagos</td>
+    <td>T03</td>
+    <td>Implementar transacciones y recibos</td>
+    <td>Implementar la funcionalidad de transacciones y recibos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US10.1</td>
+    <td>Soporte técnico</td>
+    <td>T01</td>
+    <td>Crear sección de FAQ</td>
+    <td>Crear una sección de preguntas frecuentes (FAQ).</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US10.2</td>
+    <td>Soporte técnico</td>
+    <td>T02</td>
+    <td>Implementar sistema de tickets</td>
+    <td>Implementar un sistema de tickets para soporte técnico.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US10.3</td>
+    <td>Soporte técnico</td>
+    <td>T03</td>
+    <td>Configurar chat en vivo</td>
+    <td>Configurar un chat en vivo para soporte inmediato.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US17.1</td>
+    <td>Crear perfil de músico</td>
+    <td>T01</td>
+    <td>Crear formularios de perfil</td>
+    <td>Crear formularios para la creación de perfiles de músicos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US17.2</td>
+    <td>Crear perfil de músico</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de perfil</td>
+    <td>Diseñar la interfaz de usuario para el perfil de músico.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US17.3</td>
+    <td>Crear perfil de músico</td>
+    <td>T03</td>
+    <td>Implementar subida de fotos y biografía</td>
+    <td>Implementar la funcionalidad de subida de fotos y biografía.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US18.1</td>
+    <td>Actualizar disponibilidad y calendario</td>
+    <td>T01</td>
+    <td>Crear interfaz de disponibilidad</td>
+    <td>Crear una interfaz para que los músicos actualicen su disponibilidad.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US18.2</td>
+    <td>Actualizar disponibilidad y calendario</td>
+    <td>T02</td>
+    <td>Implementar gestión de calendario</td>
+    <td>Implementar la funcionalidad de gestión de calendario.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US18.3</td>
+    <td>Actualizar disponibilidad y calendario</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de disponibilidad</td>
+    <td>Configurar notificaciones para recordar actualizaciones de disponibilidad.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+<tr>
+    <td>US19.1</td>
+    <td>Recibir y responder mensajes</td>
+    <td>T01</td>
+    <td>Implementar mensajes en perfil de músicos</td>
+    <td>Implementar la funcionalidad de mensajes en el perfil de los músicos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US19.2</td>
+    <td>Recibir y responder mensajes</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de mensajes</td>
+    <td>Diseñar la interfaz de usuario para la gestión de mensajes recibidos y enviados.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+<tr>
+    <td>US19.3</td>
+    <td>Recibir y responder mensajes</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de mensajes</td>
+    <td>Configurar notificaciones para mensajes nuevos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+ </tr>
+
+ <tr>
+    <td>US22.1</td>
+    <td>Recibir feedback de organizadores</td>
+    <td>T01</td>
+    <td>Crear formulario de feedback</td>
+    <td>Crear un formulario para que los organizadores de eventos puedan dejar feedback.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US22.2</td>
+    <td>Recibir feedback de organizadores</td>
+    <td>T02</td>
+    <td>Implementar almacenamiento de feedback</td>
+    <td>Implementar la funcionalidad para almacenar el feedback recibido.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US22.3</td>
+    <td>Recibir feedback de organizadores</td>
+    <td>T03</td>
+    <td>Diseñar interfaz de visualización de feedback</td>
+    <td>Diseñar una interfaz para que los artistas puedan visualizar el feedback recibido.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US23.1</td>
+    <td>Promocionar música y eventos</td>
+    <td>T01</td>
+    <td>Desarrollar sección de promoción</td>
+    <td>Desarrollar una sección en la plataforma para que los artistas puedan promocionar su música y eventos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US23.2</td>
+    <td>Promocionar música y eventos</td>
+    <td>T02</td>
+    <td>Implementar herramientas de promoción</td>
+    <td>Implementar herramientas que permitan a los artistas crear campañas de promoción para su música y eventos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US23.3</td>
+    <td>Promocionar música y eventos</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de promoción</td>
+    <td>Configurar notificaciones para informar a los usuarios sobre nuevas promociones y eventos de los artistas.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.1</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T01</td>
+    <td>Desarrollar funcionalidad de creación de ofertas</td>
+    <td>Desarrollar la funcionalidad que permita a los artistas crear ofertas y descuentos personalizados.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.2</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de ofertas y descuentos</td>
+    <td>Diseñar la interfaz de usuario para la creación y gestión de ofertas y descuentos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.3</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T03</td>
+    <td>Implementar visualización de ofertas</td>
+    <td>Implementar la funcionalidad para la visualización de ofertas y descuentos por parte de los clientes.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+
+
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+### 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4. Video About-the-Product.
+
+
+5.2.4. Sprint 4
+5.2.4.1. Sprint Planning.
+5.2.4.2. Sprint Backlog 4.
+5.2.4.3 Development Evidence for Sprint Review.
+5.2.4.4.Testing Suite Evidence for Sprint Review.
+5.2.4.5. Execution Evidence for Sprint Review.
+
+5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
 
 ## Conclusiones
+
 * Los diagramas C4, tanto de base de datos como de clases, nos brindan una visión detallada y estructurada de las entidades en nuestra aplicación y de cómo interactúan entre sí a diferentes niveles.
 
 * La adopción del método Lean UX en la comprensión de nuestro problema y en la formulación de nuestra idea de negocio nos facilitó realizar un análisis profundo de nuestros competidores y definir de manera clara nuestros grupos de interés.
