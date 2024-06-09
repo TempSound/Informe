@@ -3031,7 +3031,28 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 </table>
 
-#### 5.2.3.3. Development Evidence for Sprint Review.
+#### 5.2.3.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+|  | master |  |  |  |  | 
+|  | master |  |  |  |  | 
+|  | master |  |  |  |  |
+|  | master |  |  |  |  | 
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+|  | master |  |  |  |  |
+
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3047,6 +3068,51 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 ### 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
+
+#### Preguntas Generales:
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+#### Segmento: Cliente General
+
+**Preguntas Específicas:**
+
+1. **Después de explorar la aplicación Tempsound, ¿crees que te ayudará a encontrar y contratar artistas musicales de manera efectiva y personalizada?**
+
+2. **¿Encuentras que Tempsound facilita la organización de eventos musicales y la gestión de artistas?**
+
+3. **¿Crees que la aplicación te proporciona una variedad de opciones de artistas y grupos musicales adecuados para tus eventos?**
+
+4. **¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Tempsound?**
+
+5. **¿Con qué frecuencia utilizarías la aplicación para organizar tus eventos y contratar artistas?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como organizador de eventos?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros organizadores de eventos a través de tus redes sociales?**
+
+
+#### Segmento: Bandas Musicales y Músicos Independientes
+
+**Preguntas Específicas:**
+
+1. **Después de conocer Tempsound y su enfoque en ayudar a los músicos a encontrar oportunidades de actuación, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios y actividades?**
+
+2. **¿Encuentras que Tempsound te ofrece una plataforma conveniente para presentar tus servicios y encontrar oportunidades de actuación?**
+
+3. **¿Crees que la aplicación puede aumentar la visibilidad de tu trabajo y atraer más clientes?**
+
+4. **¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del músico?**
+
+5. **¿Con qué frecuencia estarías dispuesto a utilizar Tempsound para promocionar tus servicios y buscar oportunidades de actuación?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como músico?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros músicos y bandas a través de tus redes sociales?**
+
 
 ### 5.3.2. Registro de Entrevistas.
 
