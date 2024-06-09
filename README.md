@@ -973,8 +973,8 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e
 - Breve descripción: <br><br>
 	 Esstudiante universitaria busca una manera de poder ayudar a sus padres al momento de organizar reuniones familiares. Cree que nuestra aplicación tiene lo que busca y también nos ofrece su punto de vista sobre ciertas funcionalidades que le podrían beneficiar al momento de buscar bandas, o solistas.<br><br>
 
-
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2
+
 ---
 **Entrevista #5:**
 
@@ -985,10 +985,26 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113
 - Ubicación: lima
 - Duración de la entrevista: 05:04minutos
 - Breve descripción: <br><br>
-	 Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.<br><br>
+	 Agustín Aguilar, es conocido por ser cantante y musico en instrumentos de viento para diversos grupos de la region de Puno, no pertenece a un grupo en especifico trabaja de manera independiente ya que tambien estudia en la ciudad de arequipa, el piensa que la plataforma seria de gran apoyo al sector de musicos que no disponen del tiempo suficiente para buscar eventos o conseguir un contratista de esta manera se le haría mas fácil conseguir mas presentaciones.<br><br>
 
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista #6:**
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+
+- Nombre y apellidos: Godofredo Quispe
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 06:02minutos
+- Breve descripción: <br><br>
+	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
 ---
 
 #### 2.2.3. Análisis de entrevistas.
