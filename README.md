@@ -319,7 +319,7 @@ Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos l
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-	<img src="https://media.discordapp.net/attachments/1009495505555959829/1236284470525431929/foto_carnet.jpg?ex=66377322&is=663621a2&hm=9f6a21d04f5d7cb4119223c647f1f23945194f2a59ad9ccf6e2a3843150feebf&=&format=webp" alt="Foto-Carlos">
+	<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952448/20220602_064041_figh8u.jpg" alt="Foto-Carlos">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
@@ -3047,14 +3047,97 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US01.feature | herrera.victor-feature-Sprint3-US01 | a3e234 | add festures US01 | 07/06/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US02.feature | herrera.victor-feature-Sprint3-US02 | a3e234 | add festures US02 | 07/06/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US03.feature | herrera.victor-feature-Sprint3-US03 | a3e234 | add festures US03 | 07/06/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US04.feature | herrera.victor-feature-Sprint3-US04 | a3e234 | add festures US04 | 07/06/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US05.feature | herrera.victor-feature-Sprint3-US05 | a3e234 | add festures US05 | 07/06/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US06.feature | herrera.victor-feature-Sprint3-US06 | a3e234 | add festures US06 | 07/06/2024 |
+| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US07.feature | herrera.victor-feature-Sprint3-US07 | a3e234 | add festures US07 | 07/06/2024 |
+| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US08.feature | herrera.victor-feature-Sprint3-US08 | a3e234 | add festures US08 | 07/06/2024 |
+| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US09.feature | herrera.victor-feature-Sprint3-US09 | a3e234 | add festures US09 | 07/06/2024 |
+| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US010.feature | herrera.victor-feature-Sprint3-US010 | a3e234 | add festures US010 | 07/06/2024 |
+| US017/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US017.feature | herrera.victor-feature-Sprint3-US017 | a3e234 | add festures US017 | 07/06/2024 |
+| US018/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US018.feature | herrera.victor-feature-Sprint3-US018 | a3e234 | add festures US018 | 07/06/2024 |
+| US019/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US019.feature | herrera.victor-feature-Sprint3-US019 | a3e234 | add festures US019 | 07/06/2024 |
+| US022/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US022.feature | herrera.victor-feature-Sprint3-US022 | a3e234 | add festures US022 | 07/06/2024 |
+| US023/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US023.feature | herrera.victor-feature-Sprint3-US023 | a3e234 | add festures US023 | 07/06/2024 |
+| US025/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US025.feature | herrera.victor-feature-Sprint3-US025 | a3e234 | add festures US025 | 07/06/2024 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Para este tercer sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952227/Screenshot_2024-06-09_115459_ujvseq.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115403_rwwuy6.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115252_jiqfib.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115339_enky0g.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115304_mwheya.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115321_wt8aum.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115312_hz7mvj.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Para el desarrollo del sprint 3 se plasmo como prueba el avance de la mayoria de historias planteadas y su funcionamiento aplciado considerando asi que se esta acabando el 100% de parte del front end y avance del front end.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
+
+**Angular:** Un marco de trabajo para la construcción de aplicaciones web en HTML, CSS y TypeScript, que nos ayudó a desarrollar la lógica de la aplicación y a mejorar la interactividad del Landing Page.
+
+**Node.js:** Un entorno de ejecución para JavaScript construido en el motor de JavaScript V8 de Chrome, que nos permitió construir el servidor de la aplicación.
+
+**Java:** Lenguaje de programación de propósito general, concurrente, orientado a objetos, que se utilizó para desarrollar la lógica del servidor y la interacción con la base de datos.
+
+**TypeScript:** Un superconjunto de JavaScript que añade tipado estático y objetos basados en clases, que nos ayudó a desarrollar la lógica de la aplicación de manera más segura y eficiente.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+**Intellij IDEA Ultimate:** Ide para desarrollar en lenguaje java el backend, 
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
+
+**Contributors**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
 ### 5.3. Validation Interviews.
 
