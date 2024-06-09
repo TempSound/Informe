@@ -2792,8 +2792,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar lógica de notificaciones</td>
     <td>Configurar la lógica para enviar notificaciones basadas en la disponibilidad de músicos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US08.2</td>
@@ -2802,8 +2802,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de notificaciones</td>
     <td>Diseñar la interfaz de usuario para la configuración de notificaciones.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US08.3</td>
@@ -2812,8 +2812,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar envío de notificaciones</td>
     <td>Implementar la funcionalidad de envío de notificaciones.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
  </tr>
 
 <tr>
