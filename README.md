@@ -303,12 +303,6 @@
 <br><br>
 
 
-# Student Outcome
-
-
-
-<br>
-
 ## CAPITULO 1: INTRODUCCIÓN
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
@@ -3057,6 +3051,64 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+*UX Heuristics & Principles Evaluation*  
+Usability – Inclusive Design – Information Architecture  
+*Carrera:* Ingeniería de Software  
+*Curso:* Desarrollo de Aplicaciones Open Source  
+*Sección:* WS52  
+*Profesor:* Elio Jefferrson Navarrete Vilca  
+*Auditor:* TempSound  
+*Cliente(s):* Carlos Daniel Pingus Rodriguez,
+              Jefferson Smith Cabrera Camizan,
+              Bruce Andres Cipriano Chumbes,
+              Anthony Brahan Loarte Matos,
+              Victor Raul Herrera Castillo    
+
+
+*SITE O APP A EVALUAR:*  
+MusicTime
+
+### Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas en la plataforma Tempsound:
+
+1. *Iniciar sesión*
+2. *Registrarse*
+3. *Elegir preferencias musicales*
+4. *Ver perfiles de artistas*
+5. *Contactar artistas*
+6. *Ver preguntas frecuentes*
+7. *Ver notificaciones*
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. *Gestionar eventos*
+2. *Enviar ofertas de contratación*
+
+### Escala de Severidad
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                    |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+### Tabla de Resumen
+
+La siguiente tabla resume los resultados de la evaluación:
+
+| #   | Problema                                                                          | Escala de Severidad | Heurística/Principio Violado(a)               |
+| --- | --------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+| 1   | Falta de opciones de inicio de sesión con Google u otras plataformas              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 2   | Registro de usuario no validado y datos no guardados                              | 3                   | Usability: Visibilidad del estado del sistema |
+| 3   | Imposibilidad de visualizar detalles completos de artistas y funciones de reserva | 4                   | Usability: Consistencia y estándares          |
+| 4   | Contactar artistas sin opción de chat en tiempo real                              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 5   | Visualización de preguntas frecuentes sin opción para enviar preguntas propias    | 2                   | Usability: Consistencia y estándares          |
+| 6   | Notificaciones estáticas sin información relevante                                | 2                   | Usability: Flexibilidad y eficiencia de uso   |
 
 ### 5.4. Video About-the-Product.
 
