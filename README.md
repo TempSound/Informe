@@ -130,10 +130,36 @@
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
       <b>Pingus Rodriguez, Carlos Daniel</b> </br>
-      <b>TB1:</b> </br>
-      - Se entrevistó a nuestros segmentos objetivos.</br>
+       <b>Cabrera Camizan, Jeferson Smith</b> </br>
       <b>TP:</b> </br>
-      - Aportando con mis ideas al equipo conseguimos mejorar la página frontend y entregar un avance considerable en el FrontEnd.</br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TP:</b> </br>
+     - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
     </td>
     <td>
       - En el contexto del diseño de productos de software, las conversaciones con los usuarios desempeñan un papel de suma relevancia en la construcción de las personas de usuario. Estas interacciones no solo facilitan la definición de perfiles representativos de la audiencia objetivo, sino que también posibilitan una comprensión más profunda de las necesidades, perspectivas y opiniones de los usuarios. A través de estos diálogos, se logra una identificación precisa de los requisitos del usuario, lo que constituye un aspecto fundamental en el desarrollo de productos centrados en el usuario. Además, estas conversaciones proporcionan información valiosa sobre las preferencias, expectativas y experiencias de los usuarios, permitiendo a los diseñadores de software adaptar sus soluciones de manera más efectiva a las demandas del mercado.</br></br>
@@ -190,8 +216,66 @@
       - Se realizó Software Architecture Context Diagram.</br>
       - Se realizó Software Architecture Container Diagrams.</br>
       - Se realizó Software Architecture Components Diagrams.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
       <b>TP:</b></br>
-      - Contribuí con mis ideas al equipo en el marco del FrontEnd y los modelos de arquitectura de software presentados en el TB1.</br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB2:</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
     </td>
     <td>
       - La conclusión derivada del análisis de las secciones desarrolladas en nuestro proyecto de ingeniería resalta la importancia fundamental del trabajo en equipo, la asignación adecuada de tareas y la verificación rigurosa de las contribuciones individuales. Estos elementos se revelan como pilares para el éxito del proceso de documentación. El reconocimiento de la interdependencia entre los miembros del equipo y la necesidad de una distribución eficiente de responsabilidades demuestra una profunda comprensión de los principios fundamentales de la gestión de proyectos en ingeniería. Asimismo, la atención meticulosa a la verificación de cada componente del proyecto enfatiza el compromiso con la precisión y la excelencia en la ejecución, aspectos cruciales para garantizar la integridad y la confiabilidad de los resultados obtenidos.</br></br>
