@@ -2503,7 +2503,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear una base de datos para almacenar información sobre los géneros musicales.</td>
     <td>1</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
   <tr>
     <td>US01.2</td>
@@ -2513,7 +2513,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar el frontend del filtro de búsqueda por género.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.3</td>
@@ -2523,7 +2523,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de búsqueda por género en el backend.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.4</td>
@@ -2533,7 +2533,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear un calendario interactivo para la disponibilidad de músicos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.5</td>
@@ -2543,7 +2543,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar el frontend del filtro de búsqueda por disponibilidad.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.6</td>
@@ -2553,7 +2553,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de búsqueda por disponibilidad en el backend.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2564,7 +2564,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la subida de videos y grabaciones de audio.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US02.2</td>
@@ -2574,7 +2574,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para visualizar videos y grabaciones.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US02.3</td>
@@ -2584,7 +2584,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear un sistema de almacenamiento seguro para los archivos multimedia.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2843,7 +2843,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear formularios para la creación de perfiles de músicos.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US17.2</td>
@@ -2853,7 +2853,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para el perfil de músico.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US17.3</td>
@@ -2863,7 +2863,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de subida de fotos y biografía.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3123,7 +3123,7 @@ Para el desarrollo de la primera parte del programa y la mejora básica del Land
 
 **Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
-**Intellij IDEA Ultimate:** Ide para desarrollar en lenguaje java el backend, 
+**Intellij IDEA Ultimate:** Ide para desarrollar en lenguaje java el backend, generando asi los end points con las cuales se aplica al proyecto.
 
 
 
@@ -3140,6 +3140,8 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 ![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
 ### 5.3. Validation Interviews.
+
+En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
 
 ### 5.3.1. Diseño de Entrevistas.
 
