@@ -2673,33 +2673,23 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 <tr>
     <td>US04.1</td>
-    <td>Programar audiciones</td>
+    <td>Calificar perfil de musico</td>
     <td>T01</td>
-    <td>Crear calendario de audiciones</td>
-    <td>Crear un calendario interactivo para programar audiciones.</td>
+    <td>Crear seccion en el perfil para calificacion</td>
+    <td>Diseñar y desarrollar un formulario de calificación con una escala de 1 a 5 estrellas</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US04.2</td>
-    <td>Programar audiciones</td>
+    <td>Calificar perfil de musico</td>
     <td>T02</td>
-    <td>Implementar solicitud y confirmación de audiciones</td>
-    <td>Implementar la funcionalidad de solicitud y confirmación de audiciones.</td>
+    <td>Crear base de datos para calificaciones</td>
+    <td>Implementar un endpoint en la API que acepte solicitudes de calificación y almacene la información en la base de datos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US04.3</td>
-    <td>Programar audiciones</td>
-    <td>T03</td>
-    <td>Diseñar interfaz de audiciones</td>
-    <td>Diseñar la interfaz de usuario para la programación de audiciones.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2735,33 +2725,33 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 <tr>
     <td>US06.1</td>
-    <td>Gestionar y firmar contratos</td>
+    <td>Gestionar  contratos</td>
     <td>T01</td>
     <td>Crear base de datos de contratos</td>
     <td>Crear una base de datos para almacenar contratos.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>3</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US06.2</td>
-    <td>Gestionar y firmar contratos</td>
+    <td>Gestionar  contratos</td>
     <td>T02</td>
     <td>Diseñar interfaz de gestión de contratos</td>
     <td>Diseñar la interfaz de usuario para la gestión y firma de contratos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US06.3</td>
-    <td>Gestionar y firmar contratos</td>
+    <td>Gestionar  contratos</td>
     <td>T03</td>
-    <td>Implementar firma electrónica</td>
-    <td>Implementar la funcionalidad de firma electrónica.</td>
+    <td>Implementar la edicion de contratos</td>
+    <td>Implementar la funcionalidad de editar contratos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
  </tr>
 
 <tr>
