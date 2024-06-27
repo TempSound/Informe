@@ -3797,13 +3797,12 @@ En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro
 
 <a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Carlos Ramirez
+- Edad:  25 años
+- Ubicación: Arequipa
+- Duración de la entrevista: 05:45 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Carlos Ramirez es guitarrista y compositor en la banda "Los Andes". Durante la entrevista, mencionó que la propuesta de negocio es prometedora, pero tiene preocupaciones sobre la accesibilidad de precios para bandas emergentes que no tienen ingresos suficientes.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
@@ -3811,15 +3810,14 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 **Entrevista:**
 
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/012e14da-40d0-4663-a002-08fd7936a555"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Maria Lopez
+- Edad:  28 años
+- Ubicación: Cusco
+- Duración de la entrevista: 07:10 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Maria Lopez es una talentosa cantante y pianista que lidera la banda "Melodías Incas". En la entrevista, expresó que aunque el negocio tiene potencial, el precio podría ser un obstáculo para grupos que recién comienzan y no tienen ingresos estables.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
@@ -3827,15 +3825,14 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 **Entrevista:**
 
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/91f29b44-eb00-449f-876d-ed5041d610bb"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Luis Gomez
+- Edad:  22 años
+- Ubicación: Trujillo
+- Duración de la entrevista: 05:30 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Luis Gomez es un baterista y productor musical, parte de la banda "Sonidos del Sol". Comentó que el concepto del negocio es interesante, pero cree que el precio puede no ser viable para bandas que están comenzando y carecen de ingresos.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
@@ -3843,108 +3840,44 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 **Entrevista:**
 
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/7e933301-fb34-4df0-8475-18560f70b3e3"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Ana Torres
+- Edad:  24 años
+- Ubicación: Piura
+- Duración de la entrevista: 06:20 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Ana Torres es violinista y vocalista en la banda "Notas del Norte". Durante la entrevista, mencionó que la idea del negocio es atractiva, pero hay que considerar que el precio podría no ser accesible para grupos nuevos que aún no generan ingresos.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
 ---
 **Entrevista:**
 
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/28e72257-f75a-46be-bc55-638449fbbe62"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Jorge Sanchez
+- Edad:  30 años
+- Ubicación: Tacna
+- Duración de la entrevista: 04:55 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Jorge Sanchez es bajista y líder de la banda "Ritmos del Sur". En la entrevista, señaló que el negocio tiene potencial, pero hay que analizar detenidamente los precios, ya que podrían no ser factibles para bandas en sus inicios que no cuentan con ingresos estables.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
 ---
 **Entrevista:**
 
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/71505555-ecc9-4d8e-b07e-c3103280854d"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Nombre y apellidos: Isabel Vega
+- Edad:  26 años
+- Ubicación: Chiclayo
+- Duración de la entrevista: 06:40 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
+	Isabel Vega es cantante y guitarrista en la banda "Armonía Andina". Durante la entrevista, comentó que aunque la propuesta de negocio es interesante, los precios pueden ser una barrera para bandas que recién están empezando y no tienen ingresos.<br><br>
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
-
----
-**Entrevista:**
-
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
-
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
-- Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
-
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
-
----
-**Entrevista:**
-
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
-
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
-- Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
-
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
-
----
-**Entrevista:**
-
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
-
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
-- Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
-
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
-
----
-**Entrevista:**
-
-<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
-
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02minutos
-- Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
-
-
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
-
 ---
 
 #### Preguntas Generales:
