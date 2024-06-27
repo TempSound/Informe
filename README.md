@@ -3559,7 +3559,7 @@ Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/dji
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
     <td colspan="1"><b>Sprint #</b></td>
-    <td colspan="7"><b>Sprint 1</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
   </tr>
   <tr>
     <td colspan="2"><b>User Story</b></td>
@@ -3575,94 +3575,112 @@ Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/dji
     <td><b>Assigned To</b></td>
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
-  <tr>
-    <td rowspan="3">US11</td>
-    <td rowspan="3">Mostrar barra de navegación</td>
-    <td>T01</td>
-    <td>Insertar logo</td>
-    <td>Mostrar el logo de nuestro proyecto</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
 
  <tr>
-    <td>T02</td>
-    <td>Mostrar secciones de la landing page</td>
-    <td>Crear etiquetas por cada sección de la landing page</td>
-    <td>4</td>
-    <td>Victor Herrera</td>
+    <td>TU01</td>
+    <td>Implementación de Endpoint para Búsqueda de Artistas</td>
+    <td>TU01</td>
+    <td>Mostrar la seccion de busqueda de artista</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
   <tr>
-    <td>T03</td>
-    <td>Mostrar Ingresar y Registrar</td>
-    <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
-    <td>4</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-    <td rowspan="2">US12</td>
-    <td rowspan="2">Mostrar hero section</td>
-    <td>T04</td>
-    <td>Mostrar elementos atractivos y minimalistas</td>
-    <td>Mostrar imagen referencial, logo y descripción concisa</td>
-    <td>4</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-    <td>T05</td>
-    <td>Mostrar Call to action</td>
-    <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
-    <td>6</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US13</td>
-    <td>Mostrar sobre nuestro producto</td>
-    <td>T06</td>
-    <td>Mostrar información sobre nuestra startup</td>
-    <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
-    <td>6</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US14</td>
-    <td>Mostrar la seccion unete</td>
-    <td>T07</td>
-    <td>Mostrar tarjetas de nuestro producto</td>
-    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más información</td>
+    <td>TU02</td>
+    <td>Implementación de Endpoint para Acceso a Portafolios de Artistas</td>
+    <td>TU02</td>
+    <td>Mostrar informacion de artista detallado</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio.</td>
     <td>8</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US15</td>
-    <td>Mostrar opcion de cambio de idioma</td>
-    <td>T08</td>
+    <td>TU03</td>
+    <td>Implementación de Endpoint para Comunicación con Artistas</td>
+    <td>TU03</td>
+    <td>Mostrar card para interactuar con artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU04</td>
+    <td>Implementación de Endpoint para crear un artista</td>
+    <td>TU04</td>
+    <td>Mostrar card para crear artista</td>
+    <td>Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU05</td>
+    <td>Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas</td>
+    <td>TU05</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
-    <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU06</td>
+    <td>Implementación de Endpoint para Actualización de Información de Artistas</td>
+    <td>TU06</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU07</td>
+    <td>Implementación de Endpoint para Eliminación de Artistas</td>
+    <td>TU07</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma.</td>
     <td>8</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
  <tr>
-    <td>US16</td>
-    <td>Mostrar sección de nuestros planes</td>
-    <td>T09</td>
+    <td>TU08</td>
+    <td>Implementación de Endpoint para Gestión de Sesiones de Usuario</td>
+    <td>TU08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU09</td>
+    <td>Implementación de Seguridad de la API</td>
+    <td>TU09</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU10</td>
+    <td>Implementación de Logging en la API</td>
+    <td>TU10</td>
     <td>Mostrar tarjetas de nuestros planes</td>
-    <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
+    <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
     <td>6</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
