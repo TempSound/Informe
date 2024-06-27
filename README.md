@@ -3548,6 +3548,7 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
 Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
 del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
 
+<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png">
 
 Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png)
 
