@@ -3477,6 +3477,75 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 ---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/71505555-ecc9-4d8e-b07e-c3103280854d"></a>
+
+- Nombre y apellidos: Roberto Salinas
+- Edad:  27 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:30 minutos
+- Breve descripción: <br><br>
+	Roberto Salinas es músico y cantante especializado en instrumentos de cuerda y viento. Es miembro de la banda "Andes Sonoros" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música latinoamericana. Durante la entrevista, comentó que la propuesta de negocio es interesante, pero mencionó que el precio podría no ser viable para bandas que recién comienzan y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/1fc74d78-031b-4005-a05d-c82769f437d5"></a>
+
+- Nombre y apellidos: Valeria Torres
+- Edad:  29 años
+- Ubicación: Lima
+- Duración de la entrevista: 06:10 minutos
+- Breve descripción: <br><br>
+	Valeria Torres es cantante y experta en instrumentos de cuerda y viento, pertenece a la banda "Ayllu" de la ciudad de Puno, siendo la autora y cantante principal del grupo de música de género latinoamericano. Tras la entrevista, nos comentó que la propuesta de negocio es interesante, pero hay aspectos que analizar como el precio, ya que no sería factible para grupos que inician y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/7fe37bc7-7c0b-4534-a1bb-4a76414c7037"></a>
+
+- Nombre y apellidos: Martin Pérez
+- Edad:  22 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:45 minutos
+- Breve descripción: <br><br>
+	Martin Pérez es músico cantante y experto en instrumentos de cuerda y viento. Pertenece a la banda "Sonidos Andinos" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música de género latinoamericano. Durante la entrevista, mencionó que la propuesta de negocio es interesante, pero que hay que considerar el precio, ya que no sería factible para grupos que inician y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/f8abd726-c09a-4ed3-a868-3b493030487d"></a>
+
+- Nombre y apellidos: Laura Gutierrez
+- Edad:  24 años
+- Ubicación: Lima
+- Duración de la entrevista: 06:30 minutos
+- Breve descripción: <br><br>
+	Laura Gutierrez es cantante y experta en instrumentos de cuerda y viento, pertenece a la banda "Música del Alma" de la ciudad de Puno, siendo la autora y cantante principal del grupo de música de género latinoamericano. En la entrevista, mencionó que la propuesta de negocio es interesante, pero que el precio podría no ser viable para grupos que recién empiezan y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/bd95039c-4882-4dcd-abe8-d4e1aa300895"></a>
+
+- Nombre y apellidos: Santiago Mendez
+- Edad:  23 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:50 minutos
+- Breve descripción: <br><br>
+	Santiago Mendez es músico cantante y experto en instrumentos de cuerda y viento. Pertenece a la banda "Latinos del Sol" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música de género latinoamericano. Comentó en la entrevista que la propuesta de negocio es interesante, pero que hay que considerar el precio, ya que no sería factible para grupos que están empezando y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
 
 #### Preguntas Generales:
 
