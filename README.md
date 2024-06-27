@@ -3708,27 +3708,44 @@ Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/dji
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+Para este último sprint, se pudo realizar las correciones pertinentes para su posterior despliegue e implementación en el segmento frontend. A continuación se mostrará capturas de las secciones de nuestra API:
+
+En esta primera imagen se aprecia el código backend en funcionamiento:
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.04.24_AM_nnrxsy.jpg" alt="Run" style="margin-bottom: 3px;" width="1080px">
 </p>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
-</p>
+Aquí se aprecia el backend documentado en Swagger con todos nuestros endpoints:
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.04.24_AM_1_f0wapy.jpg" alt="swwagger" style="margin-bottom: 3px;" width="1080px">
 </p>
 
+Se crea un nuevo usuario en el endpoint "/users":
+
 <p align="center">
-  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.06.53_AM_c0laoc.jpg" alt="createuser" style="margin-bottom: 3px;" width="1080px">
 </p>
-En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+Se logea el nuevo usuario creado en el sistema para otorgarle el token(IAM):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.07.45_AM_x5nlpf.jpg" alt="login" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Authorize implementado en la documentación, enviándole el token(Bearer):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.08.50_AM_vs3op0.jpg" alt="bearer" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Autenticación exitosa y lista para usar los demás endpoints
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.09.11_AM_q19rs6.jpg" alt="authenticated" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, se han realizado las correcciones otorgadas en la revisión del TB2, por lo tanto esta será la versión final del segmento backend lista para su respectivo despliegue.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
