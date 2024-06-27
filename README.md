@@ -3463,19 +3463,7 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 
----
-**Entrevista:**
 
-<a><img src="https://github.com/TempSound/Informe/assets/166888821/71505555-ecc9-4d8e-b07e-c3103280854d"></a>
-
-- Nombre y apellidos: Isabel Vega
-- Edad:  26 años
-- Ubicación: Chiclayo
-- Duración de la entrevista: 06:40 minutos
-- Breve descripción: <br><br>
-	Isabel Vega es cantante y guitarrista en la banda "Armonía Andina". Durante la entrevista, comentó que aunque la propuesta de negocio es interesante, los precios pueden ser una barrera para bandas que recién están empezando y no tienen ingresos.<br><br>
-
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
 ---
 **Entrevista:**
 
@@ -3537,14 +3525,14 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 
 <a><img src="https://github.com/TempSound/Informe/assets/166888821/bd95039c-4882-4dcd-abe8-d4e1aa300895"></a>
 
-- Nombre y apellidos: Santiago Mendez
-- Edad:  23 años
+- Nombre y apellidos: Yoleny Huaman
+- Edad:  18 años
 - Ubicación: Lima
 - Duración de la entrevista: 05:50 minutos
 - Breve descripción: <br><br>
-	Santiago Mendez es músico cantante y experto en instrumentos de cuerda y viento. Pertenece a la banda "Latinos del Sol" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música de género latinoamericano. Comentó en la entrevista que la propuesta de negocio es interesante, pero que hay que considerar el precio, ya que no sería factible para grupos que están empezando y no tienen ingresos.<br><br>
+	Yoleny Huaman es una estudiante de enfermeria, trabaja en una discoteca y todos los fin de semana hacen eventos con artistas invitados, ella es la encarga de hacer estos tramites y siempre se encuentra con la dificultad de poder contactarlos..<br><br>
 
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+Link de la entrevista: https://drive.google.com/file/d/1TaGtmhjo6tWC3CVmupz_PPHzcK2dk2s7/view?usp=sharing
 
 
 #### Preguntas Generales:
