@@ -144,7 +144,7 @@
         <td><strong> 2.1 </strong></td>
           <td> 03/06/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Desarrollo y apertura del sprint 2.
+      <td>Desarrollo y apertura del sprint 3.
     </td>
     <tr>
         <td><strong> 2.2 </strong></td>
@@ -185,6 +185,54 @@
     <tr>
         <td><strong> 2.8 </strong></td>
           <td> 04/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 3.1 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo y apertura del sprint 4.
+    </td>
+    <tr>
+        <td><strong> 3.2 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y apertura del backend.
+    </td>
+    <tr>
+        <td><strong> 3.3 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.4 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.5 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.6 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.7 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 3.8 </strong></td>
+          <td> 27/06/2024 <br> 
       <td>Cipriano Chumbes, Bruce Andres  
       <td>Desarrollo del informe para la entrega.
     </td>
@@ -256,6 +304,21 @@
       <b>Pingus Rodriguez, Carlos Daniel</b> </br>
       <b>TB2:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TF:</b> </br>
+      -  Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual. </br>
     </td>
     <td>
       - En el contexto del diseño de productos de software, las conversaciones con los usuarios desempeñan un papel de suma relevancia en la construcción de las personas de usuario. Estas interacciones no solo facilitan la definición de perfiles representativos de la audiencia objetivo, sino que también posibilitan una comprensión más profunda de las necesidades, perspectivas y opiniones de los usuarios. A través de estos diálogos, se logra una identificación precisa de los requisitos del usuario, lo que constituye un aspecto fundamental en el desarrollo de productos centrados en el usuario. Además, estas conversaciones proporcionan información valiosa sobre las preferencias, expectativas y experiencias de los usuarios, permitiendo a los diseñadores de software adaptar sus soluciones de manera más efectiva a las demandas del mercado.</br></br>
@@ -368,6 +431,36 @@
       - Se realizó documentacion en el informe.</br>
       <b>Pingus Rodriguez, Carlos Daniel</b> </br>
       <b>TB2:</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TF :</b></br>
       - Se entrevistó a nuestros segmentos objetivos<br>
       - Se realizó correcion del trabajo realizado</br>
       - Se realizo los task asignados.</br>
