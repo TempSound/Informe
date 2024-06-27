@@ -2814,10 +2814,10 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
     <td colspan="1"><b>Sprint #</b></td>
-    <td colspan="7"><b>Sprint 3</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
   </tr>
   <tr>
-    <td colspan="2"><b>User Story</b></td>
+    <td colspan="2"><b>Technical Story</b></td>
     <td colspan="6"><b>Work-Item / Task</b></td>
   </tr>
   <tr>
@@ -2831,521 +2831,119 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
 
-<tr>
-    <td>US01.1</td>
-    <td>Buscar músicos por género</td>
-    <td>T01</td>
-    <td>Crear base de datos de géneros musicales</td>
-    <td>Crear una base de datos para almacenar información sobre los géneros musicales.</td>
-    <td>1</td>
-    <td>Victor Herrera</td>
+ <tr>
+    <td>TU01</td>
+    <td>Implementación de Endpoint para Búsqueda de Artistas</td>
+    <td>WIT01</td>
+    <td>Implementar búsqueda de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
+
   <tr>
-    <td>US01.2</td>
-    <td>Buscar músicos por género</td>
-    <td>T02</td>
-    <td>Diseñar frontend del filtro de género</td>
-    <td>Diseñar el frontend del filtro de búsqueda por género.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US01.3</td>
-    <td>Buscar músicos por género</td>
-    <td>T03</td>
-    <td>Implementar búsqueda por género</td>
-    <td>Implementar la funcionalidad de búsqueda por género en el backend.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US01.4</td>
-    <td>Buscar músicos por disponibilidad</td>
-    <td>T04</td>
-    <td>Crear calendario de disponibilidad</td>
-    <td>Crear un calendario interactivo para la disponibilidad de músicos.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US01.5</td>
-    <td>Buscar músicos por disponibilidad</td>
-    <td>T05</td>
-    <td>Diseñar frontend del filtro de disponibilidad</td>
-    <td>Diseñar el frontend del filtro de búsqueda por disponibilidad.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US01.6</td>
-    <td>Buscar músicos por disponibilidad</td>
-    <td>T06</td>
-    <td>Implementar búsqueda por disponibilidad</td>
-    <td>Implementar la funcionalidad de búsqueda por disponibilidad en el backend.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US02.1</td>
-    <td>Ver portafolio de músicos</td>
-    <td>T01</td>
-    <td>Implementar subida de videos y audio</td>
-    <td>Implementar la subida de videos y grabaciones de audio.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US02.2</td>
-    <td>Ver portafolio de músicos</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de portafolio</td>
-    <td>Diseñar la interfaz de usuario para visualizar videos y grabaciones.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US02.3</td>
-    <td>Ver portafolio de músicos</td>
-    <td>T03</td>
-    <td>Crear almacenamiento seguro</td>
-    <td>Crear un sistema de almacenamiento seguro para los archivos multimedia.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US03.1</td>
-    <td>Enviar mensajes a músicos</td>
-    <td>T01</td>
-    <td>Diseñar interfaz de mensajería</td>
-    <td>Diseñar la interfaz de usuario para el sistema de mensajería.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US03.2</td>
-    <td>Enviar mensajes a músicos</td>
-    <td>T02</td>
-    <td>Implementar envío y recepción de mensajes</td>
-    <td>Implementar la funcionalidad de envío y recepción de mensajes en el backend.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US03.3</td>
-    <td>Enviar mensajes a músicos</td>
-    <td>T03</td>
-    <td>Configurar notificaciones de mensajes</td>
-    <td>Configurar notificaciones para nuevos mensajes.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-
-<tr>
-    <td>US04.1</td>
-    <td>Calificar perfil de musico</td>
-    <td>T01</td>
-    <td>Crear seccion en el perfil para calificacion</td>
-    <td>Diseñar y desarrollar un formulario de calificación con una escala de 1 a 5 estrellas</td>
-    <td>3</td>
-    <td>Jeferson Cabrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US04.2</td>
-    <td>Calificar perfil de musico</td>
-    <td>T02</td>
-    <td>Crear base de datos para calificaciones</td>
-    <td>Implementar un endpoint en la API que acepte solicitudes de calificación y almacene la información en la base de datos.</td>
-    <td>3</td>
+    <td>TU02</td>
+    <td>Implementación de Endpoint para Acceso a Portafolios de Artistas</td>
+    <td>WIT02</td>
+    <td>Implementar acceso a portafolios de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio.</td>
+    <td>8</td>
     <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US05.1</td>
-    <td>Ver reseñas y testimonios</td>
-    <td>T01</td>
-    <td>Crear base de datos de reseñas</td>
-    <td>Crear una base de datos para almacenar reseñas y testimonios.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US05.2</td>
-    <td>Ver reseñas y testimonios</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de reseñas</td>
-    <td>Diseñar la interfaz de usuario para la visualización de reseñas.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US05.3</td>
-    <td>Ver reseñas y testimonios</td>
-    <td>T03</td>
-    <td>Implementar escritura y publicación de reseñas</td>
-    <td>Implementar la funcionalidad de escritura y publicación de reseñas.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-
-<tr>
-    <td>US06.1</td>
-    <td>Gestionar  contratos</td>
-    <td>T01</td>
-    <td>Crear base de datos de contratos</td>
-    <td>Crear una base de datos para almacenar contratos.</td>
-    <td>3</td>
-    <td>Jeferson Cabrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US06.2</td>
-    <td>Gestionar  contratos</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de gestión de contratos</td>
-    <td>Diseñar la interfaz de usuario para la gestión y firma de contratos.</td>
-    <td>3</td>
-    <td>Jeferson Cabrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US06.3</td>
-    <td>Gestionar  contratos</td>
-    <td>T03</td>
-    <td>Implementar la edicion de contratos</td>
-    <td>Implementar la funcionalidad de editar contratos.</td>
-    <td>3</td>
-    <td>Jeferson Cabrera</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US07.1</td>
-    <td>Dejar feedback post-evento</td>
-    <td>T01</td>
-    <td>Crear interfaz de feedback</td>
-    <td>Crear una interfaz para dejar feedback sobre actuaciones.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US07.2</td>
-    <td>Dejar feedback post-evento</td>
-    <td>T02</td>
-    <td>Implementar almacenamiento y visualización de feedback</td>
-    <td>Implementar la funcionalidad de almacenamiento y visualización de feedback.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US07.3</td>
-    <td>Dejar feedback post-evento</td>
-    <td>T03</td>
-    <td>Configurar notificaciones de feedback</td>
-    <td>Configurar notificaciones para recordar a los clientes que dejen feedback.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-
-<tr>
-    <td>US08.1</td>
-    <td>Notificaciones automáticas</td>
-    <td>T01</td>
-    <td>Configurar lógica de notificaciones</td>
-    <td>Configurar la lógica para enviar notificaciones basadas en la disponibilidad de músicos.</td>
-    <td>3</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US08.2</td>
-    <td>Notificaciones automáticas</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de notificaciones</td>
-    <td>Diseñar la interfaz de usuario para la configuración de notificaciones.</td>
-    <td>2</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US08.3</td>
-    <td>Notificaciones automáticas</td>
-    <td>T03</td>
-    <td>Implementar envío de notificaciones</td>
-    <td>Implementar la funcionalidad de envío de notificaciones.</td>
-    <td>3</td>
-    <td>Bruce Cipriano</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td>US09.1</td>
-    <td>Gestionar pagos</td>
-    <td>T01</td>
-    <td>Integrar pasarela de pago</td>
-    <td>Integrar una pasarela de pago segura.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US09.2</td>
-    <td>Gestionar pagos</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de gestión de pagos</td>
-    <td>Diseñar la interfaz de usuario para la gestión de pagos.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US09.3</td>
-    <td>Gestionar pagos</td>
-    <td>T03</td>
-    <td>Implementar transacciones y recibos</td>
-    <td>Implementar la funcionalidad de transacciones y recibos.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-
-<tr>
-    <td>US10.1</td>
-    <td>Soporte técnico</td>
-    <td>T01</td>
-    <td>Crear sección de FAQ</td>
-    <td>Crear una sección de preguntas frecuentes (FAQ).</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US10.2</td>
-    <td>Soporte técnico</td>
-    <td>T02</td>
-    <td>Implementar sistema de tickets</td>
-    <td>Implementar un sistema de tickets para soporte técnico.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US10.3</td>
-    <td>Soporte técnico</td>
-    <td>T03</td>
-    <td>Configurar chat en vivo</td>
-    <td>Configurar un chat en vivo para soporte inmediato.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-
-<tr>
-    <td>US17.1</td>
-    <td>Crear perfil de músico</td>
-    <td>T01</td>
-    <td>Crear formularios de perfil</td>
-    <td>Crear formularios para la creación de perfiles de músicos.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US17.2</td>
-    <td>Crear perfil de músico</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de perfil</td>
-    <td>Diseñar la interfaz de usuario para el perfil de músico.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>Done</td>
- </tr>
-<tr>
-    <td>US17.3</td>
-    <td>Crear perfil de músico</td>
-    <td>T03</td>
-    <td>Implementar subida de fotos y biografía</td>
-    <td>Implementar la funcionalidad de subida de fotos y biografía.</td>
-    <td>2</td>
+    <td>TU03</td>
+    <td>Implementación de Endpoint para Comunicación con Artistas</td>
+    <td>WIT03</td>
+    <td>Implementar comunicación con artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos.</td>
+    <td>8</td>
     <td>Victor Herrera</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US18.1</td>
-    <td>Actualizar disponibilidad y calendario</td>
-    <td>T01</td>
-    <td>Crear interfaz de disponibilidad</td>
-    <td>Crear una interfaz para que los músicos actualicen su disponibilidad.</td>
-    <td>2</td>
+    <td>TU04</td>
+    <td>Implementación de Endpoint para Crear un Artista</td>
+    <td>WIT04</td>
+    <td>Implementar creación de artistas</td>
+    <td>Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico.</td>
+    <td>8</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US18.2</td>
-    <td>Actualizar disponibilidad y calendario</td>
-    <td>T02</td>
-    <td>Implementar gestión de calendario</td>
-    <td>Implementar la funcionalidad de gestión de calendario.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
- </tr>
-<tr>
-    <td>US18.3</td>
-    <td>Actualizar disponibilidad y calendario</td>
-    <td>T03</td>
-    <td>Configurar notificaciones de disponibilidad</td>
-    <td>Configurar notificaciones para recordar actualizaciones de disponibilidad.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
-    <td>US19.1</td>
-    <td>Recibir y responder mensajes</td>
-    <td>T01</td>
-    <td>Implementar mensajes en perfil de músicos</td>
-    <td>Implementar la funcionalidad de mensajes en el perfil de los músicos.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>TU05</td>
+    <td>Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas</td>
+    <td>WIT05</td>
+    <td>Implementar acceso a reseñas y testimonios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas.</td>
+    <td>8</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
  </tr>
+
 <tr>
-    <td>US19.2</td>
-    <td>Recibir y responder mensajes</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de mensajes</td>
-    <td>Diseñar la interfaz de usuario para la gestión de mensajes recibidos y enviados.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>TU06</td>
+    <td>Implementación de Endpoint para Actualización de Información de Artistas</td>
+    <td>WIT06</td>
+    <td>Implementar actualización de información de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas.</td>
+    <td>8</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
  </tr>
+
 <tr>
-    <td>US19.3</td>
-    <td>Recibir y responder mensajes</td>
-    <td>T03</td>
-    <td>Configurar notificaciones de mensajes</td>
-    <td>Configurar notificaciones para mensajes nuevos.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>TU07</td>
+    <td>Implementación de Endpoint para Eliminación de Artistas</td>
+    <td>WIT07</td>
+    <td>Implementar eliminación de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
  </tr>
 
  <tr>
-    <td>US22.1</td>
-    <td>Recibir feedback de organizadores</td>
-    <td>T01</td>
-    <td>Crear formulario de feedback</td>
-    <td>Crear un formulario para que los organizadores de eventos puedan dejar feedback.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
+    <td>TU08</td>
+    <td>Implementación de Endpoint para Gestión de Sesiones de Usuario</td>
+    <td>WIT08</td>
+    <td>Implementar gestión de sesiones de usuario</td>
+    <td>Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
+ </tr>
+
   <tr>
-    <td>US22.2</td>
-    <td>Recibir feedback de organizadores</td>
-    <td>T02</td>
-    <td>Implementar almacenamiento de feedback</td>
-    <td>Implementar la funcionalidad para almacenar el feedback recibido.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US22.3</td>
-    <td>Recibir feedback de organizadores</td>
-    <td>T03</td>
-    <td>Diseñar interfaz de visualización de feedback</td>
-    <td>Diseñar una interfaz para que los artistas puedan visualizar el feedback recibido.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US23.1</td>
-    <td>Promocionar música y eventos</td>
-    <td>T01</td>
-    <td>Desarrollar sección de promoción</td>
-    <td>Desarrollar una sección en la plataforma para que los artistas puedan promocionar su música y eventos.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US23.2</td>
-    <td>Promocionar música y eventos</td>
-    <td>T02</td>
-    <td>Implementar herramientas de promoción</td>
-    <td>Implementar herramientas que permitan a los artistas crear campañas de promoción para su música y eventos.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US23.3</td>
-    <td>Promocionar música y eventos</td>
-    <td>T03</td>
-    <td>Configurar notificaciones de promoción</td>
-    <td>Configurar notificaciones para informar a los usuarios sobre nuevas promociones y eventos de los artistas.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US25.1</td>
-    <td>Crear ofertas y descuentos personalizados</td>
-    <td>T01</td>
-    <td>Desarrollar funcionalidad de creación de ofertas</td>
-    <td>Desarrollar la funcionalidad que permita a los artistas crear ofertas y descuentos personalizados.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US25.2</td>
-    <td>Crear ofertas y descuentos personalizados</td>
-    <td>T02</td>
-    <td>Diseñar interfaz de ofertas y descuentos</td>
-    <td>Diseñar la interfaz de usuario para la creación y gestión de ofertas y descuentos.</td>
-    <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US25.3</td>
-    <td>Crear ofertas y descuentos personalizados</td>
-    <td>T03</td>
-    <td>Implementar visualización de ofertas</td>
-    <td>Implementar la funcionalidad para la visualización de ofertas y descuentos por parte de los clientes.</td>
-    <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
-  </tr>
+    <td>TU09</td>
+    <td>Implementación de Seguridad de la API</td>
+    <td>WIT09</td>
+    <td>Implementar medidas de seguridad</td>
+    <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU10</td>
+    <td>Implementación de Logging en la API</td>
+    <td>WIT10</td>
+    <td>Implementar logging en la API</td>
+    <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
+    <td>6</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+</table>
 
 
+ 
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
