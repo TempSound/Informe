@@ -3456,7 +3456,7 @@ Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera ver
 del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
 
 
-Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.net/jira/software/projects/TRAV/boards/1?atlOrigin=eyJpIjoiNWEwYTg5ZGNhZGJhNDMwYzg3YzJkOThjZTgwYTVhNGIiLCJwIjoiaiJ9))
+Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png)
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
@@ -3601,12 +3601,17 @@ Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.ne
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
-| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | c9da4d6  | add gherkin US01 | 12/04/2024 |
-| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | c9da4d6 | add gherkin US02 | 12/04/2024 |
-| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US03.feature | Cabrera.jeferson-feature-Sprint1-US03 | c9da4d6 | add gherkin US03 | 12/04/2024 |
-| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
-| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
-| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT01.feature | Herrera.Victor-feature-Sprint4-TU01 | 300d064 | add gherkin TU01 | 03/06/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT02.feature | Herrera.Victor-feature-Sprint4-TU02 | 300d064 | add gherkin TU02 | 03/06/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT03.feature | Herrera.Victor-feature-Sprint4-TU03 | 300d064 | add gherkin TU03 | 03/06/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT04.feature| Herrera.Victor-feature-Sprint4-TU04 | 300d064 | add gherkin TU04 | 03/06/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT05.feature | Herrera.Victor-feature-Sprint4-TU05 | 300d064 | add gherkin US05 | 03/06/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT06.feature | Herrera.Victor-feature-Sprint4-TU06 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT07.feature | Herrera.Victor-feature-Sprint4-TU07 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT08.feature | Herrera.Victor-feature-Sprint4-TU08 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT09.feature | Herrera.Victor-feature-Sprint4-TU09 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT010.feature | Herrera.Victor-feature-Sprint4-TU010 | 300d064 | add gherkin TU06 | 03/06/2024 |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
