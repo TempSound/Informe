@@ -230,10 +230,16 @@
       <td>Cabrera Camizan, Jeferson Smith 
       <td>Desarrollo del informe para la entrega.
     </td>
+	<tr>
+        <td><strong> 3.8 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres   
+      <td>Desarrollo del informe para la entrega.
+    </td>
     <tr>
         <td><strong> 3.8 </strong></td>
           <td> 27/06/2024 <br> 
-      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Herrera Castillo, Victor Raul
       <td>Desarrollo del informe para la entrega.
     </td>
     </tr>
