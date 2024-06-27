@@ -3389,6 +3389,278 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 
 ![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
+#### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comienzo de cada sprint y tiene como objetivo definir las actividades a realizar durante ese período específico.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-01</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>20:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>Desarrollamos la primera version de nuestra landing page para nuestro proyecto, aplicando las sugerencias que nuestro publico objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción.</br></br>
+	Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente “sprint” nos comunicaremos con el segmento objetivo para que nos continue brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>En cuanto a las opiniones que tuvimos cada uno de los integrantes del startup, acordamos que el primer boceto de la landing page cumple con las expectativas del diseño aplicado, tenemos en cuenta que aun nos falta implementar algunos iconos y añadir algunas funcionalidades, pero aun seguimos en constante comunicación para mejorar en ello. </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>El objetivo para este Sprint se enfoco en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma	incorporado , tanto en ingles como en español.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>6</td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
+del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
+
+
+Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.net/jira/software/projects/TRAV/boards/1?atlOrigin=eyJpIjoiNWEwYTg5ZGNhZGJhNDMwYzg3YzJkOThjZTgwYTVhNGIiLCJwIjoiaiJ9))
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US11</td>
+    <td rowspan="3">Mostrar barra de navegación</td>
+    <td>T01</td>
+    <td>Insertar logo</td>
+    <td>Mostrar el logo de nuestro proyecto</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T02</td>
+    <td>Mostrar secciones de la landing page</td>
+    <td>Crear etiquetas por cada sección de la landing page</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>T03</td>
+    <td>Mostrar Ingresar y Registrar</td>
+    <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td rowspan="2">US12</td>
+    <td rowspan="2">Mostrar hero section</td>
+    <td>T04</td>
+    <td>Mostrar elementos atractivos y minimalistas</td>
+    <td>Mostrar imagen referencial, logo y descripción concisa</td>
+    <td>4</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T05</td>
+    <td>Mostrar Call to action</td>
+    <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
+    <td>6</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US13</td>
+    <td>Mostrar sobre nuestro producto</td>
+    <td>T06</td>
+    <td>Mostrar información sobre nuestra startup</td>
+    <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
+    <td>6</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US14</td>
+    <td>Mostrar la seccion unete</td>
+    <td>T07</td>
+    <td>Mostrar tarjetas de nuestro producto</td>
+    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más información</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US15</td>
+    <td>Mostrar opcion de cambio de idioma</td>
+    <td>T08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>US16</td>
+    <td>Mostrar sección de nuestros planes</td>
+    <td>T09</td>
+    <td>Mostrar tarjetas de nuestros planes</td>
+    <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
+    <td>6</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ 
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 03/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 04/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 06/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from TempSound-UPC/feature/add-chatting-section | feat: chatting section added | 07/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from TempSound-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 12/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from TempSound-UPC/feature/US10 | feat: home added | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from TempSound-UPC/feature/add_navbar | feat: navbar added | 14/04/2024 |
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | c9da4d6  | add gherkin US01 | 12/04/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | c9da4d6 | add gherkin US02 | 12/04/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US03.feature | Cabrera.jeferson-feature-Sprint1-US03 | c9da4d6 | add gherkin US03 | 12/04/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+**Contributors**
+
+![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
+
+![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+
 ### 5.3. Validation Interviews.
 
 En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
@@ -3520,18 +3792,6 @@ La siguiente tabla resume los resultados de la evaluación:
 | 6   | Notificaciones estáticas sin información relevante                                | 2                   | Usability: Flexibilidad y eficiencia de uso   |
 
 ### 5.4. Video About-the-Product.
-
-
-5.2.4. Sprint 4
-5.2.4.1. Sprint Planning.
-5.2.4.2. Sprint Backlog 4.
-5.2.4.3 Development Evidence for Sprint Review.
-5.2.4.4.Testing Suite Evidence for Sprint Review.
-5.2.4.5. Execution Evidence for Sprint Review.
-
-5.2.4.6. Services Documentation Evidence for Sprint Review.
-
-
 
 
 ## Conclusiones
