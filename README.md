@@ -2926,7 +2926,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar medidas de seguridad</td>
     <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
     <td>8</td>
-    <td>Jeferson Cabrera</td>
+    <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
 
@@ -2937,7 +2937,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar logging en la API</td>
     <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
     <td>6</td>
-    <td>Jeferson Cabrera</td>
+    <td>Bruce Cipriano</td>
     <td>Done</td>
  </tr>
 </table>
