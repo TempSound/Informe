@@ -190,31 +190,31 @@
     </td>
     <tr>
         <td><strong> 3.1 </strong></td>
-          <td> 27/06/2024 <br> 
+          <td> 23/06/2024 <br> 
       <td>Herrera Castillo Victor Raul
       <td>Desarrollo y apertura del sprint 4.
     </td>
     <tr>
         <td><strong> 3.2 </strong></td>
-          <td> 27/06/2024 <br> 
+          <td> 24/06/2024 <br> 
       <td>Cabrera Camizan, Jeferson Smith
       <td>Gestion del repositorio del git hub y apertura del backend.
     </td>
     <tr>
         <td><strong> 3.3 </strong></td>
-          <td> 27/06/2024 <br> 
+          <td> 25/06/2024 <br> 
       <td>Pingus Rodrigez, Carlos Daniel 
       <td>Desarrollo de los task asignados para el sprint.
     </td>
     <tr>
         <td><strong> 3.4 </strong></td>
-          <td> 27/06/2024 <br> 
+          <td> 26/06/2024 <br> 
       <td>Loarte Matos, Anthony Brahan 
       <td>Desarrollo de los task asignados para el sprint.
     </td>
     <tr>
         <td><strong> 3.5 </strong></td>
-          <td> 27/06/2024 <br> 
+          <td> 26/06/2024 <br> 
       <td>Cipriano Chumbes, Bruce Andres  
       <td>Desarrollo de los task asignados para el sprint.
     </td>
@@ -224,22 +224,10 @@
       <td>Herrera Castillo Victor Raul
       <td>Desarrollo de los task asignados para el sprint.
     </td>
-    <tr>
-        <td><strong> 3.7 </strong></td>
-          <td> 27/06/2024 <br> 
-      <td>Cabrera Camizan, Jeferson Smith 
-      <td>Desarrollo del informe para la entrega.
-    </td>
 	<tr>
         <td><strong> 3.8 </strong></td>
           <td> 27/06/2024 <br> 
       <td>Cipriano Chumbes, Bruce Andres   
-      <td>Desarrollo del informe para la entrega.
-    </td>
-    <tr>
-        <td><strong> 3.8 </strong></td>
-          <td> 27/06/2024 <br> 
-      <td>Herrera Castillo, Victor Raul
       <td>Desarrollo del informe para la entrega.
     </td>
     </tr>
