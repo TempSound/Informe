@@ -3491,18 +3491,18 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
 <table align="center" border="1" width="90%" style="text-align:left">
   <tr>
     <td><b>Sprint #</b></td>
-    <td>Sprint 1</td>
+    <td>Sprint 4 </td>
   </tr>
   <tr>
     <td colspan="2"><b>Sprint Planning Background</b></td>
   </tr>
   <tr>
     <td>Date</td>
-    <td>2024-04-01</td>
+    <td>2024-06-22</td>
   </tr>
   <tr>
     <td>Time</td>
-    <td>20:00 PM</td>
+    <td>15:00 PM</td>
   </tr>
   <tr>
     <td>Location</td>
@@ -3517,29 +3517,29 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
     <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
   </tr>
   <tr>
-    <td>Sprint n – 1 Review Summary</td>
-    <td>Desarrollamos la primera version de nuestra landing page para nuestro proyecto, aplicando las sugerencias que nuestro publico objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción.</br></br>
-	Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente “sprint” nos comunicaremos con el segmento objetivo para que nos continue brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.
-</td>
+    <td>Sprint n – 3 Review Summary</td>
+    <td>En el Sprint 3, se logró desarrollar e implementar el 
+    backend de la aplicación web, usando como base de datos MySQL y el framework de Spring Boot.
+    Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión de contratos con el cliente. </td>
   </tr>
   <tr>
-    <td>Sprint n – 1 Retrospective Summary</td>
-    <td>En cuanto a las opiniones que tuvimos cada uno de los integrantes del startup, acordamos que el primer boceto de la landing page cumple con las expectativas del diseño aplicado, tenemos en cuenta que aun nos falta implementar algunos iconos y añadir algunas funcionalidades, pero aun seguimos en constante comunicación para mejorar en ello. </td>
+    <td>Sprint n – 4 Retrospective Summary</td>
+    <td>Para el Sprint 4, se tiene previsto completar la integración entre el frontend y el backend, así como la validación de los datos ingresados. Además, se implementarán medidas de seguridad en la aplicación web utilizando Spring Security, que ofrece funcionalidades como autenticación, autorización y protección contra ataques comunes. </td>
   </tr>
   <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
   </tr>
   <tr>
-    <td>Sprint 1 Goal</td>
-    <td>El objetivo para este Sprint se enfoco en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma	incorporado , tanto en ingles como en español.</td>
+    <td>Sprint 4 Goal</td>
+    <td>Para el Sprint 4, se planea concluir la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web utilizando Spring Security. Este framework ofrece funcionalidades como autenticación, autorización y protección contra amenazas comunes. También se incorporarán prácticas de Identity and Access Management (IAM) para gestionar de manera efectiva las identidades y los accesos dentro del sistema.</td>
   </tr>
   <tr>
-    <td>Sprint n Velocity</td>
-    <td>6</td>
+    <td>Sprint 4 Velocity</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>6</td>
+    <td>31</td>
   </tr>
 </table>
 
