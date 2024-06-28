@@ -1,170 +1,550 @@
-**Universidad Peruana de Ciencias Aplicadas**
+<tr>
+  <div align='center'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
+    </div>
+</tr>
+<center>
+  
 
-**Ingeniería de Software**
+# Universidad Peruana de Ciencias Aplicadas.
+### Ingeniería de Software.
+### Desarrollo de aplicaciones Open Source 
+### WS52
+### Elio Jefferson  Navarrete Vilca
+### "Informe de Trabaajo Parcial"
+**Team**: 03
 
-# <div align="center"> Aplicaciones Web </div>
+**StartUp Name:** TempSound
 
-### TB1
+**Product Name:** MusicTime
+<div align='center'>
+  
+**Team Members**
+  
+|   Members     |   User    |
+|:-------------:|:---------:|
+|Cabrera Camizan, Jeferson Smith       |u20211c211|
+|Cipriano Chumbes, Bruce Andres      |u20211d640|
+|Herrera Castillo, Victor Raul    |u20201e188|
+|Loarte Matos, Anthony Brahan     |u20211d563|
+|Pingus Rodriguez, Carlos Daniel     |u202113280|
 
-### Startup: FitHub <br>
-### Producto: FitHub
+ ## 2024-1
+ </div>
+</center>
 
-**Relación de Integrantes**
-* Jimena Tamara Cama Salvatierra
-* Bruce Andres Cipriano Chumbes
-* Anthony Brahan Loarte Matos
-* Barbara Susana Quezada Portalatino
+ # Registros de versiones del Informe
 
-### <div align="center"> Ciclo 2024-1 </div>
+ <br>
 
-# Registro de Versiones del Informe
-| Versión | Fecha | Autor | Descripción |  |
-|---|---|---|---|---|
-| <br><br>TB1 | 09/04/2024 | Barbara Quezada | Desarrollé el lenguaje ubicuo, así como la corrección de algunos términos que utilizamos dentro del lenguaje especializado en el informe. |  |
-|  | 09/04/2024 | Jimena Cama | Identifiqué e implementé el User persona para el Needfinding, en base a las entrevistas realizadas. Así como, parte de los User Stories y el Product Backlog |  |
-|  | 10/04/2024 | Jimena Cama | Diseñe el General Style Guideline para la Web Application. Además, de la Web Style Guideline. Mismamente, identifiqué el proceso del usuario dentro de nuestra Web Application en el Organization System. |  |
-|  | 11/04/2024 | Jimena Cama | Realicé correcciones en los user stories y el product backlog y agregué los mock-ups realizados para la landing page y la Web Application. Así como, realicé el Diagrama de base de datos. |  |
-|  | 12/04/2024 | Barbara Quezada | Realicé el mejoramiento del Domain-Driven Software Architecture, pues evaluamos la permanencia de un servicio externo en la arquitectura de la plataforma. |  |
-|  | 13/04/2024 | Jimena Cama | En Product Design, actualicé el header, la sección de Contactactanos, crear cuenta e iniciar sesión. |  |
-|  | 13/04/2024 | Barbara Quezada | En Product Design, actualice el footer y la sección de planes del landing page.<br>Corrección del As-Is Scenario Map. |  |
-|  | 11/04/2024 | Bruce<br>Cipriano | Se configuró el entorno de desarrollo de software, incluyendo la instalación y configuración de las herramientas necesarias para el desarrollo del producto. |  |
-|  | 10/04/2024 | Bruce<br>Cipriano | Se gestionó el código fuente del proyecto utilizando Git, creando y fusionando ramas de desarrollo según las necesidades del equipo.<br>Se proporcionó evidencia del desarrollo realizado durante el sprint 1, incluyendo commits, pull requests y cambios en el código. |  |
-|  | 10/04/2024 | Anthony<br>Loarte | Se proporcionó evidencia del desarrollo realizado durante el sprint 1, incluyendo commits, pull requests y cambios en el código.<br>- Se configuró el despliegue del software, definiendo los procedimientos y herramientas necesarias para llevar el producto a producción de manera eficiente. |  |
-|  | 10/04/2024 | Bruce<br>Cipriano | Se presentó evidencia de las pruebas realizadas durante el sprint 1, incluyendo resultados de pruebas unitarias, de integración y de aceptación.<br> - Se presentó evidencia de la documentación de los servicios desarrollados durante el sprint 1, incluyendo especificaciones técnicas y manuales de usuario. |  |
-|  | 14/04/2024 | Anthony<br>Loarte | - Se proporcionó evidencia del despliegue del software desarrollado durante el sprint 1, mostrando capturas de pantalla del producto en producción o en entornos de pruebas. |  |
-|  | 14/04/2024 | Anthony<br>Loarte | - Se presentó evidencia de las pruebas realizadas durante el sprint 1, incluyendo resultados de pruebas unitarias, de integración y de aceptación. |  |
-| TP | 24/04/2024 | Jimena Cama | - Se organizó el sprint Planning y el para la realización de las actividades |  |
-|  | 25/04/2024 | Loarte Anthony  | Avance del frontend de Cuenta de fithub |  |
-|  | 25/04/2024 | Bruce Cipriano | Avance del frontend de Rutinas de fithub |  |
-|  | 25/04/2024 | Jimena Cama |  - Se realizó el Sprint Backlog 2, con respeto a las actividades realizadas para el frontend en la entrega. Así como el Development Evidence for Sprint Review con los respectivos commits de github de cada uno. |  |
-|  | 25/04/2024 | Barbara Quezada | - Se realizó la evidencia sobre el Software Deployment Evidence for Sprint Review y Testing Suite Evidence for Sprint Review respecto al avance del frontend de fithub. |  |
-|  | 27/04/2024 | Barbara Quezada | - Se realizó la evidencia sobre el el Execution Evidence for Sprint Review respecto al avance del frontend de fithub. |  |
-| TB2 | 25/05/2024 | Jimena Cama | Se realizó el sprint planning con los user stories para el backend |  |
-|  | 7/06/2024 | Jimena Cama | Se evidenció avance del backend del bounded context de ProductManagement |  |
-|  | 9/06/2024 | Barbara Quezada | Se evidenció el avance del backend  del bounded context de NutritionManagement |  |
-|  | 22/06/2024 | Bruce Cipriano | Se evidenció avance del backend del bounded context de  Flujo inicial |  |
-|  | 22/06/2024 | Anthony Loarte | Se evidenció avance del backend del bounded context debounded context Rutine Design  |  |
-| TF | 18/06/2024 | Barbara Quezada | Corrección del informe capítulo 5 y del backend de NutritionManagement |  |
-|  | 18/06/2024 | Jimena Cama | Se evidenció la corrección del backend del bounded context de ProductManagement |  |
-|  | 22/06/2024 |  Bruce Cipriano  | Se evidenció avance del backend del bounded context de  Flujo inicia |  |
-|  | 22/06/2024 | Anthony Loarte | Se evidenció avance del backend del bounded context debounded context Rutine Design |  |
-
+<table align="center">
+    <tr>
+      <th>Version</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripcion de modificacion</th>
+    </tr>
+    <tr>
+        <td><strong> 0.1 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.2 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+    </td>
+    <tr>
+        <td><strong> 0.3 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
+    </td>
+    <tr>
+        <td><strong> 0.4 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
+    </td>
+    <tr>
+        <td><strong> 0.5 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
+    </td>
+    <tr>
+        <td><strong> 0.6 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creacion del canvas para la problematica y analisis para el segmento objetivo.
+    </td>
+    <tr>
+        <td><strong> 0.7 </strong></td>
+          <td> 04/04/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
+    </td>
+    <tr>
+        <td><strong> 0.8 </strong></td>
+          <td> 04/04/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
+    </td>
+	    <tr>
+        <td><strong> 1.1 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 1.2 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+    </td>
+    <tr>
+        <td><strong> 1.3 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task designados.
+    </td>
+    <tr>
+        <td><strong> 1.4 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo del frontend designado.
+    </td>
+    <tr>
+        <td><strong> 1.5 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Aporte a la culminacion del landing page en su totalidad.
+    </td>
+    <tr>
+        <td><strong> 1.6 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creacion de elementos necesarios para el repositorio.
+    </td>
+    <tr>
+        <td><strong> 1.7 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Analisis de las historias de usuario aplicadas en el trabajo.
+    </td>
+    <tr>
+        <td><strong> 1.8 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Analisis de los commit enviados y desarrollo del informe.
+    </td>
+    <tr>
+        <td><strong> 2.1 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo y apertura del sprint 3.
+    </td>
+    <tr>
+        <td><strong> 2.2 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y apertura del backend.
+    </td>
+    <tr>
+        <td><strong> 2.3 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.4 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.5 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.6 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.7 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith 
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 2.8 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 3.1 </strong></td>
+          <td> 23/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo y apertura del sprint 4.
+    </td>
+    <tr>
+        <td><strong> 3.2 </strong></td>
+          <td> 24/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y apertura del backend.
+    </td>
+    <tr>
+        <td><strong> 3.3 </strong></td>
+          <td> 25/06/2024 <br> 
+      <td>Pingus Rodrigez, Carlos Daniel 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.4 </strong></td>
+          <td> 26/06/2024 <br> 
+      <td>Loarte Matos, Anthony Brahan 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.5 </strong></td>
+          <td> 26/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres  
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 3.6 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+	<tr>
+        <td><strong> 3.8 </strong></td>
+          <td> 27/06/2024 <br> 
+      <td>Cipriano Chumbes, Bruce Andres   
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    </tr>
+    </tr>
+    
+  </tr>
+  
+</table>
+<br><br>
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: [https://github.com/HealthyL/FitHub-LandingPage/tree/main](https://github.com/HealthyL/FitHub-LandingPage/tree/main)
 
-TB1:
-| Integrante                          | Tarea Asignada|
-|----------------------|----|
-| Loarte Matos, Anthony Bahan         | Lean UX Assumptions, Análisis competitivo. Empathy Mapping, To-Be Scenario Mapping, Labeling Systems, Searching Systems, Source Code Style Guide & Conventions, Software Deployment Configuration, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review                                                                                                                                                                 |
-| Cama Salvatierra Jimena Tamara      | Lean ux canvas, diseño de entrevistas, registro de entrevista, Análisis de entrevistas, user persona, user stories, impact mapping general style guideline, web style guidelines, organization sistems, labeling systems, landing page mock ups, Database Diagram, Sprint Planning 1, sprint backlog 1.                                                                                                                                                     |
-| Cipriano Chumbes, Bruce Andres      | Lean UX Hypothesis Statements , User Task Matrix, Impact Mapping, Product Backlog, To-Be Scenario Mapping, SEO Tags and Meta Tags, Navigation Systems, Software Development Environment Configuration, Source Code Management, Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review.                                                                                                                                   |
-| Quezada Portalatino, Barbara Susana | Problem Statement, Descripción de la startup, antecedentes y problemática, Estrategias y tácticas frente a competidores, Assumptions, diseño de entrevistas, Ubiquitous Language. As-is Scenario Mapping, User Journey Mapping, User stories, Landing Page Wireframe, Web Applications Wireflow Diagrams, Web Applications Wireframe, Domain-Driven Software Architecture, Team Collaboration Insights during Sprint, Execution Evidence for Sprint Review. |
+<br><br>
 
-TP:
-| Integrante | Tarea Asignada |
-|---|---|
-| Loarte Matos, Anthony Bahan | Avance del frontend de Cuenta de fithub |
-| Cama Salvatierra Jimena Tamara | Sprint Backlog 2, Development Evidence for Sprint Review y avance del ProductManagement front end de fithub. |
-| Cipriano Chumbes, Bruce Andres | Avance del frontend de Rutinas de fithub |
-| Quezada Portalatino, Barbara Susana | Software Deployment Evidence for Sprint Review, <br>Testing Suite Evidence for Sprint Review y avance del NutritionManagement frontend de fithub. |
+# Student Outcome
+<table align="center" border="1" width="90%">
 
-TB2:
-| Integrante | Tarea Asignada |
-|---|---|
-| Loarte Matos, Anthony Bahan | Se evidenció avance del backend del bounded context debounded context Rutine Design |
-| Cama Salvatierra Jimena Tamara | Sprint Planning 4, sprint backlog 4, Testing Suite Evidence for Sprint Review y avance del backend de Products Management de fithub. |
-| Cipriano Chumbes, Bruce Andres | Se evidenció avance del backend del bounded context de  Flujo inicial |
-| Quezada Portalatino, Barbara Susana | Software Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review y avance del backend de Nutrition Management de fithub. |
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
 
-TF:
-| Integrante | Tarea Asignada |
-|---|---|
-| Loarte Matos, Anthony Bahan | Configurar preferencias, editar información del perfil y estado físico del usuario y diseño responsive para su uso desde cualquier dispositivo y  Implementación de microservicios, bases de datos e integraciones externas. |
-| Cama Salvatierra Jimena Tamara | Buscar, filtrar y obtener información detallada de suplementos y equipamiento deportivo y sugerencias adaptadas según los objetivos, preferencias y avances del usuario. |
-| Cipriano Chumbes, Bruce Andres | Crear, editar y visualizar rutinas de entrenamiento para adaptarlas a los objetivos de cada usuario y compartir logros, retos entre usuarios para mantener la motivación. |
-| Quezada Portalatino, Barbara Susana | Gestionar los alimentos consumidos, crear planes alimenticios balanceados y recomendaciones personalizada y monitorear métricas como calorías, macronutrientes, progreso en rutinas, etc. Ademas, planificación por sprints, desarrollo basado en historias de usuario y prácticas colaborativas.|
+  <tr>
+    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó dos de nuestros segmentos objetivos.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+       <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TP:</b> </br>
+     - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TF:</b> </br>
+      -  Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TF:</b> </br>
+      - Se realizo la exposicion del trabajo de manera virtual. </br>
+    </td>
+    <td>
+      - En el contexto del diseño de productos de software, las conversaciones con los usuarios desempeñan un papel de suma relevancia en la construcción de las personas de usuario. Estas interacciones no solo facilitan la definición de perfiles representativos de la audiencia objetivo, sino que también posibilitan una comprensión más profunda de las necesidades, perspectivas y opiniones de los usuarios. A través de estos diálogos, se logra una identificación precisa de los requisitos del usuario, lo que constituye un aspecto fundamental en el desarrollo de productos centrados en el usuario. Además, estas conversaciones proporcionan información valiosa sobre las preferencias, expectativas y experiencias de los usuarios, permitiendo a los diseñadores de software adaptar sus soluciones de manera más efectiva a las demandas del mercado.</br></br>
+	La profundización en la comprensión de los usuarios a través de conversaciones directas contribuye significativamente a la mejora de la experiencia del usuario y, en última instancia, a la calidad del producto de software. Al analizar detalladamente las interacciones con los usuarios, los equipos de desarrollo pueden identificar patrones, tendencias y áreas de oportunidad que de otro modo podrían pasar desapercibidos. Este enfoque orientado al usuario no solo impulsa la innovación, sino que también fomenta la empatía y la conexión entre los diseñadores y los usuarios finales del producto, lo que resulta en soluciones más efectivas y satisfactorias.</br></br>
+	Asimismo, las conversaciones con los usuarios durante el proceso de construcción de los usuarios personas ofrecen una plataforma para la validación continua de las decisiones de diseño. Al involucrar a los usuarios en el desarrollo del producto desde las etapas iniciales, se establece un ciclo de retroalimentación que permite ajustes iterativos basados ​​en las necesidades reales del mercado. Esta iteración constante promueve la agilidad en el desarrollo de software y garantiza que el producto final esté alineado de manera óptima con las expectativas y requisitos del usuario, maximizando así su aceptación y utilidad.</br></br>
+    </td>
+  </tr>
 
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Lean UX Problem Statements.</br>
+      - Se realizó Lean UX Assumptions.</br>
+      - Se realizó Lean UX Hypothesis Statements.</br>
+      - Se realizó Lean UX Canvas.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos</br>
+      - Se realizó User Personas.</br>
+      - Se realizó User Task Matrix.</br>
+      - Se realizó User Journey Mapping.</br>
+      - Se realizó Empathy Mapping.</br>
+      - Se realizó As-is Scenario Mapping.</br>
+      - Se realizó To-Be Scenario Mapping.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Landing Page Wireframe.</br>
+      - Se realizó Landing Page Mock-up.</br>
+      - Se realizó Web Applications Wireframes.</br>
+      - Se realizó Web Applications Wireflow Diagrams.</br>
+      - Se realizó Web Applications Mock-ups.</br>
+      - Se realizó Web Applications User Flow Diagrams.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó Análisis competitivo </br>
+      - Se realizó Estrategias y tácticas frente a competidores.</br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Organization Systems.</br>
+      - Se redactó Labeling Systems.</br>
+      - Se realizó SEO Tags and Meta Tags</br>
+      - Se realizó Searching Systems.</br>
+      - Se realizó Navigation Systems.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB1:</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Software Architecture Context Diagram.</br>
+      - Se realizó Software Architecture Container Diagrams.</br>
+      - Se realizó Software Architecture Components Diagrams.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TP:</b></br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TB2:</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TF:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez, Carlos Daniel</b> </br>
+      <b>TF :</b></br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+    </td>
+    <td>
+      - La conclusión derivada del análisis de las secciones desarrolladas en nuestro proyecto de ingeniería resalta la importancia fundamental del trabajo en equipo, la asignación adecuada de tareas y la verificación rigurosa de las contribuciones individuales. Estos elementos se revelan como pilares para el éxito del proceso de documentación. El reconocimiento de la interdependencia entre los miembros del equipo y la necesidad de una distribución eficiente de responsabilidades demuestra una profunda comprensión de los principios fundamentales de la gestión de proyectos en ingeniería. Asimismo, la atención meticulosa a la verificación de cada componente del proyecto enfatiza el compromiso con la precisión y la excelencia en la ejecución, aspectos cruciales para garantizar la integridad y la confiabilidad de los resultados obtenidos.</br></br>
+	Este análisis también subraya la importancia de la comunicación efectiva dentro del equipo de trabajo y con las partes interesadas externas. La documentación del proyecto no solo sirve como un registro detallado de los esfuerzos y logros alcanzados, sino también como un medio para transmitir de manera clara y objetiva los resultados y las conclusiones a diversos públicos, incluidos aquellos con diferentes niveles de especialización y jerarquía. La capacidad para comunicar ideas y resultados de manera objetiva y comprensible es fundamental en el contexto del desarrollo de proyectos de ingeniería, ya que facilita la colaboración entre equipos multidisciplinarios y promueve una comprensión común de los objetivos y las estrategias adoptadas.</br></br>
+	Además, este análisis refuerza la necesidad de una mentalidad orientada hacia la calidad y la mejora continua en el desarrollo de proyectos de ingeniería. La reflexión crítica sobre el proceso de documentación permite identificar áreas de oportunidad y buenas prácticas que pueden ser aplicadas en proyectos futuros. Esta actitud de aprendizaje y adaptación constante es esencial para impulsar la innovación y la excelencia en el campo de la ingeniería, asegurando que los resultados entregados cumplan con los más altos estándares de calidad y satisfagan las expectativas de todas las partes involucradas.</br> </br>
+    </td>
+  </tr>
+</table>
 
-# Contenido
-- [ Aplicaciones Web ](#-aplicaciones-web-)
-    - [TB1](#tb1)
-    - [Startup: FitHub ](#startup-fithub-)
-    - [Producto: FitHub](#producto-fithub)
-    - [ Ciclo 2024-1 ](#-ciclo-2024-1-)
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
+# Índice
+
+## 1. Capítulo I: Introducción
+
+- [1.1 Startup Profile](#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2 Solution Profile](#12-solution-profile)
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding.](#23-needfinding)
-    - [2.3.1. User Personas.](#231-user-personas)
-    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-  - [3.4. Product Backlog.](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1 Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
-  - [4.2. Information Architecture.](#42-information-architecture)
-    - [4.2.1. Organization Systems.](#421-organization-systems)
-    - [4.2.2. Labeling Systems.](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems.](#424-searching-systems)
-    - [4.2.5. Navigation Systems.](#425-navigation-systems)
-  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-  - [4.4 Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-    - [4.4.1 WebApplication Wireframes.](#441-webapplication-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Class Dictionary.](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-    - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management.](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+
+## 2. Capítulo II: Requirements Elicitation & Analysis
+
+- [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4 Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+
+## 3. Capítulo III: Requirements Specification
+
+- [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2 User Stories](#32-user-stories)
+- [3.3 Impact Mapping](#33-impact-mapping)
+- [3.4 Product Backlog](#34-product-backlog)
+
+## 4. Capítulo IV: Product Design
+
+- [4.1 Style Guidelines](#41-style-guidelines)
+    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
+- [4.2 Information Architecture](#42-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling Systems](#422-labeling-systems)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation Systems](#425-navigation-systems)
+- [4.3 Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1 Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2 Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1 Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2 Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3 Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4 Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+- [4.5 Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6 Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1 Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2 Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3 Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7 Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1 Class Diagrams](#471-class-diagrams)
+    - [4.7.2 Class Dictionary](#472-class-dictionary)
+- [4.8 Database Design](#48-database-design)
+    - [4.8.1 Database Diagram](#481-database-diagram)
+## 5. Capítulo V: Product Implementation, Validation & Deployment
+  - [CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION \& DEPLOYMENT](#capítulo-5-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management.](#51-software-configuration-management)
+      - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+      - [5.1.2. Source Code Management.](#512-source-code-management)
+      - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+      - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
@@ -172,1640 +552,3151 @@ TF:
       - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8.  Team Collaboration Insights during Sprint](#5218--team-collaboration-insights-during-sprint)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-    - [Sprint 2](#sprint-2)
-      - [5.2.2.1. Sprint planinning 2](#5221-sprint-planinning-2)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4.Testing Suite Evidence for Sprint Review.](#5224testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5.Execution Evidence for Sprint Review.](#5225execution-evidence-for-sprint-review)
-      - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-    - [Sprint 3](#sprint-3)
-      - [5.2.3.1. Sprint planinning 3](#5231-sprint-planinning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
-      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
-    - [5.2.4.Sprint 4](#524sprint-4)
-      - [5.2.4.1.Sprint planinning 4](#5241sprint-planinning-4)
-      - [5.2.4.2.Sprint Backlog 4](#5242sprint-backlog-4)
-      - [5.2.4.3.Development Evidence for Sprint Review.](#5243development-evidence-for-sprint-review)
-      - [5.2.4.4.Testing Suite Evidence for Sprint Review.](#5244testing-suite-evidence-for-sprint-review)
-      - [5.2.4.5.Execution Evidence for Sprint Review.](#5245execution-evidence-for-sprint-review)
-      - [5.2.4.6.Services Documentation Evidence for Sprint Review.](#5246services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8.Team Collaboration Insights during Sprint.](#5248team-collaboration-insights-during-sprint)
-  - [5.3.Validation interviews](#53validation-interviews)
-    - [5.3.1.Diseño de entrevistas](#531diseño-de-entrevistas)
-    - [5.3.2.Registro de Entrevistas](#532registro-de-entrevistas)
-    - [5.3.3.Evaluaciones según heurísticas](#533evaluaciones-según-heurísticas)
-  - [5.4 Video about the product.](#54-video-about-the-product)
-- [Video about the team](#video-about-the-team)
-- [Conclusiones](#conclusiones-1)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Srint Review](#5224-testing-suite-evidence-for-srint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights During Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [Conclusiones](#conclusiones)
+    - [Video About-the-Team.](#video-about-the-team)
+  - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
+
+<br><br>
 
 
-# Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones |  |  |
-|---|---|---|---|---|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Jimena Tamara Cama Salvatierra TB1, para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé decisiones de diseño para la landing page.<br>Barbara Susana Quezada Portalatino,TB1, en mi comunicación escrita sobre nuestro proyecto de ingeniería, enfatice en la importancia de comprender los antecedentes y la problemática que enfrentamos.<br>Bruce TB1 presentó los hallazgos y resultados del análisis competitivo y las estrategias frente a competidores durante las reuniones de revisión con el equipo multidisciplinario, proporcionando una visión clara de la posición de la startup en el mercado y las acciones planificadas para enfrentar la competencia.<br>Anthony TB1 participó activamente en la comunicación oral de las decisiones y estrategias relacionadas con el proceso de diseño de la arquitectura de software durante las reuniones de planificación y revisión del sprint, brindando una visión detallada de los componentes y la estructura del sistema en desarrollo.<br>______________<br>Jimena Cama TP, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 2. Aportando ideas para el desarrollo e implementación del frontend<br>Barbara Susana Quezada Portalatino TP, participe de manera activa en la comunicación oral para las ideas de implementación del front end de nuestro proyecto. Desarrollando ideas para la interfaz de la elección de las 3 comidas del día de nuestros usuarios.Bruce Cipriano TP, participé activamente en el desarrollo del frontend de la sección de login y registro. Aportando sugerencias para la interfaz usuario de esta sección.Anthony Loarte TP, participe activamente en las reuniones de diseño de interfaces. Proponiendo ideas para la interfaz de visualización de rutinas deportivas por parte de los usuarios.<br>_____________<br> Jimena Cama TB2, participé activamente en la organización y la planificación de las tareas para el desarrollo del sprint 3. Aportando ideas para la planificación del backend. Explícitamente de la sección de Producto.<br>Barbara Susana Quezada Portalatino TB2, me encargué del backend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando cómo se implementan los diferentes componentes del backend para la gestión de nutrición. Mi participación incluyó discusión y colaboración con mis compañeros para asegurar que la solución fuera técnicamente sólida y alineada con los requisitos del proyecto y las expectativas de los stakeholders.<br>Bruce Cipriano TB2, me encargué del backend de la sección de cuentas de usuario. Participé activamente en la implementación y luego presenté los avances realizados a mis compañeros de equipo.<br>Anthony Loarte TB2, me encargué del backend de la sección de rutinas. Presenté los resultados a la fecha, dialogando con el equipo acerca de las principales conclusiones, riesgos y problemas encontrados.<br> ________<br> Barbara Susana Quezada Portalatino TF, fui responsable de conectar el backend y el frontend de la sección de nutrición. Durante el desarrollo del proyecto, presenté mis avances y resultados al equipo, explicando la implementación de los distintos componentes del backend para la gestión de nutrición. Bruce Cipriano TF, fui responsable de integrar el backend y frontend en la sección de cuentas de usuario. Participé activamente en la conexión y luego presenté los avances realizados a mis compañeros de equipo. Anthony Loarte TF, fui responsable de integrar el backend y frontend de la sección de rutinas. Presenté los resultados, dialogando con el equipo acerca de las conclusiones, riesgos y problemas encontrados en la conexión.| La comunicación efectiva de las ideas y resultados durante el desarrollo del proyecto fue fundamental para garantizar un entendimiento claro y preciso entre los diferentes miembros del equipo, así como con otros stakeholders. Estas interacciones permitieron identificar y abordar las necesidades y expectativas de manera integral, lo que facilitó la toma de decisiones informadas y la alineación de objetivos en todos los niveles jerárquicos y áreas de especialidad involucradas en el proyecto de ingeniería. |  |  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.. | Jimena Tamara Cama Salvatierra TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page.<br>Barbara Susana Quezada Portalatino, TB1, detallé el análisis de antecedentes y problemática, así como las estrategias frente a competidores que estamos implementando. Además, mencioné el registro de entrevistas realizadas, la elaboración del User Journey Mapping y As-is Scenario Mapping, y la creación de wireframes y mockups para la plataforma Fithub.<br>Bruce TB1 contribuyó en la comunicación escrita del proyecto al redactar las secciones relacionadas con la arquitectura de software, incluyendo la creación de diagramas contextuales, de contenedores y de componentes. Además, participó en la redacción de las guías de estilo y convenciones del código fuente, así como en la configuración de la gestión del código fuente y del despliegue del software.<br>  <br>Anthony TB1 participó en la comunicación escrita del proyecto al elaborar la documentación relacionada con el diseño de la base de datos, incluyendo la creación del diagrama de la base de datos. Además, contribuyó en la configuración del despliegue del software, asegurando que la infraestructura estuviera correctamente configurada para la implementación del producto.<br>—<br>Jimena Cama Salvatierra TP, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 2, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de los avances realizados en GitHub.<br>Barbara Quezada Portalatino TP, participó de manera activa y efectiva en la comunicación escrita, evidenciando el desarrollo del backend realizado para mi bounded context Nutrition Management. Así como la evidencia para Validation Interviews el Team Collaboration Insights during Sprint y el Services Documentation Evidence for Sprint Review. <br>—<br>Jimena Cama TB2, participé activamente en la comunicación escrita del proyecto, redactando las secciones de Sprint Planning 3, para la organización y planificación de los user stories. Sprint backlog con las tareas realizadas para cada usuario realizado, estimación y miembro correspondiente. Así como, en la evidencia de las historias de usuario en formato feature relacionados a los avances realizados para esta entrega.<br>-Barbara Susana Quezada Portalatino TB2, diseñe y desarrollé el backend de la sección de nutrición. Documenté mi trabajo en reportes detallados sobre la arquitectura del sistema y los componentes clave del backend, incluyendo diagramas técnicos y explicaciones de diseño, considerando las necesidades de los usuarios finales.Bruce Cipriano TB2, documenté el desarrollo del backend para el componente de Flujo Inicial en los reportes.Anthony Loarte TB2, documenté las implementaciones del backend de Rutinas mediante reportes.<br>—<br> -Barbara Susana Quezada Portalatino TF, y diseñé y desarrollé el backend de la sección de nutrición. Además, me encargué de conectar el backend con el frontend. Documenté mi trabajo en informes detallados sobre la arquitectura del sistema y los componentes clave del backend.Bruce Cipriano TF, documenté el trabajo de integración del backend y frontend para la sección de Flujo Inicial.Anthony Loarte TF, elaboré reportes sobre la integración del backend y frontend de Rutinas. | Con las secciones desarrolladas, podemos concluir que la comunicación escrita efectiva fue esencial para garantizar la claridad, coherencia y objetividad en la presentación de ideas y resultados del proyecto de ingeniería. El trabajo en equipo, la distribución eficiente de tareas y la verificación constante de las contribuciones individuales fueron aspectos cruciales que contribuyeron al éxito del proceso de documentación. Además, la comunicación escrita facilitó la colaboración entre diferentes especialidades y niveles jerárquicos, asegurando que todos los aspectos del proyecto fueran abordados de manera integral y comprensible para todos los involucrados. |  |  |
+## CAPITULO 1: INTRODUCCIÓN
+### 1.1. Startup Profile
+#### 1.1.1. Descripción de la Startup
+Somos una startup innovadora llamada “TempSound” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
+Los conocimientos aprendidos en el curso actual que es Open Source, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
+#### 1.1.2. Perfiles de integrantes del equipo
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr> 
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+	<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952448/20220602_064041_figh8u.jpg" alt="Foto-Carlos">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Pingus Rodriguez, Carlos Daniel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de la carrera de ingeniería de Software. Me gusta la tecnología y como esta misma ha cambiado significativamente en mi tiempo de vida. Me considero alguien responsable y comprometido con los proyectos; Trato de estar a la par con mis compañeros y compartir con ellos mis conocimientos en ciertos temas específicos.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202113280</td>
+  </tr>
+   <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
+  </tr>
+       <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="[https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/drkelnilg/image/upload/v1713055510/oa9dtwwobytypir1vpnc.png" alt="Foto-Jeff" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Cabrera Camizan, Jeferson Smith</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estudiante universitario de la carrera de ingeniería de software. Me gusta trabajar en conjunto para el desarrollo del proyecto. cuento con conocimientos en lenguajes html, css, js, c++ y Agile Project Managment. 
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211c211</td>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dv8a4ngw4/image/upload/v1713078837/Diseño_sin_título_chpzpr.jpg" alt="Foto-Victor" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Bruce Andres Cipriano Chumbes</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Bruce, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211d640</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://github.com/TempSound/Informe/assets/107071662/d8eb40d2-6761-4e16-aa74-809bebdeded2" alt="Anthony Loarte" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Anthony Brahan Loarte Matos</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Anthony Brahan Loarte Matos, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos intermedios en C++, SQL Server, Html y CSS.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20211d563</td>
+  </tr>
+
+</table>
 
 
-# Capítulo I: Introducción
-## 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup
-FitHub es más que una plataforma; es un ecosistema completo diseñado para mejorar la salud y el bienestar de nuestros usuarios. Nos enorgullece ofrecer una amplia gama de servicios personalizados que abordan tanto el aspecto físico como el nutricional, permitiendo a cada individuo alcanzar sus objetivos de manera efectiva y sostenible.
 
-Nuestra plataforma no se limita a proporcionar rutinas estándar de ejercicio o dietas genéricas. En cambio, utilizamos análisis de datos de rendimiento para comprender mejor las necesidades y capacidades únicas de cada usuario. Esto nos permite ofrecer planes de suscripción personalizados que se adaptan específicamente a sus objetivos, preferencias y nivel de condición física.
- 
+### 1.2. Solution Profile
+Codex busca el desarrollo de una plataforma web llamada “MusicTime”, que busca ofrecer una experiencia fluida y eficiente para la gestión de contratos de música. Los usuarios de esta plataforma podrán crear, almacenar, organizar y dar seguimiento a contratos de manera centralizada, eliminando la necesidad de procesos manuales y dispersos.
+Además de simplificar la gestión de contratos, MusicTime ofrece características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real. Esto permite a los profesionales de la música mantenerse al tanto de sus compromisos contractuales de manera proactiva y eficaz.
+Con un enfoque en la usabilidad y la seguridad de los datos, ya sea un músico independiente, un manager de artistas o una discográfica multinacional, Codex es la herramienta ideal para optimizar la gestión de contratos y potenciar el éxito en la industria de la música.
+#### 1.2.1 Antecedentes y problemática.
+Tras el desarrollo de la música y la creación de bandas musicales, el negocio en contratos de estos servicios creció enormemente en los últimos años, en nuestro proyecto buscamos documentar el desarrollo de un producto que permita agilizar y brindar una asistencia a los proveedores de estos servicios musicales y sus contratos para eventos sean privados o de público abierto.
+Tras el análisis sobre diversas oportunidades de negocio que fueron planteadas por los integrantes de nuestra startup definimos que MusicTime tendría un gran alcance, pues se observó como problemática presente que las bandas musicales o solistas tienen una dificultad al realizar sus presentaciones sobre el contrato que realizan y como ubicar nuevos clientes, es así como nosotros planteamos una plataforma web en donde podremos agilizar este proceso y que así solo se concentren en dar sus conciertos mientras nosotros gestionamos el proceso del contrato de forma segura y confiable para los músicos. En parte también apoyar al usuario a poder ubicar mejor un grupo o solista que pueda presentarse a su evento de manera sencilla y rápida viendo la información y videoclips de dicho grupo para conseguir más clientes a estos grupos.
+Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha problematica.
+| Who (Quién)| What (Qué)| When (Cuándo)| Where (Dónde)| Why (Por qué)|
+|--------------------------|-----------------------------------------------------------------|--------------------------|-----------------------------------------------------------------|--------------------------|
+| Who are the band members or artists involved in contract management? | What types of contracts do musical bands usually sign?| When do bands usually sign contracts with record labels or management agencies? | Where do negotiations and signing of contracts for musical bands take place? | Why is it important for music bands to have well-managed contracts?|
+| Usualmente cuando son bandas pequeñas el que gestiona los contratos es el líder o guía de la banda que igualmente toca en el grupo, si son cantantes grandes o bandas muy conocidas contratan a un manager para hacer ese proceso. | Pueden hacer contratos por evento o por horas de trabajo que hacen en un evento. | Antes del evento o presentación para establecer los pagos y al culminar se realiza el pago incluso se puede hacer adelantos para confirmar la presentación. | Se llevan de manera presencial con un representante de la banda o el cantante donde se da detalles del evento al cual va participar y como sera el proceso de su pago. | Para no tener dificultades al realizar la presentación y tener bien en claro como se va realizar dicho evento y el proceso de pago.|
+| Who do the representatives, agents or managers play in the negotiation and signing of contracts? | What key elements are included in these contracts?|When do these contracts come into force and what is their typical duration?|Where businesses do the gangs operate in and where do contracts apply?| Why can problems arise if contracts are not clear or equitable for all parties involved? |
+| Puede ser el mismo cantante o alguna empresa que este gestionando el proceso de contratos del grupo o cantante. | Lugar del evento, pago por la presentación, tiempo de la presentación, que elementos adicionales se le brinda como viáticos o que recursos necesita la presentación como luces o estrado.|Dependiendo del evento si es un evento corto se espera que la duración del cumplimiento del contrato sea corto, si es un evento grande como giras o festivales la culminación del contrato puede demorar mucho tiempo.|Operan de manera presencial ya sea teniendo una oficina donde pueda acercarse el cliente, o de manera digital como las redes sociales.| Mala gestión en los eventos o una mala presentación del grupo, como también problemas al recibir el pago si no se queda bien el monto y como pagarlo.|
 
-* **Misión de FitHub:**  
-La misión de FitHub es empoderar a las personas para que tomen el control de su salud y bienestar a través de soluciones personalizadas y accesibles. Creemos que cada individuo es único, y por lo tanto, sus necesidades y objetivos de salud también lo son. Nos esforzamos por ofrecer herramientas y recursos que permitan a nuestros usuarios descubrir su potencial, mejorar su condición física y nutricional, y adoptar un estilo de vida saludable de manera sostenible.
+| How (Cómo)| How much (Cuánto)|
+|----------------------------|--------------------------|
+| How is the contract negotiation process for musical bands carried out? | How much money do contracts for musical bands usually involve?|
+| Se lleva de forma de manera tradicional de manera presencial entre cliente y músico, aunque con el avance tecnológico se hace el contacto mediante redes sociales | Es dependiente del publico y al evento que va el músico o banda musical, si son muy conocidos en precio sera alto si están iniciando el precio sera bajo|
+| How are contracts drafted and reviewed to ensure they reflect the interests and rights of the band? | How many contracts do bands typically sign over the course of their careers and at what frequency? |
+| Se redactan de acuerdo a las políticas que tenga el músico o banda musical, viendo el precio y el entorno donde se dará la presentación evidentemente con una reunion con el cliente.| Si son bandas muy conocidas estimamos que pueden recibir mas de 20 contratos al año, para diversos eventos si son poco conocido podría ser de 5 a 10 eventos.|
 
-* **Visión de FitHub:**  
-Nuestra visión es ser líderes en el mercado de salud y bienestar, reconocidos por nuestra innovación, calidad y compromiso con la satisfacción del cliente. Queremos ser el ecosistema preferido por aquellos que buscan transformar su vida a través del fitness y la nutrición personalizada. Aspiramos a expandir nuestro alcance globalmente, llegando a comunidades de todo el mundo y adaptándonos a las necesidades cambiantes de nuestros usuarios. En FitHub, imaginamos un mundo donde cada persona tiene acceso a las herramientas y el apoyo necesario para alcanzar y mantener un estilo de vida saludable, y estamos dedicados a hacer de esta visión una realidad.
-
-### 1.1.2. Perfiles de integrantes del equipo
-
-*Jimena Tamara Cama Salvatierra*
-Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona curiosa, determinada y organizada. Con la experiencia en proyectos de startup y trabajos en equipo, trabajaré junto a mis compañeros para lograr un óptimo resultado del proyecto.
-![jimena](https://github.com/HealthyL/Informe/assets/134560396/23f40433-64ab-4d19-9bcd-3cc72db68e0b)
-
-*Bruce Andres Cipriano Chumbes*
-Soy estudiante de Ingeniería de Software en la UPC. Siempre me ha fascinado la tecnología y cómo funciona. Disfruto programar, ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, Java, JavaScript, HTML y CSS, y conocimientos intermedios en C++, SQL y MongoDB. Mi objetivo es contribuir al mundo de la tecnología mientras desarrollo mi carrera profesional como ingeniero de software.
-![bruce](https://github.com/HealthyL/Informe/assets/134560396/b210f791-737d-406e-bbbd-d8c2d6a2d581)
-
-*Anthony Brahan Loarte Matos*
-¡Hola! Actualmente estoy en la universidad peruana de ciencias aplicadas en la carrera de Ingeniería de Software. Me apasiona todo lo relacionado con la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos.Tengo conocimientos básicos en C++, python, HTML y CSS. Estoy comprometido con contribuir al mundo de la tecnología mediante el desarrollo de soluciones innovadoras y efectivas. Me entusiasma enfrentar nuevos desafíos y seguir aprendiendo en este apasionante campo de la ingeniería de software.
-![anthony](https://github.com/HealthyL/Informe/assets/134560396/66a986c2-6f5b-482d-a75e-52606983282a)
-
-*Barbara Susana Quezada Portalatino*
-¿Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente estoy cursando el 5to ciclo. Me considero una persona perseverante, comprensiva y organizada. Junto a mis habilidades de liderazgo y trabajo en equipo en un ambiente de respeto, sé que lograré ejecutar la startup de nuestro proyecto de manera efectiva.
-![barbara](https://github.com/HealthyL/Informe/assets/134560396/9c007894-d1dd-4314-b197-a7af204c09a3)
+#### 1.2.2 Lean UX Process.
+#### 1.2.2.1. Lean UX Problem Statements. 
+<br>
+Cuando lanzamos nuestra plataforma para músicos y organizadores de eventos, el mercado estaba caracterizado por métodos tradicionales de gestión de contratos y acuerdos en la industria musical. En este contexto, la plataforma se destacó como una solución digital innovadora que ofrecía una forma más eficiente y centralizada de gestionar contratos en la industria musical. Sin embargo, con la rápida evolución del panorama tecnológico y la entrada de nuevas soluciones digitales en el mercado, nuestra posición diferenciada se ha diluido y el mercado se ha vuelto cada vez más competitivo. Esto ha resultado en un aumento de los costos de adquisición de clientes, una disminución de nuestra participación en el mercado y un aumento en los costos de soporte al cliente.
+<br>
+¿Cómo podríamos diseñar nuestra plataforma para músicos y organizadores de eventos de manera que nuestros usuarios perciban que estamos diseñados específicamente para satisfacer sus necesidades en la era digital de la industria musical, lo que a su vez reduciría nuestros costos de adquisición y aumentaría nuestra participación en el mercado?
 
 
-## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
-En la sociedad contemporánea, el interés por la salud y el bienestar físico ha experimentado un notable aumento en los últimos años. Sin embargo, a pesar de este creciente interés, muchas personas enfrentan desafíos significativos al intentar mejorar su condición física y adoptar un estilo de vida más saludable. Uno de los principales problemas radica en la falta de personalización en las soluciones disponibles en el mercado. Las opciones de fitness y nutrición suelen ser genéricas y no tienen en cuenta las necesidades individuales de los usuarios, lo que dificulta su eficacia y su mantenimiento a largo plazo. 
-Con el propósito de obtener una comprensión más profunda de las necesidades de nuestro segmento, emplearemos la técnica de las "5W y 2H" para examinar los antecedentes históricos y los desafíos asociados. A continuación, compartimos la información recopilada.
-
-* **What?**  
-*¿Cuál es la relación del problema con las personas?*<br>
-El problema está relacionado con las dificultades que enfrentan las personas para mejorar su salud y estado físico debido a la falta de acceso a programas personalizados de entrenamiento y nutrición.
-
-* **When?** 
-*¿Cuándo sucede el problema?*<br> 
-El problema ocurre cuando las personas se encuentran con obstáculos como la falta de tiempo, conocimientos o recursos para seguir un plan de fitness y nutrición adecuado. Además, los clientes pueden enfrentar este problema en cualquier momento en que intenten mejorar su salud y bienestar. Sin embargo, es más evidente cuando se acercan a eventos importantes como bodas, vacaciones o cambios en las estaciones.<br>
-¿Cuándo utiliza el cliente el servicio?<br>
-Los clientes pueden utilizar el servicio de FitHub en cualquier momento que les resulte conveniente, ya sea en casa o en el gimnasio.
-
-
-* **Where?**
-*¿Dónde está el cliente cuando usa el producto?*<br>
-Los clientes pueden usar FitHub en cualquier lugar donde tengan acceso a internet, ya sea en casa, en el trabajo o en el gimnasio.
-
-* **Who?** 
-*¿Quiénes están involucrado?*<br>
-Los principales involucrados son personas que desean mejorar su salud y estado físico, pero se enfrentan a dificultades para encontrar programas de entrenamiento y nutrición personalizados.
-¿Quién lo utilizará?<br>
-FitHub está diseñado para ser utilizado por personas de todas las edades y niveles de condición física que buscan orientación y apoyo para alcanzar sus objetivos de bienestar.
-
-* **Why?**
-*¿Cuál es la causa del problema?*<br>
-La causa del problema radica en la falta de acceso a programas de fitness y nutrición personalizados que se ajusten a las necesidades individuales de cada persona.<br>
-La falta de conocimientos sobre cómo diseñar un programa de ejercicio y nutrición efectivo hasta la falta de tiempo para investigar y planificar por sí mismos.
-
-
-* **How?**
-*¿En qué condiciones los clientes usan nuestro producto?*<br>
-Los clientes pueden usar el producto FitHub en una variedad de condiciones, como en casa, en el gimnasio o mientras viajan, ya que la plataforma es accesible desde cualquier dispositivo con conexión a internet.<br>
-¿Cómo nos conocieron los compradores?<br>Los clientes pueden conocer FitHub a través de recomendaciones de amigos o familiares, publicidad en línea, búsquedas en internet o mediante la participación en eventos relacionados con el fitness y la salud.<br>
-¿Cómo prefieren los lectores acceder a nuestro contenido?<br>
-Los clientes pueden preferir acceder al contenido de FitHub a través de su plataforma, así como recibir notificaciones por correo electrónico o mensajes de texto para mantenerse al día con sus rutinas y planes de nutrición.<br>
-¿Qué llevó a la persona a esta situación?<br>
-Las personas pueden llegar a esta situación debido a una variedad de factores, como el aumento de peso, la falta de energía, la mala alimentación, el estrés, la falta de ejercicio, entre otros.
-
-* **How much?**   
-Los precios que ofrecemos son accesibles para cada usuario y además ofrecemos diferentes planes que pueden tener diferentes funciones, entre control de nutrición y creación de rutinas personalizadas, o ambos.  
-
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
-El problema al que nos dirigimos con nuestra plataforma es la falta de acceso a programas personalizados de entrenamiento y nutrición, lo que dificulta que las personas alcancen sus objetivos de salud y estado físico de manera efectiva y sencilla. Esto se debe a la falta de tiempo, recursos y conocimientos para diseñar y seguir un plan de bienestar adecuado. Por otro lado, las personas se encuentran con la sobrecarga de información y la confusión sobre qué consejos y recomendaciones seguir, lo que dificulta aún más su capacidad para tomar decisiones informadas y mantenerse comprometidos con sus objetivos de salud.
-
-Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digital donde las personas pueden acceder a programas de entrenamiento y nutrición personalizados, basados en sus necesidades individuales y objetivos específicos. Además, proporcionamos herramientas y recursos que simplifican el proceso de seguimiento y monitoreo del progreso.
-
-¿Cómo podemos ayudar a las personas a superar los obstáculos que enfrentan en su búsqueda de una vida más saludable y activa?
 
 
 #### 1.2.2.2. Lean UX Assumptions.
-* **Business Assumptions**  
-* Creemos que existe una necesidad de servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales del usuario.
 
- * Se espera que los usuarios participen activamente en programas de entrenamiento personalizados y dietas adaptadas a sus necesidades específicas.
+Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo. 
 
- * Creemos que la disponibilidad de pruebas limitadas de planes freemium alentará a los usuarios a probar nuestra plataforma antes de registrarse.
+<br> **User Assumptions**<br>
+<br>¿Quién es el usuario?<br>
+El usuario es cualquier músico, representante de banda, discográfica o persona involucrada en el negocio de la música que busque una solución integral para gestionar contratos de manera eficiente y segura.
 
- * Creemos que las estrategias de marketing personalizadas, como correos electrónicos personalizados, descuentos exclusivos y contenido exclusivo, aumentan la retención de usuarios y convierten a los usuarios de prueba en suscriptores.
+<br>¿Dónde encaja nuestro producto en su trabajo o vida?<br>
+MusicTime se integra en la vida diaria de los usuarios al proporcionarles una plataforma eficiente y segura para gestionar sus contratos musicales. Les permite evitar confusiones y conflictos, y satisfacer sus necesidades de gestión contractual de manera satisfactoria.
 
- * Creemos que la segmentación a través de campañas de marketing digital dirigidas en plataformas relevantes aumenta el conocimiento de la marca y la participación del cliente.
+<br>¿Qué problemas tiene que resolver nuestro producto?<br>
+ Nustro producto debe resolver los problemas de falta de transparencia, riesgo de errores en la gestión contractual, y dificultades para mantener registros organizados y seguros de los acuerdos musicales.
 
- * Suponemos que los usuarios están dispuestos a pagar por servicios premium que brinden beneficios adicionales como acceso a contenido exclusivo y descuentos en productos relacionados.
+<br>¿Cuándo y cómo es nuestro producto usado?<br>
+El producto es utilizado por los usuarios cuando necesitan gestionar contratos musicales, ya sea al firmar nuevos acuerdos, realizar seguimiento de pagos, o colaborar en proyectos musicales. Se puede utilizar en cualquier momento en que los usuarios estén trabajando en aspectos contractuales de la industria musical.
 
- * Creemos que agregar una suscripción familiar aumentará la participación y retención de los usuarios, brindando  beneficios a múltiples usuarios con una sola suscripción.
+<br>¿Cómo debe verse nuestro producto y cómo comportarse?<br>
+Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz fácil de usar que guíe a los usuarios a través del proceso de gestión contractual. Debe comportarse de manera confiable y segura, garantizando la protección de los datos del usuario y facilitando una experiencia fluida en la gestión de contratos musicales.
 
-* **User Assumptions**
-  
-  * **¿Quién es el usuario?**
-    
-      Nuestros productos están diseñados para cualquier persona que quiera mejorar su salud y estado físico a través de programas de entrenamiento y dietas personalizados. Esto incluye personas de todas las edades y niveles de condición física, desde principiantes hasta atletas experimentados.
-  * **¿Cuál es el impacto de nuestro producto, en su trabajo o vida?**
-    
-      Nuestros productos se integran en la vida diaria de los usuarios como herramientas integrales para mejorar la salud y el estado físico 
-  * **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
-    * Problema: Tengo dificultades para mantenerme motivado y constante en mi entrenamiento diario.
-    * Solución:Implementar un sistema de seguimiento del progreso para registrar logros como completar hitos de entrenamiento y mejorar la fuerza y la resistencia.También proporciona recompensas virtuales y reconocimiento de logros para motivar a los usuarios a continuar con sus actividades diarias.
+<br>**Business Assumptions:**<br>
+* Existe una demanda significativa en la industria musical para una solución integral de gestión contractual que simplifique y centralice el proceso de manejo de contratos.
 
-    * Problema: Seguir un plan de nutrición adecuado y personalizado  puede resultar difícil debido a la falta de variedad y opciones atractivas.
-    * Solución: Proporciona una variedad de recetas deliciosas y saludables adaptadas a las preferencias dietéticas personales de los usuarios. Además, hay opciones de personalización disponibles para adaptar las comidas a las restricciones dietéticas y preferencias personales de cada usuario.
+* La plataforma enfrenta competencia de otras soluciones similares en el mercado, sin embargo, se espera que su propuesta de valor única la diferencie y la posicione como líder en el sector.
 
-    * Problema: Es difícil mantener la coherencia con su rutina diaria de ejercicios debido a la falta de recordatorios y planificación.
-    * Solución:  Integrar sistemas de capacitación para enviar mensajes automáticos a los usuarios recordándoles las próximas sesiones de capacitación. Además, debería permitir a los usuarios crear planes de formación personalizados y establecer objetivos a alcanzar para mantener la coherencia a largo plazo.
+* Los usuarios percibirán el valor de la solución como una herramienta innovadora y necesaria para optimizar la gestión de contratos en la industria musical, independientemente del tamaño de la empresa o del rol del usuario.
 
-  * **¿Cuándo y cómo es usado nuestro producto?**
-    
-      Nuestros productos se utilizan principalmente para entrenar y planificar las comidas diarias. Los usuarios pueden acceder a la plataforma en cualquier momento a través de su dispositivo móvil o computadora, ya sea en casa, en el gimnasio o mientras viajan. Adaptable al estilo de vida, ya sea en casa, en el gimnasio o al aire libre, y te sirve de guía en tu entrenamiento y alimentación.
+* Se espera que el modelo de negocio sea rentable, basado en la capacidad de adquirir usuarios de manera efectiva, retenerlos a largo plazo y ofrecer servicios premium o complementarios para generar ingresos adicionales.
 
-  * **¿Qué características son importantes?**
+* Se espera que la plataforma facilite la colaboración y el éxito en la industria de la música al proporcionar una herramienta que fomente la transparencia, la eficiencia y la confianza entre los profesionales del sector.
 
-    * Análisis detallado de  datos de rendimiento.
-    * Planes de entrenamiento y alimentación personalizados.
-    * Monitoriza tu progreso y motivación.
-    * Asesoramiento y recomendaciones personales.
-    * Fácil de usar y navegación intuitiva.
-    * Accede a contenidos exclusivos  actualizados periódicamente.
+* La evolución tecnológica continuará ofreciendo oportunidades para mejorar y expandir las funcionalidades de la plataforma, lo que permitirá adaptarse a las cambiantes necesidades y demandas de la industria musical.
 
-    
-  * **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+* Se espera que la satisfacción del cliente y la fidelización sean fundamentales para el éxito a largo plazo de la plataforma, ya que clientes satisfechos pueden convertirse en defensores de la marca y contribuir a la adquisición de nuevos usuarios.
 
-    * Nuestros productos deben verse atractivos, con una interfaz limpia y moderna, y ser fáciles de usar en dispositivos móviles y computadoras. Debe tener una apariencia única diseño.
-    * Debe ser fluido y responsivo, proporcionando una experiencia de usuario fluida con funcionalidad intuitiva y navegación clara. Estas suposiciones de los usuarios representan suposiciones sobre cómo los usuarios  interactúan con los Productos FitHub.Si necesita información adicional o personalización, háganoslo saber.
- 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+<br> **Business Outcome:** <br>
+* **Aumento en la Retención de Usuarios:** Al ofrecer una plataforma intuitiva y accesible para la gestión contractual en la industria musical, se espera que los usuarios estén más satisfechos y sean más propensos a seguir utilizando la plataforma en el futuro.
 
-- Creemos que al proporcionar análisis de datos de rendimiento y acceso
-  a una comunidad de fitness en línea, podemos atraer usuarios
-  interesados en mejorar su salud y estado físico.Creemos que tenemos
-  éxito ya que estamos viendo una mayor participación de los clientes y
-  una participación activa en la plataforma.
+* **Mejora en la Reputación y Confianza:** Al satisfacer las necesidades de los usuarios y proporcionarles una experiencia satisfactoria, se espera que la reputación de la plataforma en el mercado mejore, lo que resultará en una mayor confianza por parte de los profesionales de la industria musical.
 
-- Creemos que al brindarle planes de entrenamiento personalizados
-  creados por entrenadores certificados, podemos ayudarlo a alcanzar de
-  manera efectiva sus objetivos de acondicionamiento físico. Hemos visto
-  mejoras en las métricas de progreso de los usuarios y una mayor
-  satisfacción con la experiencia de capacitación.
+* **Aumento en los Ingresos:** Al ofrecer una solución que satisfaga eficazmente las necesidades de gestión contractual de los usuarios, se espera que aumente el número de transacciones y, por lo tanto, los ingresos generados por la plataforma.
 
-- Creemos que al brindar planes de nutrición personalizados diseñados
-  por nutricionistas, nuestros usuarios pueden desarrollar hábitos
-  alimentarios más saludables. Sabemos que hemos tenido éxito cuando
-  vemos que se alivian las preocupaciones nutricionales y mejora la
-  salud general de los usuarios.
+* **Mayor Visibilidad en el Mercado:** Al proporcionar una solución única y eficaz para la gestión contractual en la industria musical, se espera que la plataforma gane mayor visibilidad y reconocimiento en el mercado, atrayendo así a más usuarios potenciales.
 
-- Creemos que ofrecer planes freemium que incluyan dietas y
-  entrenamientos personalizados como opciones de prueba alentará a los
-  usuarios a probar nuestra plataforma y convertirse en clientes de
-  pago. Sabrá que ha tenido éxito cuando vea una alta tasa de conversión
-  de usuarios gratuitos a usuarios premium una vez finalizado el período
-  de prueba.
+<br> **User Outcome:** <br>
 
+* **Gestión de Contratos Simplificada:** Los usuarios podrán administrar sus contratos musicales de manera más sencilla y eficiente, reduciendo la complejidad y el tiempo dedicado a tareas administrativas.
+
+* **Mayor Control y Organización:** Los usuarios podrán mantener un registro centralizado y organizado de todos sus contratos y acuerdos, lo que les permitirá tener un mejor control sobre sus compromisos y fechas importantes.
+
+* **Colaboración Efectiva:** Los usuarios podrán colaborar de manera más efectiva con otros profesionales de la industria musical, facilitando la comunicación y el intercambio de información en tiempo real.
+
+* **Seguridad y Confianza:** Los usuarios podrán tener mayor seguridad en la gestión de sus datos y contratos, lo que les proporcionará una mayor confianza al utilizar la plataforma para sus actividades comerciales.
+
+* **Oportunidades Ampliadas:** Los usuarios podrán aprovechar al máximo las oportunidades en la industria musical al optimizar la gestión de sus contratos, lo que les permitirá alcanzar sus metas artísticas y comerciales de manera más efectiva.
+
+
+<br> **Features:** <br>
+* Interfaz fácil de usar y segura, diseñada para que los usuarios puedan navegar y utilizar todas las funcionalidades de manera sencilla y eficiente
+
+* Notificaciones automatizadas que permiten a los usuarios configurar y recibir alertas automáticas sobre eventos importantes relacionados con sus contratos
+
+* Recordatorios de vencimiento que ayuda a los usuarios a realizar un seguimiento efectivo de los plazos y vencimientos de sus contratos
+
+* Colaboración en tiempo real que permiten a los usuarios interactuar y trabajar de manera colaborativa y en tiempo real
+
+* Soporte multilingüe para que los usuarios puedan acceder a la plataforma en su idioma preferido, mejorando así la accesibilidad y la experiencia del usuario. 
+
+* Asistente Virtual y Soporte Integrado para brindar ayuda y orientación a los usuarios en el uso de la plataforma
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+**Hipótesis 1:** <br>
+* **Declaración de hipótesis:** Creemos que al diseñar una interfaz fácil de usar y segura, aumentaremos la adopción de la plataforma para acontratar artistas, lo que se traducirá en una mayor eficiencia en la navegación y utilización de las funcionalidades, demostrando así una mejora en la satisfacción del usuario.<br>
+* **Razón:** Basamos esta hipótesis en la premisa de que una interfaz intuitiva y segura reduce la barrera de entrada para los usuarios, permitiéndoles acceder y utilizar la plataforma de manera eficiente y sin preocupaciones de seguridad, lo que a su vez mejora su experiencia general.
+<br>
+
+<br> **Hipótesis 2:** <br>
+* **Declaración de hipótesis:** Creemos que al implementar notificaciones automatizadas, mejoraremos la eficiencia en la gestión de contratos al mantener a los usuarios informados sobre eventos importantes de manera oportuna, lo que resultará en una toma de decisiones más rápida y precisa,.<br>
+* **Razón:** Esta hipótesis se basa en la idea de que al mantener a los usuarios actualizados con notificaciones automáticas, se reducirán los retrasos en la toma de decisiones, lo que conducirá a una gestión más eficiente de los contratos
+<br>
+
+<br> **Hipótesis 3:** <br>
+* **Declaración de hipótesis:** Creemos que optimizaremos la gestión de contratos entre clientes y músicos si los clientes obtienen recordatorios precisos y oportunos sobre plazos y vencimientos relacionados con los contratos de contratación de músicos,<br>
+Razón:Esta hipótesis parte de la premisa de que los recordatorios de vencimiento ayudarán a los usuarios a mantenerse al tanto de las fechas límite, lo que les permitirá cumplir con los plazos de manera más consistente 
+<br>
+
+<br> **Hipótesis 4:** <br>
+* **Declaración de hipótesis:** Creemos que mejoraremos la comunicación y la toma de decisiones entre clientes y músicos si éstos obtienen la capacidad de interactuar en tiempo real, lo que les permitirá trabajar de manera más eficiente y concertar acuerdos de manera más rápida y precisa.<br>
+* **Razón:**  La colaboración en tiempo real facilitará la comunicación entre clientes y músicos, lo que permitirá resolver rápidamente cualquier duda o problema que surja durante el proceso de contratación.<br>
+
+<br> **Hipótesis 5:** <br>
+* **Declaración de hipótesis:** Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
+* **Razón:** El soporte multilingüe garantizará que los clientes de diferentes regiones y culturas puedan acceder a la plataforma en su idioma preferido, lo que eliminará barreras lingüísticas y promoverá la inclusión.<br>
+
+<br> **Hipótesis 6:** <br>
+* **Declaración de hipótesis:** Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
+* **Razón:** Un asistente virtual y soporte integrado proporcionará a los clientes ayuda instantánea durante su experiencia en la plataforma, lo que resolverá rápidamente cualquier problema o pregunta que puedan tener<br>
 
 #### 1.2.2.4. Lean UX Canvas.
-| Problemas de negocios<br>Falta de personalización en las rutinas y dietas que dificulta el progreso de los usuarios. | Ideas de las soluciones<br>Rutinas y dietas más específicos<br>Integrar tips para las dietas | Resultado de comerciales<br>Sabremos que lo estamos haciendo bien cuando los comentarios de los usuarios sean positivos por la calidad y la eficacia de las rutinas y dietas. |
-|---|---|---|
-| Usuarios y clientes<br>Usuarios: Personas que busquen mejorar su salud y estado físico.<br>Clientes: Personas dispuestas a pagar por un servicio personalizado de fitness y nutrición en línea. |  | Beneficios del usuario<br>Los usuarios podrán disfrutar de un espacio en línea donde encuentren la mejor atención personalizada para su cuidado físico. |
-| Hipótesis<br>Creemos que lograremos que nuestros clientes alcancen sus objetivos. | ¿Qué es lo más importante que necesitamos aprender primero?<br>Nuestro mayor riesgo sería que la plantilla no sea adecuada para las metas de los usuarios | ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?<br>Podríamos incluir un chatbot para dudas de los usuarios sobre el uso de la plataforma. |
+![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
 
-## 1.3. Segmentos objetivo
-Para esta aplicación web nos enfocaremos un público mayor de edad que
-esten interesados en mejorar su salud, rendimiento físico y bienestar en
-general. Personas que busquen soluciones convenientes y efectivas y, de
-esta manera, ayudarles a alcanzar sus metas de alimentación y físico.
-Podrán elejir entre diferentes planes, pero todas tendrán en común el
-deseo de adoptar una rutina diaria de un estilo de vida más saludable.
+### 1.3. Segmentos objetivo.
 
-# Capítulo II: Requirements Elicitation & Analysis
+**Bandas Musicales de Distintos Géneros y Músicos Independientes:** 
 
-## 2.1. Competidores
+Incluye grupos de músicos, tanto bandas como artistas individuales, que buscan oportunidades para promover su música, obtener oportunidades para presentarse en conciertos y eventos, obtener reconocimiento y gestionar eficientemente contratos y acuerdos en la industria musical.
+
+**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:** 
+
+Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. 
+
+## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
+
+### 2.1. Competidores.
+
 ### 2.1.1. Análisis competitivo
-| Competitive Analysis Landscape |  |  |  |  |  |
-|---|---|---|---|---|---|
-| ¿Por qué llevar a cabo este análisis? | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. |  |  |  |  |
-|  | El propósito de este análisis es identificar a nuestros competidores directos e indirectos en el mercado de fitness y nutrición, así como comprender sus fortalezas, debilidades, oportunidades y amenazas. Esto nos permitirá desarrollar estrategias efectivas para diferenciarnos y destacarnos en el mercado. | ![fithub](https://github.com/HealthyL/Informe/assets/134560396/f15d808a-60e7-49fe-80ed-f11decb90b0a) | ![fiton](https://github.com/HealthyL/Informe/assets/134560396/ce82d16a-b103-4dc7-acb2-38e2ad13bdf3) | ![gymshark](https://github.com/HealthyL/Informe/assets/134560396/363af072-b3d2-4826-8add-05bab3c9ec0f) | ![fitnesspal](https://github.com/HealthyL/Informe/assets/134560396/52b3a1e1-7609-4727-a7d5-92c46412833a) |
-|  |  | FitHub<br># | FitOn<br># | Gymshark Training<br># | MyFitnessPal<br># |
-| <br>Perfil | Overview | FitHub es una plataforma en línea que ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. La plataforma se centra en proporcionar planes de entrenamiento y dietas diseñadas específicamente para cada usuario, teniendo en cuenta su edad, peso, altura y otros datos relevantes. | FitOn es una aplicación de fitness que ofrece una variedad de entrenamientos guiados por expertos en casa. Ofrece una amplia gama de opciones de entrenamiento, desde yoga hasta entrenamientos de alta intensidad. | Gymshark Training es una aplicación que ofrece entrenamientos de fitness diseñados por entrenadores profesionales. Se enfoca en proporcionar programas de entrenamiento efectivos para ayudar a los usuarios a alcanzar sus metas de fitness. | MyFitnessPal es una aplicación que ayuda a los usuarios a realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Ofrece una amplia base de datos de alimentos y una comunidad activa de usuarios que comparten consejos y experiencias relacionadas con la dieta y el ejercicio. |
-|  | Ventaja competitiva | Se destaca por ofrecer planes de entrenamiento y dietas personalizados basados en datos y en investigaciones internas del equipo, lo que garantiza recomendaciones precisas y efectivas adaptadas a las necesidades individuales y objetivos de fitness. | Se diferencia por ofrecer una amplia variedad de entrenamientos guiados por expertos en casa, lo que proporciona flexibilidad y conveniencia a los usuarios que desean mantenerse en forma desde la comodidad de su hogar. | Se destaca por ofrecer entrenamientos diseñados por entrenadores profesionales, lo que garantiza la calidad y efectividad de los programas de entrenamiento ofrecidos a los usuarios. | destaca por su amplia base de datos de alimentos y su comunidad activa de usuarios, lo que proporciona una herramienta integral para el seguimiento de la salud y el fitness. |
-| <br>Perfil de Marketing | Mercado objetivo | Está dirigido a personas de todas las edades y niveles de condición física que deseen mejorar su salud y forma física de manera personalizada y basada en datos. | Se centra en personas que desean mantenerse en forma desde la comodidad de su hogar. Atrae a aquellos que buscan flexibilidad y conveniencia en sus rutinas de ejercicio. |  Se dirige a personas que desean seguir programas de entrenamiento efectivos diseñados por entrenadores profesionales. Atrae a aquellos que buscan resultados específicos y calidad en sus rutinas de ejercicio. | Se dirige a personas que desean realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Atrae a aquellos que buscan una herramienta integral para el seguimiento de la salud y el fitness. |
-|  | Estrategias de marketing | Utilización de marketing digital dirigido en redes sociales, blogs de fitness y sitios web relacionados con la salud.<br>- Asociaciones con profesionales de la salud y fitness, así como con influencers en el campo, para ampliar el alcance y credibilidad. | - Promoción de una amplia variedad de entrenamientos guiados por expertos para atraer a usuarios interesados en la diversidad de opciones de ejercicio en casa.<br>- Marketing a través de redes sociales y colaboraciones con influencers en el fitness para llegar a su audiencia objetivo. | - Enfoque en la calidad de los programas de entrenamiento y la credibilidad de los entrenadores profesionales para atraer a usuarios comprometidos con su fitness.<br>- Uso de testimonios y estudios de caso para demostrar la efectividad de los programas de entrenamiento. | - Enfoque en la base de datos extensa de alimentos y la comunidad activa de usuarios para promover el boca a boca y la participación.<br>- Campañas de marketing digital enfocadas en destacar la utilidad y conveniencia de la aplicación. |
-| Perfil de Producto  | Productos &amp; Servicios | <br>Ofrece servicios personalizados de fitness y nutrición basados en datos de rendimiento y características individuales de los usuarios. Sus principales productos incluyen:<br>- Planes de entrenamiento personalizados por un entrenador.<br>- Dietas personalizadas por un nutricionista.<br>- Planes combinados que incluyen tanto rutinas de ejercicio como dietas personalizadas. | Ofrece una aplicación que proporciona una variedad de entrenamientos guiados por expertos en fitness para realizar en casa. Sus principales productos incluyen:<br>- Amplia variedad de entrenamientos para todos los niveles de condición física.<br>- Programas específicos diseñados para objetivos de fitness individuales, como pérdida de peso, tonificación muscular o aumento de la fuerza.<br>- Incorporación de yoga, pilates y otros tipos de ejercicios para ofrecer diversidad en las rutinas de entrenamiento. | Ofrece programas de entrenamiento diseñados por entrenadores profesionales, así como contenido relacionado con el fitness y la nutrición. Sus principales productos incluyen:<br>- Planes de entrenamiento detallados para una variedad de objetivos fitness, desde ganar masa muscular hasta mejorar la resistencia cardiovascular.<br>- Guías nutricionales y consejos de expertos en fitness para complementar los programas de entrenamiento.<br>- Integración con productos de Gymshark, como equipos de ejercicio y ropa deportiva, para una experiencia de entrenamiento completa. | Ofrece una aplicación que permite a los usuarios realizar un seguimiento de su ingesta de alimentos, ejercicio y progreso de pérdida de peso. Sus principales productos incluyen:<br>- Base de datos extensa de alimentos para realizar un seguimiento preciso de la ingesta calórica.<br>- Registro de actividad física y ejercicios para monitorear el gasto calórico.<br>- Funciones de análisis y seguimiento del progreso para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness. |
-|  | Precios y Costos | <br>ofrece un plan freemium de prueba limitada de 3 meses de duración. Luego, los usuarios pueden optar por planes de suscripción básicos, premium y familiares:<br>- Plan Básico: $9.99/mes.<br>- Plan Premium: $19.99/mes.<br>- Plan Familiar: $29.99/mes (permite compartir la suscripción entre varios miembros de la familia). | aplicación gratuita para descargar y usar, lo que lo hace accesible para una amplia audiencia. Ofrece contenido gratuito con la opción de acceso premium a funciones adicionales a través de una suscripción mensual o anual:<br>- FitOPlus: $19.99/mes o $89.99/año. | ofrece contenido gratuito a través de su plataforma en línea, así como acceso premium a programas de entrenamiento específicos a través de una suscripción mensual o anual:<br>- Gymshark Training Premium: $14.99/mes o $99.99/año. | ofrece una versión gratuita de la aplicación con funciones básicas, así como una suscripción premium que brinda acceso a características adicionales:<br>- MyFitnessPal Premium: $9.99/mes o $49.99/año. |
-|  | Canales de distribución (Web y/o Móvil) | Se distribuye principalmente a través de su plataforma en línea, accesible tanto desde dispositivos móviles como desde navegadores web. Esto proporciona flexibilidad y conveniencia a los usuarios para acceder a los servicios desde cualquier lugar. | Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a los entrenamientos desde cualquier lugar utilizando sus dispositivos móviles o navegadores web. | Se distribuye principalmente a través de su plataforma en línea y su aplicación móvil, disponible para dispositivos iOS y Android. Esto proporciona a los usuarios acceso conveniente a los programas de entrenamiento y contenido relacionado desde cualquier lugar. | Está disponible como una aplicación móvil para dispositivos iOS y Android, así como a través de su plataforma web. Esto permite a los usuarios acceder a la aplicación desde una variedad de dispositivos, lo que aumenta su accesibilidad. |
-| <br>Análisis SWOT | Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. |  |  |  |  |
-|  | Fortalezas | - Ofrece servicios personalizados de fitness y nutrición.<br>- Precios competitivos y plataforma accesible.<br>- Enfoque en datos de rendimiento y características individuales. | - Variedad de entrenamientos y aplicación gratuita.<br>- Inclusión de yoga, pilates y otros ejercicios.<br>- Accesibilidad para una amplia audiencia. | - Marca reconocida en el sector de fitness y entrenamiento.<br>- Contenido de alta calidad y guías de entrenamiento.<br>- Comunidad comprometida y activa en redes sociales. | - Base de datos extensa y marca establecida.<br>- Amplia gama de funciones de seguimiento y análisis.<br>- Versión gratuita con opción de actualización. |
-|  | Debilidades | - Falta de reconocimiento de marca en comparación con competidores establecidos.<br>- Posibles limitaciones financieras para escalar a gran escala. | - Dependencia del compromiso del usuario.<br>- Competencia en el mercado de aplicaciones de fitness en casa. | - Dependencia de la disponibilidad de equipo y espacio para entrenamiento.<br>- Competencia en el mercado de aplicaciones de fitness. | - Limitaciones en la personalización y precisión de datos.<br>- Dependencia de la entrada precisa del usuario. |
-|  | Oportunidades | - Aumento de la demanda de servicios personalizados de salud y fitness.<br>- Potencial para colaboraciones y tecnologías emergentes. | - Expansión internacional y colaboración con influencers.<br>- Integración de nuevas tecnologías. | - Expansión internacional y asociaciones con atletas y celebridades.<br>- Desarrollo de contenido exclusivo y programas de entrenamiento. | - Expansión internacional y colaboraciones.<br>- Integración de nuevas tecnologías. |
-|  | Amenazas | - Competencia creciente en el mercado de fitness en línea.<br>- Cambios en las tendencias de salud y fitness.<br>- Desafíos regulatorios y de privacidad de datos. | - Cambios en las tendencias de fitness.<br>- Competencia agresiva en el mercado de aplicaciones de fitness.<br>- Desafíos financieros para mantener la calidad del contenido. | - Competencia creciente en el mercado de aplicaciones de fitness y entrenamiento.<br>- Cambios en las preferencias de los usuarios y tendencias de la industria.<br>- Desafíos financieros para mantener la calidad del contenido y la plataforma. | - Competencia en el mercado de aplicaciones de salud y fitness.<br>- Cambios en las preferencias del consumidor.<br>- Riesgos de privacidad de datos. |
+
+<center>
+<table>
+    <tr>
+      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    </tr>
+    <tr>
+      <td colspan="5">El propósito de este análisis es evaluar a los competidores directos de MusicTime en el mercado de la gestión de contratos musicales y la promoción de artistas y bandas.</td>
+    </tr>
+    <tr>
+      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+          ReverbNation
+          <br>
+          <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1228974142074785834/images.png?ex=662dfe5c&is=661b895c&hm=5f5a216a1e4c9f526a88e2ed38a46e12b5b704547a83aa0b996eee076b25a1ac&=&format=webp&quality=lossless" alt="ReverbNation" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Bandcamp
+      <div style="text-align: center;">
+                  <img src="https://media.discordapp.net/attachments/1227176636328185917/1228974218620960768/bandcamp-logo-1024x585-1.png?ex=662dfe6e&is=661b896e&hm=38bc40d927662d39d040682d53ca6c140c0f3b3453a456d46ce61a1cd3b86d82&=&format=webp&quality=lossless&width=820&height=468" alt="Bandcamp" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        SoundCloud
+        <div style="text-align: center; margin-top: 20px;">
+                  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1228974281300639824/640px-Antu_soundcloud.png?ex=662dfe7d&is=661b897d&hm=80f1750ca3363cfa857f51e61bbeea85c3eb7a4eceea974549cfa608152bf12f&" alt="SoundCloud" width="100px">
+              </div>
+        </td>
+      <td colspan="1" valign="top" style="font-weight: bold;" >
+        MusicTime 
+        <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1228974572943183953/logo.png?ex=662dfec3&is=661b89c3&hm=7d2d2604d87a0b3466685795918ece2a4a8c28fdfd7353344ab3384478e2cdcd&" alt="MusicTime" width="100px">
+              </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil</p></td>
+      <td colspan="2">Overview</td>
+      <td colspan="1" valign="top">Plataforma para músicos independientes y bandas</td>
+      <td colspan="1" valign="top">Plataforma para artistas independientes</td>
+      <td colspan="1" valign="top">Plataforma de distribución de música en línea</td>
+      <td colspan="1" valign="top">Plataforma integral de gestión de contratos de música</td>
+    </tr>
+    <tr>
+      <td colspan="2">Ventaja competitiva</td>
+      <td colspan="1" valign="top">Amplia comunidad de músicos y herramientas de promoción</td>
+      <td colspan="1" valign="top">Enfoque en apoyar a artistas independientes con opciones de personalización y control creativo</td>
+      <td colspan="1" valign="top">Gran alcance y reconocimiento en la industria de la música</td>
+      <td colspan="1" valign="top">Integración de características avanzadas y seguridad de datos en la gestión de contratos</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+      <td colspan="2">Mercado objetivo</td>
+      <td colspan="1" valign="top">Músicos independientes y bandas de diversos géneros</td>
+      <td colspan="1" valign="top">Artistas independientes y sellos discográficos</td>
+      <td colspan="1" valign="top">Músicos y artistas independientes de todo el mundo</td>
+      <td colspan="1" valign="top">Músicos independientes, representantes de bandas, discográficas y empresarios de eventos musicales</td>
+    </tr>
+    <tr>  
+      <td colspan="2">Estrategia de marketing</td>
+      <td colspan="1" valign="top">Publicidad dirigida a músicos emergentes y promoción de eventos musicales</td>
+      <td colspan="1" valign="top">Enfoque en la comunidad de artistas y promoción de la creatividad individual</td>
+      <td colspan="1" valign="top">Colaboraciones con marcas y promoción de contenido musical destacado</td>
+      <td colspan="1" valign="top">Campañas de marketing centradas en la eficiencia en la gestión de contratos y la seguridad de datos</td>
+    </tr>
+     <tr>
+        <td colspan="1"rowspan="4"><p>Perfil de Producto</p></th>
+    </tr>
+    <tr>
+        <td colspan="2">Productos & Servicios</td>
+        <td colspan="1" valign="top">Ofrece herramientas de promoción, distribución de música y oportunidades de conciertos</td>
+        <td colspan="1" valign="top">Plataforma de distribución de música digital y ventas de mercancía</td>
+        <td colspan="1" valign="top">Plataforma de streaming de música y herramienta de promoción para artistas</td>
+        <td colspan="1" valign="top">Ofrece características avanzadas como notificaciones automatizadas, seguimiento de pagos y almacenamiento centralizado de contratos</td>
+    </tr>
+    <tr>
+        <td colspan="2">Precios & Costos</td>
+        <td colspan="1" valign="top">Ofrece planes de suscripción con diferentes niveles de funcionalidad</td>
+        <td colspan="1" valign="top">Toma un porcentaje de las ventas de música y mercancía</td>
+        <td colspan="1" valign="top">Ofrece modelos de suscripción y publicidad para los usuarios</td>
+        <td colspan="1" valign="top">Planea una estructura de precios competitiva y transparente</td>
+    </tr>
+    <tr>
+        <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+        <td colspan="1" valign="top">Plataforma web y aplicación móvil</td>
+        <td colspan="1" valign="top">Plataforma web y aplicación móvil</td>
+        <td colspan="1" valign="top">Plataforma web y aplicación móvil</td>
+        <td colspan="1" valign="top">Plataforma web y aplicación móvil</td>
+    </tr>
+<tr>
+      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Fortalezas</td>
+      <td colspan="1" valign="top">Amplia comunidad de músicos y herramientas de promoción </td>
+      <td colspan="1" valign="top">Enfoque en apoyar a artistas independientes con opciones de personalización y control creativo</td>
+      <td colspan="1" valign="top">Gran alcance y reconocimiento en la industria de la música</td>
+      <td colspan="1" valign="top">Integración de características avanzadas y seguridad de datos en la gestión de contratos</td>
+    </tr>
+    <tr>
+      <td colspan="2">Debilidades</td>
+      <td colspan="1" valign="top">Menos opciones de personalización y control creativo en comparación con Bandcamp </td>
+      <td colspan="1" valign="top">Dependencia de ingresos de la publicidad y suscripciones </td>
+      <td colspan="1" valign="top">Vulnerabilidad a cambios en la industria de la música y competencia de grandes plataformas de streaming</td>
+      <td colspan="1" valign="top">Poca reconocimiento y alcance en comparación con competidores establecidos</td>
+    </tr>
+    <tr>
+      <td colspan="2">Oportunidades</td>
+      <td colspan="1" valign="top">Expansión internacional y diversificación de servicios adicionales</td>
+      <td colspan="1" valign="top">Aumento del interés en artistas independientes y contenido musical personalizado</td>
+      <td colspan="1" valign="top">Colaboraciones con marcas y oportunidades de patrocinio</td>
+      <td colspan="1" valign="top">Crecimiento del mercado de gestión de contratos de música y necesidad de soluciones eficientes</td>
+    </tr>
+    <tr>
+      <td colspan="2">Amenazas</td>
+      <td colspan="1" valign="top">Cambios en las preferencias de los usuarios y la industria musical </td>
+      <td colspan="1" valign="top">Disminución de la demanda de ventas de música digital y mercancía física </td>
+      <td colspan="1" valign="top">Regulaciones cambiantes sobre derechos de autor y streaming de música</td>
+      <td colspan="1" valign="top">Competencia de grandes plataformas de gestión de contratos y distribución de música</td>
+    </tr>
+  </table>
+
+
+  
+  
+
+</center> 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-En el dinámico mercado de fitness y nutrición, la competencia es feroz y la diferenciación es clave para destacarse entre la multitud. En esta sección, exploramos una serie de estrategias y tácticas diseñadas para posicionar nuestra empresa de manera efectiva frente a competidores directos e indirectos.
-* En FitHub, nos destacamos por nuestra capacidad para ofrecer planes de entrenamiento y dietas altamente personalizados basados en datos de rendimiento y características individuales de nuestros usuarios.
-Nuestra plataforma brinda flexibilidad y conveniencia a nuestros usuarios, permitiéndoles realizar sus rutinas de ejercicio desde la comodidad de su hogar y adaptarlas a sus horarios y preferencias individuales.
-* Estamos constantemente explorando nuevas formas de mejorar la experiencia del usuario y la precisión de nuestras recomendaciones a través de la integración de tecnologías emergentes y la retroalimentación de nuestros usuarios.
-* Estamos enfocados en expandir nuestro alcance a nuevos mercados internacionales y establecer colaboraciones estratégicas con influencers, atletas y celebridades en el campo del fitness y la nutrición.
-Ofrecemos una variedad de opciones de suscripción que se adaptan a las necesidades y presupuestos de nuestros usuarios. Desde planes básicos hasta opciones premium.
-
-
-
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
-
-En esta fase, hemos identificado preguntas clave para cada grupo de usuarios, buscando entender sus necesidades y perspectivas. Esto nos permitirá desarrollar una aplicación que resuelva eficazmente los desafíos que enfrentan nuestros clientes.
-
-1.  ¿Qué acciones realizas regularmente para mantenerte en forma y
-    saludable?
-
-2.  ¿Cuál es tu objetivo principal al usar un servicio de fitness y
-    nutrición en línea?
-
-3.  ¿Cuáles son tus mayores desafíos para mantenerte en forma y llevar
-    una dieta saludable?
-
-4.  ¿Qué te motiva a seguir un programa de ejercicios y nutrición?
-
-5.  ¿Qué tipo de información y apoyo esperas recibir de un servicio en
-    línea?
-
-6.  ¿Cuál es tu proceso actual para establecer y mantener una rutina de
-    ejercicio y dieta?
-
-7.  ¿Qué pasos sigues cuando buscas información sobre fitness y
-    nutrición en línea?
-
-8.  ¿Qué obstáculos enfrentas y qué te frustra más?
-
-9.  ¿Qué recursos utilizas actualmente para mejorar tu salud y
-    bienestar?
-
-10. ¿Qué aspectos de tu rutina de ejercicio y dieta te gustaría cambiar
-    o mejorar?
-
-### 2.2.2. Registro de entrevistas.
-**Segmento entusiastas del Fitness**
-
-* **Entrevista 1** 
-  - Nombres: Jair 
-  - Apellidos: Castillo
-  - Edad: 20 años
-  - Distrito: Callao
-  - Link de la entrevista: [https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
-  - Timing y Duración: 03:29
-  - Evidencia de la reunión:<br>
-![imagen](https://github.com/HealthyL/Informe/assets/107071662/e007f013-29e2-4e51-ab40-128bd21a6489)
-  - Resumen de la entrevista:
-El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
-
-* **Entrevista 2** 
-  - Nombres: Elias
-  - Apellidos: Yauri
-  - Edad: 20 años
-  - Distrito: San Miguel
-  - Link de la entrevista: [https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view](https://drive.google.com/file/d/1TESjsVLUgQN-isLQoe-tkEiDbRxPplQx/view)
-  - Timing y Duración: 06:43
-  - Evidencia de la reunión:<br>
-![imagen](https://github.com/HealthyL/Informe/assets/107071662/8b1d0e82-6ff4-4552-bece-578e46eedc3c)
-  - Resumen de la entrevista:
-El entrevistado, Jair Castillo, destacó su compromiso activo con un estilo de vida saludable, enfocado en mantener un cuerpo en forma y una alimentación equilibrada. Sin embargo, admitió enfrentarse a una considerable confusión al buscar orientación en línea para obtener planes de entrenamiento y consejos sobre nutrición. Actualmente, se ve obligado a recurrir a videos de YouTube y a seguir a entrenadores en redes sociales en busca de información relevante. A pesar de sus esfuerzos, Jair expresó su frustración por la falta de resultados rápidos y efectivos en su búsqueda por mejorar su salud y forma física.
-
-
-* **Entrevista 3** 
-  - Nombres: Salvador
-  - Apellidos: Diaz
-  - Edad: 20 años
-  - Distrito: Surco
-  - Link de la entrevista:[https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing](https://drive.google.com/file/d/177_n_26XWHlHz2t6qElLyxO4C8aBuPEU/view?usp=sharing)
-  - Timing y Duración: 04:02
-  - Evidencia de la reunión:<br>
-![imagen](https://github.com/HealthyL/Informe/assets/107071662/a1e7cb63-20b8-4479-9e87-116d399ccc16)
-  - Resumen de la entrevista:
-Salvador Diaz está comprometido con mantenerse en forma y llevar una alimentación equilibrada, pero se enfrenta a la confusión al buscar orientación en línea sobre nutrición. Aunque recurre a videos de YouTube y redes sociales para obtener información, está frustrado por la falta de resultados rápidos y efectivos. Se le sugiere buscar fuentes de información más confiables, como sitios web de instituciones médicas, y considerar la consulta directa con un profesional de la salud para obtener orientación personalizada. Se le anima a ser paciente y a adoptar un enfoque integral para lograr sus objetivos.
-
-* **Entrevista 4** 
-  - Nombres: Agustin  
-  - Apellidos: Aguilar
-  - Edad: 21 años
-  - Distrito: San Miguel
-  - Link de la entrevista: [https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view](https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view)
-  - Timing y Duración: 05:04
-  - Evidencia de la reunión:<br>
-![imagen](https://github.com/HealthyL/Informe/assets/107071662/31fa9383-ff39-4b40-bd02-9f3311c56006)
-  - Resumen de la entrevista:
-Agustín Aguilar, residente de San miguel, tiene 21 años y está interesado en mantenerse en forma y llevar una dieta saludable. Actualmente, realiza ejercicio ocasionalmente, principalmente planchas y pesas, y no sigue una dieta estricta, aunque se alimenta de manera saludable. Su principal objetivo al usar un servicio de fitness en línea es mejorar su estado físico y mantenerse en forma. Agustín enfrenta desafíos para seguir una dieta constante y encontrar la motivación para mantener una rutina de ejercicio. Le motiva sentirse bien consigo mismo y manejar el estrés y la ansiedad. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas, consejos para mantener la disciplina y un lugar para registrar su progreso. Actualmente, establece su propia rutina de ejercicio y dieta, buscando información en Internet y comparando diferentes fuentes. Agustín desea recibir un plan de rutina establecida y una dieta definida en lugar de improvisar cada día.
-
-* **Entrevista 5** 
-  - Nombres: Ray 
-  - Apellidos: Del Carmen
-  - Edad: 21 años
-  - Distrito: Puente Piedra
-  - Link de la entrevista: [https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view](https://drive.google.com/file/d/1fRUfC72HD6yWInaV6Lsof_Tuzsqbdo-R/view)
-  - Timing y Duración: 09:17
-  - Evidencia de la reunión:<br>
-[imagen](https://github.com/HealthyL/Informe/assets/107071662/f5e8deef-9ec1-4a60-9e7c-bcfa6cc3e36d)
-  - Resumen de la entrevista:
-Ray del Carmen, residente de Puente Piedra, tiene 21 años y comparte su experiencia acerca de que hace para mantenerse en forma y llevar una dieta saludable. Actualmente, practica fútbol y ejercicios de resistencia, para mejorar su rendimiento. Su principal objetivo al buscar un servicio en línea o un app fitness es acompañar su rutina diaria con una dieta balanceada. Ray encuentra diversos obstáculos al momento de buscar ejercicios y dietas adecuadas al deporte que él practica y en muchas ocasiones los ejercicios recomendados por los anuncios no son los acertados. Su motivación para ejercitarse es tener una buena salud y ser el mejor en el deporte que lo apasiona. Espera recibir información sobre rutinas de ejercicio y dietas personalizadas en base a objetivos que permitan cumplir sus metas establecidas. Actualmente, elabora su propia rutina de ejercicio y dieta, buscando información en Internet o aplicaciones enfocadas en deportes. Ray busca adquirir un plan adecuado en base a la experiencia de otros usuarios, rutinas y dietas que sean efectivas y comprobadas.
-
-
-### 2.2.3. Análisis de entrevistas
-
-Realizamos un análisis detallado de las entrevistas llevadas a cabo con el segmento de entusiastas del fitness, con el objetivo de identificar sus necesidades y preferencias. A continuación, presentamos los hallazgos obtenidos:
-
-* **Segmento objetivo: Entusiastas del Fitness**
-
-  <ul>
-    <li>La edad promedio de los entrevistados es de 20.4 años, todos ellos jóvenes adultos.</li>
-    <li>Existe una búsqueda activa de información en línea sobre entrenamiento y nutrición, utilizando principalmente videos de YouTube y redes sociales.</li>
-    <li>Se reporta una sensación general de confusión y frustración al intentar obtener resultados rápidos y efectivos a través de las fuentes actuales de información.</li>
-    <li>Los entrevistados expresan la necesidad de una guía más estructurada y confiable para diseñar sus rutinas de ejercicio y planificar sus dietas.</li>
-    <li>La mayoría de los entrevistados valoran la idea de recibir planes de entrenamiento y dietas personalizados, así como el acceso a profesionales de la salud para orientación adicional.</li>
-    <li>Se destaca la importancia de mantener la motivación y la disciplina para mantener un estilo de vida saludable a largo plazo.</li>
-  </ul>
-
-  Estos resultados nos proporcionan información valiosa sobre las necesidades y expectativas de nuestro segmento objetivo, lo cual será fundamental para desarrollar los componentes adecuados en FitHub y proporcionar una experiencia integral y satisfactoria para nuestros usuarios.
-
-
-## 2.3. Needfinding.
-### 2.3.1. User Personas.
-![user-persona](https://github.com/HealthyL/Informe/assets/137470462/9f84bdf5-e67a-4bd1-85af-a08ab5dcc566)
-
-
-### 2.3.2. User Task Matrix.
-| User task Matrix | Marco Torres |  |
-|---|---|---|
-|  | Frecuencia | Importancia |
-| Implementar una rutina personalizada en su vida diaria | Low | High |
-| Tener más energía y reducir el estrés | Medium | High |
-| Mejorar su confianza en sí mismo | Low | High |
-| Encontrar una solución personalizada que se ajuste a su agenda | Low | High |
-| Mantener una rutina constante debido a sus compromisos laborales | Low | High |
-| Evitar caer en hábitos poco saludables | Medium | High |
-
-
-### 2.3.3. User Journey Mapping.
-Esta técnica nos permite comprender y visualizar el proceso que atraviesa un usuario desde el primer contacto con nuestro producto o servicio hasta la realización de una acción deseada. Además, veremos cómo esta técnica nos permite diseñar soluciones centradas en las necesidades y expectativas de nuestros usuarios, mejorando así la experiencia global y aumentando la satisfacción y fidelidad del cliente.
-![journey-mapping](https://github.com/HealthyL/Informe/assets/137470462/6548b304-87bf-40e8-93e3-af9d6bd104f9)
-
-
-### 2.3.4. Empathy Mapping.
-Al utilizar el Empathy Mapping, podemos adentrarnos en la mente y el corazón de nuestros usuarios, comprendiendo sus pensamientos, sentimientos, necesidades y deseos.
-![empathey-mapping](https://github.com/HealthyL/Informe/assets/137470462/602498ea-b280-442b-a558-50dd555a54f6)
-
-
-### 2.3.5. As-is Scenario Mapping.
-Antes de sumergirse en nuestra plataforma, los entusiastas del fitness dependen de una combinación de métodos tradicionales y recursos en línea para guiar su entrenamiento y nutrición. Se apoyan en rutinas preestablecidas que pueden encontrar en libros o en línea, utilizan aplicaciones gratuitas para rastrear sus actividades físicas y contar calorías, e incluso buscan inspiración en comunidades en línea y redes sociales. Sin embargo, el análisis de la situación actual revelará los desafíos y limitaciones de estos métodos que los usuarios han enfrentado hasta ahora.
-![as-is-scenario-mapping](https://github.com/HealthyL/Informe/assets/137470462/d24eca83-82a0-48de-a21c-54f277a97a06)
-
-## 2.4. Ubiquitous Language.
-* Visitante: Cualquier persona que visite la landing page.
-* FitExplorer: Visitante que se registra y accede a nuestra plataforma con el objetivo de mejorar su salud y estado físico.
-* Entusiasta del fitness: Un tipo de usuario que muestra un alto nivel de interés y compromiso con su salud y estado físico.
-* Plan de entrenamiento: Un programa personalizado de ejercicios diseñado para ayudar al usuario a alcanzar sus objetivos de fitness.
-* Rutina de ejercicios: Una serie estructurada de actividades físicas que un usuario realiza regularmente como parte de su plan de entrenamiento.
-* Plan de nutrición: Un programa personalizado de dieta diseñado para satisfacer las necesidades nutricionales del usuario y apoyar sus objetivos de fitness.
-* Dieta balanceada: Un plan de alimentación que incluye una variedad de nutrientes en las cantidades adecuadas para mantener la salud y el bienestar.
-* Seguimiento de progreso: El proceso de monitorear y registrar los logros y avances del usuario en su viaje de fitness.
-* Notificaciones: Mensajes automáticos enviados a los usuarios para recordarles eventos importantes, como sesiones de entrenamiento programadas o cambios en sus planes de nutrición.
-* Recompensas: Incentivos virtuales o tangibles otorgados a los usuarios como reconocimiento por alcanzar hitos o logros específicos en su programa de fitness.
-
-
-# Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping.
-![to-be](https://github.com/HealthyL/Informe/assets/137470462/91a29185-3649-46f3-8456-d800815a61eb)
 
-## 3.2. User Stories.
-
-**Epicas**
-| Epic ID | Detalle | 
-|---|---|
-| EP001 | Interacción con la Landing Page |  
-| EP002 | Gestión de Cuenta de Usuario |
-| EP003 | Acceso a Información de Nutrición y Productos |
-| EP004 | Acceso a Información de Rutinas Personalizadas | 
-
-| Story ID | Título | Descripción | Criterio de aceptación | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| US001 | Interacción con hipervínculos del Landing Page | Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub. | Escenario 1: Interacción con hipervínculos<br>Dado que el visitante se encuentra en la landing page<br>Cuando da click a una de la secciones<br>Entonces será dirigido a la sección seleccionada. | EP001 |
-| US002 | Navegar por la sección de Contáctanos | Como visitante de la landing page, quiero poder interactuar con la sección de Contáctenos para poder hacer consultas, enviar comentarios o solicitar información adicional. | Escenario 1: Acceso a la sección de Contáctenos desde el header<br>Dado que el visitante está en la landing page<br>Cuando hace clic en el hipervínculo "Contáctenos" en el header<br>Entonces es dirigido a la sección de Contáctenos de la página<br>Escenario 2: Visualización del formulario de contacto<br>Dado que el visitante está en la landing page<br>Cuando llega a la sección de Contáctenos<br>Entonces ve un formulario de contacto con los siguientes campos: Nombre, Correo electrónico, Mensaje<br>Escenario 3: Interacción con el formulario de contacto<br>Dado que el visitante está en la sección de Contáctenos<br>Cuando llena todos los campos requeridos del formulario de contacto<br>Y hace clic en el botón de enviar<br>Entonces el formulario se envía correctamente a soporte técnico. | EP001 |
-| US003 | Navegar por la sección de ¿Cómo Funciona? | Como visitante de la landing page, quiero tener conocimiento de cómo afiliarme, para entender los pasos que debo seguir y completar el proceso de afiliación en la app  de manera fácil y rápida. | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante está en la landing page<br>Cuando haga clic en el hipervínculo de "¿Cómo funciona?"<br>Entonces es dirigido a la sección "¿Cómo funciona?"<br>Escenario 2: Visualización de pasos<br>Dado que el visitante está en la sección "¿Cómo funciona?"<br>Entonces ve los pasos detallados que debe seguir para afiliarse, presentados de manera clara y organizada<br>Escenario 3: Accesibilidad de la información<br>Dado que el visitante está en la sección "¿Cómo funciona?"<br>Cuando visualiza los pasos para afiliarse<br>Entonces puede entender fácilmente el proceso, sin necesidad de información adicional | EP001 |
-| US004 | Ingreso a la interfaz de Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | Escenario 1: Redirigir al visitante al apartado de inicio de sesión<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en FitHub<br>Cuando haga clic al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br>Escenario 2: Ingresar datos correctos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos como email y su contraseña<br>Y le dé clic a Ingresar<br>Entonces podrá ingresar a las diferentes secciones que posee según su usuario.<br>Escenario 3: Ingresar datos incorrectos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos incorrectos de email o su contraseña<br>Y le dé clic a Ingresar<br>Entonces recibirá un mensaje de error indicando que los datos son incorrectos. | EP001 |
-| US005 | Ingreso a la interfaz de Crear Cuenta | Como visitante de la landing page, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de FitHub. | Escenario 1: Redirigir al paciente al apartado de creación de cuenta<br>Dado que un visitante está en la landing page<br>Cuando selecciona la opción "Crear cuenta"<br>Entonces el sistema  redirige al visitante a la página de selección de plan.<br>Escenario 2: Ingresar datos válidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para paciente<br>Cuando proporciona un correo electrónico y contraseña válidos<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta <br>Y redirige al usuario registrado a la página principal de su interfaz.<br>Escenario 3: Ingresar datos inválidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para ser usuario en FitHub<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error indicando que los datos ingresados son inválidos. | EP001 |
-| US006 | Desplazamiento mediante el header | Como FitExplorer quiero desplazarme en la web application para encontrar fácilmente las diferentes secciones. | Escenario 1: Interacción con hipervínculos<br>Dado que el FitExplorer se encuentra en su cuenta de FitHub<br>Cuando da click a una de la secciones en el header<br>Entonces será dirigido a la sección seleccionada. | EP001 |
-| US008 | Navegar por la sección de Productos | Como cliente en FitHub, quiero navegar por la sección de Productos para visualizar las diferentes herramientas y productos disponibles. | Escenario 1: Dirigirse a la sección productos<br>Dado que el FitExplorer se encuentra en su cuenta de FitHub<br>Cuando de click a la sección de Productos<br>Entonces se mostrará la interfaz de la sección de Productos<br>Escenario 2: Visualizar productos de Cardio<br>Dado que el FitExplorer está en  la sección de Productos<br>Cuando seleccione "Cardio" del dropdown<br>Entonces se mostrarán tarjetas con los productos de Cardio, que incluyen el nombre del producto, el precio y dónde se puede encontrar.<br>Escenario 3: Visualizar productos de Alimentación<br>Dado que el FitExplorer está en la sección de Productos<br>Cuando seleccione "Alimentación" del dropdown<br>Entonces se mostrarán tarjetas con los productos de Alimentación, que incluyen el nombre del producto, el precio y dónde se puede encontrar.<br>Escenario 4: Visualizar productos Funcionales<br>Dado que el FitExplorer está en la sección de Productos<br>Cuando seleccione "Funcional" del dropdown<br>Entonces se mostrarán tarjetas con los productos funcionales, que incluyen el nombre del producto, el precio y dónde se puede encontrar. | EP003 |
-| US009 | Editar datos personales | Como cliente en FitHub, quiero visualizar y editar mis datos actuales. | Escenario 1: Dirigirse a la sección alimentos<br>Dado el FitExplorer está en su cuenta<br>Cuando de click a la sección de Configuración<br>Entonces se mostrará la interfaz de la sección de Configuración<br>Escenario 2: Editar datos personales<br>Dado el FitExplorer se encuentra en la sección de configuración<br>Y ve sus datos<br>Entonces puede modificar cada uno de ellos<br>Y darle click al botón de submit para que se actualicen. | EP002 |
-| US010 | Navegar por la sección de Nutrición | Como cliente en FitHub, quiero poder navegar a la sección de Nutrición para explorar las opciones disponibles. | Escenario 1: Acceso a la sección de Nutrición<br>Dado que el cliente está en la página de inicio de FitHub<br>Cuando hace clic en el hipervínculo de "Nutrición"<br>Entonces es dirigido a la sección de Nutrición, donde se muestran tres botones: Desayunos, Almuerzos y Cenas | EP003 |
-| US011 | Visualizar recomendaciones de alimentos | Como cliente en FitHub, quiero poder ver recomendaciones de desayunos, almuerzos y cenas para elegir opciones saludables para mis comidas. | Escenario 1: Visualización de recomendaciones de desayunos<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Desayunos"<br>Entonces ve diferentes tarjetas con recomendaciones de desayunos saludables, incluyendo el nombre e ingredientes de cada desayuno<br>Escenario 2: Visualización de recomendaciones de almuerzos<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Almuerzos"<br>Entonces ve diferentes tarjetas con recomendaciones de almuerzos, incluyendo el nombre, una descripción corta y un hipervínculo a la receta completa<br>Escenario 3: Visualización de recomendaciones de cenas<br>Dado que el cliente está en la sección de Nutrición<br>Cuando hace clic en el botón "Cenas"<br>Entonces ve diferentes tarjetas con recomendaciones de cenas, incluyendo el nombre e ingredientes de cada cena | EP003 |
-| US012 | Edición y eliminación de recomendaciones de alimentos | Como cliente en FitHub, quiero poder editar o eliminar las recomendaciones de alimentos para personalizar mis opciones nutricionales. | Escenario 1: Edición y eliminación de recomendaciones de desayunos<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Desayunos"<br>Cuando ve las cards de desayunos<br>Entonces puede editar cada card según sus necesidades o eliminar la card<br>Escenario 2: Agregar cards de almuerzos<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Almuerzos"<br>Cuando ve las cards de almuerzos<br>Entonces puede agregar nuevas tarjetas de almuerzos para registrar recetas de almuerzos pasados que haya probado<br>Escenario 3: Edición y eliminación de recomendaciones de cenas<br>Dado que el cliente está en la sección de Nutrición y ha seleccionado "Cenas"<br>Cuando ve las cards de cenas<br>Entonces puede editar cada tarjeta según sus necesidades o eliminar la card | EP003 |
-| US013 | Visualizar rutina | Como cliente en FitHub, quiero ver mi rutina de ejercicios semanal y diaria para tener un control de mi rutina de ejercicios. | Escenario 1: Visualización de rutina semanal<br>Dado que soy un FitExplorer y estoy en mi cuenta<br>Cuando acceda a la sección de rutinas<br>Entonces puedo ver la rutina semanal<br>Escenario 2: Visualización de rutina diaria<br>Dado que veo la rutina semanal<br>Cuando acceda a la rutina de uno de los días<br>Entonces podré ver podre ver mas información sobre los ejercicios<br>Escenario 3: Visualización de detalle de ejercicio<br>Dado que soy un FitExplorer y veo los ejercicios diarios<br>Cuando le de click a un ejercicio<br>Entonces puedo ver una breve explicación de sus ejecución | EP004 |
-
-## 3.3. Impact Mapping.
-![image](https://github.com/HealthyL/Informe/assets/137470462/fae1298c-ed1d-4a48-acbe-04fa4cbd1ec4)
+* **Diferenciación a través de Características Avanzadas:** Adoptaremos una estrategia centrada en resaltar las características únicas y avanzadas de MusicTime en comparación con nuestros competidores. Nuestras tácticas incluirán la promoción activa de funciones como notificaciones automatizadas, seguimiento de pagos y almacenamiento centralizado de contratos, destacando cómo estas características proporcionan una experiencia superior para los usuarios.
 
+* **Marketing Centrado en la Seguridad y Confianza:** Desarrollaremos una estrategia de marketing que se centre en la seguridad de datos y la confianza del usuario. Nuestras tácticas incluirán la creación de campañas publicitarias que destaquen nuestra dedicación a la protección de la privacidad del usuario y la seguridad de la información, estableciendo así una ventaja competitiva en un mercado donde la confianza es fundamental.
 
-## 3.4. Product Backlog. 
+* **Enfoque en la Experiencia del Usuario:** Implementaremos una estrategia que priorice la experiencia del usuario en todas las etapas de su interacción con la plataforma. Nuestras tácticas incluirán la personalización de la interfaz de usuario para adaptarse a las preferencias individuales de cada usuario, así como la provisión de un servicio de atención al cliente receptivo y eficiente para abordar rápidamente cualquier problema o inquietud.
 
-| #Order | User Story ID | Título                                                | Descripción                                                                                                                                                                                                                                                   |
-|--------|---------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | US001         | Interacción con hipervínculos del Landing Page        | Como visitante de la landing page quiero interactuar con la landing page para tener información sobre FitHub.                                                                                                                                                 |
-| 2      | US002         | Navegar por la sección de Contáctanos                 | Como visitante de la landing page, quiero poder interactuar con la sección de Contáctenos para poder hacer consultas, enviar comentarios o solicitar información adicional.                                                                                   |
-| 3      | US003         | Navegar por la sección de ¿Cómo Funciona?             | Como visitante de la landing page, quiero tener conocimiento de cómo afiliarme, para entender los pasos que debo seguir y completar el proceso de afiliación en la app  de manera fácil y rápida.                                                             |
-| 5      | US005         | Ingreso a la interfaz de Iniciar Sesión               | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión.                                                                                                                                                         |
-| 6      | US006         | Ingreso a la interfaz de Crear Cuenta                 | Como visitante de la landing page, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de FitHub.                                                                                                              |
-| 7      | US007         | Desplazamiento mediante el header                     | Como FitExplorer quiero desplazarme en la web application para encontrar fácilmente las diferentes secciones.                                                                                                                                                 |
-| 8      | US008         | Navegar por la sección de Productos                   | Como cliente en FitHub, quiero navegar por la sección de Productos para visualizar las diferentes herramientas y productos disponibles que pueden utilizarse para mejorar mis rutinas de ejercicio y mi alimentación, facilitando así una vida más saludable. |
-| 9      | US009         | Editar datos personales                               | Como cliente en FitHub, quiero visualizar y editar mis datos actuales, como objetivo, altura y peso, para obtener un plan mucho más personalizado.                                                                                                            |
-| 10     | US010         | Navegar por la seccion de Nutricion                   | Como cliente en FitHub, quiero poder navegar a la sección de Nutrición para explorar las opciones disponibles.                                                                                                                                                |
-| 11     | US012         | Visualizar recomendaciones de alimentos               | Como cliente en FitHub, quiero poder ver recomendaciones de desayunos, almuerzos y cenas para elegir opciones saludables para mis comidas.                                                                                                                    |
-| 12     | US012         | Edición y eliminación de recomendaciones de alimentos | Como cliente en FitHub, quiero poder editar o eliminar las recomendaciones de alimentos para personalizar mis opciones nutricionales.                                                                                                                         |
-| 13     | US013         | Visualizar rutina                                     | Como cliente en FitHub, quiero ver mi rutina de ejercicios semanal y diaria para tener un control de mi rutina de ejercicios.                                                                                                                                 |
+* **Colaboraciones Estratégicas:** Buscaremos establecer colaboraciones estratégicas con artistas, sellos discográficos y promotores de eventos musicales para aumentar nuestra visibilidad y credibilidad en la industria musical. Nuestras tácticas incluirán la organización de eventos conjuntos, la creación de contenido promocional en colaboración y la participación en asociaciones con organizaciones relevantes en el sector musical.
 
-# Capítulo IV: Product Design
-## 4.1 Style Guidelines
+* **Flexibilidad de Precios y Planes:** Desarrollaremos una estrategia de precios que ofrezca flexibilidad y opciones atractivas para nuestros usuarios. Nuestras tácticas incluirán la introducción de planes de suscripción con diferentes niveles de funcionalidad, así como la exploración de modelos de precios innovadores que se ajusten a las necesidades y presupuestos de nuestros diversos segmentos de usuarios.
 
-### 4.1.1. General Style Guidelines.
-**Overview:**
-Como organización se considera el diseño web una parte fundamental del proyecto, ya que debe ser agradable, cómodo para navegar para nuestros clientes finales, estar en sintonía con nuestra marca y lo que queremos transmitir como empresa.
+* **Desarrollo Ágil y Mejora Continua:** Implementaremos una estrategia de desarrollo ágil que nos permita adaptarnos rápidamente a los cambios en el mercado y las necesidades de los usuarios. Nuestras tácticas incluirán la implementación de ciclos de desarrollo cortos y la recopilación activa de comentarios de los usuarios para impulsar mejoras continuas en la plataforma.
 
-**Brand Name:**
-La elección de denominar nuestra propuesta de solución como "FitHub" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del Salud.
-![logo](https://github.com/HealthyL/Informe/assets/137470462/287c21a8-9678-451f-a515-96e53ea26b03)
+Estas estrategias y tácticas están diseñadas para posicionar a MusicTime como líder en el mercado de la gestión de contratos de música, diferenciándonos de nuestros competidores y brindando un valor excepcional a nuestros usuarios.
 
+### 2.2. Entrevistas.
+Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
+#### 2.2.1. Diseño de entrevistas.
+**SEGMENTO DE CLIENTE GENERAL**
 
-*¿Qué debe tener?*
-* Logo haciendo alusión al corazón, bienestar.
-* Minimalista, estético.
-*¿Qué no debe tener?*
-* Colores fuertes.  
-* Imagen de una persona.
-* imagen de una balanza.
+Preguntas generales:
 
-**Typography:**
-El equipo ha seleccionado las tipografías "Nunito" y "Inter" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
-![tipografía](https://github.com/HealthyL/Informe/assets/137470462/1115b5b2-8a14-44d5-8eaf-4dc7dd966545)
+* ¿Cuál es tu nombre?
+* Cuántos años tienes?
+* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
+* ¿Qué géneros de música le gustan?
 
-    
-**Palet Colors:**
-#8CB500
-#C5D951
-#B1C868
-#FEFE8A
-#FFFFFF
-#4B4B4B
+Preguntas específicas:
 
-**Buttons:**
-![botones](https://github.com/HealthyL/Informe/assets/137470462/3a3b932c-8554-4281-990a-6398e87608fb)
+* ¿Con qué frecuencia organizan eventos que requieren entretenimiento musical?
+* ¿Qué criterios utilizan para seleccionar grupos musicales o solistas para sus eventos?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar y contratar talento musical para sus eventos?
+* ¿Qué información consideran crucial al buscar artistas en una plataforma de catálogo de música?
+* ¿Qué características valoran más al utilizar una plataforma de contratación de eventos?
+* ¿Qué tipo de eventos suelen organizar y qué tipo de música prefieren para cada ocasión?
+* ¿Qué herramientas o funciones les gustaría ver en una plataforma para facilitar la organización de eventos y la contratación de artistas?
+* ¿Qué servicios adicionales o recursos creen que serían útiles al planificar eventos que requieran entretenimiento musical?
 
+Preguntas relacionadas al proyecto:
 
-### 4.1.2. Web Style Guidelines.
-![web-style-guideline](https://github.com/HealthyL/Informe/assets/137470462/2f4d6c7b-97af-4868-ba21-6b004135c30b)
+* ¿Qué características de la plataforma encuentran más útiles y por qué?
+* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
+* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
+* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
+* ¿Qué sugerencias tienen para mejorar esa función?
+* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
+**SEGMENTO DE BANDAS MUSICALES Y MÚSICOS INDEPENDIENTES**
 
-**Después de haber discutido en grupo cómo organizar la información en la página web/landing page de nuestra aplicación “FitHub”, se decidió usar un formato jerárquico común. Este tipo de organización es el que se observa en la mayoría de las páginas y permitirá a los usuarios visualizar la interfaz de forma intuitiva.**
+Preguntas generales:
 
-![organization](https://github.com/HealthyL/Informe/assets/134560396/b50fbdf1-bffa-4ad7-8790-2da6c0a0d624)
+* ¿Cuál es tu nombre?
+* ¿Cuántos años tienes?
+* ¿Estudias o trabajas?/¿En qué trabaja o que estudia?
+* ¿Qué géneros de música le gustan?
 
+Preguntas específicas:
 
-### 4.2.2. Labeling Systems.
+* ¿Qué tipo de eventos suelen realizar con más frecuencia?
+* ¿Qué aspectos consideran más importantes al decidir participar en un evento?
+* ¿Qué características valoran más en una plataforma de contratación de eventos?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
+* ¿Cómo gestionan actualmente la promoción de sus eventos y conciertos?
+* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
+* ¿Qué herramientas o funciones les gustaría ver en una plataforma para simplificar la gestión de contratos y eventos?
+* ¿Qué tipo de servicios adicionales o recursos creen que serían útiles para mejorar su carrera musical?
+* ¿Qué tipo de eventos prefieren participar como solistas?
+* ¿Cuáles son los aspectos más importantes que consideran al elegir trabajar con una plataforma de contratación de eventos?
+* ¿Cómo manejan actualmente la promoción de sus actuaciones individuales?
+* ¿Cuáles son los mayores desafíos que enfrentan al buscar oportunidades de actuación?
+* ¿Qué información consideran crucial al presentar su perfil en una plataforma de catálogo de música?
+* ¿Qué características o herramientas esperan encontrar en una plataforma para facilitar la gestión de contratos y eventos?
+* ¿Cómo preferirían comunicarse con los clientes potenciales a través de la plataforma?
+* ¿Qué servicios adicionales o recursos creen que podrían beneficiar su carrera como solista?
 
-**Antes de implementar las etiquetas en nuestra página, debemos determinar qué requisitos  necesitamos cumplir. Las etiquetas nos permiten agregar texto, imágenes y otros elementos a nuestra página. El sistema “Learn Sing” utilizará las siguientes etiquetas para representar conjuntos de información:**
 
-|Etiqueta	| Descripción |
-|---------|--------------|
-|Registrarse	|Botón para crear una cuenta en FitHub.|
-|Iniciar Sesión	|Botón para iniciar sesión en una cuenta existente en FitHub.|
-|Ajustes de Cuenta	| Espacio para ver información de la cuenta y configurar opciones, como la membresía en FitHub.|
-|Ver  Rutina	| Espacio para que los usuarios visualicen sus rutinas de ejercicio personalizadas en FitHub.|
-|Ver Planes	| Espacio para que los usuarios vean los planes de afiliación disponibles en FitHub.|
-|Contactar Soporte	| Opción para que los usuarios se pongan en contacto con el equipo de soporte de FitHub para obtener ayuda o información adicional.|
-|Versión Premium	| Opción para que los usuarios adquieran una versión premium de FitHub con características y beneficios adicionales.|
-|Notificaciones	| El sistema enviará notificaciones para recordar al usuario sus próximas actividades programadas en FitHub.|
+Preguntas relacionadas al proyecto:
 
-### 4.2.3. SEO Tags and Meta Tags
+* ¿Qué características de la plataforma encuentran más útiles y por qué?
+* ¿Cómo describirían la facilidad de uso de la plataforma para buscar y contratar artistas musicales?
+* ¿Qué aspectos de la plataforma les gustaría mejorar o añadir para hacerla más efectiva en la contratación de eventos?
+* ¿Han tenido alguna dificultad al utilizar alguna función específica de la plataforma? 
+* ¿Qué sugerencias tienen para mejorar esa función?
+* En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
-**La optimización de los meta tags es crucial para ampliar nuestro alcance a través de las búsquedas realizadas por los robots en línea. En este sentido, SignLingo aprovecha eficazmente estos elementos con el objetivo de posicionarse en las primeras búsquedas y atraer la atención de un público más amplio.**
+#### 2.2.2. Registro de entrevistas.
+**Entrevista #1:**
 
-Title Tags:
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229078493476950127/image.png?ex=662e5f8c&is=661bea8c&hm=5d80279fa1ec5503837499cbd13a1de2efd26d85629f0182ad2f6b58e6b29594&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
 
- ```html
-<title>FitHub - Bienestar personalizado y efectivo con FITHUB
-Alcanza tus metas de salud y fitness con nuestra plataforma integral.</title>
-```
+- Nombre y apellidos: Rey Alejandro
+- Edad:  20
+- Ubicación: lima
+- Duración de la entrevista: 12.27 minutos
+- Breve descripción: <br><br>
+	 está buscando emprender un negocio relacionado con la contratación de artistas musicales. Su idea es crear una plataforma que facilite la conexión entre artistas y quienes deseen contratarlos. Quiere agregar funciones de filtrado y seguridad para garantizar transacciones exitosas. Además, planea incluir la opción de ver el portafolio de los artistas y permitir colaboraciones en tiempo real. recursos.<br><br>
 
-Meta Description Tag:
 
-```html
-  <meta name="description" content="Descubre FitHub: Planifica rutinas, sigue tu progreso y únete a una comunidad de fitness." />
-  ```
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d640_upc_edu_pe/EWC-0ECGI7VAtsiWuXqDtGUBPHxmQZvrpxcIf2SkG4do6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYvafC
 
+---
 
-Meta Keywords Tag:
- ```html
-<meta name="keywords" content="fitness, ejercicio, salud, rutinas, progreso, comunidad, FitHub" />
-```
+ **Entrevista #2:**
 
+<a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
 
-Estos elementos optimizados ayudan a mejorar la visibilidad de FitHub en los motores de búsqueda, atrayendo a una audiencia interesada en el fitness y el bienestar.
+- Nombre y apellidos: Gabriel Yheferson Quispe Saraza
+- Edad:  22
+- Ubicación: Arequipa
+- Duración de la entrevista: 12.38 minutos
+- Breve descripción: <br><br>
+	 Gabriel tiene 22 años, es conocido por ser cantante y musico en instrumentos de viento para diversos grupos de la region de Puno, no pertenece a un grupo en especifico trabaja de manera independiente ya que tambien estudia en la ciudad de arequipa, el piensa que la plataforma seria de gran apoyo al sector de musicos que no disponen del tiempo suficiente para buscar eventos o conseguir un contratista de esta manera se le haría mas fácil conseguir mas presentaciones.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZHXITo8gAZMhGiPcQX6OK0BDCibVr-yCBQC47pWhlnFpg?e=3aGvga&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+**Entrevista #3:**
+
+<a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713050480/Entrevista_Edgar_he81q4.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Edgar Quispe Vargas
+- Edad:  48
+- Ubicación: Puno
+- Duración de la entrevista: 12.27 minutos
+- Breve descripción: <br><br>
+	 Edgar Quispe es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/ESj4b1DISKZOgITl3q44ORABkwd1HLMQAj_NNOKEzj_FmQ?e=4SxygV
+
+---
+
+**Entrevista #4:**
+
+<a><img src="https://cdn.discordapp.com/attachments/1065461786301714483/1229142360324313169/image.png?ex=662e9b07&is=661c2607&hm=e214c77149de8e95d7af0f6a4c2c75ce6e361fc883c1a86c014ab01b5d132a90&"></a>
+
+- Nombre y apellidos: Kesia Alexandra Pingus Rodriguez
+- Edad:  16
+- Ubicación: lima
+- Duración de la entrevista: 5.35 minutos
+- Breve descripción: <br><br>
+	 Esstudiante universitaria busca una manera de poder ayudar a sus padres al momento de organizar reuniones familiares. Cree que nuestra aplicación tiene lo que busca y también nos ofrece su punto de vista sobre ciertas funcionalidades que le podrían beneficiar al momento de buscar bandas, o solistas.<br><br>
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113280_upc_edu_pe/ET7Y2fRwYAZCuwJvRrzyU4kB6KXQLNprMzTfMhkdX7S90Q?e=nqzNe2
+
+---
+**Entrevista #5:**
+
+<a><img src="https://cdn.discordapp.com/attachments/1065461786301714483/1229142360324313169/image.png?ex=662e9b07&is=661c2607&hm=e214c77149de8e95d7af0f6a4c2c75ce6e361fc883c1a86c014ab01b5d132a90&"></a>
+
+- Nombre y apellidos: Agustin Aguilar
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 05:04minutos
+- Breve descripción: <br><br>
+	 Agustín Aguilar, es conocido por ser cantante y musico en instrumentos de viento para diversos grupos de la region de Puno, no pertenece a un grupo en especifico trabaja de manera independiente ya que tambien estudia en la ciudad de arequipa, el piensa que la plataforma seria de gran apoyo al sector de musicos que no disponen del tiempo suficiente para buscar eventos o conseguir un contratista de esta manera se le haría mas fácil conseguir mas presentaciones.<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista #6:**
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+
+- Nombre y apellidos: Godofredo Quispe
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 06:02minutos
+- Breve descripción: <br><br>
+	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
+#### 2.2.3. Análisis de entrevistas.
+
+Después de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en común que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
+
+**Segmento 1: Evento del User**
+ 
+* ¿Qué tipo de eventos suelen realizar con más frecuencia nuestros usuarios?
+
+Según el 80% de empresarios nuestros entrevistados suelen realizar eventos con regularidad. Estos pueden incluir presentaciones en discotecas, festivales de música, eventos corporativos, bodas y otros eventos privados.  
+
+* ¿Qué características valoran más en una plataforma de contratación de eventos para nuestros Users?
+
+Segun el 90%, nuestros users valoran mas una plataforma de contratación de eventos en la que se encuentre una facilidad de uso, la transparencia en la información, la seguridad en las transacciones financieras y la posibilidad de conectar con una amplia gama de artistas.
+
+* ¿Cómo gestionan actualmente la promoción de sus eventos ?(User dueños)
+
+El 60% de nuestros users gestionar la promoción de sus eventos y conciertos a través de redes sociales, plataformas de streaming de música, sitios web personales y colaboraciones con otros artistas o marcas. 
+
+* ¿Qué herramientas o funciones les gustaría ver a nuestros Users en una plataforma para simplificar la gestión de contratos y eventos?
+
+El 100% de nuestros users apreciarían herramientas y funciones en una plataforma que simplifiquen la gestión de contratos y eventos, como la automatización de procesos, la firma electrónica de contratos, la gestión de calendarios y la integración con sistemas de pago seguro. 
+#### 2.2.3. Análisis de entrevistas.
+
+### 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los procesos de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+</div>
+
+#### 2.3.1. User Personas.
+
+En esta sección presentaremos dos fichas de User Persona segun nuestro publico objetivo, el cual se enfoca en las bandas musicales y/o musicos independientes y las empresas y/o persons naturales. Estas fichas están basadas en las principales características y necesidades identificadas
+en el análisis de entrevistas y de la competencia.
+
+#### 2.3.2. User Task Matrix.
+
+<table align="center">
+    <thead>
+        <tr>
+            <th rowspan=2>User Task Matrix</th>
+            <th colspan=2>Artistas Musicales Emergentes</th>
+            <th colspan=2>Promotores de Eventos Musicales</th>
+         <tr>
+            <th rowspan=1 align="center">Frecuencia</th>
+            <th rowspan=1 align="center">Importancia</th>
+            <th rowspan=1 align="center">Frecuencia</th>
+            <th rowspan=1 align="center">Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">Crear y gestionar perfil de artista</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Subir música y videos</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Gestionar contratos y acuerdos</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Promocionar eventos y actuaciones</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Medium</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Conectar con fans y audiencia</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Acceder a análisis de rendimiento</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 2.3.3. User Journey Mapping.
+
+**Segmento 1: Usuarios Individuales (Bandas y Solistas Musicales)**
+<img src="https://cdn.discordapp.com/attachments/891082394310946867/1236025203981553684/Customer_journey_map_1.png?ex=663681ac&is=6635302c&hm=b664a418db13efb333c7aa9f4cf4620878ec32f10bd95dd4296b95d288cfcd97&" border="0"></a>
+
+**Segmento 2: Empresas y Negocios Relacionados con la Industria Musical**
+
+<img src="https://res.cloudinary.com/dv8a4ngw4/image/upload/v1713085875/Customer_journey_map_1_2_lupyne.png" border="0"></a>
+
+
+#### 2.3.4. Empathy Mapping.
+
+**Artista:** https://uxpressia.com/w/TqH0M/p/NuwuW?tagId=noTag
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714497175/wi72lggq0khxljbxb0xt.png" border="0"></a>
+
+**Customer:** https://uxpressia.com/w/TqH0M/p/NuwuW?tagId=noTag
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714496200/xpomxvtqujl9m4hrx9xj.png" border="0"></a>
+
+
+Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
+
+#### 2.3.5. As-is Scenario Mapping.
+Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
+
+<center>
+
+**AS-IS cliente**
+
+</center>
+
+
+![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
+![AS-IS Cliente 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/8_mi3ofs.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que buscan el cliente en una presentacion de una banda musical o solista, tanto para doing, thinking y feeling.
+![AS-IS Cliente 3](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/9_tsn4us.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Buscar una banda, dar el evento con la banda que contrataron y culiminar el evento con esto dando cumplimiento al contrato que se realizo.
+
+<center>
+
+**AS-IS bandas musicales**
+
+</center>
+
+![AS-IS Banda 4](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de bandas musicales. 
+![AS-IS Banda 5](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/2_dmhvtx.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca la banda musical en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
+![AS-IS Banda 6](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/3_dzhun7.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Prepararse para un evento, gestionar el proceso del contrato y evaluar el desarrollo del grupo al terminar el evento evidentemente tambien se hara la culminacion del contrato con el pago.
+
+<center>
+
+**AS-IS solistas musicales**
+
+</center>
+
+![AS-IS Solista 7](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de solitas o personas que tocan de manera individual. 
+![AS-IS Solista 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/5_bkyusq.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca un solista en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
+![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/6_qepvdt.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: la preparacion del solista para un evento, la presentacion que tiene este en un evento y los resultados de dicha presentacion como el pago por el contrato y la opinion del publico.
+### 2.4. Ubiquitous Language.
+Tras la entrevista de los segmentos de usuarios el grupo realizo una investigacion sobre los terminos que son muy comunes en la industria de la musica ya sea para bandas o solistas de esta forma poder utilizar dichos terminos o definiciones en la plataforma para estos usuarios.
+1. *Contrato discográfico*: Acuerdo entre una banda musical y una discográfica que establece los términos de la relación comercial, incluyendo derechos de grabación, distribución y regalías.
+
+2. *Regalías*: Pagos periódicos que recibe una banda musical por el uso de su música, ya sea en ventas de álbumes, transmisiones en línea, o licencias para uso en películas, comerciales, etc.
+
+3. *Merchandising*: Productos relacionados con la banda, como camisetas, pósters, gorras, que se venden para promocionar la marca y generar ingresos adicionales.
+
+4. *Gira de conciertos*: Serie de presentaciones en vivo que realiza una banda en diferentes ciudades o países, con el fin de promocionar su música y generar ingresos por la venta de entradas y productos relacionados.
+
+5. *Manager o representante*: Persona encargada de gestionar los asuntos comerciales y la carrera de la banda, incluyendo la negociación de contratos, la organización de giras y la promoción de la marca.
+
+6. *Streaming*: Distribución digital de música a través de plataformas en línea como Spotify, Apple Music o YouTube, donde las bandas pueden generar ingresos por reproducciones de sus canciones.
+
+7. *Booking*: Proceso de contratación de conciertos y festivales para que la banda se presente en vivo, gestionado por un agente de booking o por el manager de la banda.
+
+8. *Patrocinio*: Acuerdo comercial en el que una empresa paga a la banda para promocionar su marca durante conciertos, giras u otros eventos.
+
+9. *Publishing*: Derechos de autor y regalías generadas por la composición de canciones, que pueden ser administradas por la propia banda o por una editorial musical.
+
+10. *Crowdfunding*: Método de financiamiento colectivo donde los fans de la banda contribuyen económicamente para apoyar la producción de un álbum, una gira u otros proyectos.
+
+11. *Advance*: Pago inicial que una discográfica hace a la banda antes de la producción de un álbum, que luego se deduce de las regalías futuras.
+
+12. *Endorsement*: Acuerdo comercial en el que los músicos reciben productos gratuitos o pagos a cambio de promocionarlos públicamente.
+
+13. *Royalty Pool*: Fondo de regalías creado para distribuir los ingresos generados por la música entre los miembros de la banda y otros contribuyentes, como compositores y productores.
+
+14. *Sync Licensing*: Licencia otorgada a terceros para utilizar la música de la banda en películas, programas de televisión, videojuegos u otros medios, a cambio de un pago.
+
+15. *Rider*: Lista de requerimientos técnicos y logísticos que la banda exige que se cumplan en los conciertos, incluyendo equipo de sonido, catering, alojamiento, etc.
+
+16. *Escrow Account*: Cuenta bancaria donde se depositan las regalías generadas por la música, que luego se distribuyen entre los miembros de la banda y otros titulares de derechos.
+
+17. *One Sheet*: Resumen ejecutivo que presenta información clave sobre la banda y su música, utilizado para promocionarla ante discográficas, agentes de booking y otros profesionales de la industria.
+
+18. *Cross-promotion*: Estrategia de marketing en la que la banda se asocia con otras marcas, artistas o eventos para promocionarse mutuamente y ampliar su alcance.
+
+19. *Sponsorship Activation*: Actividades promocionales realizadas por la banda en colaboración con sus patrocinadores, como eventos exclusivos para clientes o activaciones de marca durante las giras.
+
+20. *Clearance*: Proceso de obtención de autorización legal para el uso de muestras musicales, fragmentos de canciones u otros elementos protegidos por derechos de autor en la música de la banda.
+
+Con todos estos terminos y sus definiciones se podra desarrollar la aplicación web de manera mas dinamica y entendible para este sector de negocio en la cual entablamos el proyecto que es la musica.
+
+<br>
+
+## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
+
+### 3.1. To-Be Scenario Mapping.
+
+Se desarrollo 3 cuadros usando el formato TO-BE en los 2 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
+
+<center>
+
+**TO-BE cliente**
+
+</center>
+
+
+![TO-BE Cliente 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712993395/p1dlyktmhht5a1mkoakr.png)
+Se plantea el cuadro y se separa el contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
+
+![TO-BE Cliente 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714631790/mkoz1zjh4rhaypz9xmlq.png)
+Basándonos en las respuestas obtenidas durante las entrevistas con el público objetivo, hemos formulado una lluvia de ideas que refleja lo que los clientes buscan en una presentación de una banda musical o solista, abordando los aspectos de "doing", "thinking" y "feeling":
+
+![TO-BE Cliente 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714631811/voymk9md5qbgewmkm0pr.png)
+Para finalizar, organizamos y clasificamos las ideas según las fases propuestas en el cuadro, que incluyen buscar una banda, realizar el evento con la banda contratada y concluir el evento cumpliendo con el contrato establecido.
+
+<center>
+
+**TO-BE Artista**
+
+</center>
+
+
+![TO-BE Artista 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712993395/p1dlyktmhht5a1mkoakr.png)
+Se plantea el cuadro y se separa el contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
+
+![TO-BE Artista 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714631963/pkottcdl4hrjarkpfonf.png)
+Después de realizar entrevistas con el público objetivo y basándonos en las respuestas obtenidas, hemos formulado una lluvia de ideas sobre lo que busca un artista en el proceso de establecer un contrato con un cliente, considerando aspectos de "doing", "thinking" y "feeling":
+
+![TO-BE Artista 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714631997/a2enjwwdvqmxvwcjrmpp.png)
+Para finalizar, organizamos e identificamos las ideas formuladas anteriormente según las fases propuestas en el cuadro, que incluyen la preparación del artista para un evento, la presentación en el evento y los resultados posteriores, como el pago por el contrato y la opinión del público.
+
+### 3.2. User Stories.
+
+| Epics | |
+| --------- | --- |
+| EP01 | Como organizador de eventos, quiero poder encontrar y contratar músicos de manera eficiente y satisfactoria a través de la  plataforma musical.| 
+EP02 | Como banda, queremos tener acceso a una plataforma de promoción musical robusta y eficiente para potenciar mi carrera artística y aumentar mis oportunidades de contratación.
+| EP03 |Como solista, quiero una plataforma optimizada para organizar actuaciones, recibir notificaciones relevantes, gestionar mis finanzas de forma transparente, acceder a estadísticas detalladas y participar en redes de colaboración creativa.|
+
+
+**Historias de usuarios**
+
+| ID | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACION | 
+| ---- | ------ | ----------- | ----------------------- |
+| US01 | Búsqueda de artistas por Género y Disponibilidad | Como cliente, quiero poder buscar artistas por género y disponibilidad para encontrar el adecuado para mi evento. | **Escenario 1** Búsqueda Efectiva de artistas:<br> Dado que un cliente necesita contratar músicos para un evento, cuando utiliza la plataforma para buscar músicos y aplica filtros por género y disponibilidad, entonces recibe una lista precisa de artistas que cumplen con sus criterios de búsqueda.  <br> **Escenario 2** Problemas en la Búsqueda de aristas: <br> Dado que un cliente necesita contratar artistas para un evento, cuando intenta filtrar artistas por género y disponibilidad en la plataforma, Entonces encuentra que el sistema no proporciona resultados precisos, Y no podra contactar un musico  |
+| US02 | Acceso Completo a Portfolios de Músicos | Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | **Escenario 1** Acceso Completo a Portafolios de artistas: <br>Dado que un cliente necesita evaluar artista para un evento, Cuando navega por los perfiles de los artistas en la plataforma, Entonces puede acceder fácilmente a sus portafolios,  Y puede seleccionar al músico que le guste. <br> **Escenario 2** Problemas de Acceso a Portfolios de artistas: <br> Dado que un cliente necesita evaluar artistas para un evento, Cuando intenta acceder al portafolio de un músico en la plataforma, Encuentra que no hay suficiente información disponible, Entonces no podrá evaluar la calidad de losartistas. |
+| US03 | Comunicación Efectiva con artistas | Como cliente, quiero poder enviar mensajes ha artistas seleccionados para discutir detalles del evento y negociar términos. | **Escenario 1** Comunicación Efectiva con artistas: <br> Dado que un cliente necesita discutir detalles con músicos seleccionados, Cuando utiliza la función de mensajería en la plataforma, Entonces puede comunicarse con ellos, Y los artistas responderan los mensajes dentro de un plazo razonable. <br> **Escenario 2** Problemas en la Comunicación con Músicos: <br> Dado que un cliente necesita discutir detalles con músicos seleccionados, Cuando intenta enviar mensajes a través de la plataforma, Entonces los mensajes no se entregan correctamente, Y no podra comunicarse con los artistas. |
+| US04 | Gestión de Favoritos de artistas | Como cliente, quiero poder marcar músicos como favoritos en la plataforma para acceder fácilmente a ellos más tarde. | **Escenario 1** Gestión de Favoritos de artistas efectiva: <br> Dado que un cliente desea guardar músicos para futuras consideraciones, Cuando navega por los perfiles de los músicos en la plataforma, Entonces puede marcar artistas como favoritos,  Y puede revisar  estos artistas mas tarde. <br> **Escenario 2** Problemas en la Gestión de Favoritos de artistas: <br> Dado que un cliente desea guardar artistas para futuras consideraciones, Cuando intenta marcar músicos como favoritos en la plataforma, Encuentra que la función no está disponible o no funciona , entonces no puede guardar músicos para referencia futura. |
+| US05 | Acceso a Reseñas y Testimonios Auténticos | Como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas. | **Escenario 1** Acceso a Reseñas y Testimonios Auténticos: <br>Dado que un cliente necesita tomar decisiones informadas sobre artistas, Cuando ingresa al perfil de un artista, Entonces puede acceder fácilmente a reseñas, Y tomar decisiones informadas sobre qué artista contratar. <br> **Escenario 2** Problemas de Acceso a Reseñas y Testimonios: <br> Dado que un cliente necesita tomar decisiones informadas sobre artistas, Cuando ingresa al perfil de un artista, Entonces no encuentra reseñas sobre el, Y no podrá informase por terceros de ese artista. |
+| US06 | Gestión Eficiente de Contratos con Músicos | Como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | **Escenario 1** Gestión Eficiente de Contratos con artistas: <br>Dado que un cliente necesita formalizar acuerdos con artistas, Cuando utiliza la plataforma para gestionar contratos, Entonces puede acceder fácilmente a contratos personalizables y firmarlos digitalmente. <br> **Escenario 2** Problemas en la Gestión de Contratos: <br> Dado que un cliente necesita formalizar acuerdos con artistas, Cuando intenta acceder a los contratos en la plataforma, Entonces no encuentra opciones disponibles, Y no puede formalizar acuerdos con los artistas. |
+| US07 | Dejar Feedback Público sobre Actuaciones | Como cliente, quiero poder dejar feedback sobre la actuación de los artistas después del evento para ayudar a otros organizadores a tomar decisiones informadas. | **Escenario 1** Dejar Feedback Público sobre Actuaciones: <br> Dado que un cliente desea proporcionar feedback sobre actuaciones de artistas, Cuando utiliza la plataforma para dejar feedback, Entonces este feedback es público para otros organizadores, Y ayuda a otros organizadores a evaluar la calidad de los artistas. <br> **Escenario 2** Problemas en la Dejada de Feedback: <br>Dado que un cliente desea proporcionar feedback sobre actuaciones de artistas, Cuando intenta dejar feedback en la plataforma, Entonces ve que la función  no funciona correctamente, Y no puede proporcionar información útil a otros organizadores. |
+| US08 | Recepción de Notificaciones Automáticas sobre Disponibilidad de artistas | Como cliente, quiero recibir notificaciones automáticas sobre la disponibilidad de artistas que coincidan con mis criterios de búsqueda o esten disponibles. | **Escenario 1** Recepción de Notificaciones Automáticas : <br>Dado que un cliente desea estar al tanto de nuevas oportunidades, cuando ingresa al apartado de notificaciones, Entonces recibe notificaciones automáticas cuando artistas están destacando  Y así contactar a músicos para futuros eventos. <br> **Escenario 2** Problemas con Notificaciones sobre Disponibilidad de artistas: <br> Dado que un cliente espera recibir notificaciones sobre artistas disponibles, Cuando ingresa al apartado de notificaciones, Entonces estas no se muestran, Y pierde oportunidades de contratar artistas.  |
+| US09 | Gestión de Pagos a Músicos de Manera Segura y Oportuna | Como cliente, quiero poder gestionar los pagos a los artistas directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | **Escenario 1** Gestión de Pagos a artistas : <br>Dado que un cliente necesita gestionar pagos a artistas, Cuando utiliza la plataforma para gestionar pagos, Entonces puede ver claramente las tarifas acordadas y realizar pagos de manera segura y oportuna. <br> **Escenario 2** Problemas en la Gestión de Pagos a Músicos: <br> Dado que un cliente necesita gestionar pagos a artistas, Cuando intenta gestionar pagos en la plataforma, Entonces encuentra dificultades técnicas que impiden realizar transacciones, Y esto genera retrasos en los pagos.  |
+| US10 | Soporte Técnico Eficiente en la Plataforma | Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de artistas. | **Escenario 1** Soporte Técnico Eficiente en la Plataforma: <br> Dado que un cliente necesita asistencia técnica durante el proceso de contratación de artistas, Cuando necesita asistencia técnica en la plataforma, Entonces puede contactar fácilmente con el equipo de soporte técnico, Y recibe  soluciones efectivas a sus problemas. <br> **Escenario 2** Problemas con el Soporte Técnico en la Plataforma: <br>Dado que un cliente necesita asistencia técnica en la plataforma, Cuando intenta obtener soporte técnico, No encuentra un canal claro para solicitar ayuda  Entonces dificulta la experiencia en la plataforma. |
+| US11 | Creación de Perfil del artista              | Como artista, quiero crear un perfil en la plataforma para promocionar nuestra música y servicios.    | **Escenario 1:** Creación de perfil exitosa <br> Dado que un artista desea promocionar su música y servicios en la plataforma, cuando proceden a crear un perfil, entonces pueden completar fácilmente el formulario de registro . Y el perfil sea visible para los clientes. <br> **Escenario 2:** Registro fallido del artista <br> Dado que un artista desea promocionar su música y servicios en la plataforma, cuando procede a crear un perfil con algunos campos obligatorios en blanco, entonces se le mostrara un mensaje de error y la cuenta no se creara.
+| US12 | Actualización de Disponibilidad y Calendario  | Como artista, quiero poder actualizar nuestra disponibilidad y calendario de eventos en nuestro perfil para que los organizadores puedan ver fácilmente nuestra agenda al buscarnos.      | **Escenario 1:** Actualización de Disponibilidad y Calendario Exitosa. <br> Dado que un artista quiere mantener actualizada su  calendario de eventos en la plataforma, cuando intentan actualizar esta información en su perfil, entonces los cambios se registran correctamente en la plataforma. <br> **Escenario 2:** Falta de Actualización de Información. <br> Dado que un artista intenta actualizar su calendario de eventos en la plataforma, cuando va a la opción de actualizar calendario en su perfil , los cambios no se reflejan correctamente, entonces los clientes no pueden ver su calendario actualizado. |
+| US13 | Gestión de Mensajes con clientes       | Como artista, quiero recibir y responder mensajes de clientes interesados en nuestra música de manera efectiva a través de la plataforma.                             | **Escenario 1:** Comunicación con clientes Efectiva. <br> Dado que un artista espera comunicarse via mensajes con los clientes, cuando responde los mensajes enviados por los clientes, entonces  los mensajes se entregan correctamente. Y facilita la comunicación efectiva con los clientes para posibles eventos. <br> **Escenario 2:** Problemas de Comunicación. <br> Dado que un artista espera comunicarse vía mensaje con clientes interesados , cuando revisa su bandeja de mensaje estos no llegan o no se envían correctamente entonces habrá dificultades para mantener una comunicación efectiva.  |
+| US14 | Programación de Audiciones y Reuniones       | Como artista, quiero poder programar audiciones o reuniones con organizadores de eventos interesados para discutir detalles y términos del evento.                                 | **Escenario 1:** Programación de Audiciones Exitosa. <br> Dado que un artista desea programar audiciones con clientes interesados, cuando el cliente solicita una audición con el artista, entonces el artista recibe confirmaciones detalladas de fecha, hora y ubicación. <br> **Escenario 2:** Problemas con la Programación. <br> Dado que una banda desea programar audiciones con clientes interesados, cuando el cliente solicita una audición con el artista, entonces las notificaciones no llegan y la  interacción no se lleva a cabo correctamente. |
+| US15 | Gestión y Firma de Contratos                  | Como artista, quiero gestionar y firmar contratos con organizadores de eventos directamente desde la plataforma, accediendo a contratos personalizables y utilizando la función de firma digital. | **Escenario 1:** Gestión y Firma de Contratos Exitosa. <br> Dado que un artista desea gestionar y firmar contratos con clientes, cuando ingresa al evento que lo contactó en la plataforma, entonces encuentra disponible la función de gestión de contratos. Y se formaliza el contrato con una firma digital.<br> **Escenario 2:** Probelmas al generar y firmar un contrato. <br> Dado que un artista desea gestionar y firmar contratos con clientes, cuando ingresa al evento que lo contactó en la plataforma, entonces intenta generar un contrato pero este no se genera correctamente  Y no se puede firmar. |
+| US16 | Recepción de Feedback y Evaluación            | Como artista, quiero recibir feedback de los organizadores después de nuestras actuaciones para mejorar nuestro trabajo y servicios.                                                  | **Escenario 1:** Recepción de Feedback Exitosa. <br> Dado que un artista espera recibir feedback después de sus actuaciones en eventos, cuando va a su perfil, entonces encuentra en su perfil todos los feedback recibidos por los clientes. Y a partir de estos poder mejorar para su próxima presentación. <br> **Escenario 2:** Problemas al ver los feedback <br> Dado que un turista espera recibir feedback después de sus actuaciones en eventos, cuando va a su perfil no encuentra  disponible o no se muestran correctamente los feedback, entonces el artista no sabrá que opinión recibió por parte de los clientes. |
+| US17 | Promoción de Música                 | Como artista, quiero poder promocionar nuestra música en la plataforma mediante la creación y compartición de publicaciones que aumenten mi visibilidad.               | **Escenario 1:** Promoción Efectiva. <br> Dado que un artista busca promocionar su música en la plataforma, cuando el cliente sube publicaciones de sus canciones, entonces las publicaciones se crean y comparten públicamente, aumentando su visibilidad hacia los clientes. <br> **Escenario 2:** Problemas con la Promoción. <br> Dado que una banda busca promocionar su música en la plataforma, cuando sube sus publicaciones de canciones, entonces enfrenta dificultades al momento de publicar y las canciones no se publican correctamente |
+| US18 | Visualización de Estadísticas Detalladas     | Como artista, quiero visualizar estadísticas detalladas sobre el desempeño de nuestras publicaciones      | **Escenario 1:** Acceso a Estadísticas de Desempeño. <br> Dado que un artista desea visualizar estadísticas detalladas sobre el desempeño de sus publicaciones, cuando acceden a las estadísticas, entonces las métricas se cargan correctamente y son útiles para comprender el alcance de la promoción. <br> **Escenario 2:** Problemas con las Estadísticas. <br>  Dado que un artista intenta acceder a las estadísticas de sus publicaciones cuando intenta acceder a las estadísticas en su perfil Entonces estas no se cargan correctamente o son inexactas, Y tendrá dificultades para evaluar el rendimiento de sus promociones. |
+| US19 | Creación de Ofertas y Descuentos Personalizados | Como artista, quiero crear ofertas y descuentos personalizados para promocionar nuestros servicios musicales  | **Escenario 1:** Creación de Ofertas y Descuentos Exitosa. <br> Dado que un artista desea crear ofertas y descuentos personalizados, Cuando realiza la  creación de ofertas para sus servicios, estas se generan correctamente Entonces estarán disponibles para los clientes y promocionar sus servicios <br> **Escenario 2:** Problemas con Ofertas y Descuentos. <br> Dado que un artista desea crear ofertas y descuentos personalizados, cuando  crea las ofertas y descuentos de sus servicios, estas no se generan correctamente Entonces las ofertas no serán visibles para los clientes. |
+| US20 | Integración de Perfiles de Streaming Musical  | Como artista, quiero integrar nuestros perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con nuestro perfil en la plataforma de promoción para permitir a los clientes de eventos escuchar fácilmente nuestro trabajo. | **Escenario 1:** Integración de Streaming Exitosa. <br> Dado que un artista desea integrar sus perfiles de streaming en la plataforma , Cuando a realiza la integración de sus perfiles de streaming, como spotify, YouTube, etc . Entonces  se muestran correctamente en su perfil, Y permite a los clientes escuchar fácilmente su trabajo <br> **Escenario 2:** Problemas con la Integración de Streaming. <br> Dado que un artista desea integrar sus perfiles de streaming en la plataforma , Cuando a realiza la integración de sus perfiles de streaming, como spotify, YouTube, etc . Entonces  la integración no se realiza correctamente o los perfiles no se muestran adecuadamente. |
+| US21 | Creación de Setlists Personalizados | Como artista, quiero crear setlists personalizados en la plataforma para organizar mis actuaciones y presentaciones de manera eficiente. | **Escenario 1:** Creación de Setlists Exitosa.<br> Dado que un artista desea organizar sus actuaciones, cuando Cuando un solista crea un setlist personalizado en la plataforma,  Entonces puede agregar y reorganizar canciones fácilmente. Y puede prepararse mejor para sus presentaciones. <br> **Escenario 2:** Problemas con la Creación de Setlists.<br> Dado que un artista desea organizar sus actuaciones, cuando Cuando un solista crea un setlist personalizado en la plataforma,  Entonces encuentra errores en la edición y la lista no se guarda correctamente Y no puede organizar sus canciones. |
+| US22 | Recepción de Notificaciones de Oportunidades | Como artista, quiero recibir notificaciones automáticas sobre nuevas oportunidades de actuación y colaboración en la plataforma. | **Escenario 1:** Recepción de Notificaciones Efectivas.<br>  Dado que un artista espera estar al tanto de nuevas oportunidades, cuando configura sus preferencias y permita notificaciones en la plataforma, entonces recibirá notificaciones oportunas sobre actuaciones y colaboraciones relevantes. <br> **Escenario 2:** Problemas con las Notificaciones.<br> Dado que un artista espera recibir notificaciones sobre nuevas oportunidades, cuando va al apartado de notificaciones en la plataforma, entonces estas no llegan y no se visualizan  las de eventos mas actuales. |
+| US23 | Gestión de Finanzas y Pagos | Como artista, quiero gestionar mis finanzas y pagos de actuaciones directamente desde la plataforma para una mayor transparencia y eficiencia. | **Escenario 1:** Gestión de Finanzas Exitosa.<br> Dado que un artista desea administrar sus pagos, cuando realiza un contrato con un cliente en la plataforma, entonces el artista podrá acordar el precio con el cliente y se hará el pago a su cuenta .  <br> **Escenario 2:** Problemas con la Gestión de Pagos.<br> Dado que un artista desea administrar sus pagos, cuando realiza un contrato con un cliente y acuerdan el precio  entonces  ocurren errores al ejecutar el pago y este no se realiza correctamente. |
+| US24 | Soporte Técnico y Asistencia | Como artista, quiero contar con soporte técnico y asistencia en la plataforma para resolver cualquier problema o duda que pueda surgir durante su uso. | **Escenario 1:** Soporte Técnico Disponible. <br> Dado que un artista necesita ayuda para resolver problemas o dudas, Cuando busca soporte técnico en la plataforma, Entonces encuentra disponible un sistema de asistencia que responde de manera oportuna y efectiva, y puede resolver cualquier inconveniente. <br> **Escenario 2:** Problemas con el Soporte Técnico. <br> Dado que un artista requiere ayuda con un problema en la plataforma, Cuando el sistema de asistencia no está disponible o no responde adecuadamente, Entonces el artista enfrenta dificultades para resolver sus problemas. |
+| US25 | Participación en Redes de Colaboración | Como artista, quiero unirme a redes de colaboración en la plataforma para conectar con otros músicos y explorar nuevas oportunidades creativas. | **Escenario 1:** Participación en Redes de Colaboración Exitosa.<br> Dado que un artista desea colaborar con otros artistas, cuando escoge una banda con la que desea una colaboración, Entonces la plataforma le pedirá enviar una solicitud para unirse a esa banda  y esperara la confirmación. <br> **Escenario 2:** Problemas con la Participación en Redes.<br> Dado que un solista intenta unirse a redes de colaboración con una banda en la plataforma, cuando envía su solicitud de unirse a la banda Entonces esta no es procesada correctamente Y la banda no recibirá la solitud. |
+
+
+**Historias de usuarios Tecnicas**
+
+| ID  | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACION |
+| --- | ------ | ----------- | ----------------------- |
+| TU01 | Implementación de Endpoint para Búsqueda de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas. | **Escenario 1** Búsqueda exitosa de artistas:<br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists con parámetros de género y disponibilidad, cuando la API procesa la solicitud, entonces devuelve una lista precisa de artistas que cumplen con los criterios de búsqueda.  <br> **Escenario 2** Error en la búsqueda de artistas: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists con parámetros de género y disponibilidad, cuando la API procesa la solicitud, si no hay resultados, devuelve una lista vacía o un mensaje de error adecuado. |
+| TU02 | Implementación de Endpoint para Acceso a Portafolios de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio. | **Escenario 1** Acceso exitoso al portafolio de artistas: <br>Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/portfolio, cuando la API procesa la solicitud, entonces devuelve el portafolio completo del artista solicitado. <br> **Escenario 2** Error en el acceso al portafolio de artistas: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/portfolio, cuando la API procesa la solicitud, si no hay portafolio disponible o hay un error, devuelve un mensaje de error adecuado. |
+| TU03 | Implementación de Endpoint para Comunicación con Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos. | **Escenario 1** Comunicación efectiva con artistas: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/artists/{id}/messages con los datos del mensaje, cuando la API procesa la solicitud, entonces envía el mensaje al artista correspondiente y confirma la entrega. <br> **Escenario 2** Error en la comunicación con artistas: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/artists/{id}/messages con los datos del mensaje, cuando la API procesa la solicitud, si hay un error en la entrega del mensaje, devuelve un mensaje de error adecuado. |
+| TU04 | Implementación de Endpoint para crear un artista | Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico. | **Escenario 1** Creacion exitosa de un nuevo artista: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/musicians con los datos del nuevo músico, cuando la API procesa la solicitud, entonces crea un nuevo músico en la base de datos y devuelve un mensaje de extito con los detalles del artista creado <br> **Escenario 2** Error en a creacion de artistas: <br> Dado que un cliente envía una solicitud POST al endpoint /api/musicians con datos incorrectos o incompletos del músico, cuando la API procesa la solicitud, entonces devuelve un mensaje de error adecuado indicando los campos requeridos o errores de validación. |
+| TU05 | Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas. | **Escenario 1** Acceso a reseñas y testimonios: <br>Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/reviews, cuando la API procesa la solicitud, entonces devuelve una lista de reseñas y testimonios sobre el artista solicitado. <br> **Escenario 2** Error en el acceso a reseñas y testimonios: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/reviews, cuando la API procesa la solicitud, si no hay reseñas disponibles, devuelve una lista vacía o un mensaje indicando que no hay reseñas. |
+| TU06 | Implementación de Endpoint para Actualización de Información de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas. | **Escenario 1** Actualización exitosa de la información del artista: <br>Dado que un cliente realiza una solicitud PUT al endpoint /api/artists/{id} con los datos actualizados del artista, cuando la API procesa la solicitud, entonces actualiza la información del artista correctamente. <br> **Escenario 2** Error en la actualización de la información del artista: <br> Dado que un cliente realiza una solicitud PUT al endpoint /api/artists/{id} con datos incorrectos o incompletos, cuando la API procesa la solicitud, devuelve un mensaje de error adecuado. |
+| TU07 | Implementación de Endpoint para Eliminación de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma. | **Escenario 1** Eliminación exitosa del artista: <br> Dado que un cliente realiza una solicitud DELETE al endpoint /api/artists/{id}, cuando la API procesa la solicitud, entonces elimina al artista de la plataforma correctamente. <br> **Escenario 2** Error en la eliminación del artista: <br> Dado que un cliente realiza una solicitud DELETE al endpoint /api/artists/{id}, cuando la API procesa la solicitud, si hay un error en la eliminación, devuelve un mensaje de error adecuado. |
+| TU08 | Implementación de Endpoint para Gestión de Sesiones de Usuario | Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión. | **Escenario 1** Inicio de sesión exitoso: <br>Dado que un cliente realiza una solicitud POST al endpoint /api/auth/login con credenciales válidas, cuando la API procesa la solicitud, entonces inicia sesión y devuelve un token de autenticación. <br> **Escenario 2** Cierre de sesión exitoso: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/auth/logout con un token válido, cuando la API procesa la solicitud, entonces cierra la sesión del usuario correctamente. |
+| TU09 | Implementación de Seguridad de la API | Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios. | **Escenario 1** Autenticación de usuarios exitosa: <br> Dado que un cliente realiza una solicitud a un endpoint protegido, cuando la API recibe la solicitudcon un token de autenticación válido, entonces permite el acceso al recurso solicitado. Y la API devuelve una respuesta exitosa con los datos solicitados por el cliente. <br> **Escenario 2** Error de autorización de usuarios: <br> Dado que un cliente realiza una solicitud a un endpoint protegido, cuando la API recibe la solicitud sin un token de autenticación válido, entonces devuelve un mensaje de error indicando al cliente que la solicitud requiere autenticación. |
+| TU10 | Implementación de Logging en la API | Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo. | **Escenario 1** Registro de solicitudes HTTP: <br>Dado que la API recibe una solicitud HTTP, cuando procesa la solicitud, entonces registra los detalles de la solicitud en un archivo de registro. <br> **Escenario 2** Registro de errores: <br> Dado que la API encuentra un error durante el procesamiento de una solicitud, cuando maneja el error, entonces registra los detalles del error en un archivo de registro. |
+
+### 3.3. Impact Mapping.
+En este segmento se presentarán el user goal tanto como para los musicos como para el organizador de eventos.
+<br><br>
+En primer lugar tenemos el user goal 1: Lograr una tasa de contratación de músicos del 80% en eventos organizados en la plataforma en un plazo de 8 meses.<br>
+User persona 1: Organizador de eventos.<br>
+<br>
+Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de músicos en la plataforma un 30% cada trimestre.<br>
+User persona 2: Banda o Músico independiente.
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
+
+### 3.4. Product Backlog.
+
+| Codigo | Descripcion | Story points (1,2,3,5,8) |
+|-----------------|------------|-------------|
+|US01| Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | 3 |
+|US02| Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | 3 |
+|US03| Como cliente, quiero poder enviar mensajes a músicos seleccionados para discutir detalles del evento y negociar términos. | 3 |
+|US04| Como cliente, quiero poder programar audiciones con músicos seleccionados para evaluar su talento en persona. | 5 |
+|US05| Como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas | 2 |
+|US06| Como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | 8 |
+|US07| Como cliente, quiero poder dejar feedback sobre la actuación de los músicos después del evento para ayudar a otros organizadores a tomar decisiones informadas. | 3 |
+|US08| Como cliente, quiero recibir notificaciones automáticas sobre la disponibilidad de músicos que coincidan con mis criterios de búsqueda, para estar al tanto de nuevas oportunidades. | 3 |
+|US09| Como cliente, quiero poder gestionar los pagos a los músicos directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | 5 |
+|US010| Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de músicos. | 3 |
+|US011| Como musico, quiero poder acceder fácilmente a la barra de navegación para poder explorar diferentes secciones de la landing page. | 8 |
+|US012| Como musico, quiero acceder a información detallada sobre las características y funcionalidades del servicio sin necesidad de registrarme.| 2 |
+|US013| Como musico, necesito encontrar rápidamente cómo ponerme en contacto con el equipo de soporte sin tener que registrarme. | 3 |
+|US014| Como musico, quiero tener la posibilidad de cambiar el idioma de la página de inglés a español para una mejor comprensión. | 5 |
+|US015| Como musico, quiero poder registrarme en la plataforma utilizando mi dirección de correo electrónico y una contraseña segura. | 5 |
+|US016| Como musico, quiero poder acceder y visualizar los planes de suscripción disponibles para tener una idea clara de las opciones y beneficios. | 3 |
+|US017| Como solista o banda, quiero crear un perfil en la plataforma para promocionar mi música y servicios. | 3 |
+|US018| Como solista o banda, quiero poder actualizar mi disponibilidad y calendario de eventos en mi perfil. | 3 |
+|US019| Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. | 3 |
+|US020| Como solista o banda, quiero poder programar audiciones o reuniones con organizadores de eventos interesados para discutir detalles del evento. | 5 |
+|US021| Como solista o banda, quiero poder gestionar y firmar contratos con organizadores de eventos directamente desde la plataforma. | 5 |
+|US022| Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo. | 2 |
+|US023| Como solista o banda, quiero poder promocionar mi música y eventos en la plataforma para llegar a más organizadores de eventos potenciales. | 3 |
+|US024| Como músico, quiero poder visualizar estadísticas detalladas sobre el desempeño de mis publicaciones y eventos en la plataforma. | 5 |
+|US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 2 |
+|US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 3 |
+
+**Total de story points:** 104
+4 sprints = 26 task por cada sprint.
+
+## CAPÍTULO 4: PRODUCT DESIGN
+
+### 4.1. Style Guidelines.
+#### 4.1.1. General Style Guidelines.
+Color Principal: Azul Claro (#99D9F2)<br>
+Este color representa la frescura y claridad asociadas con la industria musical en la aplicación, se utilizará para elementos importantes que necesitan destacarse, como el logo de la plataforma y los botones de llamada a la acción.
+<br>
+<br>
+Botones de Unirse, Suscribete y Planes: Azul Medio (#4A90E2) y Azul Oscuro (#0073B1)<br>
+Estos tonos de azul transmiten acción y facilitan la navegación, invitando a los usuarios a interactuar con la plataforma desde el primer momento, es por eso que se utilizaran en botones importantes.
+<br>
+<br>
+Texto: Blanco (#F1F9FF) y Negro (#0F0F0F)<br>
+Los colores blanco y negro se usarán para textos generales y de navegación debido a su alta legibilidad y contraste con el fondo, garantizando una experiencia de lectura cómoda.
+<br>
+<br>
+Recuadros Destacados: Azul Claro Cielo (#C9E7FC)<br>
+Este color se reserva para resaltar información importante o características destacadas de la aplicación, como ofertas clave y noticias relevantes.
+<br>
+<br>
+Pie de Página: Azul Oscuro Marino (#333333)<br>
+Agrega un toque de elegancia y profesionalismo al pie de página, donde se encuentran enlaces útiles, información de contacto y otros elementos relacionados con la navegación y la empresa.
+<br>
+<br>
+Color Adicional: Azul Claro (#F1F9FF)<br>
+Este color se utilizará para resaltar aspectos relacionados con la seguridad de los datos y la privacidad del usuario, reforzando la confianza en la plataforma.
+
+#### 4.1.2. Web Style Guidelines.
+Tipografía:<br>
+Se utilizará Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
+![Imagen de letra](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)
+<br>
+<br>
+Imágenes y Gráficos:<br>
+Las imágenes y gráficos deben ser de alta calidad y estar relacionados con la música y la gestión de contratos. Para eso se incluirá ilustraciones de instrumentos musicales, artistas en acción o gráficos que representen visualmente el proceso de gestión de contratos.
+<br>
+<br>
+Espacios y Diseño:<br>
+El diseño de la plataforma debe ser limpio, organizado y fácil de navegar. Para eso se utilizará espacios adecuados entre elementos para mejorar la legibilidad y la interacción del usuario. Los elementos de diseño estarán alineados con la identidad visual de la aplicación para mantener una experiencia coherente en toda la plataforma.
+
+
+### 4.2. Information Architecture.
+En esta sección se plantea las decisiones que se realizó dentro del startup para desarrollar la plataforma web, como la organización del sistema, como se navegara dentro del sistema y los sistemas de búsqueda aplicados a la plataforma para luego servir de guía al desarrollo de la plataforma web.
+#### 4.2.1. Organization Systems.
+
+En nuestra aplicación web para bandas y solistas musicales, hemos diseñado varios sistemas de organización de la información para garantizar una experiencia de usuario intuitiva y eficiente. A continuación, explicamos cómo se aplicarán estos sistemas:
+
+**Organización Visual del Contenido:**
+
+Hemos optado por una organización visual que combine elementos jerárquicos y secuenciales para garantizar la facilidad de navegación y comprensión. Por ejemplo:
+
+Jerárquica (Visual Hierarchy): En la página principal, las bandas más populares se destacarán visualmente, lo que permitirá a los usuarios identificarlas rápidamente.
+
+Secuencial (Step-by-Step): Durante el proceso de creación de un perfil de banda o la realización de un contrato, guiaremos a los usuarios a través de pasos secuenciales para simplificar el proceso y evitar confusiones.
+
+**Esquemas de Categorización de Contenido:**
+
+La información dentro de la aplicación se organizará en diferentes categorías para facilitar la búsqueda y la exploración. Aquí están los esquemas de categorización que utilizaremos:
+
+Alfabético: Las bandas estarán ordenadas alfabéticamente para que los usuarios puedan encontrarlas fácilmente por nombre.
+
+Por Tópicos: Categorizaremos las bandas por género musical, ubicación geográfica y popularidad para que los usuarios puedan descubrir nuevos talentos según sus preferencias.
+
+Según Audiencia (Grupos de Usuarios): Los diferentes tipos de usuarios, como músicos, promotores y fans, tendrán acceso a secciones específicas diseñadas para satisfacer sus necesidades particulares.
+
+![Esquema de organización](https://res.cloudinary.com/djia8bsvr/image/upload/v1712347338/Sistema_de_organizasion_iggeny.png)
+
+*Página Principal:*
+
+En la página principal, las bandas se presentarán en una disposición jerárquica, con las más populares destacadas en la parte superior, seguidas por bandas relevantes según las preferencias del usuario y la ubicación geográfica.
+
+Los eventos próximos se mostrarán secuencialmente en un calendario interactivo, lo que permitirá a los usuarios explorar y planificar su asistencia a conciertos y presentaciones.
+
+*Exploración de Bandas:*
+
+Los usuarios podrán explorar bandas por género musical, utilizando filtros de búsqueda que les permitirán refinar sus resultados según sus preferencias.
+
+Además, proporcionaremos una función de búsqueda alfabética para aquellos usuarios que conozcan el nombre de la banda que están buscando.
+
+#### 4.2.2. Labeling Systems.
+
+En nuestra aplicación web, es fundamental representar los datos de manera clara y concisa para evitar confusiones y facilitar la navegación de los usuarios. A continuación, detallamos cómo se etiquetarán los conjuntos de información y las asociaciones entre ellos:
+
+**Etiquetado de Conjuntos de Información:**
+
+**Bandas y solistas:** Utilizaremos etiquetas simples y descriptivas para identificar a las bandas. Por ejemplo:
+
+Nombre de la banda o solista
+
+Género musical
+
+Localización geográfica
+
+**Eventos:**
+Las etiquetas para los eventos incluirán información relevante como:
+
+Nombre del evento
+
+Fecha y hora
+
+Ubicación
+
+**Asociaciones entre Conjuntos de Información:**
+
+Relación Banda/Solista-Evento: Para asociar una banda con un evento, utilizaremos etiquetas que indiquen la participación de la banda en un evento específico. Por ejemplo:
+
+*Banda: [Nombre de la Banda]*
+
+*Solista: [Nombre del solista]*
+
+Evento: [Nombre del Evento]
+
+Contratos: Para los contratos entre bandas y promotores, usaremos etiquetas que identifiquen claramente las partes involucradas y los términos del contrato. 
+
+*Banda: [Nombre de la Banda]*
+
+*Solista: [Nombre del solista]*
+
+Promotor: [Nombre del Promotor]
+
+Términos: [Descripción breve del contrato]
+
+**Ejemplos de Etiquetado:**
+
+  Banda:
+
+    Nombre: "The Rockers"
+    Género: "Rock alternativo"
+    Localización: "Los Angeles, CA"
+
+    Evento:
+    Nombre: "Concierto en el Parque"
+    Fecha y Hora: "Sábado 15 de Mayo, 7:00 PM"
+    Ubicación: "Parque Central"
+
+    Relación Banda-Evento:
+
+    Banda: "The Rockers"
+    Evento: "Concierto en el Parque"
+    Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+
+    Banda: "The Rockers"
+    Promotor: "Live Music Productions"
+    Términos: "Presentación en vivo el 15 de Mayo en el Parque Central"
+
+Solista:
+
+    Nombre: "Max Castro"
+    Género: "Latinoamericana"
+    Localización: "Lima-Peru"
+
+    Evento:
+    Nombre: "Concierto dia de la madre"
+    Fecha y Hora: "Sábado 20 de Mayo, 7:00 PM"
+    Ubicación: "Parque Exposicion"
+
+    Relación Solista-Evento:
+    Solista: "Max Castro"
+    Evento: "Concierto dia de la madre"
+    Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+
+    Solista: "Max Castro"
+    Promotor: "Live Music Productions"
+    Términos: "Presentación en vivo el 15 de Mayo en el Parque exposicion por 2 horas de participacion"
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page**
+
+**Title:**
+*"Descubre Nuevas Bandas y Conciertos en línea | MiApp Musical"*
+
+Meta Tags:
+
+**Description:**
+*"Descubre y explora nuevas bandas, solistas y eventos musicales en línea. Únete a la comunidad de MiApp Musical y encuentra tu próximo concierto favorito."*
+
+**Keywords:**
+*"Música en vivo, Bandas musicales, Conciertos en línea, Eventos musicales, Descubrimiento de bandas"*
+
+**Author:**
+"CODEX-MusicTime"
+
+**Página Principal (Web Application)**
+
+**Title:**
+*"Explora Bandas y Eventos Musicales | MiApp Musical"*
+
+Meta Tags:
+
+**Description:**
+*"Explora una amplia variedad de bandas musicales y eventos en MiApp Musical. Encuentra tu próxima experiencia musical favorita y compra boletos en línea fácilmente."*
+
+**Keywords:**
+*"Explorar bandas, Eventos musicales, Compra de boletos, Descubrimiento de bandas, Música en vivo"*
+
+**Author:**
+"CODEX-MusicTime"
 
 ### 4.2.4. Searching Systems.
 
-**El sistema de búsqueda propuesto para FitHub permitirá a los usuarios personalizar su experiencia de fitness de acuerdo a sus preferencias. Este sistema facilitará la personalización de rutinas de ejercicio, planes de alimentación y actividades relacionadas con el fitness. Los filtros disponibles serán:**
+**El sistema de búsqueda propuesto para "MusicTime" permitirá a los usuarios personalizar su experiencia de contratación de artistas musicales de acuerdo a sus preferencias y necesidades. Este sistema de búsqueda facilitará la búsqueda de artistas, ajustando filtros como género musical, ubicación y tarifa. Además, permitirá a los usuarios evaluar y calificar a los artistas basándose en sus experiencias previas, proporcionando así una referencia adicional al momento de contratar. Este enfoque personalizado asegura que los usuarios puedan encontrar y contratar artistas que se alineen perfectamente con sus eventos y necesidades, haciendo que el proceso de contratación sea más eficiente y efectivo.**
 
 **El sistema de búsqueda contará con los siguientes filtros:**
 
 | Nombre del filtro     | Descripción                                                                                                         |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------|
-| Tipo  de Rutina         | Los  usuarios podrán seleccionar el tipo de rutina que desean, como cardio, fuerza, flexibilidad, etc.                  |
-| Objetivo  Fitness              | Los  usuarios podrán indicar su objetivo fitness, ya sea perder peso, ganar masa muscular, mantenerse en forma, etc.                                           |
-| Equipo  Necesario  | Los  usuarios podrán filtrar las rutinas según el equipamiento necesario, como pesas, banda elástica, máquina de cardio, etc.           |
-| Nivel  de Dificultad           | Los  usuarios podrán elegir el nivel de dificultad de las rutinas, ya sea principiante, intermedio o avanzado.                                            |
-| Tipo de Alimentación    | Los usuarios podrán seleccionar el tipo de alimentación que desean seguir, como dieta balanceada, vegetariana, alta en proteínas, etc.                              |
+| Género Musical         | Los usuarios podrán seleccionar el género musical que desean para el evento, como pop, rock, jazz, etc.                  |
+| Ubicación               | Los usuarios podrán elegir la ciudad, región o país donde se realizará el evento musical.                                           |
+| Experiencia del Artista  | Los usuarios podrán indicar el nivel de experiencia del artista, ya sea emergente, establecido o legendario.           |
+| Tarifa          | Los usuarios podrán establecer un rango de tarifa para la contratación del artista.                                            |
+| Duración del Evento    | Los usuarios podrán especificar la duración del evento, ya sea en horas o días.                              |
+| Tipo de Evento| Los usuarios podrán seleccionar el tipo de evento musical, como concierto, festival, boda, etc.                       |
+| Artistas Destacados| Los usuarios podrán elegir entre artistas que cuenten con recomendaciones o valoraciones positivas.        |
+| Contacto Directo con Artistas| Los usuarios podrán contactar directamente con los artistas para discutir detalles del evento.                         |
+| Historial de Contrataciones   | Los usuarios podrán acceder a su historial de contrataciones anteriores y utilizarlo como referencia. |
 
 
 ### 4.2.5. Navigation Systems.
 
-**El sistema de navegación de la plataforma FitHub guiará a los usuarios a través de las distintas secciones y ventanas del sitio web, proporcionándoles la información que necesitan sobre la aplicación. A continuación, se detallan las acciones técnicas que facilitarán la navegación de los usuarios:**
+**El sistema de navegación de la plataforma "MusicTime" guiará a los usuarios a través de las diferentes secciones y funcionalidades de la página web, proporcionándoles la información y herramientas necesarias para gestionar contratos de música de manera eficiente. A continuación, se detallan las acciones técnicas que facilitarán la navegación de los usuarios:**
 
-| Nombre        | Descripción                                                                                                                                                |
-|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Inicio        | Enlace que redirige al usuario a la página de inicio, donde se presentará una visión general de FitHub y sus características principales.                  |
-| Perfil        | Enlace que llevará al usuario a su perfil personal, donde podrá editar sus preferencias y configuraciones relacionadas con el fitness.                     |
-| Explorar      | Enlace que permitirá al usuario explorar las diferentes funciones y secciones de FitHub, incluyendo rutinas, seguimiento de progreso, etc.                 |
-| Planes        | Enlace que dirigirá al usuario a la sección de planes de entrenamiento, donde podrá encontrar rutinas prediseñadas y recomendaciones.                      |
-| Configuración | Enlace que redirige al usuario a la sección de configuración de la cuenta, donde puede ajustar sus preferencias y datos personales.                        |
-| Contáctanos   | Este enlace redirigirá a los usuarios a la sección de contacto, donde podrán encontrar información de contacto y formularios para consultas y preguntas.   |
-| Crear Cuenta  | Los nuevos usuarios podrán registrarse en FitHub y crear una cuenta personalizada para comenzar a disfrutar de todas las funcionalidades de la plataforma. |
-| Ayuda soporte | Enlace que guiará al usuario a la sección de ayuda y soporte, donde encontrará respuestas a preguntas frecuentes y podrá contactar al equipo de soporte.   |
+| Nombre               | Descripción                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Inicio               | Enlace que redirige al usuario a la página de inicio, donde se presentará una visión general de la plataforma y sus características principales para gestionar contratos de música. |
+| Servicio | Enlace que permitirá al usuario explorar los diferentes itinerarios de viaje disponibles, basados en sus preferencias y necesidades. |
+| Planes  | Enlace que dirigirá al usuario a los planes de contratación predeterminados, con detalles sobre tarifas y servicios adicionales. |
+| Unirse             | Enlace que redirige al usuario a la sección de unirse, donde a traves de un mensaje amigable, invita a los usuarios a unirse a la plataforma.  |
+| Mayor información      | Para mayor información, contáctanos mediante correo electrónico o usando las redes sociales. Aquí encontrarás asistencia y soporte para cualquier duda o problema que tengas. |
 
-**Este sistema de navegación simple y claro garantizará que los usuarios puedan moverse fácilmente por FitHub y acceder a las herramientas y recursos que necesitan para mejorar su salud y bienestar.**
+
+**Este sistema de navegación asegurará que los usuarios puedan encontrar fácilmente la información y herramientas necesarias para organizar sus viajes de forma eficiente y adaptada a sus necesidades.**
 
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-![landing](https://github.com/HealthyL/Informe/assets/137470462/24b52b1f-0f8a-48aa-bb36-165855e5893f)
 
 
-### 4.3.2. Landing Page Mock-up.
+**Será una idea de la representación de cómo se verá nuestra landing page.**
 
+**El landing page se compone de varias secciones que guiarán a los usuarios a través de la página web y les proporcionarán la información necesaria sobre nuestra plataforma de contratación de artistas musicales.**
 
-![landing](https://github.com/HealthyL/Informe/assets/137470462/4b99df2f-86bd-434e-bec4-fd197ad23a3d)
+Sección de Únete!, que se usará en el desarrollo del Landing Page.
+![wireframe 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712994811/betis6k49eude4ewip4g.png)
 
- 
-## 4.4 Web Applications UX/UI Design.
-### 4.4.1 WebApplication Wireframes.
-Sección pago:
-![pago](https://github.com/HealthyL/Informe/assets/134560396/3ffe1e45-31d2-4c26-9a4d-0ff75105485e)
+Sección de servicios, que se usará en el desarrollo del Landing Page, donde el usuario podra observar todos los servicios.
+![wireframe 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712995019/w67umr9ruib8exbrx1u6.png)
 
-Sección datos:
-![datos](https://github.com/HealthyL/Informe/assets/134560396/c2119c5c-3d06-4411-bc86-3bca1255f0a4)
+Seccion de planes, que se usara en el desarrollo del Landing Page.
 
-Sección crear cuenta:
-![crearcuenta](https://github.com/HealthyL/Informe/assets/134560396/c191021e-f648-4a0b-822e-575858441df1)
+![wireframe 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712995041/dc8w1f1e6ma6yrj2rl0a.png)
 
-Sección iniciar sesión:
-![iniciarsesion](https://github.com/HealthyL/Informe/assets/134560396/9803aa5d-992b-43c6-8270-359cceab1d03)
+Y por ultimo la seccion de contacto, donde el usuario podra contactarse con nosostros mediante correo electronico.
 
-Sección Mi cuenta:
-![micuenta](https://github.com/HealthyL/Informe/assets/134560396/73529280-17f1-4863-a93b-be91bc482b55)
+![wireframe 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712995059/i3oky5f4bs6dplcuv9ea.png)
 
-Sección Alimentación:
-![comida](https://github.com/HealthyL/Informe/assets/134560396/a98021ec-135f-45a9-93a6-4490f7314e5e)
 
-Sección Productos:
-![productos](https://github.com/HealthyL/Informe/assets/134560396/0e8b6dd2-4b1a-436c-81fa-ec9305cb779b)
+#### 4.3.2. Landing Page Mock-up. 
+Sección de Únete!, como vista final en Landing Page.
+![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1714675335/clqiln3m3ws2fs7qwtep.png)
 
-### 4.4.2. Web Applications Wireflow Diagrams.
-En esta introducción, explicaremos cómo los Diagramas de Flujo de Aplicaciones Web nos ayudan a entender la estructura y la lógica de nuestra aplicación, identificando las diferentes pantallas, funciones y acciones que los usuarios pueden realizar.
-Anexo D: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748 ](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748 )
+Sección de servicios, como vista final en Landing Page, donde el usuario podra ver todo lo que le ofrecemos en nuestra plataforma
+![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714675394/jqzkub8hpmoobiktnocz.png)
 
-User Goal: Navegar por la sección de Mi Cuenta
-Para lograrlo, el usuario ingresa a la sección de "Inicio Sesión", y luego presiona el botón de la barra de herramientas "Mi cuenta" para navegar por las opciones que ofrece esta sección. De esta manera, gestionar tus datos personales y preferencias según tus necesidades.
-![image](https://github.com/HealthyL/Informe/assets/134560396/755c4fb7-2823-4569-8aea-9fc6a91b71b7)
+Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usuarios.
+![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714675397/ia0nt0zpbwqm1e5a2qy3.png)
 
 
-User Goal: Navegar por la sección de Rutina
-Para lograrlo, el usuario ingresa a la sección inicial de "Mi Cuenta", y luego presiona el botón de la barra de herramientas "Rutina" para navegar por las opciones que ofrece esta sección. De esta manera, se mostrarán tarjetas de rutinas para diferentes días de la semana y la cantidad y tiempo que tienes que invertir en realizar cada ejercicio.
-![image](https://github.com/HealthyL/Informe/assets/134560396/f85592d3-f0e6-4ec4-8660-70db7a48e684)
+![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1714675419/wfepzdeh5iokrdq6p4hn.png)
 
+Sección Uneté y contacto, como vista final en Landing Page.
+![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714675434/t7mdvpaog0tpyvwjwtjy.png)
 
-User Goal: Navegar por la sección de Nutrición
-Para lograrlo, el usuario ingresa a la sección inicial de "Mi Cuenta", y luego presiona el botón de la barra de herramientas "Nutrición" para navegar por las opciones que ofrece esta sección. Cabe resaltar que, por defecto, verá las recomendaciones de desayunos.
-![image](https://github.com/HealthyL/Informe/assets/134560396/3ce6873f-38c7-4285-a240-2a5685a360cd)
+![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714675451/pacpxjszk1byaiekz1z8.png)
 
 
-User Goal: Visualización de los Almuerzos
-Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Nutrición”, y instantáneamente presionar el botón de “Almuerzos”, donde el usuario podrá visualizar las diferentes recomendaciones de almuerzos.
-![image](https://github.com/HealthyL/Informe/assets/134560396/248a01fb-f0a8-4a27-9b29-176ed83435ce)
+**Mobile**
+Vista Home 
 
+![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1714755155/imagen_2024-05-03_115233108_ngrb69.png)
 
-User Goal: Visualización de los Cenas
-Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Nutrición”, y instantáneamente presionar el botón de “Cenas”, donde el usuario podrá visualizar las diferentes recomendaciones de cenas.
-![image](https://github.com/HealthyL/Informe/assets/134560396/e4731d47-1010-4b16-a148-b885f2ddcda7)
+![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1714755180/imagen_2024-05-03_115246715_g9aj0d.png)
 
+![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1714755185/imagen_2024-05-03_115303348_gu38gx.png)
 
-User Goal: Visualización de los Productos
-Para lograrlo,  el usuario ingresa a la sección inicial de Mi Cuenta, para luego, presionar el botón de la toolbar “Productos”, luego podrá visualizar las tarjetas de productos con diferentes opciones de estos.
-![image](https://github.com/HealthyL/Informe/assets/134560396/7f3d8000-2130-41a2-a73a-f0a19a9bba09)
+![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1714755211/imagen_2024-05-03_115321751_lwddey.png)
 
+![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1714755215/imagen_2024-05-03_115333324_yedngn.png)
 
-### 4.4.3. Web Applications Mock-ups.
+![Page 6](https://res.cloudinary.com/drkelnilg/image/upload/v1714755241/imagen_2024-05-03_115357664_ur6xf8.png)
 
-En esta introducción, explicaremos cómo los Mock-ups de Aplicaciones Web nos ayudan a transformar ideas y conceptos en diseños tangibles, permitiendo una mejor comprensión de la estructura y el flujo de la aplicación. Veremos cómo estos mockups nos permiten validar y refinar el diseño antes de pasar a la etapa de desarrollo, identificando posibles problemas de usabilidad y asegurando una experiencia de usuario óptima.<br>
-Anexo E: [https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=475-242](https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=475-242)
+**Enlace del figma:** https://www.figma.com/file/PPlG9908PDr3KqBEKkH3We/Untitled?type=design&node-id=3-102&mode=design&t=xp0ZW0dNVYVVW5I4-0
 
-En esta sección, el entusiasta del fitness debe registrarse como usuario nuevo, completando los campos requeridos: correo electrónico, nombre, apellidos, nombre de usuario y la contraseña para su cuenta.
-![image](https://github.com/HealthyL/Informe/assets/134560396/9713b48b-928b-4b7c-9e85-8c40a43dcfe8)
 
-En esta sección, el entusiasta del fitness debe escoger el plan que desee. Al seleccionar un plan, el sistema habilitará ciertas funcionalidades y recursos específicos según el plan elegido. Esto permitirá al usuario aprovechar al máximo las herramientas y servicios disponibles, optimizando su experiencia y apoyando mejor sus objetivos de fitness.
-![image](https://github.com/HealthyL/Informe/assets/134560396/bfe0be2b-8220-4e39-9b60-4d105f3f7f53)
+### 4.4. Web Applications UX/UI Design.
+#### 4.4.1. Web Applications Wireframes.
 
-En esta sección, el entusiasta del fitness debe completar el proceso de pago para el plan que ha seleccionado. Una vez completado el pago, el usuario tendrá acceso inmediato a los beneficios y recursos del plan escogido.
-![image](https://github.com/HealthyL/Informe/assets/134560396/d817a20f-a119-44b6-95b3-2bc62911909d)
+**Organizadores:**
+Segmento de registro e inicio de sesion para los organizadores.
+![web 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712997434/lkdthrrokotlhx3snx5y.png)
 
+![web 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712997459/cfg822djdc0gofbdqssv.png)
 
-En esta sección, el entusiasta del fitness debe ingresar los datos que ayudarán al sistema a crear una navegación personalizada en nuestra plataforma. Los datos a completar son: peso, altura, edad y objetivo de fitness.
-![image](https://github.com/HealthyL/Informe/assets/134560396/d4cc6ab4-172d-406e-91c0-1bd3cb742701)
+Al iniciar sesión en la primera pantalla se muestra una lista de artistas que puede contactar, ademas de un menu y una barra de busqueda.
 
-En la sección de Mi Cuenta, el usuario tendrá la opción de actualizar sus datos personales, como su nombre, apellidos, correo electrónico, nombre de usuario, y contraseña. Esta funcionalidad asegura que la información del usuario esté siempre actualizada y que la plataforma pueda seguir proporcionando una experiencia personalizada y relevante.
-![image](https://github.com/HealthyL/Informe/assets/134560396/da5f25f5-db47-4c6d-8ac3-8c1b902d7284)
+![web 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712997489/wcfjtsdykkrcilserob9.png)
 
-En la sección de Rutinas, el usuario podrá explorar las diversas opciones de rutinas que ofrece FitHub. Podrá visualizar qué conjunto de ejercicios realizar en cada día, facilitando así la planificación y seguimiento de su entrenamiento físico. Al hacer clic en cada rutina específica, como "Sentadilla Búlgara", tendrá acceso a información detallada sobre los ejercicios incluidos, como instrucciones y repeticiones recomendadas.
-![image](https://github.com/HealthyL/Informe/assets/134560396/d76d799a-a018-413e-bcb6-ec95e34280f6)
+Aqui puede ver la descripcion de cada artista y sus precios, ademas de que puede contactarlo mediante un chat.
 
-En la sección de Nutrición, el usuario podrá explorar las diversas opciones de platos que ofrece FitHub. Podrá acceder a ideas para desayunos, almuerzos y cenas, con la posibilidad de editar, eliminar o agregar nuevas recetas. Esto permite a los usuarios utilizar nuestra plataforma tanto como una fuente de inspiración para comidas equilibradas como para guardar y gestionar sus propias recetas favoritas.
-![image](https://github.com/HealthyL/Informe/assets/134560396/698431aa-5631-4b6c-bcc7-ac571a029b9c)
+![web 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712997495/yllibiwogpqeyi39bxwi.png)
 
-En la sección de Productos, el usuario podrá visualizar diferentes productos de fitness para utilizar en sus ejercicios. Podrá ver el precio, dónde conseguirlos, así como el nombre e imagen del producto. Esta sección se divide en tres categorías: equipos para ejercicios cardiovasculares y funcionales, y productos de alimentación.
-![image](https://github.com/HealthyL/Informe/assets/134560396/6c8eeb72-8d54-430c-a97c-310e5f81e70c)
+![web 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712997512/ighlqiost5lqaxwukurx.png)
 
 
-### 4.4.4. Web Applications User Flow Diagrams.
-En esta sección, exploramos el flujo del usuario al navegar por nuestra plataforma. 
-Anexo E: [https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
+Aqui se mostrata la lista de solicicitudes en caso haya tratado de contratar a algunos artistas.
 
-User goal: Crear cuenta
-User persona: Cliente de FitHub
-Explicación del flujo: En primer lugar, el visitante deberá dar click al botón “Crear Cuenta”, que se encuentra en el Header de la Landing Page. Este mostrará la sección “Crear Cuenta” en donde se deben ingresar los datos requeridos. En segundo lugar, deberá llenar los datos para realizar el pago correspondiente al plan elegido. Si el pago se realiza correctamente el usuario se redirigirá a llenar unos datos finales para la creación de su plantilla personalizada, si el pago no se realiza, volverá a pedir los datos de “Pago”. Finalmente, cuando todo esté completado el usuario, ahora FitExplorer podrá disfrutar de los servicios personalizados ofrecidos por la aplicación web.
-![image](https://github.com/HealthyL/Informe/assets/134560396/9f3761e0-044d-4492-a393-c424b2e0ab71)
+![web 6](https://res.cloudinary.com/drkelnilg/image/upload/v1712997529/qq2zrboytohd9fmz4554.png)
 
+Tambien puede hacer una busqueda por filtros y leer las reseñs que dejan.
 
-User goal: Iniciar sesión
-User persona: Cliente de FitHub
-Explicación del flujo: Primero, el FitExplorer deberá ingresar a nuestra landing page. A continuación, deberá dar click en el botón iniciar sesión, que se encuentra en el header, para ser dirigido a rellenar sus datos. Una vez complete sus datos, se desplegará la plataforma. A primera vista será el apartado de cuenta.
-![image](https://github.com/HealthyL/Informe/assets/134560396/0e7f29ea-e9fe-43f7-a961-fa6af9cc7d77)
+![web 7](https://res.cloudinary.com/drkelnilg/image/upload/v1712997569/n8eeol4eqqvitq23bxqr.png)
 
+![web 8](https://res.cloudinary.com/drkelnilg/image/upload/v1712997574/ufnwirtjvhshnwxpvy1a.png)
 
-User goal: Visualización de rutina
-User persona: Cliente de FitHub
-Explicación del flujo: Cuando el usuario ingresa a su cuenta, al lado izquierdo se encuentran los iconos de los servicios que se ofrecen. El tercer icono, de la pesa, redirige al FitExplorer a la interfaz de las rutinas. Tendrá la opción de elegir la rutina dependiendo del grupo de músculos a trabajar. Cuando el grupo sea seleccionado se mostrarán los ejercicios completos. Si uno de los ejercicios es seleccionado muestra detalles del ejercicio.
-![image](https://github.com/HealthyL/Informe/assets/134560396/66388dbf-b53e-4218-92ef-1ad872adbaa2)
+Aqui se mostrata la confirmacion, cuando haya contratado a un artista.
 
+![web 9](https://res.cloudinary.com/drkelnilg/image/upload/v1712997591/brmyr8potn0kvgaamp6i.png)
 
-User goal: Elección de comidas
-User persona: Cliente de FitHub
-Explicación del flujo: Cuando el usuario accede a su cuenta en FitHub, encontrará una serie de opciones de navegación en el menú de arriba. El tercer icono, de la manzana, redirige al FitExplorer a la interfaz de las comidas que tiene por elegir. Tendrá las opciones de almuerzos, lo redirigirá a elegir opciones de almuerzos, y la misma secuencia se realiza para el sector de cenas y desayunos.
-![image](https://github.com/HealthyL/Informe/assets/134560396/96e57d86-8353-43f1-a19a-c7bec599b56c)
 
 
-User goal: Elección de productos
-User persona: Cliente de FitHub
-Explicación del flujo: Cuando el usuario accede a su cuenta en FitHub, encontrará una serie de opciones de navegación en el menú de arriba. El cuarto ícono, representado por una manzana, lo dirigirá a la sección de productos disponibles. Al ingresar a esta sección, el cliente podrá elegir entre diferentes categorías de productos, como Cardio, Alimentación y Funcionales, utilizando un menú desplegable.
-Una vez seleccionada una categoría, se mostrarán tarjetas con los productos disponibles dentro de esa categoría. Por ejemplo, si elige la categoría "Cardio", verá una lista de productos relacionados con el entrenamiento cardiovascular, incluyendo el nombre del producto, su precio y dónde se puede adquirir.
-![image](https://github.com/HealthyL/Informe/assets/134560396/39275fb7-2fce-4916-a091-c593c27c8a74)
+**Artistas:**
+Segemento de registro e inicio de sesión para ek artista, para poder registrarse tiene que comprar un plan y activar su cuenta.
 
+![web 10](https://res.cloudinary.com/drkelnilg/image/upload/v1712998600/fdfvb2z5hvoldsxqcfiq.png)
 
-## 4.5. Web Applications Prototyping.
-
-Prototipo de Aplicación Web: "FitHub"
-*Página de Inicio:*
-- Bienvenida y Descripción: Breve descripción sobre FitHub, destacando su visión de promover una vida saludable mediante dietas y rutinas personalizadas.
-- Registro/Inicio de Sesión: Opciones claras para que los usuarios puedan registrarse o iniciar sesión.
-- Perfil Personal: Detalles del perfil del profesional, incluyendo su nombre, fecha de nacimiento, DNI, género. etc.
-- Funcionalidades:
-  - Rutinas: Lista de rutinas de ejercicios personalizados basados en los objetivos y nivel de fitness del usuario.
-  - Nutrición: Tarjetas con recomendaciones de desayunos, almuerzos y cenas saludables, incluyendo nombre e ingredientes. Opción para editar o eliminar tarjetas según necesidades.
-  - Productos: Tarjetas con productos alimenticios, funcionales y para entrenamiento cardiovascular, mostrando nombre del producto, precio y dónde se puede encontrar.
-- Enlace del flujo:
-Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design)
-
-
-Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EffIn_xlDglEruVvXZLjas0Bmxf0N7GqNtjWrPi4rsoD2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DsgsMx)
-En este video de explicación, exploramos
-desde el inicio de sesión hasta la realización de tareas específicas, exploramos cómo los usuarios interactúan con la aplicación y cómo se guían a través de ella para lograr sus objetivos.
-
-
-
-## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
-![image](https://github.com/HealthyL/Informe/assets/134560396/cbae6de9-4fc2-42bd-af8d-cebd7e446fee)
-
-### 4.6.2. Software Architecture Container Diagrams.
-![image](https://github.com/HealthyL/Informe/assets/134560396/4f46c8df-b3c8-42b6-b2a3-7401dea91dff)
-
-
-### 4.6.3. Software Architecture Components Diagrams.
-![image](https://github.com/HealthyL/Informe/assets/134560396/b455551b-a4a2-44db-8f18-a0ef66d4bca9)
-
-
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-ACTUALIZAR
-
-### 4.7.2. Class Dictionary.
-ACTUALIZAR
-
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
-ACTUALIZAR
-
-# Capítulo V: Product Implementation, Validation & Deployment.
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration. 
-CORREGIR BARBARA
-
-### 5.1.2. Source Code Management.
-CORREGIR BARBARA
-
-### 5.1.3. Source Code Style Guide & Conventions.
-
-Para mantener consistencia y claridad en el código fuente de nuestra página de aterrizaje FitHub, seguimos las siguientes convenciones y directrices:
-
-Uso de Etiquetas HTML en Minúsculas: Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
-
-HTML
-- **Uso de Etiquetas en Minúsculas:** Todas las etiquetas HTML deben escribirse en minúsculas para garantizar la coherencia y cumplir con las especificaciones.
-  ```html
-  <etiqueta>
-
-
-* Capitalización: Todo el código debe utilizar letras minúsculas, incluidos los nombres de elementos HTML, atributos, valores de atributos, selectores CSS, propiedades y valores de propiedades (excepto cadenas).
-  
-  ```HTML
-  <img src="google.png" alt="Google">
-  ```
-  ```CSS
-  color: #e5e5e5;
-  ```
-* Uso de Atributos en Comillas Dobles: Los atributos de las etiquetas deben estar dentro de comillas dobles para asegurar una sintaxis válida.
-  ```HTML
-  <etiqueta atributo="valor">
-  ```
-
-* Indentación y Estructura Clara: Seguimos una estructura de indentación clara de 2 espacios para mejorar la legibilidad del código HTML.
-  
-  ```HTML
-  <!DOCTYPE html>
-  <html>
-  <head>
-      <title>Página de ejemplo</title>
-  </head>
-  <body>
-    <header>
-      <h1>Encabezado</h1>
-      <nav>
-        <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">funcion</a></li>
-            <li><a href="#">planes</a></li>
-            <li><a href="#">Contacto</a></li>
-        </ul>
-      </nav>
-    </header>
-    <footer><p>&copy; 2023 - Mi Empresa</p></footer>
-  </body>
-  </html>
-  ```
-* Separación de Bloques de Declaración: La llave de apertura debe estar en la misma línea que el último selector en una regla determinada, con un espacio entre el bloque de declaración y el último selector.
-  ```CSS
-  .card {
-    margin-top: 1em;
-  }
-  ```
-* Separación de Reglas: Dejar siempre una línea en blanco entre bloques de reglas.
-  ```CSS
-  html {
-    background: #fff;
-  }
-  
-  body {
-    margin: auto;
-    width: 50%;
-  }
-  ```
-
-### 5.1.4. Software Deployment Configuration.
-
-Para implementar y desplegar nuestra página de aterrizaje FitHub, seguimos el siguiente proceso utilizando la funcionalidad de "GitHub Pages":
-
-1. **Seleccionar Repositorio y Rama:** Nos dirigimos al repositorio de nuestra página de aterrizaje FitHub en GitHub. En el apartado de "Pages", seleccionamos la rama principal (main) como la rama de implementación.
-
-2. **Configurar Despliegue:** Una vez seleccionada la rama, GitHub Pages generará automáticamente un enlace a nuestra página de aterrizaje.
-
-3. **Verificar y Probar:** Esperamos a que se genere el enlace a nuestra página de aterrizaje y verificamos que todo funcione correctamente probando el enlace.
-
-Siguiendo este proceso, garantizamos que nuestra página de aterrizaje FitHub esté disponible para su visualización y acceso público de manera rápida y sencilla.
-
-## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint 1
+![web 11](https://res.cloudinary.com/drkelnilg/image/upload/v1712998659/fnno1ver0buitxef4xkh.png)
+
+![web 12](https://res.cloudinary.com/drkelnilg/image/upload/v1712998678/ptsbew0xbv1gqddeygba.png)
+
+![web 13](https://res.cloudinary.com/drkelnilg/image/upload/v1712998722/fv80zzc7s5gs4yu9jnu6.png)
+
+![web 14](https://res.cloudinary.com/drkelnilg/image/upload/v1712998726/ahuorofmgsag2i7yfx3x.png)
+
+Cuando Ingrese a su cuenta, al inicio se le mostrar una lista de eventos a los que puede postular.
+
+![web 15](https://res.cloudinary.com/drkelnilg/image/upload/v1712998754/fzrm3xq5gkzcnklvzest.png)
+
+Aqui se le mostraran las solicitudes de eventos y decidira cual de todos acepta.
+
+![web 16](https://res.cloudinary.com/drkelnilg/image/upload/v1712998768/jvw6z5rjydm7qxldf2xl.png)
+
+Podra subir algunas de sus canciones o albunes al igual que clips de sus videos.
+
+![web 17](https://res.cloudinary.com/drkelnilg/image/upload/v1712998785/rabxmgtutottvmfkmbvo.png)
+
+Podra comunicarse por chat con el organizador de eventos.
+![web 18](https://res.cloudinary.com/drkelnilg/image/upload/v1712998802/zqmcyhwf9gdtjovedsfg.png)
+
+Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaje de confirmacion para su contrato con el organizador.
+
+![web 19](https://res.cloudinary.com/drkelnilg/image/upload/v1712998820/mcv1voezdq8r1bkjjlpw.png)
+
+![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
+
+#### 4.4.2. Web Applications Mock-ups.
+
+Aca se mostrara el inicio del login: <br>
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393776580198411/image.png?ex=6630924a&is=662f40ca&hm=ec729ce104a2bcc33139dbcb8b5cfe4675e980753f97bb14aba86de83fad1fd7& )  
+
+Aca se registran los usuarios nuevos: <br>
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
+
+Perfil de Usuario: <br>
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234393897724018719/image.png?ex=66309267&is=662f40e7&hm=5a9b3490ed9fc299449f5d8bec79d843483dea3cade7135cf5fd550841722771&) 
+
+Los planes que tiene el usuario para Upgradearse: <br>
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
+
+La seccion de pagar con tarjeta:
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394027848368219/image.png?ex=66309286&is=662f4106&hm=69d6b678dce6663a200cd823b55ebf1f7e65818cc93b63d4ed2f3ca6bde43557& ) 
+
+El inicio del Usuario:
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=66339533&is=663243b3&hm=10f4ecb7dd864f762ad844c9a6e43ada56ae0f252b8e6bcf4a76209a5e83ab48&) 
+
+El buscador de genero del usuario: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
+
+Los artistas mas frecuentes del Usuario: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394268697624667/image.png?ex=663092bf&is=662f413f&hm=14d92d0ec5578808fcfead6b09f6cd2fb60050917ff14974129882e1cacf86e8&)
+
+El perfil del cantante o banda: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+
+La pagina para contratar al cantante o banda: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+
+LA confirmacion del contrato con el cantante o banda: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
+
+El Incio del artista: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394579617447947/image.png?ex=66309309&is=662f4189&hm=65c728ba60b44f181686870eb91e05d27c6999a85f027bf04966c3d78a2b1e1d&) 
+
+El evento a detalle del artista: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394644419317832/image.png?ex=66309319&is=662f4199&hm=7e03089b5ed7762cf5b6b5d080767c290a9c6e83244ad5b978f1f99af2afb34f& ) 
+
+Las solisitudes del Artista:
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394704389345310/image.png?ex=66309327&is=662f41a7&hm=3f639badf9231765bb97addf2d977088a26d2b7fcac2787e0a05f7f1b3704d86& ) 
+
+La pagina para aceptar o denegar solicitudes del artista: 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+
+La musica del artista: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
+
+La pagina de contactanos para usarios y artistas: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
+
+#### 4.4.3. Web Applications User Flow Diagrams.
+
+En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
+
+**Segmento objetivo Cliente:**
+
+
+**User Goal:** Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento.   
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
+
+**User Goal:** Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su 
+calidad. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+
+**User Goal:** como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+
+**User Goal:** como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& )
+
+**User Goal:** Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente 
+cualquier problema o duda durante el proceso de contratación de músicos.  
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
+
+**Segmento objetivo Artistas:**
+
+
+**User Goal:** Como musico, quiero poder registrarme en la plataforma utilizando mi dirección de correo electrónico y una contraseña segura.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
+
+**User Goal:** Como musico, quiero poder acceder y visualizar los planes de suscripción disponibles para tener una idea clara de las opciones y beneficios.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
+
+**User Goal:** Como solista o banda, quiero crear un perfil en la plataforma para promocionar mi música y servicios. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
+
+**User Goal:** Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+
+**User Goal:** Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
+### 4.5. Web Applications Prototyping.
+
+![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
+
+Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI-(Copy)-(Copy)-(Copy)?type=design&node-id=45816-969&t=HXSzEJFodMR3vk47-0&scaling=min-zoom&page-id=45348%3A1263&starting-point-node-id=45816%3A969
+
+### 4.6. Domain-Driven Software Architecture.
+#### 4.6.1. Software Architecture Context Diagram.
+
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163814/structurizr-90691-Context_goryk6.png)
+
+#### 4.6.2. Software Architecture Container Diagrams.
+
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Containers_imjtmy.png) 
+
+#### 4.6.3. Software Architecture Components Diagrams.
+**Component Diagram "Identity and Access Management"**
+
+Se realizo el Component Diagram en base al Bounded Context "Identity and Access Management" donde el cliente y el musico se registran dento de la plataforma.
+
+![IM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_1_l9sl1l.png)
+
+**Component Diagram "Suscripcion and payment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Suscripcion and payment" donde se puede observar el proceso de la suscripción y los pagos dentro de la plataforma.
+
+![SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_3_cei7ti.png)
+
+**Component Diagram "Social Interaction and Feedback"**
+
+Se realizo el Component Diagram en base al Bounded Context "Social Interaction and Feedback" se puede observar el método para las publicaciones de los artistas y la calificación de los clientes hacia los artistas.
+
+![SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_2_fgjq3w.png)
+
+**Component Diagram "Managment of musician profiles"**
+
+Se realizo el Component Diagram en base al Bounded Context "Managment of musician profiles" donde los usuarios editan su perfil público asi como la opcion de agregar grupos.
+
+![MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_4_dlmzsv.png)
+
+**Component Diagram "Contract Managment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Contract Managment" donde se puede ver el funcionamiento del contrato dentro de la aplicación.
+
+![CM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Component_microservice_5_esmbki.png)
+
+
+### 4.7. Software Object-Oriented Design.
+#### 4.7.1. Class Diagrams.
+
+**Diagrama de clase de bounded context "Identity and Access Management"**
+
+![DC-IAM](https://res.cloudinary.com/djia8bsvr/image/upload/v1713059291/IAM-MusicTime_i7ocxm.png)
+
+Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en la cual podemos gestionar el registro de usuarios y clientes dentro de la plataforma de esta manera identificar y separa quienes pertenecen a clientes normales a empresas que realizan contratos continuos habilitando con el plan esas funciones.
+
+**Diagrama de clase de bounded context "Suscripcion and payment"**
+
+![DC-SP](https://res.cloudinary.com/djia8bsvr/image/upload/v1713051544/WhatsApp_Image_2024-04-13_at_12.58.39_AM_zclpbg.jpg)
+Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
+
+**Diagrama de clase de bounded context "Social Interaction and Feedback"**
+
+![DC-SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1713064605/SocialInteraction_mdlu1v.png)
+Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
+
+**Diagrama de clase de bounded context "Managment of musician profiles"**
+
+![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
+Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
+
+**Diagrama de clase de bounded context "Contract Managment"**
+
+![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
+Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
+
+### 4.8. Database Design.
+#### 4.8.1. Database Diagram.
+
+![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/MusicTime-2024-04-13_21-27_twem3q.png)
+<br>
+
+
+## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+
+### 5.1. Software Configuration Management.
+
+En esta sección se establece las convenciones en las cuales el grupo organizara el desarrollo del producto como también la descripción de algunas herramientas que usara el startup para la gestión del avance del proyecto y todo su ciclo de vida.
+
+#### 5.1.1. Software Development Environment Configuration.
+
+En esta sección, nuestro equipo de desarrollo proporcionará una descripción exhaustiva de las herramientas de software que utilizamos para colaborar en todas las etapas del ciclo de vida de nuestro producto digital. Detallaremos los nombres de las herramientas, su propósito y dónde se pueden encontrar o consultar.
+
+- <b>WhatsApp:</b> Una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Se emplea comúnmente para la comunicación tanto personal como empresarial.
+- <b>Discord:</b> Una plataforma de comunicación en línea que integra chat de texto, voz y video. Aunque es popular en la comunidad de jugadores, también se utiliza para la comunicación en grupos y equipos.
+- <b>Google Drive:</b> Un servicio de almacenamiento en la nube de Google que posibilita a los usuarios guardar y compartir archivos en línea. Además, ofrece herramientas de colaboración como Google Docs y Google Sheets.
+- <b>GitHub:</b> Una plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Su principal función es alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
+- <b>Visual Studio Code:</b> Un editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
+- <b>Uxpressia:</b> Una herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
+- <b>Vertabelo:</b> Una plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
+- <b>LucidChart:</b> Una herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos para visualizar procesos y conceptos.
+- <b>Figma:</b> Una aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
+- <b>Jira:</b> Una herramienta de gestión de proyectos basada en tarjetas y tableros que facilita la organización de tareas y proyectos, así como la colaboración en equipo.
+- <b>Structurizr:</b> Una herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
+- <b>Canvas:</b> Una plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
+
+#### 5.1.2. Source Code Management.
+
+| Nombre completo | Nombre de la cuenta |
+| --------- | --------- |
+|Jeferson Smith Cabrera Camizan  |jeferson11C          |
+|Victor Raul Herrera Castillo    |VictorHerrera10      |
+|Loarte Matos, Anthony Brahan      |Anthony07LG       |
+|Cipriano Chumbes, Bruce Andres  | BruceACC      |
+|Pingus Rodrigez, Carlos Daniel    | Kazuto64          |
+
+Evidencia de la creacion del repositorio de trabajo.
+
+**Enlace de la organizacion general:** https://github.com/TempSound
+
+**Enlace del repositorio del informe:** https://github.com/TempSound/Informe/tree/develop
+
+![git](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo-1_vcnem7.png)
+
+Creacion de las ramas de trabajo (branchs).
+
+![git2](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo_2_u4xdlh.png)
+
+Commits de evidencia del trabajo
+
+![git3](https://res.cloudinary.com/djia8bsvr/image/upload/v1713105680/Repo_4_ctiehv.png)
+
+
+
+
+#### 5.1.3. Source Code Style Guide & Conventions.
+
+En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras convenciones, estilos y principios que utilizaremos para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación.
+
+**Convenciones de codificación**
+* Se han aplicado sangrías de 2 espacios para mejorar la legibilidad del código.
+<br>
+
+* Se han empleado nombres descriptivos para identificar variables y funciones de manera más clara.
+<br>
+
+* Se sigue la convención camelCase para nombrar variables y funciones (por ejemplo, "analyzePhoto" en lugar de "analyze_photo").
+<br>
+
+* Se ha incorporado documentación mediante comentarios para explicar secciones del código que podrían no ser evidentes de inmediato.
+<br>
+
+* Se han agrupado funciones relacionadas y se han utilizado comentarios para dividir el código en secciones lógicas.
+<br>
+
+* Se ha procurado mantener la longitud de las líneas de código dentro de límites razonables (generalmente entre 80 y 100 caracteres por línea) para mejorar la legibilidad y evitar la necesidad de desplazamientos horizontales.
+<br>
+
+**Comentarios:**
+
+* Hemos agregado comentarios claros y concisos para explicar el propósito de las funciones, métodos y secciones de código.
+<br>
+
+* Documentamos las funciones y métodos utilizando JSDoc o una convención similar.
+<br>
+
+**Pruebas:**
+
+* Se han ejecutado pruebas unitarias para validar el funcionamiento correcto de las funciones y componentes clave de la página web.
+<br>
+
+* Se han empleado herramientas específicas durante el desarrollo del código y para llevar a cabo pruebas adecuadas utilizando los lenguajes de programación JavaScript, CSS y HTML.
+<br>
+
+**Control de versiones:**
+
+* Se ha empleado un sistema de control de versiones, como Git, para registrar y gestionar los cambios en el código.
+<br>
+
+* Se han seguido las convenciones de nomenclatura para ramas y etiquetas.
+<br>
+
+* Se realizan confirmaciones de código significativas y bien documentadas para mantener un historial claro y comprensible de los cambios realizados.
+<br>
+
+**Compatibilidad y Rendimiento:**
+
+* Aseguramos que el sitio web sea compatible con los navegadores más populares y se cargue de manera eficiente.
+
+
+#### 5.1.4. Software Deployment Configuration.
+
+Nuestro proyecto está alojado en un repositorio de GitHub  y para el despliegue de nuestro landing page se a usado el GithubPages, ya que es una excelente manera de mostrar tu sitio web de forma gratuita y accesible en línea
+![pages1](https://res.cloudinary.com/drkelnilg/image/upload/v1713064230/zv2jeg1xbm5twf8emqnh.png)
+<br>
+Se  a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
+![pages](https://res.cloudinary.com/drkelnilg/image/upload/v1713064241/ey3c3oahikcbpdspj3mh.png)
+
+Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page.
+![pages2](https://res.cloudinary.com/drkelnilg/image/upload/v1713064253/ziqqlwlsxh5cnxp468wm.png)
+
+**Enlace del repositorio de landing Page:**
+https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
+
+**Enlace del landing Page:**
+https://tempsound.github.io/MusicTime-lading-page/
+
+### 5.2. Landing Page, Services & Applications Implementation.
+En este segmento se implementó a la plataforma de inicio los servicios, planes y aplicaciones que ofrece “MusicTime”.
+#### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1.
-| Sprint # | Sprint 1 |  
-|---|---|
-| Sprint Planning Background |
-| Date | 12/04/2024 | 
-| Time | 9:00 AM | 
-| Location | Reunión virtual en Discord |
-| Prepared by | Jimena Cama Salvatierra | 
-| Attendees (to planning meeting) | Jimena Tamara Cama Salvatierra<br>Bruce Andres Cipriano Chumbes<br>Anthony Brahan Loarte Matos<br>Barbara Susana Quezada Portalatino |
-| Sprint Goal &amp; User stories | 
-| Sprint n Goal | Elaborar y diseñar una landing page atractiva, llamativa, profesional e informativa para la aplicación web “FitHub” | 
-| Sprint n Velocity | 11 |
-| Sum of story points | 18 |
 
+Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comienzo de cada sprint y tiene como objetivo definir las actividades a realizar durante ese período específico.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-01</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>20:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>Desarrollamos la primera version de nuestra landing page para nuestro proyecto, aplicando las sugerencias que nuestro publico objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción.</br></br>
+	Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente “sprint” nos comunicaremos con el segmento objetivo para que nos continue brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>En cuanto a las opiniones que tuvimos cada uno de los integrantes del startup, acordamos que el primer boceto de la landing page cumple con las expectativas del diseño aplicado, tenemos en cuenta que aun nos falta implementar algunos iconos y añadir algunas funcionalidades, pero aun seguimos en constante comunicación para mejorar en ello. </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>El objetivo para este Sprint se enfoco en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma	incorporado , tanto en ingles como en español.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>6</td>
+  </tr>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1.
-Para el primer sprint backlog, reunimos las historias de usuario relacionadas con la landing page. La herramienta que utilizamos fue Trello. Gracias a esta, pudimos dividir las historias de usuario en tareas fáciles de realizar y repartirlas entre los miembros del grupo. Completamos la mayoría de los user stories, ya que el objetivo principal de este primer sprint era completar la landing page en su totalidad, con un diseño atractivo e intuitivo para el usuario. Sin embargo, aún no se implementa al 100% el funcionamiento de creación de cuenta e inicio de sesión.
-![image](https://github.com/HealthyL/Informe/assets/134560396/945c07e8-e57e-4a54-b648-e583a36c86cf)
 
-| Sprint # | Sprint 1 |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| User Story |  | Work-Item / Task |  |  |  |  |  
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To |  
-| US001 | Creación de hipervínculos (Header) | TA001 | Funcionamiento correcto de hipervínculos | Cada hipervínculo redirige correctamente a la sección indicada | ½ hora | Jimena Cama |  
-|  |  | TA002 | Función sticky | El header se puede visualizar en toda la landing page sin ningún problema | ½ hora | Jimena Cama |  
-| US002 | Sección funcionamiento | TA003 | División de espacios | Los espacios se dividen correctamente para cada elemento | ½ hora | Anthony Loarte | 
-|  |  | TA004 | Implementación del diseño | Se agrega color, imágenes e información a las secciones | ½ hora | Bruce Cipriano |  
-| US003 | Sección contáctanos | TA005 | Forms para enviar mensajes | Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda | 1 hora | Jimena Cama | 
-| US004 | Creación de la cuenta | TA007 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | ½ hora | Anthony Loarte | 
-| US005 | Iniciar Sesión | TA008 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | ½ hora | Bruce Cipriano |  
+Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
+del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
+
+
+Enlace del Jira :[Sprint Backlog 1 - TempSound](https://odyssey-upc.atlassian.net/jira/software/projects/TRAV/boards/1?atlOrigin=eyJpIjoiNWEwYTg5ZGNhZGJhNDMwYzg3YzJkOThjZTgwYTVhNGIiLCJwIjoiaiJ9))
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US11</td>
+    <td rowspan="3">Mostrar barra de navegación</td>
+    <td>T01</td>
+    <td>Insertar logo</td>
+    <td>Mostrar el logo de nuestro proyecto</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T02</td>
+    <td>Mostrar secciones de la landing page</td>
+    <td>Crear etiquetas por cada sección de la landing page</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>T03</td>
+    <td>Mostrar Ingresar y Registrar</td>
+    <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td rowspan="2">US12</td>
+    <td rowspan="2">Mostrar hero section</td>
+    <td>T04</td>
+    <td>Mostrar elementos atractivos y minimalistas</td>
+    <td>Mostrar imagen referencial, logo y descripción concisa</td>
+    <td>4</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T05</td>
+    <td>Mostrar Call to action</td>
+    <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
+    <td>6</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US13</td>
+    <td>Mostrar sobre nuestro producto</td>
+    <td>T06</td>
+    <td>Mostrar información sobre nuestra startup</td>
+    <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
+    <td>6</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US14</td>
+    <td>Mostrar la seccion unete</td>
+    <td>T07</td>
+    <td>Mostrar tarjetas de nuestro producto</td>
+    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más información</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US15</td>
+    <td>Mostrar opcion de cambio de idioma</td>
+    <td>T08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>US16</td>
+    <td>Mostrar sección de nuestros planes</td>
+    <td>T09</td>
+    <td>Mostrar tarjetas de nuestros planes</td>
+    <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
+    <td>6</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ 
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-
-
-
-| Repository                                         | Branch  | Commit Id      | Commit Message          | Commit Message Body     | Committed on (Date) |
-|----------------------------------------------------|---------|----------------|-------------------------|-------------------------|----------------------|
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | main    | 1be2512cad442d286dc920a033c8c6fa6f73e3cf | initial commit          | initial commit          | 01/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop | 1198e546c374c143691b4f2815cee44625fe926d | initial commit from develop | initial commit from develop | 13/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_funcion-html | fb457d562900c87e3e797b6210a01ad135e4068b | feat: navbar-added      | navbar-added            | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_funcion-html | bd28ebb18c39defb56e1bdbe54e571f47ac5d66e | feat: main content added | main content added      | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_home-html   | cd556f725d855557efa905325f304daa14236a32 | feat: footer added      | footer added            | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feat:add_home-html   | cd556f725d855557efa905325f304daa14236a32 | Merge pull request #1 from healthyl/feature_add-html | Feature add html       | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-styles   | 456021d4e418abce16ab8c94c5144bd4a629f8a1 | feat: style added       | style added             | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-styles   | 1f1c2d3f2199ad9dbdf6bd9b960d2b992333c588 | feat: footer style added1 | footer style added1     | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop              | 0bfe2fd2b28db0038f7b9fa853de58445d038053 | Merge pull request #3 from healthyl/feature_add-styles | Feature add styles     | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-js       | aa750cc58166168f868d149bb51e51dc54eea1c3 | feat: carrousel added   | carrousel added         | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | feature/add-js       | 5596d04b1e7334bc4611b09062a729f73a0b8293 | feat: form added        | form added              | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | develop              | e11d723bb5125784f265cb77d7d0f14f8053d6b6 | Merge pull request #4 from healthyl/feature_add-js | Feature add js         | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | release/1.0          | b4fccc31f2444cb61249092ce8b8f339c926c518 | fix: footer adress fixed | footer adress fixed     | 10/04/2024          |
-| [HealthyL/FitHub-LandingPage](https://github.com/HealthyL/FitHub-LandingPage) | main    | 1b4ee5e145773061328c8dc0e468d99d415f19ca | Merge pull request #5 from healthyl/release-1.0 | Release 1.0            | 13/04/2024          |
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 03/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 04/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 06/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from TempSound-UPC/feature/add-chatting-section | feat: chatting section added | 07/04/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from TempSound-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 11/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 12/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from TempSound-UPC/feature/US10 | feat: home added | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 13/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from TempSound-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 14/04/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from TempSound-UPC/feature/add_navbar | feat: navbar added | 14/04/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-
-
-| Repositorio/Branch                                                      | Commit Id | Commit Message            | Commit Message Body | Committed on (Date) |
-|-------------------------------------------------------------------------|-----------|---------------------------|---------------------|----------------------|
-| [US01.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US01.feature) | 90aaa00   | feat: add gherkin US01     | add gherkin US01    | Committed on (Date) |
-| [US02.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US02.feature) | d0440c9   | feat: add gherkin US02     | add gherkin US02    | Committed on (Date) |
-| [US03.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US03.feature) | 7e5f45a   | feat: add gherkin US03     | add gherkin US03    | Committed on (Date) |
-| [US04.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US04.feature) | 9ae69ce   | feat: add gherkin US04     | add gherkin US04    | Committed on (Date) |
-| [US05.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US05.feature) | 53935b3   | feat: add gherkin US05     | add gherkin US05    | Committed on (Date) |
-| [US06.feature](https://github.com/HealthyL/testing-/blob/develop/Sprint%201/US06.feature) | 9b99f32   | feat: add gherkin US06     | add gherkin US06    | Committed on (Date) |
-
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | c9da4d6  | add gherkin US01 | 12/04/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | c9da4d6 | add gherkin US02 | 12/04/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US03.feature | Cabrera.jeferson-feature-Sprint1-US03 | c9da4d6 | add gherkin US03 | 12/04/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | c9da4d6 | add gherkin US04 | 13/04/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US05.feature | Cabrera.jeferson-feature-Sprint1-US05 | c9da4d6 | add gherkin US05 | 13/04/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | c9da4d6 | add gherkin US06 | 13/04/2024 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Durante el sprint inicial, se logró un avance parcial en la ejecución del despliegue de la página inicial de FitHub. Esta página ofrece una variedad de secciones donde los usuarios pueden acceder a información relevante sobre nuestro producto y la empresa. A continuación, se comparten algunas pruebas que respaldan este progreso:
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
 
-- **Sección de Contáctanos:** Aquí se incluye un formulario interactivo mediante el cual los usuarios pueden completar sus consultas, comentarios o sugerencias. Este formulario está diseñado para recopilar información básica del usuario, como nombre, dirección de correo electrónico y mensaje.
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683361/xp14gm9twjanp086qyx2.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
 
-![image](https://github.com/HealthyL/Informe/assets/134560396/8e3c25db-4d51-4b79-bae6-7b96cd3242eb)
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683408/tnlfxg6gdl6g7gtyghhv.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
 
-
-
-- **Sección de Iniciar Sesión:** Se brinda a los usuarios la oportunidad de acceder a sus cuentas existentes en la plataforma FitHub. Presentamos un formulario de inicio de sesión donde los usuarios pueden ingresar su nombre de usuario o dirección de correo electrónico junto con su contraseña para acceder a sus perfiles.
-![image](https://github.com/HealthyL/Informe/assets/134560396/857ae323-31e5-4827-8483-c53e14c05d15)
-
-
-- **Sección de Crear Cuenta:** Proporcionamos a los usuarios la posibilidad de registrarse en la plataforma FitHub para acceder a sus funcionalidades y contenido exclusivo. Esta sección incluye un formulario de registro en el que los usuarios pueden ingresar la información necesaria, como nombre, dirección de correo electrónico, contraseña, entre otros datos relevantes.
-![image](https://github.com/HealthyL/Informe/assets/134560396/1ceb20a9-63a9-4af1-acbe-ac2ba1acf1be)
-
-
-- **Sección de Inicio:** Damos la bienvenida a los usuarios a nuestra aplicación web FitHub con una interfaz atractiva y concisa en la información inicialmente que brindamos sobre nosotros.
-![image](https://github.com/HealthyL/Informe/assets/134560396/0058e2d0-2893-427f-9f16-9b47b63e6883)
-
-
-
-- **Sección de ¿Cómo funciona?:** Explicamos sobre los servicios que el usuario podrá disfrutar al registrarse y escoger un plan en nuestra aplicación web.
-![image](https://github.com/HealthyL/Informe/assets/134560396/07c11b80-5feb-44b3-998f-3830754c7969)
-
+<p align="center">
+  <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683441/c26dfwx6gy02afo7zhvx.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Para esta entrega no se ha implementado ningún servicio adicional, ya que el enfoque principal fue el diseño y desarrollo de la landing page de FitHub. El despliegue de la landing page se puede acceder mediante el siguiente enlace:  FitHub Landing
-Anexo H: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
+
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para el despliegue de la landing page de FitHub, se utilizaron las siguientes tecnologías y servicios:
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
 
-1. **Git**: Git fue fundamental para la gestión eficiente de todas las versiones de código y recursos utilizados en el proyecto de la landing page de FitHub. Permitió realizar un seguimiento de cambios, fusionar ramas de desarrollo y resolver conflictos de manera efectiva, manteniendo la coherencia y la integridad del código a lo largo del ciclo de vida del proyecto.
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
-2. **GitHub**: Esta plataforma facilitó el trabajo colaborativo y centralizado en los archivos y código del proyecto. GitHub permitió la gestión de repositorios compartidos, lo que ayudó al equipo a mantener un registro detallado de todas las actualizaciones, comentarios y problemas relacionados con la landing page de FitHub. GitHub fue un componente crucial en la infraestructura de desarrollo, promoviendo la colaboración eficiente y el éxito general del proyecto.
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
-3. **GitHub Pages**: Este servicio de GitHub fue esencial para el despliegue de la landing page de FitHub. GitHub Pages proporcionó una forma sencilla y confiable de alojar y publicar la página web de manera gratuita. Se utilizó para crear una versión en vivo de la landing page, permitiendo compartir fácilmente el progreso del proyecto con otros miembros del equipo, interesados y partes interesadas externas.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+**Contributors**
 
+![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
 
-#### 5.2.1.8.  Team Collaboration Insights during Sprint
- [https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9](https://github.com/HealthyL/FitHub-Frontend/assets/107071662/3568c77d-cdf6-4870-9542-223d89813ee9)
+![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
 
 **Network graph**
 
-[https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9](https://github.com/HealthyL/Informe/assets/107071662/9fa831db-bd9d-4974-ad03-1338dd4b25e9)
-
-| Alumno                        | Actividad                                                                          |
-|-------------------------------|------------------------------------------------------------------------------------|
-| Quezada Portalatino, Barbara Susana | Reestructuración de la sección de planes y el footer de la página de inicio.       |
-| Cama Salvatierra, Jimena Tamara     | Creación del encabezado, página de inicio, página de contacto, inicio de sesión y creación de cuenta. |
-| Cipriano Chumbes, Bruce Andres      | Creación de la sección "Cómo funciona".                                           |
-| Loarte Matos, Anthony Braham        | Creación de la página de inicio.                                                  |
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
 
 
-
-# Conclusiones
- ## Conclusiones y recomendaciones
-
-   * La integración de metodologías ágiles como Lean UX y Scrum ha sido fundamental para el desarrollo efectivo de FitHub, permitiendo una comprensión profunda de las necesidades de los usuarios y una gestión eficiente del trabajo en equipo.
-  * La utilización de herramientas como GitHub y GitFlow ha facilitado la colaboración entre los miembros del equipo y la gestión de versiones, minimizando los obstáculos relacionados con la compatibilidad y las diferencias temporales.
-  * La realización de entrevistas y la creación de perfiles de usuario han sido actividades cruciales para comprender las necesidades y expectativas de los usuarios de FitHub, permitiendo así un diseño centrado en el usuario.
-  * La incorporación de UXPRESSIA ha enriquecido el proceso de desarrollo al proporcionar herramientas para el análisis de usuarios y la visualización del impacto de la aplicación, lo que ha mejorado la toma de decisiones basada en datos.
-  * El análisis competitivo ha permitido identificar áreas de mejora y diferenciación para FitHub, proporcionando una base sólida para ofrecer un producto que destaque en el mercado.
-  * En resumen, la combinación de metodologías ágiles, herramientas de colaboración, análisis de usuarios y competidores ha sido clave para el éxito de FitHub, y se recomienda seguir utilizando estos enfoques en el futuro desarrollo y mejora del producto.
+#### 5.2.2. Sprint 2
 
 
+#### 5.2.2.1. Sprint Planning 2
 
-
-### Sprint 2
-#### 5.2.2.1. Sprint planinning 2
-| **Sprint #** | Sprint 2 |
-|---|---|
-|**Sprint Planning Background** |  |
-| **Date** | 12/04/2024 |
-| **Time** | 9:00 AM |
-| **Location** | Reunión virtual en Discord |
-| **Prepared by** | Jimena Cama Salvatierra |
-| **Attendees (to planning meeting)** | Jimena Tamara Cama Salvatierra<br>Bruce Andres Cipriano Chumbes<br>Anthony Brahan Loarte Matos<br>Barbara Susana Quezada Portalatino |
-| **Sprint Goal & User stories** |  |
-| **Sprint 2 Goal** | Versión corregida y mejorada de artefactos previamente presentados.Implementación de una nueva versión del Landing Page y la primera versión de Frontend Web Applications. |
-| **Sprint 2 Velocity** | 5 |
-| **Sum of story points** | 20 |
-
-
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-21</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:00 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar y poner en funcionamiento nuestra página de aterrizaje en Github Pages.</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Retrospective Summary</td>
+    <td>En cuanto a las áreas de mejora identificadas, se discutió la necesidad de gestionar el tiempo de manera más efectiva y mejorar la comunicación entre los integrantes del equipo en los próximos sprints. También, se recabaron las opiniones individuales de cada miembro sobre su experiencia durante este primer sprint.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Goal</td>
+    <td>El objetivo del equipo para el segundo sprint es crear la primera iteración de nuestra aplicación web frontend y lanzarla en Firebase. Esto permitirá que la aplicación sea accesible para cualquier persona conectada a Internet.</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
 
 #### 5.2.2.2. Sprint Backlog 2
-| Sprint # | Sprint 2 |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
-| US006 | Desplazamiento mediante el header | TA001 | Botones para las rutas | Se implementaron hipervínculos en el header, con rutas para navegar por la plataforma | 2 horas | Jimena Cama |  |
-| US007 | Navegar por la sección de Productos | TA001 | Mostrar productos en lista | Se realizó un card list para los productos | 1 ½ hora | Jimena Cama | Done |
-|  |  | TA002 | Filtrar productos por tipo | Se implementó un dropdown para el filtro de los productos | 2 horas | Jimena Cama | Done |
-|  |  | TA003 | Quitar filtro | Se implementó un botón para quitar el filtro | 1 hora | Jimena Cama | Done |
-| US008 | Editar datos personales | TA001 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Bruce Cipriano | Done |
-| US009 | Visualizar información nutricional | TA001 | Mostrar alimentos | Mostrar la selección de alimentos en base a la dieta proporcionada por FitHub | 1 hora | Jimena Cama | Done |
-|  |  | TA002 | Selección de alimentos | Una vez se selecciona el alimento, se agrega a la lista de alimentos consumidos en el dia | 1 hora | Jimena Cama | Done |
-| US010 | Navegar por la sección de Nutrición | TA001 | Botón con ruta para la sección nutrición | Se implementó la ruta para el sector nutrición | 5 min | Barbara Quezada | Done |
-| US011 | Visualizar recomendaciones de alimentos | TA001 | Muestra todos los alimentos | Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas | 1 hora | Barbara Quezada | Done |
-| US012 | Edición y eliminación de recomendaciones de alimentos | TA001 | Elimina y Edita los campos de las cards de los alimentos | Se elimina una card list y edita los campos de la misma en la sección de Alimentos | 1 hora | Barbara Quezada | Done |
-| US013 | Visualizar rutina | TA001 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Anthony Loarte | Done |
-|  |  | TA002 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Anthony Loarte | Done |
-|  |  | TA003 | Visualizar detalles del  ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Anthony Loarte | Done |
 
-#### 5.2.2.3. Development Evidence for Sprint Review.
-| Repository | Branch | Commit Id | Commit Message |
-|---|---|---|---|
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | 47a30afb7888876c5d6479b24d1074bdcdacb9d9 | feat: add US006 |
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | f10b445e58fd6ea1d817aa23c6514f45d1c14fa5 | feat: add US007 |
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/BruceCipriano](https://github.com/HealthyL/FitHub-Frontend/tree/feature/BruceCipriano) | feature/BruceCipriano | 9679f96fe40e162bc67ebdf900dca159fca3fc2d | feat: add US008 |
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Frontend/tree/feature/JimenaCama) | feature/JimenaCama | aaf39aa175e47c64244e161a5e0af5ff6f10f1bf | feat: add US009 |
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Frontend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 6ad2fd2f3de4051a86c9df2b765b20dcc9f8a9f9 | feat: add US010, US011, US012 |
-| [https://github.com/HealthyL/FitHub-Frontend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Frontend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | d4c3b4f5e7a8c9d8b1e2f3a4b5c6d7e8f9a0b1c2 | feat: add US013 |
+Para el desarrollo del segundo sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y nuestro segmento clave que son los artistas, para asi tener desarrollado una primera version de la plataforma web.
+
+Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramienta Trello, en la cual se asigno tareas asi avanzar para la entrega de dicho sprint.
+
+![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714829364/Captura_de_pantalla_2024-05-04_082459_qihn10.png)
+
+
+**Enlace del Trello:** [Sprint Backlog 2-TempSound] https://trello.com/b/9qakTFTk
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 2</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+<tr>
+    <td>US020.1</td>
+    <td>Informacion de eventos</td>
+    <td>T01</td>
+    <td>Registro de eventos</td>
+    <td>Crear opción de registro de próximos eventos que se muestre</td>
+    <td>2</td>
+    <td>Anthony Loarte</td>
+    <td>To-Do</td>
+ </tr>
+   <tr>
+    <td>US020.2</td>
+    <td>Informacion de eventos</td>
+    <td>T02</td>
+    <td>Modificación de eventos</td>
+    <td>Implementar opción de modificación de eventos.</td>
+    <td>2</td>
+    <td>Anthony Loarte</td>
+    <td>To-Do</td>
+ </tr>
+   <tr>
+    <td>US020.3</td>
+    <td>Informacion de eventos</td>
+    <td>T03</td>
+    <td>Eliminación de eventos</td>
+    <td>Implementar opción de eliminación de eventos.</td>
+    <td>2</td>
+    <td>Anthony Loarte</td>
+    <td>To-Do</td>
+ </tr>
+   <tr>
+    <td>US020.4</td>
+    <td >Informacion de eventos</td>
+    <td>T04</td>
+    <td>Interfaz de eventos</td>
+    <td>Implementar opción de interfaz de eventos.</td>
+    <td>2</td>
+    <td>Anthony Loarte</td>
+    <td>To-Do</td>
+ </tr>
+
+
+
+  <tr>
+    <td>US021.1</td>
+    <td>Seccion de contratos</td>
+    <td>T01</td>
+    <td>Vista de contratos</td>
+    <td>Desarrollar opción de vista de contratos para el músico con opción de confirmación de contrato o rechazo.</td>
+    <td>4</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US021.2</td>
+    <td>Seccion de contratos</td>
+    <td>T02</td>
+    <td>Eliminación de contratos</td>
+    <td>Implementar opción de borrar contratos de la lista que tiene pendiente.</td>
+    <td>2</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+
+  <tr>
+    <td>US024.1</td>
+    <td>Informacion de artistas</td>
+    <td>T01</td>
+    <td>Agregar información</td>
+    <td>Crear opción para agregar información del músico o su banda dentro de la base de datos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US024.2</td>
+    <td>Informacion de artistas</td>
+    <td>T02</td>
+    <td>Modificación de información</td>
+    <td>Implementar opción de modificación de datos del músico o su banda.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>US024.3</td>
+    <td>Informacion de artistas</td>
+    <td>T03</td>
+    <td>Eliminación de información</td>
+    <td>Implementar opción de eliminación de datos del músico.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>US024.4</td>
+    <td>Informacion de artistas</td>
+    <td>T04</td>
+    <td>Interfaz para información de músicos</td>
+    <td>Desarrollar una interfaz de muestra de la información del músico para los clientes.</td>
+    <td>4</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+
+
+
+  <tr>
+    <td>US026.1</td>
+    <td>Perfil de redes sociales</td>
+    <td>T01</td>
+    <td>Implementar información de redes sociales de músicos</td>
+    <td>Implementar opción e interfaz de agregar datos sobre redes sociales al perfil del músico.</td>
+    <td>2</td>
+    <td>Carlos Pingus</td>
+    <td>To-Do</td>
+ </tr>
+
+
+  <tr>
+    <td>US027.1</td>
+    <td>Suscripción de la plataforma</td>
+    <td>T01</td>
+    <td>Primera versión de suscripción</td>
+    <td>Implementar primera versión del sistema de suscripción para acceso de las cuentas de músico.</td>
+    <td>4</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US027.2</td>
+    <td>Suscripción de la plataforma</td>
+    <td>T02</td>
+    <td>Interfaz de suscripción</td>
+    <td>Desarrollo de la interfaz para primera versión de suscripción de la cuenta de músico.</td>
+    <td>2</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
+ </tr>
+
+
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | master | 255465160cc36a96130888a2b0dfa39974c06557 | Create: Proyect open source in music time TF. | Create: Proyect open source in music time TF. | 02/05/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | ed2d643b6a036317c304e968962587589f7215e6 | Update: Delete pages for new pages in public and add DB | Update: Delete pages for new pages in public and add DB | 02/05/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | da465d41fe2f47ed51f9f367e3809c8a52386871 | Update: Enviroments element for API. | Update: Enviroments element for API. | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2450b851772ea6507e19fd5282d4af6ffeb97f21 | Create: Toolbar content component and pages "Home-About" | Create: Toolbar content component and pages "Home-About" | 02/05/2024| 
+| https://github.com/TempSound/MusicTime-Frontend | master | ad6bbfca900baa2321400f979a972884fb04a87e | Create: Roting component about home and about | Create: Roting component about home and about | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Create: Roting component about home and about | Create: Roting component about home and about | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Musician view to elements | Create: Musician view to elements | 02/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Create: Musician view in toolbar. | Create: Musician view in toolbar. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Create: Musicias card and grups see. | Create: Musicias card and grups see. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | Create: Added style and functionality to subscription buttons and aircraft descriptions. | Create: Added style and functionality to subscription buttons and aircraft descriptions. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: profile musician add. | Create: profile musician add. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Update: all elements for the proyect. | Update: all elements for the proyect. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Update: create musician tu db. | Update: create musician tu db. | 03/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Update: all the proyect and update musician-content | Update: all the proyect and update musician-content | 04/05/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Create: new API to json server for the proyect | Create: new API to json server for the proyect | 04/05/2024|
+| https://github.com/TempSound/MusicTime-Frontend | master | d1cf77e87138190ac094ceba299b660de7374f6f | Chore: Title changes in Toolbar component | Chore: Title changes in Toolbar component | 04/05/2024 |
+#### 5.2.2.4. Testing Suite Evidence for Srint Review
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US020/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US020.feature | herrera.victor-feature-Sprint1-US020 | a3e234 | add festures US020 | 04/05/2024 |
+| US021/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US021.feature | herrera.victor-feature-Sprint1-US021 | a3e234 | add festures US021 | 04/05/2024 |
+| US024/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US024.feature | herrera.victor-feature-Sprint1-US024 | a3e234 | add festures US024 | 04/05/2024 |
+| US026/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US026.feature | herrera.victor-feature-Sprint1-US026 | a3e234 | add festures US026 | 04/05/2024 |
+| US027/ https://github.com/TempSound/Testing/blob/main/Sprint%202/US027.feature | herrera.victor-feature-Sprint1-US027 | a3e234 | add festures US027 | 04/05/2024 |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para este segundo sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760789/Captura_de_pantalla_2024-05-03_132456_zlqien.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760839/Captura_de_pantalla_2024-05-03_132652_qyoxzz.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132701_zvrfxw.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132707_ld3olm.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714760840/Captura_de_pantalla_2024-05-03_132643_pbap9w.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Para el desarrollo del sprint 2 se plasmo como prueba el avance de las feature mas relevantes para nuestro bussines como son la vista de grupos para los clientes y el manejo del data sobre estos que sera limitado dentro de las cuentas de acuerdo a las suscripciones que se otorgo.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
+
+Durante este sprint, hemos trabajado en la construcción de la primera parte de nuestra plataforma de música, que permite a los usuarios buscar y contratar grupos para sus eventos. Aquí están los servicios clave que hemos desarrollado y la evidencia de su funcionamiento:
+
+Servicio de Búsqueda de Grupos: Este servicio permite a los usuarios buscar grupos por género, ubicación, precio y disponibilidad. Hemos implementado este servicio utilizando Angular para la interfaz de usuario y Node.js para el servidor. La evidencia de su funcionamiento se puede encontrar en las capturas de pantalla y los registros de la consola en el repositorio de GitHub.
+
+Servicio de Contratación de Grupos: Este servicio permite a los usuarios contratar grupos para sus eventos. Hemos implementado este servicio utilizando Java para la lógica del servidor y TypeScript para la lógica de la aplicación. La evidencia de su funcionamiento se puede encontrar en las pruebas unitarias y los registros de la consola en el repositorio de GitHub.
+
+Mejora del Landing Page: Hemos realizado mejoras en el Landing Page para hacerlo más atractivo y fácil de usar. Hemos utilizado CSS para mejorar los estilos y Angular para mejorar la interactividad. La evidencia de estas mejoras se puede encontrar en las capturas de pantalla antes y después en el repositorio de GitHub.
+
+Todos estos servicios y mejoras se han desarrollado siguiendo el modelo de flujo de trabajo de Git Flow, y el código y la documentación se han almacenado en GitHub para su revisión.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
+
+**Angular:** Un marco de trabajo para la construcción de aplicaciones web en HTML, CSS y TypeScript, que nos ayudó a desarrollar la lógica de la aplicación y a mejorar la interactividad del Landing Page.
+
+**Node.js:** Un entorno de ejecución para JavaScript construido en el motor de JavaScript V8 de Chrome, que nos permitió construir el servidor de la aplicación.
+
+**Java:** Lenguaje de programación de propósito general, concurrente, orientado a objetos, que se utilizó para desarrollar la lógica del servidor y la interacción con la base de datos.
+
+**TypeScript:** Un superconjunto de JavaScript que añade tipado estático y objetos basados en clases, que nos ayudó a desarrollar la lógica de la aplicación de manera más segura y eficiente.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+#### 5.2.2.8. Team Collaboration Insights During Sprint
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
+
+**Contributors**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
+
+#### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-05-26</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:00 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td>Se mejoró la gestión del tiempo desde el Sprint 2, se identificó la necesidad de optimizar las herramientas de gestión y establecer plazos más realistas. También es crucial mejorar la comunicación entre los integrantes del equipo para finalizr el frontend, así como la documentación del código. Cada miembro compartió sus experiencias, destacando la importancia de las revisiones de código y las reuniones de sincronización.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td>
+    <td>Para el tercer sprint, el objetivo principal del equipo es desarrollar el backend, asegurándose de implementar todos los Bounded Context previamente identificados. Este proceso incluye la definición y refinamiento de requisitos para cada Bounded Context, garantizando una comprensión clara y precisa de las funcionalidades esperadas. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+Para el desarrollo del tercer sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y las historias pendientes para asi tener el desarrollo del programa en una gran mayoria.
+
+Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramienta Trello.
+
+![Trello-3](https://res.cloudinary.com/djia8bsvr/image/upload/v1717955690/Screenshot_2024-06-09_125426_ozylzu.png)
+
+
+**Enlace del Trello:** [Sprint Backlog 3-codex] https://trello.com/b/ZLNFlhWp
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Technical Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+ <tr>
+    <td>TU01</td>
+    <td>Implementación de Endpoint para Búsqueda de Artistas</td>
+    <td>WIT01</td>
+    <td>Implementar búsqueda de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU02</td>
+    <td>Implementación de Endpoint para Acceso a Portafolios de Artistas</td>
+    <td>WIT02</td>
+    <td>Implementar acceso a portafolios de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU03</td>
+    <td>Implementación de Endpoint para Comunicación con Artistas</td>
+    <td>WIT03</td>
+    <td>Implementar comunicación con artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos.</td>
+    <td>8</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU04</td>
+    <td>Implementación de Endpoint para Crear un Artista</td>
+    <td>WIT04</td>
+    <td>Implementar creación de artistas</td>
+    <td>Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico.</td>
+    <td>8</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU05</td>
+    <td>Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas</td>
+    <td>WIT05</td>
+    <td>Implementar acceso a reseñas y testimonios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas.</td>
+    <td>8</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU06</td>
+    <td>Implementación de Endpoint para Actualización de Información de Artistas</td>
+    <td>WIT06</td>
+    <td>Implementar actualización de información de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas.</td>
+    <td>8</td>
+    <td>Anthony Loarte</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU07</td>
+    <td>Implementación de Endpoint para Eliminación de Artistas</td>
+    <td>WIT07</td>
+    <td>Implementar eliminación de artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU08</td>
+    <td>Implementación de Endpoint para Gestión de Sesiones de Usuario</td>
+    <td>WIT08</td>
+    <td>Implementar gestión de sesiones de usuario</td>
+    <td>Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU09</td>
+    <td>Implementación de Seguridad de la API</td>
+    <td>WIT09</td>
+    <td>Implementar medidas de seguridad</td>
+    <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
+    <td>8</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU10</td>
+    <td>Implementación de Logging en la API</td>
+    <td>WIT10</td>
+    <td>Implementar logging en la API</td>
+    <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
+    <td>6</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+ </tr>
+</table>
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
-| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|---|---|---|---|---|
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%202](https://github.com/HealthyL/testing-/tree/main/Sprint%202) | 4f96a49ff8fd1c8bb60abf861b5ca5874648f5dc | feat: add US006 | Desplazamiento mediante el header | 3/05/24 |
-|  | 72e6348c54e9f0058df9aa1a1217b01d4a6f899d | feat: add US007 | Navegar por la sección de Productos | 3/05/24 |
-|  | a75dddd82fc211f02747afe5461a67d0ef747364 | feat: add US008 | Editar datos personales | 3/05/24 |
-|  | 191bed5baeb20fa6a917590fe39d1bc3cbd0a2cb | feat: add US009 | Visualizar información nutricional | 4/05/24 |
-|  | e918b5c6e9ba86982ee01696be999cb2a9d54989 | feat: add US010 | Navegar por la sección de Nutrición | 4/05/24 |
-|  | 2e3607234c7f27bd353451a1c28107506b57e656 | feat: add US011 | Visualizar recomendaciones de alimentos | 4/05/24 |
-|  | 32608e3b56a5e7ad4aa5d397f67f14916d47177d | feat: add US012 | Edición y eliminación de recomendaciones de alimentos | 4/05/24 |
-|  | 831c2beacc583c3c413fee51f811fe251270587c | feat: add US013 | Visualizar rutina | 6/05/24 |
-
-#### 5.2.2.5.Execution Evidence for Sprint Review.
-Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de FitHub, empleando los conocimientos aprendidos sobre el framework de Vue, usando los componentes de PrimeVue  y haciendo uso  de la estructura.
-
-Jimena Cama 
-Sección de Productos:
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/7a29cd82-218f-4221-87b8-18129b137590)
-
-Sección de Despliegue: Log in
-
-![image](https://github.com/TempSound/Informe/assets/166888821/bb137220-b543-422d-ab27-f50710fb46e2)
-
-Sección de Despliegue: Sign up
-
-![image](https://github.com/TempSound/Informe/assets/166888821/fc7f856c-6fc3-42b5-b92c-9a66667de6ed)
-
-
-Barbara Quezada
-Sección de Nutrición:
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/8fb0ff37-64aa-41d5-9ee5-967564390c4a)
-![image](https://github.com/HealthyL/Informe/assets/134560396/8a12d8b8-6ddf-4502-9fe5-8504f7b4fe61)
-![image](https://github.com/HealthyL/Informe/assets/134560396/102155c2-f4ca-4fcf-8df7-0b9e05ed7aa6)
-![image](https://github.com/TempSound/Informe/assets/166888821/f7b56a37-4c4e-4f8c-97a9-6ba8cf9a4e9f)
-![image](https://github.com/TempSound/Informe/assets/166888821/e013336a-40dd-4939-8f59-0f45f523a70b)
-![image](https://github.com/TempSound/Informe/assets/166888821/56d1375d-e444-467f-9e16-0399526b4bd7)
-![image](https://github.com/TempSound/Informe/assets/166888821/a262f1b9-0895-45ee-aff4-bddbce4b4809)
-![image](https://github.com/TempSound/Informe/assets/166888821/47892004-2ac9-4f48-96d7-9d91d6594aa0)
-
-
-Anthony Loarte
-Sección de Rutinas:
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/38e40efc-00d0-4756-a30c-ba0432815e88)
-![image](https://github.com/TempSound/Informe/assets/166888821/2245e16b-6796-4f43-893a-0b9fc2f20114)
-
-
-Bruce Cipriano
-Sección de Cuenta:
-
-![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
-![image](https://github.com/TempSound/Informe/assets/166888821/bcd1ec52-e7a2-494f-8214-1806a9df114f)
-
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-## Durante este sprint
-
-Nuestro enfoque principal ha sido documentar meticulosamente los diversos aspectos de FitHub, nuestra plataforma para el seguimiento personalizado de la alimentación y el ejercicio. Este esfuerzo de documentación exhaustiva ha tenido como objetivo proporcionar una visión clara y detallada de todas las acciones y funcionalidades disponibles en nuestra aplicación, tanto para los usuarios que buscan mejorar su salud como para aquellos que desean mantener su nivel de forma física.
-
-### Aspectos Destacados de la Documentación
-
-#### Descripciones Detalladas de Funciones:
-- **Visualización de Alimentos Disponibles:** Guías paso a paso sobre cómo los usuarios pueden explorar y ver las diferentes opciones de alimentos disponibles en la aplicación.
-- **Creación de Rutinas de Ejercicio Personalizadas:** Instrucciones sobre cómo los usuarios pueden crear y personalizar sus propios planes de entrenamiento basados en sus objetivos de fitness.
-- **Seguimiento del Progreso Individual:** Documentación detallada sobre las diversas funciones de seguimiento que permiten a los usuarios monitorear su progreso a lo largo del tiempo.
-
-#### Documentación Específica por Sección:
-- **Mi Cuenta:** Desglose detallado de la sección de perfil de usuario, incluyendo cómo actualizar la información personal, establecer objetivos y gestionar la configuración de privacidad.
-- **Rutina:** Guía completa sobre cómo acceder, crear y seguir rutinas de ejercicio.
-- **Nutrición:** Documentación sobre cómo explorar recomendaciones nutricionales, personalizar planes de comidas y registrar la ingesta alimentaria.
-- **Productos:** Instrucciones sobre cómo navegar por los productos de fitness y nutrición.
-- **Configuración:** Guía sobre cómo configurar las preferencias de la cuenta como los datos fitness del usuario.
-
-### Repositorio y Trazabilidad
-
-Toda la documentación ha sido integrada sistemáticamente en nuestro repositorio de FitHub en GitHub:
-
-- **Documentación Vinculada:** Cada pieza de documentación está vinculada a los cambios y actualizaciones de código correspondientes, asegurando una trazabilidad completa de los procesos de desarrollo.
-
-Repositorio Application web:
-Anexo G: https://github.com/HealthyL/FitHub-Frontend/tree/develop
-
-- **Control de Versiones:** Historial detallado de versiones para rastrear los cambios y actualizaciones en la documentación, asegurando que los usuarios y desarrolladores tengan acceso a la información y guías más recientes.
-- **Herramientas de Colaboración:** Utilización de las funciones de colaboración de GitHub, como issues y pull requests, para agilizar la comunicación y asegurar la precisión y completitud de la documentación.
-
-Link del repositorio del db.json: https://github.com/HealthyL/Datos-healty- 
-
-
-## Endpoints
-
-| Endpoint       | Details                                                       |
-|----------------|---------------------------------------------------------------|
-| /login         | Autentica a un usuario y devuelve un token JWT.               |
-| /signup        | Registra un nuevo usuario.                                    |
-| /exercises     | Recupera una lista de ejercicios.                             |
-| /my-account    | Recupera los detalles de la cuenta del usuario autenticado.   |
-| /nutritions    | Recupera una lista de planes de nutrición.                    |
-| /products      | Recupera una lista de productos relacionados con el fitness y la salud. |
-
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-Para la entrega del segundo sprint, se llevó a cabo un despliegue parcial de la aplicación web, cumpliendo con las historias de usuario planificadas para este entregable. A continuación, se detallan los aspectos clave del despliegue.
-
-Detalles del Despliegue
-Responsable del Despliegue: Jimena Cama
-Sección del Despliegue: Productos
-![image](https://github.com/HealthyL/Informe/assets/134560396/7a29cd82-218f-4221-87b8-18129b137590)
-
-Responsable del Despliegue: Barbara Quezada
-Sección del Despliegue: Nutrición
-![image](https://github.com/HealthyL/Informe/assets/134560396/8fb0ff37-64aa-41d5-9ee5-967564390c4a)
-![image](https://github.com/HealthyL/Informe/assets/134560396/8a12d8b8-6ddf-4502-9fe5-8504f7b4fe61)
-![image](https://github.com/HealthyL/Informe/assets/134560396/102155c2-f4ca-4fcf-8df7-0b9e05ed7aa6)
-
-Responsable del Despliegue: Anthony Loarte
-Sección del Despliegue: Rutina
-![image](https://github.com/HealthyL/Informe/assets/134560396/38e40efc-00d0-4756-a30c-ba0432815e88)
-
-Responsable del Despliegue: Bruce Cipriano
-Sección del Despliegue: Mi Cuenta
-![image](https://github.com/HealthyL/Informe/assets/134560396/1c3a21ab-ea09-4c10-b3f1-6a4440424380)
-
-
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
-
-| Alumno                             | Actividad                               |
-|------------------------------------|-----------------------------------------|
-| Cama Salvatierra, Jimena Tamara    | Bounded context Product Management y Data Settings |
-| Quezada Portalatino, Barbara Susana| Bounded context Nutrition Management    |
-| Bruce Andres Cipriano Chumbes      | Bounded context Account                 |
-| Anthony Brahan Loarte Matos        | Bounded context Rutines                 |
-
-Repositorio Application web:
-Anexo G: https://github.com/HealthyL/FitHub-Frontend/tree/develop
-
-![image](https://github.com/TempSound/Informe/assets/166888821/b2df7c04-9a12-4555-90f2-a0562adb7641)
-
-<img width="927" alt="Screenshot 2024-05-04 at 08 58 59" src="https://github.com/HealthyL/FitHub-Frontend/assets/107071662/ed28a425-a699-4af3-8353-2675a2006e40">
-
-### Sprint 3
-#### 5.2.3.1. Sprint planinning 3
-| Sprint # | Sprint 3 |
-|---|---|
-| Sprint Planning Background |  |
-| Date | 26/05/2024 |
-| Time | 9:00 AM |
-| Location | Reunión virtual en Discord |
-| Prepared by | Jimena Cama Salvatierra |
-| Attendees (to planning meeting) | Jimena Tamara Cama Salvatierra<br>Barbara Susana Quezada Portalatino |
-| Sprint Goal &amp; User stories |  |
-| Sprint 2 Goal | Versión corregida y mejorada de artefactos previamente presentados. Implementación de la base de datos. |
-| Sprint 3 Velocity | 5 |
-| Sum of story points | 4 |
-
-#### 5.2.3.2. Sprint Backlog 3
-Para el tercer sprint backlog, reunimos las historias de usuario relacionadas con los bounded context principales de nuestra web application para realizar el backend correspondiente a cada servicio que ofrece Fithub. La herramienta que utilizamos fue Trello.
-
-![image](https://github.com/TempSound/Informe/assets/166888821/47290e0e-1f6a-4824-8dec-502684eae3e7)
-
-
-| Sprint # | Sprint 3 |  |  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To |  |
-| US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama |  |
-|  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama |  |
-|  |  | TA003 | Ver un producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama |  |
-|  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama |  |
-|  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama |  |
-| US009 | Editar datos personales | TA001 | Agregar datos de usuario | Se actualizan los datos de usuario | 2 horas | Bruce Cipriano |  |
-|  |  | TA002 | Ver los datos del usuario | Se muestran los datos del usuario. | 30 min | Bruce Cipriano |  |
-| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada |  |
-|  |  | TA002 | Ver todos los items de Nutrición | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada |  |
-|  |  | TA003 | Borrar un item de nutrición | Se borra un producto de la base de datos identificado por id único. | 30 min | Barbara Quezada |  |
-|  |  | TA004 | Actualizar un item de Nutrición | Se actualizan los datos de un producto especificado por id. | 30 min | Barbara Quezada |  |
-| US014 | Visualizar rutina | TA001 | Agregar rutinas | Se agrega la información de la rutina como: name, sets, reps y weight. | 2 horas | Anthony Loarte |  |
-|  |  | TA002 | Ver todas las rutinas | Se muestran todas las rutinas. | 30 min | Anthony Loarte |  |
-|  |  | TA003 | Ver una rutina por ID | Se muestra cierta rutina identificada por ID único. | 30 min | Anthony Loarte |  |
-
-
-#### 5.2.3.3. Development Evidence for Sprint Review.
-
-Link del repositorio: https://github.com/HealthyL/FitHub-Backend 
-
-| Repository | Branch | Commit Id | Commit Message | Commit Body |
-|---|---|---|---|---|
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | a663245ca9096eb64056b3180a9e5631a69ed284 | feat: Security added | add aggregates, commands and queries about user. |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 4bef718493163d1d8c7f225bd373355e8576f80e | feat: commands createexercisecommand | add commands of create exercise |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 3fecc0f8eddb70a767029578fb184cc82f652268 | feat: commands createroutinecommand | added CreateRoutineCommand to handle the creation of new routines. |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | cb1cb2ef85b5c6e5eb95f638acc5b0838ed611a2 | feat: aggregates exerciseaudit | added ExerciseAudit aggregate to track changes in exercise data. |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 5b5faaf73bbb848cd157a2ccb6f63088127c3721 | feat: queries iexerciserepository | defined IExerciseRepository query interface. |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte](https://github.com/HealthyL/FitHub-Backend/tree/feature/AnthonyLoarte) | feature/AnthonyLoarte | 321c2b59f11c27203881f58da27d144bfde903ee | feat: services iroutinecommandservice | created IRoutineCommandService interface to handle routine-related commands. |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 36f171ea2c05ca9656a099f5b145e2bfbf5fb8e2 | feat: add aggregates, commands and queries | add aggregates, commands and queries |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | dec366f353a8dac53dac93848dae830f8891266c | feat: add IAlimentationProductRepository | add IAlimentationProductRepository |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 731b1adb4aded88fefe07a0d56bc3e2bb77a6ebc | feat: add AlimentationProductController | add AlimentationProductController |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | dd62e528bdd186062510b0569ca4fe9e8b167d0f | feat: add ICardioProductCommandService | add ICardioProductCommandService |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | ae9350b9bb0849509624b59fcb5b9c1aefa3d012 | feat: add CardioController | add CardioController |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama](https://github.com/HealthyL/FitHub-Backend/tree/feature/JimenaCama) | feature/JimenaCama | 055bd079e437a69990162f4a956dbe1dc16ddf12 | feat: add Update(put) and delete method to FunctionalProductController | add Update(put) and delete method to FunctionalProductController |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 9fe9132bd51a79ce788e5a1444edcacefb27efb9 | feat: adding breakfast items | add aggregates, commands and queries about breakfast items |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada](https://github.com/HealthyL/FitHub-Backend/tree/feature/BarbaraQuezada) | feature/BarbaraQuezada | 4b49d1c4fb84496bb6b0ef1bdee11f22de09f954 | feat: adding dinner and lunch items | add aggregates, commands and queries about dinner and lunch items |
-| [https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager](https://github.com/HealthyL/FitHub-Backend/tree/feature/BruceCipriano/fithub-backend/account_manager) | feature/BruceCipriano | 7bb49d1c15wd4496bb6b0ef1bdee11f22de09f954 | feat: account manager | add aggregates, commands and queries about account |
-
-
-#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
-
-Link del repositorio: https://github.com/HealthyL/testing-/tree/main/Sprint%203 
-
-
-| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|---|---|---|---|---|
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | c450705381188868adb7147baa0997121994e5ef | feat: add US008 | Endpoint sección Productos datos personales | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US009 | Endpoints datos usuarios | 10/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US010 | Visualizar recomendaciones de alimentos | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US011 | test: add tests for view of nutrition interaction | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | c450705381188868adb7147baa0997121994e5ef | feat: add US009 | test: add tests for product interaction | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | 6fbaffc70a0750f3edf54e81c3ae3d775b831e12 | feat: add US010 | test: add tests for nutrition interaction | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | a6c857a301927466a9dc57e991f6fdcc51adfe7a | feat: add US012 | test: add tests for nutrition interaction | 7/06/24 |
-| [https://github.com/HealthyL/testing-/tree/main/Sprint%203](https://github.com/HealthyL/testing-/tree/main/Sprint%203) | b45d1b8bb5cf203fb494dcc572cc2d44b8a94dc3 | feat: add US013 | test: add tests for routine interaction | 7/06/24 |
-
-#### 5.2.3.5.Execution Evidence for Sprint Review.
-En este Sprint, nos encargamos de hacer la implementación del backend de todos los Bounded Context: Products Management, Nutrition Management, Account Management, Routine Management. Se lograron avances significativos, marcando un hito importante en nuestro camino hacia la entrega final.
-
-A continuación, se presentan capturas de pantalla de la interacción con los endpoints utilizando datos de muestra. Estas capturas ilustran cómo se realizan las llamadas y los responses recibidos:
-
-### Products Management (/products)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/cc17ecdc-38d8-49d9-b013-5a4dafc0aab6)
-
-
-![image](https://github.com/TempSound/Informe/assets/166888821/7007cadc-a651-4a40-97dc-bc38a18f6c2b)
-
-### Nutrition Management (/nutritions)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/ae1b59e2-cc1d-4e37-9043-690397570d88)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/567eb8fd-573a-4646-81e2-00b5a602ab47)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/e54b5bf2-2c33-481f-a2ca-ebbe855f5738)
-
-### Account Management (/profiles)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/4efaae07-8185-4384-96ed-04d6b1f80b2a)
-
-
-### Routine Management (/routines)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/862ebd51-88be-42ce-9fd1-7d346c20435e)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/9ef4d5d1-d1a0-4c99-883e-ce5d5299de5e)
-
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-Para el sprint 3, únicamente se planificó que el sprint abarcaría el back-end. Inicialmente, se trabajó con una JSON server de forma local y luego se pasó a realizar la implementación con My Json Server, el cual se utiliza en la Front End Web Application desplegada. Hasta esta entrega, el backend fue creado, pero no se relaciona con el frontend ya que esa asignación tendrá cabida en la entrega final.
-
-Durante el desarrollo del proyecto Fithub, se realizaron múltiples tareas para asegurar que los backends de cada bounded context estuvieran correctamente implementados y funcionales. La evidencia adjunta incluye capturas de pantalla y métodos de CRUD utilizados en cada bounded context que ofrecemos en la plataforma:
-
-### Products Management (/products)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/8996a93d-8e9b-4a90-a8e0-392662569364)
-
-### Nutrition Management (/nutritions)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/47b24071-c545-4e39-9552-50325e93e238)
-
-### Account Management (/profiles)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/7c726a65-940c-48e2-8ccb-0f0b0977bc9a)
-
-### Routine Management (/routines)
-
-![image](https://github.com/TempSound/Informe/assets/166888821/7ab2a3fe-fb70-4702-80e3-85b0c6398c8d)
-
-| Endpoint | Details |
-|---|---|
-| /nutritions | Este endpoint se encarga de la creación de las tarjetas de Nutrición como: Desayuno, Almuerzo y Cena. |
-| /products | Este endpoint se encarga de la creación de las tarjetas de Productos como: Cardio, Funcional y Alimentación. |
-| /profiles | Este endpoint se encarga de la creación y gestión de perfiles. |
-| /routines | Este endpoint se encarga de la creación de las tarjetas de Rutinas separados en días. |
-
-
-
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
-
-Durante cada sprint, la colaboración efectiva dentro del equipo es fundamental para el éxito del proyecto. En el Sprint 3, el enfoque principal fue la implementación de los backends para diferentes Bounded Contexts. Esta sección ofrece una visión detallada de las dinámicas y prácticas de colaboración adoptadas por cada equipo asignado a los diversos Bounded Contexts durante el sprint actual.
-A continuación, se detalla la asignación de responsabilidades y equipos para cada Bounded Context:
-
-
-
-![image](https://github.com/TempSound/Informe/assets/166888821/c771613e-eb2e-4e9b-95cf-ea97e7a94086)
-
-| Alumno | Actividad |
-|---|---|
-| Cama Salvatierra, Jimena Tamara | Elabore la implementación del backend del Bounded context de Product Management |
-| Bruce Cipriano | Elabore la implementación del backend del Bounded context de Account Management |
-| Anthony Loarte  | Elabore la implementación del backend del Bounded context de Security Login |
-| Quezada Portalatino, Barbara Susana | Elabore la implementación del backend del Bounded context de Nutrition Management |
-
-### 5.2.4.Sprint 4
-#### 5.2.4.1.Sprint planinning 4
-
-| Sprint # | Sprint 4 |
-|---|---|
-| Sprint Planning Background |  |
-| Date | 25/06/2024 |
-| Time | 1:00 PM |
-| Location | Reunión virtual en Discord |
-| Prepared by | Jimena Cama Salvatierra |
-| Attendees (to planning meeting) | Barbara Susana Quezada Portalatino, Jimena Tamara Cama Salvatierra, Sebastian Nicolas Cachis Gonzales, Enzo Paolo Noblecilla Jimenez, Elias Yauri Paucar |
-| Sprint Goal & User stories |  |
-| Sprint 4 Goal | Implementar la conexión entre los front ends y backends de cada bounded context, asegurando que todas las interfaces de usuario interactúen correctamente con las APIs del servidor y que se mantenga la integridad de los datos y la consistencia en la experiencia del usuario. |
-| Sprint 4 Velocity | 5 |
-| Sum of story points | 7 |
-
-
-#### 5.2.4.2.Sprint Backlog 4
-
-El proyecto FitHub ha sido un esfuerzo conjunto que ha requerido una estrecha coordinación y trabajo en equipo para asegurar que todos los componentes funcionen de manera integrada y eficiente. Cada miembro del equipo contribuyó con sus habilidades únicas para superar los desafíos técnicos y cumplir con los objetivos dentro de los plazos establecidos. Las tareas incluyeron el diseño e implementación de interfaces de usuario intuitivas y responsivas, así como la configuración y gestión de bases de datos robustas para garantizar la integridad y disponibilidad de la información. Además, se dedicó un esfuerzo considerable al despliegue y la integración de los sistemas frontend y backend, asegurando una experiencia de usuario fluida y confiable.
-
-Link del Trello: https://trello.com/invite/b/UuXJ6M8i/ATTIfa7e49bfa1fbdfa0ba514e161dc660d91B676DA4/fithub-ws51-grupo-5 
-
-![image](https://github.com/TempSound/Informe/assets/166888821/62694efb-3034-4a04-927e-05f7d502629e)
-
-Este cuadro representa el total de tareas asignadas en todo el proyecto, abarcando tanto el desarrollo del frontend como del backend, así como la conexión entre ambos. A continuación se detallan algunas de las tareas clave que se han llevado a cabo:
-
-| Sprint # | Sprint 4 |
-|---|---|
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
-| US008 | Navegar por la sección de Productos | TA001 | Agregar productos | Se agrega el nombre, la descripción, el precio, el url de la imagen y la categoría del producto. | 1 hora | Jimena Cama | Done |
-|  |  | TA002 | Ver todos los productos | Se muestran todos los productos. | 30 min | Jimena Cama | Done |
-|  |  | TA003 | Ver un  producto por id | Se muestra cierto producto identificado por id único. | 30 min | Jimena Cama | Done |
-|  |  | TA004 | Borrar un producto por id | Se borra un producto de la base de datos identificado por id único. | 10 min | Jimena Cama | Done |
-|  |  | TA005 | Actualizar un producto | Se actualizan los datos de un producto especificado por id. | 30 min | Jimena Cama | Done |
-|  |  | TA006 | Mostrar productos en lista | Se realizó un card list para los productos | 1 ½ horas | Jimena Cama | Done |
-|  |  | TA007 | Filtrar productos por tipo | Se implementó un dropdown para el filtro de los productos | 2 horas | Jimena Cama | Done |
-|  |  | TA008 | Quitar filtro | Se implementó un botón para quitar el filtro | 1 hora | Jimena Cama | Done |
-|  |  | TA009 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Jimena Cama | InProcess |
-| US009 | Editar datos personales | TA001 | Agregar datos de usuario | Se actualizan los datos de usuario | 2 horas | Bruce Cipriano | Done |
-|  |  | TA002 | Ver los datos del usuario | Se muestran los datos del usuario. | 30 min | Bruce Cipriano | Done |
-|  |  | TA003 | Interactuar con el objetivo | El usuario puede cambiar su objetivo y otros datos relevantes para la personalización de su cuenta | 2 horas | Bruce Cipriano | Done |
-|  |  | TA004 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Bruce Cipriano | InProcess |
-| US010 | Navegar por la sección de Nutrición | TA001 | Agregar items | Se agrega el nombre, la descripción, los ingredientes, el url y la categoría | 2 horas | Barbara Quezada | Done |
-|  |  | TA002 | Ver todos los items de Nutrición | Se muestran todos los ítems de Nutrición | 2 horas | Barbara Quezada | Done |
-|  |  | TA003 | Borrar un item de nutrición | Se borra un producto de la base de datos identificado por id único. | 30 minutos | Barbara Quezada | Done |
-|  |  | TA004 | Actualizar un item de Nutrición | Se actualizan los datos de un producto especificado por id. | 30 minutos | Barbara Quezada | Done |
-|  |  | TA005 | Botón con ruta para la sección nutrición | Se implementó la ruta para el sector nutrición | 5 minutos | Barbara Quezada | Done |
-|  |  | TA006 | Muestra todos los alimentos | Se realizó un card list de los alimentos organizados por: Desayunos, Almuerzos y Cenas | 1 hora | Barbara Quezada | Done |
-|  |  | TA007 | Elimina y Edita los campos de las cards de los alimentos | Se elimina una card list y edita los campos de la misma en la sección de Alimentos | 1 hora | Barbara Quezada | Done |
-|  |  | TA008 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Barbara Quezada | InProcess |
-| US014 | Visualizar rutina | TA001 | Agregar rutinas | Se agrega la información de la rutina como: name, sets, reps y weight. | 2 horas | Anthony Loarte | Done |
-|  |  | TA002 | Ver todas las rutinas | Se muestran todas las rutinas. | 30 minutos | Anthony Loarte | Done |
-|  |  | TA003 | Ver una rutina por ID | Se muestra cierta rutina identificada por ID único. | 30 minutos | Anthony Loarte | Done |
-|  |  | TA004 | Visualizar rutina semanal | El usuario tiene una vista general de la rutina de la semana | 1 hora | Anthony Loarte | Done |
-|  |  | TA005 | Visualizar rutina diaria detallada | El usuario puede ver detalles esenciales de la rutina del día | 1 hora | Anthony Loarte | Done |
-|  |  | TA006 | Visualizar detalles del ejercicio | El usuario puede ver una explicación sobre el ejercicio a realizar en la rutina | 1 hora | Anthony Loarte | Done |
-|  |  | TA007 | Conexión de la interfaz con la base de datos | Colaboré en la corrección de errores al conectar mi interfaz con la base de datos | 2 horas | Anthony Loarte | InProcess |
-
-
-
-#### 5.2.4.3.Development Evidence for Sprint Review.
-#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
-
-Link del repositorio: https://github.com/HealthyL/testing-
-
-| Repositorio/Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|---|---|---|---|---|
-| [https://github.com/HealthyL/testing-](https://github.com/HealthyL/testing-) | 90aaa008a4091d6f7f96b1cf45b933bf40b2c90f | fix: update the US001 | test: add tests for view of landing page interaction | 14/04/24 |
-|  | d0440c9943d91dce691717bc0f97aa21bd387c04 | fix: update the US002 | test: add tests for contact us interaction | 14/04/24 |
-|  | 7e5f45aa14a294861eb85da0188e7ead273d5930 | fix: update the US003 | test: add tests for operation interaction | 14/04/24 |
-|  | 9ae69ce826075406d0bfaeb9b66e3a9b3007d97a | fix: update the US004 | test: add tests for aircraft interaction | 14/04/24 |
-|  | 772fc9af69e50a3da7ea0d0a4dcb9d8b67efd687 | feat: add US005 | test: add tests for sig in interaction | 25/5/24 |
-|  | c9618ca10ecb7d39f778a9ac3f52f336fe61d789 | feat: add US006 | test: add tests for log in interaction | 25/5/24 |
-|  | 72e6348c54e9f0058df9aa1a1217b01d4a6f899d | feat: add US008 | test: add tests for products interaction | 25/5/24 |
-|  | a75dddd82fc211f02747afe5461a67d0ef747364 | feat: add US009 | test: add tests for personal information | 25/5/24 |
-|  | 191bed5baeb20fa6a917590fe39d1bc3cbd0a2cb | feat: add US010 | test: add tests for nutrition management | 25/5/24 |
-|  | 660f9402d86d9eb0487691795a025eb828604a39 | feat: add US011 | test: add tests for view of nutrition interaction | 7/06/24 |
-|  | a6c857a301927466a9dc57e991f6fdcc51adfe7a | feat: add US012 | test: add tests for nutrition interaction | 7/06/24 |
-|  | b45d1b8bb5cf203fb494dcc572cc2d44b8a94dc3 | feat: add US013 | test: add tests for routine interaction | 7/06/24 |
-
-
-
-#### 5.2.4.5.Execution Evidence for Sprint Review.
-
-En este Sprint, nos encargamos de hacer la conexión del backend y frontend de todos los Bounded Context: Products Management, Nutrition Management, Account Management, Routine Management.
-
-| Bounded Context | Endpoint |
-|---|---|
-| Products Management | /products |
-| Nutrition Management | /nutritions |
-| Account Management | /profiles |
-| Routine Management | /routines |
-
-
-#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
-
-Para el Sprint 4, se planificó la conexión del backend con el frontend. Primero, integramos todas las correcciones realizadas en el frontend para asegurarnos de que la interfaz de usuario estuviera libre de errores y lista para la integración. Luego, consolidamos todos los componentes del backend, garantizando que cada uno funcionará correctamente y se comunicará eficientemente con los demás elementos del sistema.
-
-Posteriormente, procedimos a conectar las bases de datos correspondientes con sus interfaces. Este proceso incluyó la configuración de las conexiones a las bases de datos, la implementación de los endpoints de API necesarios y la verificación de que los datos se transmitieran de manera segura y precisa entre el frontend y el backend.
-
-
-#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
-
-Para la entrega del cuarto sprint, se desplegó el backend y frontend de la startup de manera completamente funcional, cumpliendo con las historias de usuario correspondientes al entregable.
-
-
-#### 5.2.4.8.Team Collaboration Insights during Sprint.
-
-Durante cada sprint, la colaboración efectiva dentro del equipo es fundamental para el éxito del proyecto. En el sprint 4, el foco principal se centró en la conexión de los backends y fronts de distintos Bounded Contexts. Esta sección proporciona una visión detallada de las dinámicas y prácticas de colaboración adoptadas por cada equipo asignado a los diferentes Bounded Contexts durante el sprint actual.
-
-| Alumno                        | Actividad                                                                     |
-|-------------------------------|------------------------------------------------------------------------------|
-| Jimena Tamara Cama Salvatierra | Implementación del backend y conexión con el Bounded Context de Products Management. |
-| Barbara Susana Quezada Portalatino | Elaboración de la implementación del backend y conexión del Bounded Context de Nutrition Management. |
-| Bruce Andres Cipriano Chumbes  | Elaboración de la implementación del backend y conexión del Bounded Context de Account Management. |
-| Anthony Braham Loarte Matos    | Elaboración de la implementación del backend y conexión del Bounded Context de Routine Management. |
-
-
-## 5.3.Validation interviews
-En esta sección, nuestro equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Estas entrevistas permiten que usuarios de los segmentos objetivo interactúen con la landing page y con las aplicaciones desarrolladas. A continuación, se detallan las etapas del proceso de validación.
-
-
-
-### 5.3.1.Diseño de entrevistas
-
-Para asegurar una validación efectiva, diseñamos entrevistas estructuradas que permitieron a los usuarios interactuar con el producto y proporcionar feedback detallado. El diseño de las entrevistas incluyó los siguientes elementos:
-
-## Diseño de Entrevistas Estructuradas
-
-**Objetivo:** Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
-
-**Participantes:** Usuarios pertenecientes a los segmentos objetivo, es decir, entusiastas del fitness o principiantes.
-
-### Formato de la Entrevista:
-
-1. **Introducción:**
-   - Presentación del proyecto y objetivos de la entrevista.
-   - Explicación del contexto de FitHub y su propósito.
-
-2. **Tareas Específicas:**
-   - Invitar a los usuarios a realizar tareas específicas en la landing page y las aplicaciones, como navegar por secciones, interactuar con funcionalidades clave, etc.
-
-3. **Preguntas Abiertas:**
-   - Después de explorar la landing page, ¿qué aspectos te resultaron más útiles e intuitivos? ¿Hay algo que te haya confundido o que crees que podría mejorarse?
-   - ¿Cómo fue tu experiencia al realizar [acción específica] de la aplicación? ¿Encontraste algún problema durante el proceso?
-   - ¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de FitHub?
-
-### Notas Adicionales:
-- Se registrará el feedback cualitativo de los usuarios para análisis posterior.
-- Las entrevistas estarán enfocadas en obtener insights sobre la experiencia de usuario y posibles áreas de mejora en el diseño y funcionalidad.
-
-
-### 5.3.2.Registro de Entrevistas
-
-### Segmento de Entusiastas en Fitness
-
-#### 1. Jair Castillo
-- **Nombre:** Jair Castillo
-- **Sexo:** Masculino
-- **Edad:** 26 años
-- **Resumen:** [Ver resumen completo](https://drive.google.com/file/d/1fQjjTpEg2GNVpUeymEwW6tpbyYVFM7WU/view?usp=sharing)
-  - Le gustaron los colores de la sección de nutrición.
-  - La información fue concisa y clara.
-  - Apreció los botones para agregar, eliminar y editar en todas las secciones, facilitando la navegación y personalización.
-  - Considera que estos elementos ofrecen un control completo sobre la gestión de la información, mejorando la experiencia de usuario.
-
-#### 2. Sebastian Cachis
-- **Nombre:** Sebastian Cachis
-- **Sexo:** Masculino
-- **Edad:** 19 años
-- **Resumen:** [Ver resumen completo](https://drive.google.com/file/d/1rQeZKKl26S9p2xGlUCGNC404VRrUkruE/view)
-  - Le agradó la sección de productos por su amigabilidad en colores y distribución.
-  - Propuso la implementación de un dark mode para usuarios que prefieren un tono más bajo en la pantalla.
-
-
-
-### 5.3.3.Evaluaciones según heurísticas
-Nombre de la App a Evaluar:
-FitHub <br>
-Tareas a Evaluar:
-- El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-- Agregar un ítem de Desayuno
-- Eliminar un ítem de Desayuno
-- Agregar un ítem de Cena
-- Eliminar un ítem de Cena
-- Agregar un item de Almuerzo
-- Agregar Producto
-- Eliminar Producto
-- Actualizar información del Producto
-
-No están incluidas en esta versión de la evaluación las siguientes tareas: <br>
-- Actualizar información del usuario
-- Agregar Rutinas
-
-Tabla de severidad
-| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-|---|---|---|---|
-| 1 | No se puede verificar si se puede actualizar la información del usuario | 1 | Usability: Libertad y control del<br>usuario |
-| 2 | No se ha implementado una función de agregar rutinas | 3 | Usability: Libertad y control del<br>usuario |
-
-Descripción de problemas: <br>
-- Problema #1: No se puede verificar si se puede - actualizar la información del usuario
-<br> Severidad: 1
-
-Actualmente, no hay una opción visible o funcionalidad que permita a los usuarios actualizar su información personal en la plataforma. Esto puede causar frustración y falta de control sobre los datos personales del usuario.
-<br> Recomendación: Implementar una función que permita a los usuarios actualizar su información personal de manera fácil y accesible. Esto incluye la capacidad de modificar datos como nombre, dirección de correo electrónico, número de teléfono, etc. Asegurarse de que esta opción esté claramente visible y sea fácil de usar.
-
-- Problema #2: No se ha implementado una función de agregar rutinas
-<br> Severidad: 3
-
-La plataforma no incluye actualmente una función que permita a los usuarios agregar rutinas personalizadas. Esto limita la capacidad del usuario para gestionar y planificar sus actividades de manera efectiva.
-<br> Recomendación: Añadir una funcionalidad que permita a los usuarios crear y gestionar sus propias rutinas. Esta función debería ser intuitiva y flexible, permitiendo al usuario definir y programar actividades de acuerdo a sus necesidades.
-
-
-## 5.4 Video about the product.
-El video "Sobre el Producto" tiene como objetivo proporcionar tanto a los visitantes de nuestra página de destino como a los usuarios de nuestras aplicaciones una visión general de nuestro modelo de negocio y de las características principales de nuestros productos de software.
-El contenido del video incluye:
-Una introducción al modelo de negocio de FitHub y una descripción general de los productos de software que ofrecemos como las secciones de Rutinas y Alimentación. 
-Resaltar las características clave de nuestras aplicaciones y cómo estas pueden beneficiar a los usuarios en sus actividades diarias.
-Una demostración visual de la interfaz de usuario de nuestras aplicaciones, mostrando cómo realizar tareas específicas relacionadas con los procesos que soporta nuestra solución.
-
-- Datos del video:
-- Screenshot del Video:
-- URL de la versión en Google Drive: 
-- Duración del Video: 
-
-# Video about the team
-Para dar un vistazo a nuestro equipo y el trabajo que hemos realizado, hemos creado un video que muestra nuestras competencias, experiencias y la pasión que nos impulsa a desarrollar soluciones que realmente marquen la diferencia en la vida de las personas. 
-- Screenshot del Video:
-- URL de la versión en Google Drive: 
-- Duración del Video: 
-
-# Conclusiones
-La plataforma de entrenamiento y nutrición personalizada que hemos desarrollado aborda de manera efectiva la falta de acceso a programas de bienestar adecuados, permitiendo a los usuarios superar obstáculos como la falta de tiempo, recursos y conocimientos. A través de nuestra investigación y validaciones, confirmamos que una solución digital centralizada y personalizada puede simplificar significativamente el proceso de alcanzar objetivos de salud y estado físico. Sin embargo, también identificamos que la motivación personal y el soporte social son elementos cruciales que deben ser integrados para mejorar la adherencia y el compromiso de los usuarios.
-
-Para maximizar el impacto y la efectividad de nuestra plataforma, recomendamos varias acciones clave. En primer lugar, es fundamental continuar optimizando los algoritmos de personalización para ofrecer recomendaciones más precisas y adaptadas a las necesidades individuales. Además, la incorporación de elementos de gamificación, como sistemas de recompensas y desafíos, puede aumentar significativamente la motivación y el compromiso de los usuarios. También es esencial fomentar la interacción social dentro de la plataforma, creando espacios donde los usuarios puedan compartir sus progresos y motivarse mutuamente. Por último, establecimos la hipótesis de que una plataforma digital personalizada podría simplificar el acceso a programas de bienestar y mejorar el compromiso de los usuarios con sus objetivos de salud. Las pruebas y validaciones mostraron que los usuarios encuentran valioso un espacio centralizado que les proporcione herramientas y recursos personalizados.Aun así, es crucial seguir optimizando la experiencia del usuario y agregar más funcionalidades basadas en el feedback recibido.
-
-# Bibliografía
-
-Google. (2017, 24 de febrero). _Google HTML/CSS Style Guide_. Google GitHub. Recuperado el 10 de setiembre de 2023, de [https://google.github.io/styleguide/htmlcssguide.html#Background](https://google.github.io/styleguide/htmlcssguide.html#Background) 
-
-Adrián Alonso. (2018, 10 de marzo). Impact Mapping: la técnica ágil que te ayuda a construir un mejor producto. Recuperado el 15 de setiembre de 2023, de [https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/](https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/)
-
-Atlassian. (2021, 10 de mayo). User stories. Agile project management with Scrum. Recuperado el 15 de setiembre de 2023, de [https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2](https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2)
-
-Becas Santander. (2019, 17 de julio). Misión, visión y valores. Recuperado el 15 de setiembre de 2023, de [https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3](https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3)
-
-Design Toolkit. (2020, 22 de marzo). Lean UX Canvas. Recuperado el 15 de setiembre de 2023, de [http://design-toolkit.uoc.edu/es/lean-ux-canvas/](http://design-toolkit.uoc.edu/es/lean-ux-canvas/)
-
-IBM. (2020, 09 de julio). To-be scenario map. IBM Design Thinking: Tools. Recuperado el 15 de setiembre de 2023, de [https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
-
-Interfaz. (2022, 18 de agosto). Agile Methodologies. Recuperado el 15 de setiembre de 2023, de [https://interfaz.io/agile-methodologies/](https://interfaz.io/agile-methodologies/)
-
-Martín, A. (2021, 5 de octubre). Sprint Planning: ¿Qué es y cómo hacerlo bien? Recuperado el 15 de setiembre de 2023, de [https://laboratorioti.com/sprint-planning/](https://laboratorioti.com/sprint-planning/)
-
-Microsoft Docs. (s.f.). GitHub Flow. Recuperado el 15 de setiembre de 2023, de [https://docs.microsoft.com/en-us/azure/devops/repos/gitflow/github-flow?view=azure-devops](https://docs.microsoft.com/en-us/azure/devops/repos/gitflow/github-flow?view=azure-devops)
-
-Norma ISO 9001. (2020, 14 de diciembre). ISO 9001 Quality Management Systems. Recuperado el 15 de setiembre de 2023, de [https://www.iso.org/iso-9001-quality-management.html](https://www.iso.org/iso-9001-quality-management.html)
 
  
-# Anexos
-Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EU2MBbdUu0ROteqz89m0ISUBRht2PHINKeqW1Gx86uh1EA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UUhSCl)
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | master | 255465160cc36a96130888a2b0dfa39974c06557 | Create: Proyect open source in music time TF. | Create: Proyect open source in music time TF. | 01/06/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | ed2d643b6a036317c304e968962587589f7215e6 | Update: Delete pages for new pages in public and add DB | Update: Delete pages for new pages in public and add DB | 01/06/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | da465d41fe2f47ed51f9f367e3809c8a52386871 | Update: Enviroments element for API. | Update: Enviroments element for API. | 01/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2450b851772ea6507e19fd5282d4af6ffeb97f21 | Create: Toolbar content component and pages "Home-About" | Create: Toolbar content component and pages "Home-About" | 02/06/2024| 
+| https://github.com/TempSound/MusicTime-Frontend | master | ad6bbfca900baa2321400f979a972884fb04a87e | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Musician view to elements | Create: Musician view to elements | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Create: Musician view in toolbar. | Create: Musician view in toolbar. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Create: Musicias card and grups see. | Create: Musicias card and grups see. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | Create: Added style and functionality to subscription buttons and aircraft descriptions. | Create: Added style and functionality to subscription buttons and aircraft descriptions. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: profile musician add. | Create: profile musician add. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Update: all elements for the proyect. | Update: all elements for the proyect. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Update: create musician tu db. | Update: create musician tu db. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Update: all the proyect and update musician-content | Update: all the proyect and update musician-content | 05/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Create: new API to json server for the proyect | Create: new API to json server for the proyect | 05/06/2024|
+| https://github.com/TempSound/MusicTime-Frontend | master | d1cf77e87138190ac094ceba299b660de7374f6f | Chore: Title changes in Toolbar component | Chore: Title changes in Toolbar component | 05/06/2024 |
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US01.feature | herrera.victor-feature-Sprint3-US01 | a3e234 | add festures US01 | 07/06/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US02.feature | herrera.victor-feature-Sprint3-US02 | a3e234 | add festures US02 | 07/06/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US03.feature | herrera.victor-feature-Sprint3-US03 | a3e234 | add festures US03 | 07/06/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US04.feature | herrera.victor-feature-Sprint3-US04 | a3e234 | add festures US04 | 07/06/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US05.feature | herrera.victor-feature-Sprint3-US05 | a3e234 | add festures US05 | 07/06/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US06.feature | herrera.victor-feature-Sprint3-US06 | a3e234 | add festures US06 | 07/06/2024 |
+| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US07.feature | herrera.victor-feature-Sprint3-US07 | a3e234 | add festures US07 | 07/06/2024 |
+| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US08.feature | herrera.victor-feature-Sprint3-US08 | a3e234 | add festures US08 | 07/06/2024 |
+| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US09.feature | herrera.victor-feature-Sprint3-US09 | a3e234 | add festures US09 | 07/06/2024 |
+| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US010.feature | herrera.victor-feature-Sprint3-US010 | a3e234 | add festures US010 | 07/06/2024 |
+| US017/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US017.feature | herrera.victor-feature-Sprint3-US017 | a3e234 | add festures US017 | 07/06/2024 |
+| US018/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US018.feature | herrera.victor-feature-Sprint3-US018 | a3e234 | add festures US018 | 07/06/2024 |
+| US019/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US019.feature | herrera.victor-feature-Sprint3-US019 | a3e234 | add festures US019 | 07/06/2024 |
+| US022/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US022.feature | herrera.victor-feature-Sprint3-US022 | a3e234 | add festures US022 | 07/06/2024 |
+| US023/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US023.feature | herrera.victor-feature-Sprint3-US023 | a3e234 | add festures US023 | 07/06/2024 |
+| US025/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US025.feature | herrera.victor-feature-Sprint3-US025 | a3e234 | add festures US025 | 07/06/2024 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Para este tercer sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952227/Screenshot_2024-06-09_115459_ujvseq.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115403_rwwuy6.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115252_jiqfib.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115339_enky0g.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115304_mwheya.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115321_wt8aum.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115312_hz7mvj.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Para el desarrollo del sprint 3 se plasmo como prueba el avance de la mayoria de historias planteadas y su funcionamiento aplciado considerando asi que se esta acabando el 100% de parte del front end y avance del front end.
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
+
+Durante este sprint, nos hemos centrado en mejorar el backend y corregir aspectos del frontend de nuestra plataforma de música.
+
+Para el Servicio de Búsqueda de Grupos, hemos fortalecido su funcionalidad, permitiendo a los usuarios buscar grupos según género, ubicación, precio y disponibilidad. Implementamos esta solución utilizando Java para la lógica del servidor y aprovechamos las capacidades de desarrollo avanzadas proporcionadas por IntelliJ. La evidencia de su correcto funcionamiento se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+En cuanto al Servicio de Contratación de Grupos, hemos desarrollado una solución eficiente que simplifica el proceso de reserva de grupos para eventos. Java fue la elección para la lógica del backend, permitiéndonos aprovechar las herramientas de desarrollo integrales de IntelliJ. La evidencia de su correcto funcionamiento también se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+Aunque este sprint se ha centrado principalmente en el backend, también hemos realizado ajustes menores en el frontend para mejorar su rendimiento y usabilidad. Estas mejoras se han documentado en nuestro repositorio en GitHub para su revisión y seguimiento.
+
+El desarrollo del backend se llevó a cabo utilizando IntelliJ, lo que nos permitió una mayor eficiencia y colaboración en el equipo. Todos los cambios, tanto en el backend como en el frontend, se han integrado en nuestro flujo de trabajo de Git Flow, con el código y la documentación correspondiente disponibles en GitHub.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
+
+**Angular:** Un marco de trabajo para la construcción de aplicaciones web en HTML, CSS y TypeScript, que nos ayudó a desarrollar la lógica de la aplicación y a mejorar la interactividad del Landing Page.
+
+**Node.js:** Un entorno de ejecución para JavaScript construido en el motor de JavaScript V8 de Chrome, que nos permitió construir el servidor de la aplicación.
+
+**Java:** Lenguaje de programación de propósito general, concurrente, orientado a objetos, que se utilizó para desarrollar la lógica del servidor y la interacción con la base de datos.
+
+**TypeScript:** Un superconjunto de JavaScript que añade tipado estático y objetos basados en clases, que nos ayudó a desarrollar la lógica de la aplicación de manera más segura y eficiente.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+**Intellij IDEA Ultimate:** Ide para desarrollar en lenguaje java el backend, generando asi los end points con las cuales se aplica al proyecto.
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
+
+**Contributors**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
+
+#### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comienzo de cada sprint y tiene como objetivo definir las actividades a realizar durante ese período específico.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 4 </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-06-22</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>15:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 3 Review Summary</td>
+    <td>En el Sprint 3, se logró desarrollar e implementar el 
+    backend de la aplicación web, usando como base de datos MySQL y el framework de Spring Boot.
+    Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión de contratos con el cliente. </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 4 Retrospective Summary</td>
+    <td>Para el Sprint 4, se tiene previsto completar la integración entre el frontend y el backend, así como la validación de los datos ingresados. Además, se implementarán medidas de seguridad en la aplicación web utilizando Spring Security, que ofrece funcionalidades como autenticación, autorización y protección contra ataques comunes. </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Goal</td>
+    <td>Para el Sprint 4, se planea concluir la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web utilizando Spring Security. Este framework ofrece funcionalidades como autenticación, autorización y protección contra amenazas comunes. También se incorporarán prácticas de Identity and Access Management (IAM) para gestionar de manera efectiva las identidades y los accesos dentro del sistema.</td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Velocity</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>31</td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
+del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
+
+<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png">
+
+Enlace del Trello :[Sprint Backlog 4 - TempSound](https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png)
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+ <tr>
+    <td>TU01</td>
+    <td>Implementación de Endpoint para Búsqueda de Artistas</td>
+    <td>TU01</td>
+    <td>Mostrar la seccion de busqueda de artista</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU02</td>
+    <td>Implementación de Endpoint para Acceso a Portafolios de Artistas</td>
+    <td>TU02</td>
+    <td>Mostrar informacion de artista detallado</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU03</td>
+    <td>Implementación de Endpoint para Comunicación con Artistas</td>
+    <td>TU03</td>
+    <td>Mostrar card para interactuar con artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU04</td>
+    <td>Implementación de Endpoint para crear un artista</td>
+    <td>TU04</td>
+    <td>Mostrar card para crear artista</td>
+    <td>Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU05</td>
+    <td>Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas</td>
+    <td>TU05</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU06</td>
+    <td>Implementación de Endpoint para Actualización de Información de Artistas</td>
+    <td>TU06</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU07</td>
+    <td>Implementación de Endpoint para Eliminación de Artistas</td>
+    <td>TU07</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU08</td>
+    <td>Implementación de Endpoint para Gestión de Sesiones de Usuario</td>
+    <td>TU08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU09</td>
+    <td>Implementación de Seguridad de la API</td>
+    <td>TU09</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU10</td>
+    <td>Implementación de Logging en la API</td>
+    <td>TU10</td>
+    <td>Mostrar tarjetas de nuestros planes</td>
+    <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
+    <td>6</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ 
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Backend.git | main | 965777a | initial commit | initial commit | 09/06/2024 | 
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-01 | 8be99b0 | feat: profile/musician bounded context added | Musician bounded context added to backend repository | 13/06/2024 | 
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-02 | 8be99b0 | feat: initial commit for comments | initial version of comments bounded context | 14/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-03 | 8be99b0 | feat: comments added | feat: comment section added | 15/06/2024 | 
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-04 | 8be99b0 | feat: musician controller finished | endpoints for musicians added | 16/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-05 | 8be99b0 | feat: ratings and comments bounded context added | endpoints for ratings and comments added | 16/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-06 | 8be99b0 | feat: Musician Put | statistical advertising data added | 18/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-07 | 8be99b0 | feat: Musician Delete | feat: statistical advertising data added | 19/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-08 | 8be99b0 | feat: IAM added | iam added | 21/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-09 | 8be99b0 | feat: IAM Authentication included in all endpoints | iam fully implemented | 22/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | feature/TS-chapter-10 | 8be99b0 | Chore: Added auditing | added audit for aggregates | 24/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | hotfix | 8be99b0 | Chore: Checking errors | major bug fix | 26/06/2024 |
+| https://github.com/TempSound/MusicTime-Backend.git | release | 8be99b0 | Chore: Checking errors 2 | final release | 27/06/2024 |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT01.feature | Herrera.Victor-feature-Sprint4-TU01 | 300d064 | add gherkin TU01 | 03/06/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT02.feature | Herrera.Victor-feature-Sprint4-TU02 | 300d064 | add gherkin TU02 | 03/06/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT03.feature | Herrera.Victor-feature-Sprint4-TU03 | 300d064 | add gherkin TU03 | 03/06/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT04.feature| Herrera.Victor-feature-Sprint4-TU04 | 300d064 | add gherkin TU04 | 03/06/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT05.feature | Herrera.Victor-feature-Sprint4-TU05 | 300d064 | add gherkin US05 | 03/06/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT06.feature | Herrera.Victor-feature-Sprint4-TU06 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT07.feature | Herrera.Victor-feature-Sprint4-TU07 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT08.feature | Herrera.Victor-feature-Sprint4-TU08 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT09.feature | Herrera.Victor-feature-Sprint4-TU09 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%204/UT010.feature | Herrera.Victor-feature-Sprint4-TU010 | 300d064 | add gherkin TU06 | 03/06/2024 |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Para este último sprint, se pudo realizar las correciones pertinentes para su posterior despliegue e implementación en el segmento frontend. A continuación se mostrará capturas de las secciones de nuestra API:
+
+En esta primera imagen se aprecia el código backend en funcionamiento:
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.04.24_AM_nnrxsy.jpg" alt="Run" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Aquí se aprecia el backend documentado en Swagger con todos nuestros endpoints:
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.04.24_AM_1_f0wapy.jpg" alt="swwagger" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Se crea un nuevo usuario en el endpoint "/users":
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.06.53_AM_c0laoc.jpg" alt="createuser" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Se logea el nuevo usuario creado en el sistema para otorgarle el token(IAM):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.07.45_AM_x5nlpf.jpg" alt="login" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Authorize implementado en la documentación, enviándole el token(Bearer):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.08.50_AM_vs3op0.jpg" alt="bearer" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Autenticación exitosa y lista para usar los demás endpoints
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.09.11_AM_q19rs6.jpg" alt="authenticated" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, se han realizado las correcciones otorgadas en la revisión del TB2, por lo tanto esta será la versión final del segmento backend lista para su respectivo despliegue.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+**Contributors**
+
+![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
+
+![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+
+### 5.3. Validation Interviews.
+
+En esta seccion se encuentra el desarrollo de las emntrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
+
+### 5.3.1. Diseño de Entrevistas.
+
+---
+**Entrevista:**
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+
+- Nombre y apellidos: Carlos Ramirez
+- Edad:  25 años
+- Ubicación: Arequipa
+- Duración de la entrevista: 05:45 minutos
+- Breve descripción: <br><br>
+	Carlos Ramirez es guitarrista y compositor en la banda "Los Andes". Durante la entrevista, mencionó que la propuesta de negocio es prometedora, pero tiene preocupaciones sobre la accesibilidad de precios para bandas emergentes que no tienen ingresos suficientes.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/012e14da-40d0-4663-a002-08fd7936a555"></a>
+
+- Nombre y apellidos: Maria Lopez
+- Edad:  28 años
+- Ubicación: Cusco
+- Duración de la entrevista: 07:10 minutos
+- Breve descripción: <br><br>
+	Maria Lopez es una talentosa cantante y pianista que lidera la banda "Melodías Incas". En la entrevista, expresó que aunque el negocio tiene potencial, el precio podría ser un obstáculo para grupos que recién comienzan y no tienen ingresos estables.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/91f29b44-eb00-449f-876d-ed5041d610bb"></a>
+
+- Nombre y apellidos: Luis Gomez
+- Edad:  22 años
+- Ubicación: Trujillo
+- Duración de la entrevista: 05:30 minutos
+- Breve descripción: <br><br>
+	Luis Gomez es un baterista y productor musical, parte de la banda "Sonidos del Sol". Comentó que el concepto del negocio es interesante, pero cree que el precio puede no ser viable para bandas que están comenzando y carecen de ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/7e933301-fb34-4df0-8475-18560f70b3e3"></a>
+
+- Nombre y apellidos: Ana Torres
+- Edad:  24 años
+- Ubicación: Piura
+- Duración de la entrevista: 06:20 minutos
+- Breve descripción: <br><br>
+	Ana Torres es violinista y vocalista en la banda "Notas del Norte". Durante la entrevista, mencionó que la idea del negocio es atractiva, pero hay que considerar que el precio podría no ser accesible para grupos nuevos que aún no generan ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/28e72257-f75a-46be-bc55-638449fbbe62"></a>
+
+- Nombre y apellidos: Jorge Sanchez
+- Edad:  30 años
+- Ubicación: Tacna
+- Duración de la entrevista: 04:55 minutos
+- Breve descripción: <br><br>
+	Jorge Sanchez es bajista y líder de la banda "Ritmos del Sur". En la entrevista, señaló que el negocio tiene potencial, pero hay que analizar detenidamente los precios, ya que podrían no ser factibles para bandas en sus inicios que no cuentan con ingresos estables.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/71505555-ecc9-4d8e-b07e-c3103280854d"></a>
+
+- Nombre y apellidos: Roberto Salinas
+- Edad:  27 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:30 minutos
+- Breve descripción: <br><br>
+	Roberto Salinas es músico y cantante especializado en instrumentos de cuerda y viento. Es miembro de la banda "Andes Sonoros" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música latinoamericana. Durante la entrevista, comentó que la propuesta de negocio es interesante, pero mencionó que el precio podría no ser viable para bandas que recién comienzan y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/1fc74d78-031b-4005-a05d-c82769f437d5"></a>
+
+- Nombre y apellidos: Valeria Torres
+- Edad:  29 años
+- Ubicación: Lima
+- Duración de la entrevista: 06:10 minutos
+- Breve descripción: <br><br>
+	Valeria Torres es cantante y experta en instrumentos de cuerda y viento, pertenece a la banda "Ayllu" de la ciudad de Puno, siendo la autora y cantante principal del grupo de música de género latinoamericano. Tras la entrevista, nos comentó que la propuesta de negocio es interesante, pero hay aspectos que analizar como el precio, ya que no sería factible para grupos que inician y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/7fe37bc7-7c0b-4534-a1bb-4a76414c7037"></a>
+
+- Nombre y apellidos: Martin Pérez
+- Edad:  22 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:45 minutos
+- Breve descripción: <br><br>
+	Martin Pérez es músico cantante y experto en instrumentos de cuerda y viento. Pertenece a la banda "Sonidos Andinos" de la ciudad de Puno, siendo el autor y cantante principal del grupo de música de género latinoamericano. Durante la entrevista, mencionó que la propuesta de negocio es interesante, pero que hay que considerar el precio, ya que no sería factible para grupos que inician y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/f8abd726-c09a-4ed3-a868-3b493030487d"></a>
+
+- Nombre y apellidos: Laura Gutierrez
+- Edad:  24 años
+- Ubicación: Lima
+- Duración de la entrevista: 06:30 minutos
+- Breve descripción: <br><br>
+	Laura Gutierrez es cantante y experta en instrumentos de cuerda y viento, pertenece a la banda "Música del Alma" de la ciudad de Puno, siendo la autora y cantante principal del grupo de música de género latinoamericano. En la entrevista, mencionó que la propuesta de negocio es interesante, pero que el precio podría no ser viable para grupos que recién empiezan y no tienen ingresos.<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/bd95039c-4882-4dcd-abe8-d4e1aa300895"></a>
+
+- Nombre y apellidos: Yoleny Huaman
+- Edad:  18 años
+- Ubicación: Lima
+- Duración de la entrevista: 05:50 minutos
+- Breve descripción: <br><br>
+	Yoleny Huaman es una estudiante de enfermeria, trabaja en una discoteca y todos los fin de semana hacen eventos con artistas invitados, ella es la encarga de hacer estos tramites y siempre se encuentra con la dificultad de poder contactarlos..<br><br>
+
+Link de la entrevista: https://drive.google.com/file/d/1TaGtmhjo6tWC3CVmupz_PPHzcK2dk2s7/view?usp=sharing
+
+
+#### Preguntas Generales:
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+#### Segmento: Cliente General
+
+**Preguntas Específicas:**
+
+1. **Después de explorar la aplicación Tempsound, ¿crees que te ayudará a encontrar y contratar artistas musicales de manera efectiva y personalizada?**
+
+2. **¿Encuentras que Tempsound facilita la organización de eventos musicales y la gestión de artistas?**
+
+3. **¿Crees que la aplicación te proporciona una variedad de opciones de artistas y grupos musicales adecuados para tus eventos?**
+
+4. **¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Tempsound?**
+
+5. **¿Con qué frecuencia utilizarías la aplicación para organizar tus eventos y contratar artistas?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como organizador de eventos?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros organizadores de eventos a través de tus redes sociales?**
+
+
+#### Segmento: Bandas Musicales y Músicos Independientes
+
+**Preguntas Específicas:**
+
+1. **Después de conocer Tempsound y su enfoque en ayudar a los músicos a encontrar oportunidades de actuación, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios y actividades?**
+
+2. **¿Encuentras que Tempsound te ofrece una plataforma conveniente para presentar tus servicios y encontrar oportunidades de actuación?**
+
+3. **¿Crees que la aplicación puede aumentar la visibilidad de tu trabajo y atraer más clientes?**
+
+4. **¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del músico?**
+
+5. **¿Con qué frecuencia estarías dispuesto a utilizar Tempsound para promocionar tus servicios y buscar oportunidades de actuación?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como músico?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros músicos y bandas a través de tus redes sociales?**
+
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## *UX Heuristics & Principles Evaluation*  
+# Usability – Inclusive Design – Information Architecture  
+*Carrera:* Ingeniería de Software  
+*Curso:* Desarrollo de Aplicaciones Open Source  
+*Sección:* WS52  
+*Profesor:* Elio Jefferrson Navarrete Vilca  
+*Auditor:* TempSound  
+*Cliente(s):* Carlos Daniel Pingus Rodriguez,
+              Jefferson Smith Cabrera Camizan,
+              Bruce Andres Cipriano Chumbes,
+              Anthony Brahan Loarte Matos,
+              Victor Raul Herrera Castillo    
+
+
+### SITE O APP A EVALUAR  
+MusicTime
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas en la plataforma Tempsound:
+
+1. *Iniciar sesión*
+2. *Registrarse*
+3. *Elegir preferencias musicales*
+4. *Ver perfiles de artistas*
+5. *Contactar artistas*
+6. *Ver preguntas frecuentes*
+7. *Ver notificaciones*
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. *Gestionar eventos*
+2. *Enviar ofertas de contratación*
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                    |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+### TABLA DE RESUMEN
+
+La siguiente tabla resume los resultados de la evaluación:
+
+| #   | Problema                                                                          | Escala de Severidad | Heurística/Principio Violado(a)               |
+| --- | --------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+| 1   | Falta de opciones de inicio de sesión con Google u otras plataformas              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 2   | Registro de usuario no validado y datos no guardados                              | 3                   | Usability: Visibilidad del estado del sistema |
+| 3   | Imposibilidad de visualizar detalles completos de artistas y funciones de reserva | 4                   | Usability: Consistencia y estándares          |
+| 4   | Contactar artistas sin opción de chat en tiempo real                              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 5   | Visualización de preguntas frecuentes sin opción para enviar preguntas propias    | 2                   | Usability: Consistencia y estándares          |
+| 6   | Notificaciones estáticas sin información relevante                                | 2                   | Usability: Flexibilidad y eficiencia de uso   |
+
+### 5.4. Video About-the-Product.
+
+
+## Conclusiones
+
+* Los diagramas C4, tanto de base de datos como de clases, nos brindan una visión detallada y estructurada de las entidades en nuestra aplicación y de cómo interactúan entre sí a diferentes niveles.
+
+* La adopción del método Lean UX en la comprensión de nuestro problema y en la formulación de nuestra idea de negocio nos facilitó realizar un análisis profundo de nuestros competidores y definir de manera clara nuestros grupos de interés.
+
+* Las entrevistas fueron esenciales para desarrollar perfiles de usuario (user personas) y para descubrir sus necesidades y opiniones sobre el problema en cuestión.
+
+* Utilizar GitHub para la colaboración y gestión de versiones fue crucial, permitiéndonos superar desafíos relacionados con la coordinación entre equipos y problemas de compatibilidad de versiones.
+
+* La adopción de GitFlow mejoró la gestión de nuestras ramas, asignándoles funciones específicas y ofreciendo una estructura clara para los commits mediante la convención de mensajes de Git commit.
+
+* Las Historias de Usuario nos dieron una visión directa de las necesidades del usuario, ayudándonos a establecer criterios de aceptación claros para cada historia y garantizando así su correcta implementación.
+
+* Mediante el análisis competitivo, identificamos nuestras fortalezas y áreas de mejora, lo que nos permitirá ofrecer un servicio más completo que satisfaga plenamente las necesidades de nuestra aplicación.
+
+
+
+
+
+
+## Bibliografía
+
+1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 22 de abril de 2024, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+2. Contrato de grupo musical o acuerdo interno: aspectos legales más importantes - Sympathy for the lawyer. (01/01/2023).Sympathyforthelawyer.com. Recuperado el 10 de abril de 2024, de https://sympathyforthelawyer.com/blog/contrato-de-grupo-musical-acuerdo-interno/
+
+3. Contrato de Banda Musical - Alexiomar Rodríguez. (09/12/2023). Flou.com. Recuperado el 15 de abril de 2024, de https://www.theflou.com/blog/contrato-de-banda-musical
+
+4. Estás considerando trabajar por contrato en la industria de la música. - Comunidad de LinkedIn. (s/f). Linkedin.com. Recuperado el 18 de abril de 2024, de https://www.linkedin.com/advice/0/youre-considering-contract-work-music-industry-what-tkm8f
+
+5. A Complete Guide to Music Contracts - CreatorsLegal. (9/11/2023). Linkedin.com. Recuperado el 4 de mayo de 2023, de https://www.linkedin.com/pulse/complete-guide-music-contracts-creatorslegal-8m7kc/
+
+6. Cómo puedo ser cantante - Equipo editorial Indeed. (21/04/2023). indeed.com. Recuperado el 19 de abril de 2024, de https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/como-puedo-ser-cantante
+
+7. Glosario de términos de la industria musical - Musician. (26/07/2021). imusician.pro Recuperado el 20 de abril de 2024, de https://imusician.pro/es/recursos-practicos/guias-sobre-industria-musical/glosario-de-terminos-industria-musical
 <br>
 
-Video Product prototyping: [http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1](http://upc-pre-202401-si729-WS51-HealthyL-FitHub-navigation-sprint-1)
-<br>
+## Anexos
+Links videos del trabajo.
+<center>
 
-Link de los User FLow y Wireflows: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748)
-<br>
+**REPOSITORIOS GIT HUB**
 
-Enlace del Trello: [https://trello.com/b/UuXJ6M8i/fithub-ws51-grupo-5](https://trello.com/b/UuXJ6M8i/fithub-ws51-grupo-5)
-<br>
+</center>
 
-Anexo A: 
-[https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388](https://miro.com/welcomeonboard/NmtrbXdaT3NSdnMydExMdmFjVXhBS3NoeWhDRUFFTzFHZzhDZkJzbnVkVUpwSzRrcnZFaUszSER1aGlPZUZ1UXwzMDc0NDU3MzUwMjczNDg5Mzc4fDI=?share_link_id=170806574388)
-<br>
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage Vista   | https://tempsound.github.io/MusicTime-lading-page/   | 
+| LandingPage   | https://github.com/TempSound/MusicTime-lading-page   | 
+| Proyecto     | https://github.com/TempSound  |
 
-Anexo C: [https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=29-2](https://www.figma.com/design/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?node-id=29-2)
-<br>
+ 
 
-Anexo D: [https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748](https://lucid.app/lucidchart/b95b72c2-ea32-40df-9f60-5d4aa4d4d722/edit?view_items=wdBDu4CwVQIy&invitationId=inv_2a5575a1-dbb7-40f4-8357-08d823c45748)
-<br>
-
-Anexo E: [https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f](https://lucid.app/lucidchart/c740f309-b599-4400-9bd0-1fb5f125f4c8/edit?invitationId=inv_842f2d78-2e17-4543-b39c-eb393529cb6f)
-<br>
-
-Anexo F: [https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/Z2i4YAkSxGxcsbblQ8HQmR/FITHUB?type=design&node-id=115-487&t=GeELQHRExaICt9WA-1&scaling=scale-down&page-id=29%3A3&starting-point-node-id=115%3A487&show-proto-sidebar=1&mode=design) <br>
-Anexo G: [https://github.com/HealthyL/FitHub-Frontend/tree/develop](https://github.com/HealthyL/FitHub-Frontend/tree/develop) <br>
-Anexo H: [https://healthyl.github.io/FitHub-LandingPage/](https://healthyl.github.io/FitHub-LandingPage/)
+ 
